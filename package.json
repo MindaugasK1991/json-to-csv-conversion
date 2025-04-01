@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/csv-parse": "^1.1.12",
+    "@types/json2csv": "^5.0.7",
+    "@types/node": "^22.13.14"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^5.0.2",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}

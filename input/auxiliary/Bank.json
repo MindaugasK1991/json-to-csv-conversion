@@ -1,0 +1,322 @@
+{
+  "banks": [
+    {
+      "bankId": "ce30b05a-7c18-4e00-8194-f5010cd5b11f",
+      "name": "UAB Nuvei",
+      "domiciled": "LTU",
+      "address": "Lvivo Str 37, L37 Office Building, Floor 8, Vilnius Lithuania"
+    },
+    {
+      "bankId": "58ffc609-4ca0-4ccb-9430-6f94851ed618",
+      "name": "UAB PAYTEND EUROPE",
+      "domiciled": null,
+      "address": null
+    },
+    {
+      "bankId": "576b5dcb-b0ba-4085-bf1d-b0adf6bedc79",
+      "name": "Banking Circle - German Branch",
+      "domiciled": null,
+      "address": null
+    },
+    {
+      "bankId": "8ba37723-44f4-4f9b-89b4-10c00916bec8",
+      "name": "Banking Circle S.A.",
+      "domiciled": null,
+      "address": "2, Boulevard de la Foire L-1528 Luxembourg"
+    },
+    {
+      "bankId": "e380afe1-cf1e-46c3-8fc5-1178d59ff12e",
+      "name": "Clear Junction Limited",
+      "domiciled": "GBR",
+      "address": "6th Floor, Manfield House, 1 Southampton Street, London, United Kingdom, WC2R 0LR."
+    },
+    {
+      "bankId": "1db26c9d-77e2-498a-ba29-c72a322cc726",
+      "name": "Wema Bank PLC",
+      "domiciled": null,
+      "address": null
+    },
+    {
+      "bankId": "b3b9f701-f37a-4390-af3b-8700a3fe6231",
+      "name": "Cross River Bank",
+      "domiciled": "USA",
+      "address": "885 Teanech Road, Teaneck, NJ 07666"
+    },
+    {
+      "bankId": "f7c5765f-fe05-45d7-9853-cefcb93759b4",
+      "name": "Community Federal Savings Bank",
+      "domiciled": "USA",
+      "address": "89-16 Jamaica Avenue, Woodhaven, NY 11421"
+    },
+    {
+      "bankId": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+      "name": "AS LHV PANK",
+      "domiciled": "EST",
+      "address": "Tartu Mnt 2 Tallinn Estonia"
+    },
+    {
+      "bankId": "7c053f2a-f6a3-462c-8a08-a689a61e34fb",
+      "name": "HARMONIIE SAS",
+      "domiciled": "FRA",
+      "address": "1 Rue de la Bourse"
+    },
+    {
+      "bankId": "cbd49367-90f8-4380-8234-ecf9df48f672",
+      "name": "Settlego Solutions Ltd Trading As Openpayd",
+      "domiciled": "GBR",
+      "address": "The Bower Building 207-211 Old Street Shoreditch, London, EC1V 9NR"
+    },
+    {
+      "bankId": "843d292c-f08d-4005-8e26-cf3cb50dfbed",
+      "name": "Customers Bank",
+      "domiciled": "USA",
+      "address": "40 General Warren Blvd Suite, 200, Malvern PA 19355, United States of America"
+    },
+    {
+      "bankId": "ea6175ac-3089-45b6-979d-e73aed3a182f",
+      "name": "Clearbank Limited",
+      "domiciled": "GBR",
+      "address": "The Bower Building, 207-211 Old Street, Shoreditch, London EC1V 9NR"
+    },
+    {
+      "bankId": "c4914fb8-0131-472f-8483-6adc51da4e3f",
+      "name": "REVOLUT LTD",
+      "domiciled": "GBR",
+      "address": "The Columbus Building, LONDON E14 4HD"
+    },
+    {
+      "bankId": "d1f0cf7c-e71f-4118-b8e6-9db149eb0194",
+      "name": "OPENPAYD FINANCIAL SERVICES MALTA LTD",
+      "domiciled": "MLT",
+      "address": "Floor 3, 137 Spinola Roadc St. Julian's"
+    },
+    {
+      "bankId": "24d5d216-a503-4e6d-aeb6-931f246430a4",
+      "name": "VOLKSBANK DARMSTADT - SUEDHESSEN EG",
+      "domiciled": "DEU",
+      "address": "HUEGELSTRASSE 8-20, DARMSTADT, 64283"
+    },
+    {
+      "bankId": "85b3891e-a103-40c6-b2fa-32839b345e77",
+      "name": "Banque et Caisse d'Epargne de l'Etat, Luxembourg",
+      "domiciled": "LUX",
+      "address": "Place de Metz L-2954 Luxembourg, Luxembourg"
+    },
+    {
+      "bankId": "5ae4ece3-a13c-4848-abc3-d676ca3db302",
+      "name": "Deutsche Bank AG",
+      "domiciled": "DEU",
+      "address": "Taunusanlage 12, D-60325 Frankfurt DE"
+    },
+    {
+      "bankId": "b4617f8d-d069-4fd4-aa04-2081cc0a1907",
+      "name": "J.P. Morgan",
+      "domiciled": "DEU",
+      "address": "Taunusturm taunustor 1, Frankfurt am Main"
+    },
+    {
+      "bankId": "25ff1500-4092-422a-986d-3011a1b10d2a",
+      "name": "HRANILNICA LON D.D.",
+      "domiciled": "SVN",
+      "address": "ŽANOVA ULICA 3 4000 KRANJ"
+    },
+    {
+      "bankId": "24b42743-737e-4c49-baea-84597ab44e19",
+      "name": "BANKINTER, S.A.",
+      "domiciled": "ESP",
+      "address": "Paseo de la Castellana 29, Madrid, Spain"
+    },
+    {
+      "bankId": "392584ba-ba2f-49c9-ad21-10ca32d50aca",
+      "name": "ENUMIS LIMITED",
+      "domiciled": "GBR",
+      "address": "Latif House First Way Wembley London HA9 0JD"
+    },
+    {
+      "bankId": "7cb1950e-f640-4bd5-a745-ec7414df2306",
+      "name": "WELLS FARGO BANK, N.A.",
+      "domiciled": "USA",
+      "address": "420 MONTGOMERY STREET, SAN FRANCISCO"
+    },
+    {
+      "bankId": "c3122c7e-da01-4c48-860f-a3478510f512",
+      "name": "NATIONAL WESTMINSTER BANK PLC",
+      "domiciled": "GBR",
+      "address": "186 Brompton Road, London, SW3 1HQ"
+    },
+    {
+      "bankId": "22c1f864-28df-44a8-9dd9-d3020ee9c0c3",
+      "name": "INDIAN BANK",
+      "domiciled": "IND",
+      "address": "NO 296, B AND D BLOCK AECS LAYOUT MAIN ROAD AECS LAYOUT KUNDALAHALLI, BROOKEFIELD"
+    },
+    {
+      "bankId": "dff28ee0-dddf-447a-9d13-dc07f09f35b9",
+      "name": "Equitas Small Finance Bank Limited",
+      "domiciled": "IND",
+      "address": "Equitas small finance bank,6th floor,spencer plaza,annasalai,chennai 600002"
+    },
+    {
+      "bankId": "a9d8ece9-e80b-4cb6-87c3-83cab6e60086",
+      "name": "Paritetbank",
+      "domiciled": "BLR",
+      "address": "220002, Minsk, st. Kiseleva, 61A UNP 100233809"
+    },
+    {
+      "bankId": "f1495c35-2c36-4e2d-a59c-1e4dd8d2b95b",
+      "name": "BNB-Bank",
+      "domiciled": "BLR",
+      "address": "220012, Minsk, Nezavisimosti Ave., 87a UNP 100513485"
+    },
+    {
+      "bankId": "b89c5679-e545-4236-858e-2b522db0cb2e",
+      "name": "BSB-Bank",
+      "domiciled": "BLR",
+      "address": "220004, Minsk, Pobediteley Ave., 23/4 UNP 807000069"
+    },
+    {
+      "bankId": "172bc3e5-ef53-4844-8a49-320cecaf88d9",
+      "name": "MTBank",
+      "domiciled": "BLR",
+      "address": "220007, Minsk, Tolstoy street, 10, UNP 100394906"
+    },
+    {
+      "bankId": "f7fc7358-fe74-467e-875c-dc154228ad0c",
+      "name": "InCore Bank AG",
+      "domiciled": "CHE",
+      "address": "Wiesenstrasse 17. CH-8952 Schlieren/Zürich, Switzerland"
+    },
+    {
+      "bankId": "35526831-fbf4-4e2f-8c52-efe7a7019318",
+      "name": "The Hongkong and Shanghai Banking Corporation Limited",
+      "domiciled": "HKG",
+      "address": "1 Queen's Road Central, Hong Kong"
+    },
+    {
+      "bankId": "00b4ef10-ec77-4484-87a2-4693751b282b",
+      "name": "Standard Chartered Bank",
+      "domiciled": "SGP",
+      "address": "6 Battery Road, Singapore"
+    },
+    {
+      "bankId": "817eb9c8-53d9-4f33-a9cc-6cd132eabc54",
+      "name": "Standard bank",
+      "domiciled": "ZAF",
+      "address": "5 Simmonds street, Selby, Johannesburg, 2001"
+    },
+    {
+      "bankId": "35526831-fbf4-4e2f-8c52-efe7a7019318",
+      "name": "The Hongkong and Shanghai Banking Corporation Limited",
+      "domiciled": "SGP",
+      "address": "Marina Bay Financial Centre Tower 2, 48-01, 10 Marina Boulevard"
+    },
+    {
+      "bankId": "1d3ec047-5ab7-4630-9575-2696594d4c15",
+      "name": "HSBC Bank Malaysia Berhad",
+      "domiciled": "MYS",
+      "address": "No.2 Leboh Ampang, Peti Surat 10244, 50912 Kuala Lumpar"
+    },
+    {
+      "bankId": "ef4e0df3-42a2-4615-92fb-1c7091ab728b",
+      "name": "HSBC Hong Kong",
+      "domiciled": "HKG",
+      "address": "Head Office GPO Box 64, 1 Queen's Road Central,Hong Kong"
+    },
+    {
+      "bankId": "8b63a399-9dcd-4b36-a052-c685aed25d56",
+      "name": "UAB Pervesk",
+      "domiciled": "LTU",
+      "address": "Rinktines g. 5, LT-09234 Vilnius, Lietuva"
+    },
+    {
+      "bankId": "e064b089-2a42-4ef7-b536-00f6ecca9de0",
+      "name": "UNLIMINT EU LTD",
+      "domiciled": "CYP",
+      "address": "125, Georgiou Griva Digeni, Limassol, 3101, Cyprus"
+    },
+    {
+      "bankId": "b2c98386-abd6-4b25-9e9d-461c473b4816",
+      "name": "Bank Negara Indonesia",
+      "domiciled": "IDN",
+      "address": "Bni Building, Floor 7, Jalan Jenderal Sudirman 1 Jakarta"
+    },
+    {
+      "bankId": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+      "name": "UBS Group AG",
+      "domiciled": "CHE",
+      "address": "Bahnhofstr. 45 8098 Zurich, Switzerland"
+    },
+    {
+      "bankId": "7a42c530-09c1-42cd-9458-e4555bf5ef98",
+      "name": "Citibank, N.A.",
+      "domiciled": "USA",
+      "address": "388 Greenwich Street, New York, NY 10013, U.S.A"
+    },
+    {
+      "bankId": "9c422d04-6321-4ba5-b0f7-41ab836163ec",
+      "name": "UAB MANEUVER LT",
+      "domiciled": "LTU",
+      "address": "Zalgirio St. 88, Vilnius, Lithuania"
+    },
+    {
+      "bankId": "fc744da5-10f0-4681-9142-7513c1b8db69",
+      "name": "Dukascopy Bank SA",
+      "domiciled": "CHE",
+      "address": "Route de Pré-Bois 20, Genève 15, Switzerland"
+    },
+    {
+      "bankId": "4535556b-7a3e-4b74-a699-6f5a2a6d8076",
+      "name": "BUNQ B.V.",
+      "domiciled": "NDL",
+      "address": "Naritaweg 131-133, 1043 BS Amsterdam"
+    },
+    {
+      "bankId": "e31e4ede-fa8e-4822-99cc-9677ee3d3d9a",
+      "name": "TryPay S.A. / TRYPAY SPÓLKA AKCYJNA",
+      "domiciled": "POL",
+      "address": "ul. Włodkowica 10/5 50-072 Wroclaw"
+    },
+    {
+      "bankId": "78a9b83e-4b46-4846-a02d-01ed2ceaaceb",
+      "name": "Bank Frick & Co. AG",
+      "domiciled": "LIE",
+      "address": "Landstrasse 14, 9496, Balzers, Liechtenstein"
+    },
+    {
+      "bankId": "90f596d6-0bbe-4846-b97b-be3b32a5f135",
+      "name": "UAB NexPay",
+      "domiciled": "LTU",
+      "address": "Žalgirio g. 90-100, Vilnius"
+    },
+    {
+      "bankId": "f4aa5f2e-d08b-4ce7-8137-38cd262c9cc0",
+      "name": "CJSC Alfa-Bank",
+      "domiciled": "BLR",
+      "address": "Surganova St., 43-47, Minsk, Belarus"
+    },
+    {
+      "bankId": "1f7cf0f1-8f30-49e9-85fe-9d8bec6f39b7",
+      "name": "Finci UAB",
+      "domiciled": "LTU",
+      "address": "Mėnulio g. 11-101, LT-04326 Vilnius"
+    },
+    {
+      "bankId": "ca64a6f6-ac75-4ea7-8eda-c9dffa05d7d8",
+      "name": "ZEN.COM, UAB",
+      "domiciled": "LTU",
+      "address": "Lvivo g. 25-104, LT-09320 Vilnius"
+    },
+    {
+      "bankId": "5732ad64-a454-4196-a6bb-71f121602fe6",
+      "name": "Bank Frick AG",
+      "domiciled": "LIE",
+      "address": "Landstrasse 14, 9496 Balzers, Liechtenstein"
+    },
+    {
+      "bankId": "10703e64-03a2-40d9-a4be-816dfd2c5b61",
+      "name": "HSBC Bank Australia Limited",
+      "domiciled": "AUS",
+      "address": "28 Bridge Street Sydney, NSW 2000"
+    }
+  ]
+}

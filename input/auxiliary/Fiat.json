@@ -1,0 +1,894 @@
+{
+  "fiat": [
+    {
+      "symbol": "AED",
+      "num": "784",
+      "currency": "United Arab Emirates dirham"
+    },
+    {
+      "symbol": "AFN",
+      "num": "971",
+      "currency": "Afghan afghani"
+    },
+    {
+      "symbol": "ALL",
+      "num": "8",
+      "currency": "Albanian lek"
+    },
+    {
+      "symbol": "AMD",
+      "num": "51",
+      "currency": "Armenian dram"
+    },
+    {
+      "symbol": "ANG",
+      "num": "532",
+      "currency": "Netherlands Antillean guilder"
+    },
+    {
+      "symbol": "AOA",
+      "num": "973",
+      "currency": "Angolan kwanza"
+    },
+    {
+      "symbol": "ARS",
+      "num": "32",
+      "currency": "Argentine peso"
+    },
+    {
+      "symbol": "AUD",
+      "num": "36",
+      "currency": "Australian dollar"
+    },
+    {
+      "symbol": "AWG",
+      "num": "533",
+      "currency": "Aruban florin"
+    },
+    {
+      "symbol": "AZN",
+      "num": "944",
+      "currency": "Azerbaijani manat"
+    },
+    {
+      "symbol": "BAM",
+      "num": "977",
+      "currency": "Bosnia and Herzegovina convertible mark"
+    },
+    {
+      "symbol": "BBD",
+      "num": "52",
+      "currency": "Barbados dollar"
+    },
+    {
+      "symbol": "BDT",
+      "num": "50",
+      "currency": "Bangladeshi taka"
+    },
+    {
+      "symbol": "BGN",
+      "num": "975",
+      "currency": "Bulgarian lev"
+    },
+    {
+      "symbol": "BHD",
+      "num": "48",
+      "currency": "Bahraini dinar"
+    },
+    {
+      "symbol": "BIF",
+      "num": "108",
+      "currency": "Burundian franc"
+    },
+    {
+      "symbol": "BMD",
+      "num": "60",
+      "currency": "Bermudian dollar"
+    },
+    {
+      "symbol": "BND",
+      "num": "96",
+      "currency": "Brunei dollar"
+    },
+    {
+      "symbol": "BOB",
+      "num": "68",
+      "currency": "Boliviano"
+    },
+    {
+      "symbol": "BOV",
+      "num": "984",
+      "currency": "Bolivian Mvdol (funds code)"
+    },
+    {
+      "symbol": "BRL",
+      "num": "986",
+      "currency": "Brazilian real"
+    },
+    {
+      "symbol": "BSD",
+      "num": "44",
+      "currency": "Bahamian dollar"
+    },
+    {
+      "symbol": "BTN",
+      "num": "64",
+      "currency": "Bhutanese ngultrum"
+    },
+    {
+      "symbol": "BWP",
+      "num": "72",
+      "currency": "Botswana pula"
+    },
+    {
+      "symbol": "BYN",
+      "num": "933",
+      "currency": "Belarusian ruble"
+    },
+    {
+      "symbol": "BZD",
+      "num": "84",
+      "currency": "Belize dollar"
+    },
+    {
+      "symbol": "CAD",
+      "num": "124",
+      "currency": "Canadian dollar"
+    },
+    {
+      "symbol": "CDF",
+      "num": "976",
+      "currency": "Congolese franc"
+    },
+    {
+      "symbol": "CHE",
+      "num": "947",
+      "currency": "WIR euro (complementary currency)"
+    },
+    {
+      "symbol": "CHF",
+      "num": "756",
+      "currency": "Swiss franc"
+    },
+    {
+      "symbol": "CHW",
+      "num": "948",
+      "currency": "WIR franc (complementary currency)"
+    },
+    {
+      "symbol": "CLF",
+      "num": "990",
+      "currency": "Unidad de Fomento (funds code)"
+    },
+    {
+      "symbol": "CLP",
+      "num": "152",
+      "currency": "Chilean peso"
+    },
+    {
+      "symbol": "CNY",
+      "num": "156",
+      "currency": "Renminbi[6]"
+    },
+    {
+      "symbol": "COP",
+      "num": "170",
+      "currency": "Colombian peso"
+    },
+    {
+      "symbol": "COU",
+      "num": "970",
+      "currency": "Unidad de Valor Real (UVR) (funds code)[7]"
+    },
+    {
+      "symbol": "CRC",
+      "num": "188",
+      "currency": "Costa Rican colon"
+    },
+    {
+      "symbol": "CUP",
+      "num": "192",
+      "currency": "Cuban peso"
+    },
+    {
+      "symbol": "CVE",
+      "num": "132",
+      "currency": "Cape Verdean escudo"
+    },
+    {
+      "symbol": "CZK",
+      "num": "203",
+      "currency": "Czech koruna"
+    },
+    {
+      "symbol": "DJF",
+      "num": "262",
+      "currency": "Djiboutian franc"
+    },
+    {
+      "symbol": "DKK",
+      "num": "208",
+      "currency": "Danish krone"
+    },
+    {
+      "symbol": "DOP",
+      "num": "214",
+      "currency": "Dominican peso"
+    },
+    {
+      "symbol": "DZD",
+      "num": "12",
+      "currency": "Algerian dinar"
+    },
+    {
+      "symbol": "EGP",
+      "num": "818",
+      "currency": "Egyptian pound"
+    },
+    {
+      "symbol": "ERN",
+      "num": "232",
+      "currency": "Eritrean nakfa"
+    },
+    {
+      "symbol": "ETB",
+      "num": "230",
+      "currency": "Ethiopian birr"
+    },
+    {
+      "symbol": "EUR",
+      "num": "978",
+      "currency": "Euro"
+    },
+    {
+      "symbol": "FJD",
+      "num": "242",
+      "currency": "Fiji dollar"
+    },
+    {
+      "symbol": "FKP",
+      "num": "238",
+      "currency": "Falkland Islands pound"
+    },
+    {
+      "symbol": "GBP",
+      "num": "826",
+      "currency": "Pound sterling"
+    },
+    {
+      "symbol": "GEL",
+      "num": "981",
+      "currency": "Georgian lari"
+    },
+    {
+      "symbol": "GHS",
+      "num": "936",
+      "currency": "Ghanaian cedi"
+    },
+    {
+      "symbol": "GIP",
+      "num": "292",
+      "currency": "Gibraltar pound"
+    },
+    {
+      "symbol": "GMD",
+      "num": "270",
+      "currency": "Gambian dalasi"
+    },
+    {
+      "symbol": "GNF",
+      "num": "324",
+      "currency": "Guinean franc"
+    },
+    {
+      "symbol": "GTQ",
+      "num": "320",
+      "currency": "Guatemalan quetzal"
+    },
+    {
+      "symbol": "GYD",
+      "num": "328",
+      "currency": "Guyanese dollar"
+    },
+    {
+      "symbol": "HKD",
+      "num": "344",
+      "currency": "Hong Kong dollar"
+    },
+    {
+      "symbol": "HNL",
+      "num": "340",
+      "currency": "Honduran lempira"
+    },
+    {
+      "symbol": "HTG",
+      "num": "332",
+      "currency": "Haitian gourde"
+    },
+    {
+      "symbol": "HUF",
+      "num": "348",
+      "currency": "Hungarian forint"
+    },
+    {
+      "symbol": "IDR",
+      "num": "360",
+      "currency": "Indonesian rupiah"
+    },
+    {
+      "symbol": "ILS",
+      "num": "376",
+      "currency": "Israeli new shekel"
+    },
+    {
+      "symbol": "INR",
+      "num": "356",
+      "currency": "Indian rupee"
+    },
+    {
+      "symbol": "IQD",
+      "num": "368",
+      "currency": "Iraqi dinar"
+    },
+    {
+      "symbol": "IRR",
+      "num": "364",
+      "currency": "Iranian rial"
+    },
+    {
+      "symbol": "ISK",
+      "num": "352",
+      "currency": "Icelandic króna (plural: krónur)"
+    },
+    {
+      "symbol": "JMD",
+      "num": "388",
+      "currency": "Jamaican dollar"
+    },
+    {
+      "symbol": "JOD",
+      "num": "400",
+      "currency": "Jordanian dinar"
+    },
+    {
+      "symbol": "JPY",
+      "num": "392",
+      "currency": "Japanese yen"
+    },
+    {
+      "symbol": "KES",
+      "num": "404",
+      "currency": "Kenyan shilling"
+    },
+    {
+      "symbol": "KGS",
+      "num": "417",
+      "currency": "Kyrgyzstani som"
+    },
+    {
+      "symbol": "KHR",
+      "num": "116",
+      "currency": "Cambodian riel"
+    },
+    {
+      "symbol": "KMF",
+      "num": "174",
+      "currency": "Comoro franc"
+    },
+    {
+      "symbol": "KPW",
+      "num": "408",
+      "currency": "North Korean won"
+    },
+    {
+      "symbol": "KRW",
+      "num": "410",
+      "currency": "South Korean won"
+    },
+    {
+      "symbol": "KWD",
+      "num": "414",
+      "currency": "Kuwaiti dinar"
+    },
+    {
+      "symbol": "KYD",
+      "num": "136",
+      "currency": "Cayman Islands dollar"
+    },
+    {
+      "symbol": "KZT",
+      "num": "398",
+      "currency": "Kazakhstani tenge"
+    },
+    {
+      "symbol": "LAK",
+      "num": "418",
+      "currency": "Lao kip"
+    },
+    {
+      "symbol": "LBP",
+      "num": "422",
+      "currency": "Lebanese pound"
+    },
+    {
+      "symbol": "LKR",
+      "num": "144",
+      "currency": "Sri Lankan rupee"
+    },
+    {
+      "symbol": "LRD",
+      "num": "430",
+      "currency": "Liberian dollar"
+    },
+    {
+      "symbol": "LSL",
+      "num": "426",
+      "currency": "Lesotho loti"
+    },
+    {
+      "symbol": "LYD",
+      "num": "434",
+      "currency": "Libyan dinar"
+    },
+    {
+      "symbol": "MAD",
+      "num": "504",
+      "currency": "Moroccan dirham"
+    },
+    {
+      "symbol": "MDL",
+      "num": "498",
+      "currency": "Moldovan leu"
+    },
+    {
+      "symbol": "MGA",
+      "num": "969",
+      "currency": "Malagasy ariary"
+    },
+    {
+      "symbol": "MKD",
+      "num": "807",
+      "currency": "Macedonian denar"
+    },
+    {
+      "symbol": "MMK",
+      "num": "104",
+      "currency": "Myanmar kyat"
+    },
+    {
+      "symbol": "MNT",
+      "num": "496",
+      "currency": "Mongolian tögrög"
+    },
+    {
+      "symbol": "MOP",
+      "num": "446",
+      "currency": "Macanese pataca"
+    },
+    {
+      "symbol": "MRU",
+      "num": "929",
+      "currency": "Mauritanian ouguiya"
+    },
+    {
+      "symbol": "MUR",
+      "num": "480",
+      "currency": "Mauritian rupee"
+    },
+    {
+      "symbol": "MVR",
+      "num": "462",
+      "currency": "Maldivian rufiyaa"
+    },
+    {
+      "symbol": "MWK",
+      "num": "454",
+      "currency": "Malawian kwacha"
+    },
+    {
+      "symbol": "MXN",
+      "num": "484",
+      "currency": "Mexican peso"
+    },
+    {
+      "symbol": "MXV",
+      "num": "979",
+      "currency": "Mexican Unidad de Inversion (UDI) (funds code)"
+    },
+    {
+      "symbol": "MYR",
+      "num": "458",
+      "currency": "Malaysian ringgit"
+    },
+    {
+      "symbol": "MZN",
+      "num": "943",
+      "currency": "Mozambican metical"
+    },
+    {
+      "symbol": "NAD",
+      "num": "516",
+      "currency": "Namibian dollar"
+    },
+    {
+      "symbol": "NGN",
+      "num": "566",
+      "currency": "Nigerian naira"
+    },
+    {
+      "symbol": "NIO",
+      "num": "558",
+      "currency": "Nicaraguan córdoba"
+    },
+    {
+      "symbol": "NOK",
+      "num": "578",
+      "currency": "Norwegian krone"
+    },
+    {
+      "symbol": "NPR",
+      "num": "524",
+      "currency": "Nepalese rupee"
+    },
+    {
+      "symbol": "NZD",
+      "num": "554",
+      "currency": "New Zealand dollar"
+    },
+    {
+      "symbol": "OMR",
+      "num": "512",
+      "currency": "Omani rial"
+    },
+    {
+      "symbol": "PAB",
+      "num": "590",
+      "currency": "Panamanian balboa"
+    },
+    {
+      "symbol": "PEN",
+      "num": "604",
+      "currency": "Peruvian sol"
+    },
+    {
+      "symbol": "PGK",
+      "num": "598",
+      "currency": "Papua New Guinean kina"
+    },
+    {
+      "symbol": "PHP",
+      "num": "608",
+      "currency": "Philippine peso[11]"
+    },
+    {
+      "symbol": "PKR",
+      "num": "586",
+      "currency": "Pakistani rupee"
+    },
+    {
+      "symbol": "PLN",
+      "num": "985",
+      "currency": "Polish złoty"
+    },
+    {
+      "symbol": "PYG",
+      "num": "600",
+      "currency": "Paraguayan guaraní"
+    },
+    {
+      "symbol": "QAR",
+      "num": "634",
+      "currency": "Qatari riyal"
+    },
+    {
+      "symbol": "RON",
+      "num": "946",
+      "currency": "Romanian leu"
+    },
+    {
+      "symbol": "RSD",
+      "num": "941",
+      "currency": "Serbian dinar"
+    },
+    {
+      "symbol": "RUB",
+      "num": "643",
+      "currency": "Russian ruble"
+    },
+    {
+      "symbol": "RWF",
+      "num": "646",
+      "currency": "Rwandan franc"
+    },
+    {
+      "symbol": "SAR",
+      "num": "682",
+      "currency": "Saudi riyal"
+    },
+    {
+      "symbol": "SBD",
+      "num": "90",
+      "currency": "Solomon Islands dollar"
+    },
+    {
+      "symbol": "SCR",
+      "num": "690",
+      "currency": "Seychelles rupee"
+    },
+    {
+      "symbol": "SDG",
+      "num": "938",
+      "currency": "Sudanese pound"
+    },
+    {
+      "symbol": "SEK",
+      "num": "752",
+      "currency": "Swedish krona (plural: kronor)"
+    },
+    {
+      "symbol": "SGD",
+      "num": "702",
+      "currency": "Singapore dollar"
+    },
+    {
+      "symbol": "SHP",
+      "num": "654",
+      "currency": "Saint Helena pound"
+    },
+    {
+      "symbol": "SLE",
+      "num": "925",
+      "currency": "Sierra Leonean leone (new leone)[12][13][14]"
+    },
+    {
+      "symbol": "SOS",
+      "num": "706",
+      "currency": "Somalian shilling"
+    },
+    {
+      "symbol": "SRD",
+      "num": "968",
+      "currency": "Surinamese dollar"
+    },
+    {
+      "symbol": "SSP",
+      "num": "728",
+      "currency": "South Sudanese pound"
+    },
+    {
+      "symbol": "STN",
+      "num": "930",
+      "currency": "São Tomé and Príncipe dobra"
+    },
+    {
+      "symbol": "SVC",
+      "num": "222",
+      "currency": "Salvadoran colón"
+    },
+    {
+      "symbol": "SYP",
+      "num": "760",
+      "currency": "Syrian pound"
+    },
+    {
+      "symbol": "SZL",
+      "num": "748",
+      "currency": "Swazi lilangeni"
+    },
+    {
+      "symbol": "THB",
+      "num": "764",
+      "currency": "Thai baht"
+    },
+    {
+      "symbol": "TJS",
+      "num": "972",
+      "currency": "Tajikistani somoni"
+    },
+    {
+      "symbol": "TMT",
+      "num": "934",
+      "currency": "Turkmenistan manat"
+    },
+    {
+      "symbol": "TND",
+      "num": "788",
+      "currency": "Tunisian dinar"
+    },
+    {
+      "symbol": "TOP",
+      "num": "776",
+      "currency": "Tongan paʻanga"
+    },
+    {
+      "symbol": "TRY",
+      "num": "949",
+      "currency": "Turkish lira"
+    },
+    {
+      "symbol": "TTD",
+      "num": "780",
+      "currency": "Trinidad and Tobago dollar"
+    },
+    {
+      "symbol": "TWD",
+      "num": "901",
+      "currency": "New Taiwan dollar"
+    },
+    {
+      "symbol": "TZS",
+      "num": "834",
+      "currency": "Tanzanian shilling"
+    },
+    {
+      "symbol": "UAH",
+      "num": "980",
+      "currency": "Ukrainian hryvnia"
+    },
+    {
+      "symbol": "UGX",
+      "num": "800",
+      "currency": "Ugandan shilling"
+    },
+    {
+      "symbol": "USD",
+      "num": "840",
+      "currency": "United States dollar"
+    },
+    {
+      "symbol": "USN",
+      "num": "997",
+      "currency": "United States dollar (next day) (funds code)"
+    },
+    {
+      "symbol": "UYI",
+      "num": "940",
+      "currency": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)"
+    },
+    {
+      "symbol": "UYU",
+      "num": "858",
+      "currency": "Uruguayan peso"
+    },
+    {
+      "symbol": "UYW",
+      "num": "927",
+      "currency": "Unidad previsional[16]"
+    },
+    {
+      "symbol": "UZS",
+      "num": "860",
+      "currency": "Uzbekistani sum"
+    },
+    {
+      "symbol": "VED",
+      "num": "926",
+      "currency": "Venezuelan digital bolívar[17]"
+    },
+    {
+      "symbol": "VES",
+      "num": "928",
+      "currency": "Venezuelan sovereign bolívar[11]"
+    },
+    {
+      "symbol": "VND",
+      "num": "704",
+      "currency": "Vietnamese đồng"
+    },
+    {
+      "symbol": "VUV",
+      "num": "548",
+      "currency": "Vanuatu vatu"
+    },
+    {
+      "symbol": "WST",
+      "num": "882",
+      "currency": "Samoan tala"
+    },
+    {
+      "symbol": "XAF",
+      "num": "950",
+      "currency": "CFA franc BEAC"
+    },
+    {
+      "symbol": "XAG",
+      "num": "961",
+      "currency": "Silver (one troy ounce)"
+    },
+    {
+      "symbol": "XAU",
+      "num": "959",
+      "currency": "Gold (one troy ounce)"
+    },
+    {
+      "symbol": "XBA",
+      "num": "955",
+      "currency": "European Composite Unit (EURCO) (bond market unit)"
+    },
+    {
+      "symbol": "XBB",
+      "num": "956",
+      "currency": "European Monetary Unit (E.M.U.-6) (bond market unit)"
+    },
+    {
+      "symbol": "XBC",
+      "num": "957",
+      "currency": "European Unit of Account 9 (E.U.A.-9) (bond market unit)"
+    },
+    {
+      "symbol": "XBD",
+      "num": "958",
+      "currency": "European Unit of Account 17 (E.U.A.-17) (bond market unit)"
+    },
+    {
+      "symbol": "XCD",
+      "num": "951",
+      "currency": "East Caribbean dollar"
+    },
+    {
+      "symbol": "XDR",
+      "num": "960",
+      "currency": "Special drawing rights"
+    },
+    {
+      "symbol": "XOF",
+      "num": "952",
+      "currency": "CFA franc BCEAO"
+    },
+    {
+      "symbol": "XPD",
+      "num": "964",
+      "currency": "Palladium (one troy ounce)"
+    },
+    {
+      "symbol": "XPF",
+      "num": "953",
+      "currency": "CFP franc (franc Pacifique)"
+    },
+    {
+      "symbol": "XPT",
+      "num": "962",
+      "currency": "Platinum (one troy ounce)"
+    },
+    {
+      "symbol": "XSU",
+      "num": "994",
+      "currency": "SUCRE"
+    },
+    {
+      "symbol": "XTS",
+      "num": "963",
+      "currency": "Code reserved for testing"
+    },
+    {
+      "symbol": "XUA",
+      "num": "965",
+      "currency": "ADB Unit of Account"
+    },
+    {
+      "symbol": "XXX",
+      "num": "999",
+      "currency": "No currency"
+    },
+    {
+      "symbol": "YER",
+      "num": "886",
+      "currency": "Yemeni rial"
+    },
+    {
+      "symbol": "ZAR",
+      "num": "710",
+      "currency": "South African rand"
+    },
+    {
+      "symbol": "ZMW",
+      "num": "967",
+      "currency": "Zambian kwacha"
+    },
+    {
+      "symbol": "ZWG",
+      "num": "924",
+      "currency": "Zimbabwe Gold"
+    }
+  ]
+}
