@@ -483,7 +483,12 @@
       "account": []
     }
   ],
-  "billingDescriptor": [],
+  "billingDescriptor": [
+    {
+      "billingDescriptorId": "6eafd632-0091-48d8-9ddd-fd8335793b50",
+      "descriptor": "BN Payments"
+    }
+  ],
   "tradingPairs": [
     {
       "tradingPairId": "ecf2a996-3f7e-463e-a7a2-c72eb3372a65",

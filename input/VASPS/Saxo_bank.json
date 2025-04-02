@@ -1,0 +1,632 @@
+{
+  "vaspId": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+  "commonName": "Saxo bank",
+  "url": "https://www.home.saxo/",
+  "domiciledCountry": "DNK",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/1992",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://www.home.saxo/legal/compliance/saxo-compliance",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "57dc2cbc-4431-49b0-97a7-5ed705b05e11",
+      "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+      "type": "Investment bank"
+    },
+    {
+      "vaspTypeId": "b6d1de72-1cdd-4496-a43b-89f3c474f397",
+      "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "28716933-fafd-4cb0-b3c1-3cf14a5d6d2b",
+      "type": "Legal",
+      "name": "Saxo Bank A/S",
+      "country": "DNK"
+    },
+    {
+      "nameId": "90198afd-ece6-4c47-89eb-d104f26ff296",
+      "type": "DBA",
+      "name": "Saxo",
+      "country": null
+    },
+    {
+      "nameId": "3db276d2-b23d-45fd-ba78-10f5eaabce50",
+      "type": "Legal",
+      "name": "Saxo Capital Markets UK Limited",
+      "country": "GBR"
+    },
+    {
+      "nameId": "a2c6388f-c09b-4868-a13b-0bc55c031282",
+      "type": "Legal",
+      "name": "Saxo Capital Markets Pte Limited",
+      "country": "SGP"
+    },
+    {
+      "nameId": "7ec4ac39-5a98-4e1e-bd13-119a20efec1c",
+      "type": "Legal",
+      "name": "Saxo Bank (Switzerland) Ltd.",
+      "country": "CHE"
+    },
+    {
+      "nameId": "01434317-6c12-4b76-a0e3-daddfbc175d7",
+      "type": "Legal",
+      "name": "Saxo Capital Markets (Australia) Limited",
+      "country": "AUS"
+    },
+    {
+      "nameId": "d66ef795-7d65-455e-8481-bb6332f58c0c",
+      "type": "Legal",
+      "name": "Saxo Bank Securities Ltd.",
+      "country": "JPN"
+    },
+    {
+      "nameId": "d1beeb4c-ee29-41e1-83d3-e76c65197eea",
+      "type": "Legal",
+      "name": "Saxo Capital Markets HK Limited",
+      "country": "HKG"
+    },
+    {
+      "nameId": "5093a6f5-3bf5-4847-b49f-4fe83757ff36",
+      "type": "Legal",
+      "name": "Saxo Banque France",
+      "country": "FRA"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "c5a8beb3-4074-4164-b35a-c7226ec2ca08",
+      "country": "DNK",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5cde05b6-22f9-420f-b6f3-9b2c6761f551",
+      "country": "DNK",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "9092ba48-3daf-4761-8a93-9d84a7c9b642",
+      "country": "GBR",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c0cf7074-a67a-491f-8c9e-6a30cf033629",
+      "country": "NLD",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6dddcfc6-458f-468f-8afb-cf7a6330c166",
+      "country": "SGP",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "952a2bd2-02e4-4456-a7e0-d182fdbde179",
+      "country": "AUS",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ca1aa28d-bd4a-409f-a503-4b7f1ffe1712",
+      "country": "CHE",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "634b8b68-55b0-4a15-9702-b88aea1a2440",
+      "country": "ALB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "208401f6-4adc-4fc3-926d-f8b88a0c0285",
+      "country": "ARG",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "917998a3-1e74-4453-9774-f562771ba1ee",
+      "country": "ABW",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "175f99ae-67b3-4c3f-b31e-fa0bc31b6edc",
+      "country": "BHR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5bfad935-a69d-4474-b0e8-97e2ad3998c6",
+      "country": "BRA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "62b9e125-084d-4715-beda-ba5b603ea1c0",
+      "country": "VGB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7a1c0b2c-c3d3-47ab-9d3d-2110badc7434",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6bba5f2c-2033-4fd5-a6bd-5383cf4f6f30",
+      "country": "CYM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f8c76084-760a-4ce8-9367-a6f523973e75",
+      "country": "CHL",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c5363741-8882-445a-8ace-3a576ed4ecf5",
+      "country": "CHN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "adc15e2f-94ba-4cc7-b422-4d9cd31911ff",
+      "country": "CYP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "0fe42ee2-2006-475e-81b5-46026d047c06",
+      "country": "EGY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ffd458af-fb38-48de-8360-39ee3331f5e0",
+      "country": "GUF",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "28ae760f-ba15-49d3-ba51-25df8cb0e8e8",
+      "country": "GEO",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e29509aa-8795-4294-a1c9-36a8072ee8cb",
+      "country": "GGY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "06a76176-7346-4a80-9e0c-16934760bcfc",
+      "country": "IND",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e5752621-1632-4cd6-90da-8a2037472eb4",
+      "country": "IDN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "062722f3-5406-4947-a1e3-8f4a60246893",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "798ce5c1-4165-4f01-a1e7-bbdc4e776b00",
+      "country": "IRQ",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "574c508e-f436-4482-a5de-c2dbdff4717f",
+      "country": "IMN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "29ee9841-2e53-443d-9146-42dc21dc1259",
+      "country": "JPN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "06418bb6-da87-48d1-bbc9-41e54769335d",
+      "country": "JEY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "aff8bff0-2a10-4af0-af5a-fa6d9e1a4666",
+      "country": "JOR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "25d9195d-5503-4532-8f6e-9d76f757d2a9",
+      "country": "XKX",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "687042db-cd8d-408b-aaa1-23ab001c1fdd",
+      "country": "KWT",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7d245861-bec0-4adb-a461-feb57c7e24ed",
+      "country": "LBN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "38490221-0dd8-44e9-94c3-cf59dddfb118",
+      "country": "LBY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "2b73ad70-9621-47a9-8b19-f6e66dd5f584",
+      "country": "MUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2a5d94e4-22a7-4ade-bb30-f11820163e81",
+      "country": "MYT",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "93e55539-ff62-429b-8761-38a57b812d80",
+      "country": "MMR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "160520f9-e9d9-4a40-97f3-c010ff12ab5f",
+      "country": "NCL",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "42d63807-425f-430f-85ec-3a25f2c70379",
+      "country": "NZL",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "4e85275b-a9b2-4bfa-a752-0a66a45b7242",
+      "country": "OMN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "eadf28de-67fd-4969-b6e2-a8ade5cf5cbe",
+      "country": "PAK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2147d39d-97fe-49c9-b594-9383a2b01287",
+      "country": "REU",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d154d0f2-a6f0-4bb2-8d54-b3227e57f0e9",
+      "country": "RUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "ac716ffd-bf6e-49f1-8c2a-1e82d98bc10b",
+      "country": "BLM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "3565e5b5-9c44-46e2-8260-4b3382ea2487",
+      "country": "MAF",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "3a5ce72d-f8f0-414c-bf1b-9785a42eea79",
+      "country": "SYC",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "164ef7c3-ff9d-4084-9184-e85541d1605c",
+      "country": "SGP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6852f0ee-9dae-4947-b381-84d8560ef0af",
+      "country": "ZAF",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "eac3de65-d98e-4ef8-9701-44412d3cfa76",
+      "country": "SDN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "f508da81-2395-4868-a3bd-6ade0608f478",
+      "country": "SYR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "1846d565-4741-478c-9e44-c2fd892410c3",
+      "country": "TWN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "1d0b8191-af8b-44e9-a0e0-2f0f12045d8d",
+      "country": "TUR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "010f43a8-f6d6-493a-b9c1-6b9d6d3560eb",
+      "country": "UKR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c6d7b2fa-43d5-4300-972b-c47e21c0c1e2",
+      "country": "GBR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e4009faf-b2a1-43d6-ae9b-3ae7cb7f9da7",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "8e36d5d7-c156-416c-a70f-3484ef36caff",
+      "country": "URY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2748013e-7542-4b18-ab80-2c58cd0f5dc1",
+      "country": "UZB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "40bb8cf9-6457-4c7c-b829-d0a5b59388bf",
+      "country": "VEN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "fceb1d8f-72d4-4d71-9d35-26a0473bb1f5",
+      "country": "YEM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "65e0fcc6-865a-45b8-9a89-24d1ffabb4d9",
+      "createdDate": "02/21/2025",
+      "customerInfo": "Email Address && Country of Residence && Legal Name && DOB && POB && Government ID && SSN && Proof of Address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": false,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": "200000",
+      "currency": "SGD",
+      "limitFrequency": "Transaction",
+      "Notes": null,
+      "internalNotes": "https://www.home.saxo/en-gb/accounts/individual"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "dc5384ec-85e2-430d-b792-7726e0db054e",
+      "paymentMethod": "Wire Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "35faf2a9-a020-4e0f-8e6d-58feaa6c1fdb",
+          "number": "811145341002",
+          "bic": "HSBCSGSGXXX",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": null,
+          "bank": "35526831-fbf4-4e2f-8c52-efe7a7019318",
+          "bankRole": "Custodian",
+          "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+          "country": "SGP"
+        },
+        {
+          "accountId": "221d3737-de80-4dd6-bd11-8a641e83775e",
+          "number": "105871883102",
+          "bic": "HBMBMYKLXXX",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": null,
+          "bank": "1d3ec047-5ab7-4630-9575-2696594d4c15",
+          "bankRole": "Custodian",
+          "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+          "country": "MYS"
+        },
+        {
+          "accountId": "52023260-0224-456c-a228-bf1ddda4cbdc",
+          "number": "105871883101",
+          "bic": "HBMBMYKLXXX",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": null,
+          "bank": "1d3ec047-5ab7-4630-9575-2696594d4c15",
+          "bankRole": "Custodian",
+          "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+          "country": "MYS"
+        },
+        {
+          "accountId": "e7f61dfc-17cd-4334-b1a4-690cb8252b6c",
+          "number": "808192298001",
+          "bic": "HSBCHKHHHKH",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": null,
+          "bank": "ef4e0df3-42a2-4615-92fb-1c7091ab728b",
+          "bankRole": "Custodian",
+          "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+          "country": "HKG"
+        },
+        {
+          "accountId": "13a06b07-8f78-4d28-98b7-52bf016cc8d0",
+          "number": "808192298201",
+          "bic": "HSBCHKHHHKH",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": null,
+          "bank": "ef4e0df3-42a2-4615-92fb-1c7091ab728b",
+          "bankRole": "Custodian",
+          "vasp": "cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9",
+          "country": "HKG"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "797728ef-a303-4a79-be30-1482ce02f036",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "3faa1e9c-0ccd-4fcc-8f0f-4af8e2a0e80d",
+      "paymentMethod": "SEPA Instant",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "35cbfc44-0478-4780-983b-d2e5305a10f2",
+      "paymentMethod": "Quick payment",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [
+    {
+      "tradingPairId": "b75d419f-83ab-4b62-8023-6a52d2635ccb",
+      "from": "BTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "3813bc28-27b4-41df-a1ef-02b62fb2b8be",
+      "from": "ETH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "25687844-3d72-4923-ac72-0d81f7cb6dce",
+      "from": "BTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ae0d377f-050d-4749-89fb-79bec34fbc78",
+      "from": "ETH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "46ac1539-7272-4b2a-a540-2c1b886948ec",
+      "from": "BTC",
+      "to": "JPY"
+    },
+    {
+      "tradingPairId": "0f87fff9-0d86-4750-a159-1ca17ac1a096",
+      "from": "ETH",
+      "to": "JPY"
+    }
+  ],
+  "regulations": [
+    {
+      "regulationId": "aeaffadd-495e-4363-bb22-a7f663fcb528",
+      "regulator": "51629af1-db99-4b65-8105-9b8126832b03",
+      "number": "15731249",
+      "printscreen": "Screenshot 2025-03-18 at 12.56.22"
+    },
+    {
+      "regulationId": "b7675832-6e7a-4930-a8bc-66a13e459eef",
+      "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+      "number": "07413871",
+      "printscreen": "Screenshot 2025-03-18 at 13.00.03, Screenshot 2025-03-18 at 13.01.05"
+    },
+    {
+      "regulationId": "5b4c9d53-20db-4074-909a-2633b8a80caa",
+      "regulator": "2b075f0e-592f-4c1e-85ef-c68d64eae208",
+      "number": null,
+      "printscreen": "SAXO-CAPITAL-MARKETS-PTE-LTD.png"
+    },
+    {
+      "regulationId": "d670fdd5-c1ae-450f-a972-a79e39f71728",
+      "regulator": "4f7b7dca-3695-40b9-b620-c8aa70772ab3",
+      "number": null,
+      "printscreen": "Screenshot 2025-03-18 at 13.26.55, Screenshot 2025-03-18 at 13.26.37"
+    },
+    {
+      "regulationId": "2e4126b5-bf99-4356-9439-26f38a08a971",
+      "regulator": "4f7b7dca-3695-40b9-b620-c8aa70772ab3",
+      "number": "000280372",
+      "printscreen": "Screenshot 2025-03-18 at 13.29.42"
+    }
+  ],
+  "vaspSanction": null,
+  "onChain": null
+}

@@ -1,0 +1,384 @@
+{
+  "vaspId": "b1be20fa-4e46-45c2-99ef-4e3e09e4cec7",
+  "commonName": "Remitano",
+  "url": "https://remitano.com/global",
+  "domiciledCountry": "SYC",
+  "hqRegion": "Africa",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2014",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://remitano.com/mx/anti-money-laundering-policy",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "724c12d4-fe5e-4956-b8e1-9da3100be100",
+      "vasp": "b1be20fa-4e46-45c2-99ef-4e3e09e4cec7",
+      "type": "Payment Provider"
+    },
+    {
+      "vaspTypeId": "a4fb1de3-6a91-4b94-b639-7c2d5b0b7b02",
+      "vasp": "b1be20fa-4e46-45c2-99ef-4e3e09e4cec7",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "68d0b7c3-b5fe-479f-be65-654a08c84711",
+      "type": "Legal",
+      "name": "Babylon Solutions Limited",
+      "country": "SYC"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "97a54119-484f-412a-a693-36961bb9f40a",
+      "country": "CUB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "5ee97d6f-2c12-49d8-a0bd-ce99cdf6c168",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "c7b13402-a6b3-473c-b0bc-a98128c33eab",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "aec3bafc-c57b-47e9-b3d2-0e3ce0b9fdcb",
+      "country": "UKR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "a71b579d-33e7-4792-b39b-bf9109f5429f",
+      "country": "SYR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "d6997928-4187-4b2c-ac87-f4c8016db372",
+      "country": "DZA",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "f41eac4e-f891-49ee-a5c2-86ea98d8e1ff",
+      "country": "BGD",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "53135237-482a-4c68-8290-625810d57c5a",
+      "country": "BOL",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e5e6d8d4-22cd-4abe-be3a-e67d56785468",
+      "country": "KHM",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ae0d2958-0a80-4166-b260-59e90788fd27",
+      "country": "IDN",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "107ee8b6-e745-4f9d-b4f7-f2d2ed0b9fa5",
+      "country": "PAK",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "925658dc-e539-4dbb-9784-46d094cfa226",
+      "country": "NPL",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2b9e8f2c-aa5e-4b41-8867-c96fba57feec",
+      "country": "TUR",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "edfa0c30-6647-4edd-8def-c0b8b8d4131d",
+      "country": "VNM",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "b5a8d69c-a374-46d3-8147-c208c48da6b0",
+      "country": "SYC",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "7c36bbeb-27bf-49e4-b2f1-29d8b4aae49c",
+      "createdDate": "03/07/2025",
+      "customerInfo": "Name && DOB && POB && Nationality && Gender && Email address && Phone number, Passport || Government ID && Proof of Address, ",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": "100000",
+      "currency": "USD",
+      "limitFrequency": "Day",
+      "Notes": "https://support.remitano.com/en/articles/3417875-what-is-coin-withdrawal-quota",
+      "internalNotes": "\"After opening an account, REMITANO.COM will collect the following information for all accounts, if applicable, for any person, entity or organisation that is opening a new account and whose name is on the account prior to activating the account for deposits and withdrawals of FIAT currencies (deposits, trading and withdrawing digital currencies does not require CDD verification"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "12d93cf3-32d1-4c13-bc80-e63e8132cf0f",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "24edafcb-91d9-4fc4-afdd-220777d361bd",
+      "paymentMethod": "PalmPay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "55539648-d3fa-40a1-9611-5d90e3fa8634",
+      "paymentMethod": "Wise",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "112f4b6b-e6a8-40c0-bc2f-68170d2d3d12",
+      "account": []
+    },
+    {
+      "paymentMethodId": "bc0fe168-5dab-4a66-98a6-6a3238025019",
+      "paymentMethod": "Revolut Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "089d040e-b144-4f63-b784-30145874ae90",
+      "account": []
+    },
+    {
+      "paymentMethodId": "f691e31e-2c83-4670-b3d2-9c925e23892c",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "e04f2f16-3c18-4375-9487-33e9162247e2",
+      "paymentMethod": "Airtm",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "09f8d0fd-451e-42fa-a6c2-dc097120fd69",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": []
+    },
+    {
+      "paymentMethodId": "cecf96a9-c276-41bc-b168-9d01f1927ede",
+      "paymentMethod": "Payoneer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "c67c74f6-a98c-4e5d-9f69-0290f51e36c2",
+      "paymentMethod": "Perfect Money",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "b36ffc75-60d2-46bd-a647-a1285e80a0ee",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "ee4def10-b5c8-40d2-a726-c541b2d94038",
+      "paymentMethod": "Gift Card",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [
+    {
+      "tradingPairId": "d9564cd5-ca17-48d8-b984-1a2c680b09a1",
+      "from": "ADA",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "ff80816e-d95f-42b1-883b-6fc2e3c268ce",
+      "from": "XRP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "070cef43-86d5-4522-81d7-87cccfd33202",
+      "from": "LTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d555c642-4134-4269-8a9e-29dbabf9fd1d",
+      "from": "BCH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "4fab39e7-03ee-4a4a-8868-e06eb75e234f",
+      "from": "SOL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "e3fc2561-e181-4ead-84fb-4bb1feb9730d",
+      "from": "LINK",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "87a5389b-814a-4b99-b3a9-1d51dc92a7a4",
+      "from": "NEAR",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "98fb5778-4a6d-495d-85e5-196a7c80792a",
+      "from": "TRX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "cdc33d87-9f4f-49cb-9112-f71de89e3123",
+      "from": "SHIB",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "464fd68b-a68d-4306-ba35-2979e52ff8ae",
+      "from": "DOGE",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "1b789015-78db-493b-9ad5-54289be6b1b1",
+      "from": "BNB",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "43a50172-3627-4782-9439-faa5352a1011",
+      "from": "ETC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "5e7d14cb-3c08-48d2-87cb-16fa707f836e",
+      "from": "RENEC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "6472a887-c02c-4014-aed9-d97cde5c94de",
+      "from": "KAI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "baab8031-2abd-4088-b8bb-f788c48c0ebd",
+      "from": "UNI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "03f2b997-2b1a-4110-8870-20e81fe813ce",
+      "from": "DOT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "dd3aa52e-0e95-46a9-b3b0-7ebca2e626f7",
+      "from": "AVAX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "4264f29a-c7d8-4a27-bbfd-ddf7361214db",
+      "from": "XLM",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "104610d1-c246-40f3-a4bb-8a47d6f2885a",
+      "from": "POL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "33e7b5a9-b511-466d-879c-76a0d96fd42b",
+      "from": "XTZ",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "e447cc49-6720-4da7-b81b-06d71a166fdf",
+      "from": "ONUS",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d7000eed-b43f-4f0b-b946-cf7f77d94843",
+      "from": "AXS",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "2aabd438-d482-4240-931a-42d815a1a6f4",
+      "from": "EOS",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "4a05b768-efc0-4328-a5a2-335b20735887",
+      "from": "BTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d4fa61ee-8ad0-4d9d-807e-abda0372b4af",
+      "from": "ETH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "343eb7b1-58b9-453c-9535-53be6f1c065c",
+      "from": "USDC",
+      "to": "USDT"
+    }
+  ],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}

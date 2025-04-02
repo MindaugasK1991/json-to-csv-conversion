@@ -1,0 +1,1196 @@
+{
+  "vaspId": "39cf9de0-6de7-4d58-a85a-7eeccc96f77b",
+  "commonName": "Cex.io",
+  "url": "https://cex.io/",
+  "domiciledCountry": "USA",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2013",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://cex.io/compliance/aml-kyc",
+  "profile": "EinarasUS",
+  "isReported": true,
+  "vaspType": [
+    {
+      "vaspTypeId": "e0f04744-b271-485a-a278-b0a1e2a18ade",
+      "vasp": "39cf9de0-6de7-4d58-a85a-7eeccc96f77b",
+      "type": "Exchange"
+    },
+    {
+      "vaspTypeId": "3f0e8b08-a3ad-4037-b599-cb20fcee76b5",
+      "vasp": "39cf9de0-6de7-4d58-a85a-7eeccc96f77b",
+      "type": "Credit Card Provider"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "42814e49-6d0e-42d7-b6a3-94020dd26755",
+      "type": "Legal",
+      "name": "CEX.IO Corp.",
+      "country": "USA"
+    },
+    {
+      "nameId": "7168c8ed-88e8-41da-a6a0-df9b3c9f0a9c",
+      "type": "Legal",
+      "name": "CEX.IO EU VASP, UAB",
+      "country": "LTU"
+    },
+    {
+      "nameId": "0753a1d1-1cd9-4363-ad4d-7c32ccf96b00",
+      "type": "Legal",
+      "name": "CEX OVRS LLC",
+      "country": "KNA"
+    },
+    {
+      "nameId": "726f0201-7ca4-4a45-a086-f1284a1fc040",
+      "type": "Legal",
+      "name": "CEX.IO LTD",
+      "country": "GBR"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "094ee36d-698d-4be8-bd41-987a0f41a7e1",
+      "country": "USA",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "61ff9166-0c26-431f-8722-3fa65e3a8d44",
+      "country": "LTU",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "dbf6a84a-dd53-421e-badb-dcba42753bd9",
+      "country": "KNA",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "738c8dab-ce3e-43bf-8419-f71bdde09535",
+      "country": "AFG",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "0d08ece1-4673-4046-8014-0c6f0b39a14c",
+      "country": "BLR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "279e311b-4aa6-4439-9028-93c96ab5101b",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5ce3cb1a-3dc7-453a-b4e2-a14f237d89a7",
+      "country": "COD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "1331ebe2-9cdb-402e-ad82-b16b2f70aef2",
+      "country": "CUB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "1deb6a0c-d73c-4757-b5ca-58b852df341c",
+      "country": "GUM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "67f72ad9-2014-46d5-9b08-680a31e2a6d1",
+      "country": "GNB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c672ea03-ad16-40ee-a1e1-abc2aa6ab7e4",
+      "country": "HTI",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "f626b2ec-95a2-4236-872d-6603bce7628f",
+      "country": "HND",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c69ea1a2-9757-4f39-9995-27a8997a4f18",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "f68496c2-1df5-4aac-8606-45fbe8474750",
+      "country": "IRQ",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "458472ef-5b7a-4991-a2c6-7381f1379140",
+      "country": "JPN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2c1da265-7f3a-414c-8583-9c14f4663eb9",
+      "country": "LBN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "ab431e4e-0ae0-4ffc-b80d-da082a77bca5",
+      "country": "LBY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "5c7701d3-1d7d-4329-98ce-17f40045d522",
+      "country": "MLI",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "852027ca-3a63-41b5-b679-1f2bbe17c15f",
+      "country": "MMR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "6f39abdd-036f-4b21-bcec-3c5df6f88a77",
+      "country": "NIC",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "0ac3f920-3f27-4794-89e2-9423f38c6b93",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "51cabd83-1b2d-44ae-9b82-4446360b823d",
+      "country": "PSE",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "eee4979d-7edc-4781-8da6-3b413d0d615c",
+      "country": "PRI",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "8cad0e62-f7e5-4267-b372-f013856773a2",
+      "country": "RUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "7d06264e-3f06-46b8-a51a-db65c914990f",
+      "country": "SGP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "cf7fa629-9324-4eef-96b9-98c69a2f735c",
+      "country": "SOM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "7732b98f-e026-49ab-99c1-43921e356f7a",
+      "country": "SSD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "588c7a69-3175-42af-a716-07a93fa80a7f",
+      "country": "SDN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "85d2822c-97b3-40e5-89a7-5501fda82b25",
+      "country": "SYR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "2ece1117-816a-46a6-8bac-a9415cc2e4dc",
+      "country": "VGB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d1c7120a-2a7d-42b0-9166-872cf05e1f22",
+      "country": "VEN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "52ef6f82-5004-4370-9df9-c6c4526bc99c",
+      "country": "YEM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "1857803b-675c-4e82-a115-7d7cfbae23a2",
+      "country": "GBR",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "cb143c6f-073f-412e-9eae-8cbc44e9d20d",
+      "createdDate": "01/20/2025",
+      "customerInfo": "email address && Country of Citizenship, Government ID && address && SSN && Phone Number && video && Legal Name && DOB",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": false,
+      "videoRequired": true,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "Notes": null,
+      "internalNotes": "needs ssn"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "3f59335c-fa91-466e-b1ec-c9c786e891ee",
+      "paymentMethod": "SWIFT Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": "LTU",
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "e0a12b4a-4918-4cc9-9b97-5d89325a791e",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": "LTU",
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "136adcce-cb5f-45dd-a4bb-fa2db3b26b50",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": "LTU",
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "aad5863e-cdc8-46f9-a7e4-df4a859b6b49",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": "GBR",
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "6b961ca1-6394-42ab-937a-393d617f0057",
+          "number": "CLJU04130729905418",
+          "bic": "CLJUGB21XXX",
+          "iban": "GB31CLJU04130729905418",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "ea6175ac-3089-45b6-979d-e73aed3a182f",
+          "bankRole": "Custodian",
+          "vasp": "39cf9de0-6de7-4d58-a85a-7eeccc96f77b",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "f229b7fd-66ef-4b2d-b2bb-37d3dfcd7eea",
+      "paymentMethod": "Faster Payments",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "c68d1cdb-9c73-466b-ab35-5ef055e3043e",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": false,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [
+    {
+      "tradingPairId": "7262880e-14c4-499e-afe2-0a2244b546f9",
+      "from": "1INCH",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "89632ec1-d740-42b8-afe3-8bf6fb99eaa2",
+      "from": "1INCH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "8616c5d9-fd0d-4e9f-bc09-e52be1cd96e7",
+      "from": "AAVE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "a4335bf7-6d66-416b-afcf-57d84fc580a0",
+      "from": "AAVE",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "decee5b9-2abe-497b-8d97-a5c7f93b1ca2",
+      "from": "ADA",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "1bb7801d-8748-4878-8de9-1e325192dda9",
+      "from": "ADA",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "50c1f54a-031e-4658-87d6-552f86a91f2d",
+      "from": "APT",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "e2a2471e-bdca-4fc2-8ea4-026aa40d81aa",
+      "from": "APT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "71a719d7-ddfc-443c-b094-7dc70a8f3e53",
+      "from": "ARB",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "46c07cd1-d492-4484-8528-d56b19168c51",
+      "from": "ARB",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "b6734c34-df7c-4a70-a917-8738c9efe531",
+      "from": "ATOM",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "2ee50452-2bed-4bae-9f89-c6a4b469a2cd",
+      "from": "ATOM",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "f0956dc7-f30b-411f-984c-e1895813bd80",
+      "from": "AVAX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "f1f19d24-01d4-4705-9e71-b2b36b35e208",
+      "from": "AVAX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "0805fc9c-d51b-4e95-89f8-5e916e8e0f4c",
+      "from": "BCH",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "ca4df71e-fdef-4bff-a92f-da397f376893",
+      "from": "BCH",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "24115078-7462-4a8c-9be6-f9702670cffd",
+      "from": "BCH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "ee21775e-f1b6-4f00-a85b-bc5dd3c957b3",
+      "from": "BONK",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "2e9d6ca0-0225-4389-9287-844e14412c64",
+      "from": "BONK",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "83cd4117-9a69-4129-a6a4-2ce6fbbdf33e",
+      "from": "BTC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "93b73fb8-2068-4cb9-b995-fed346934d37",
+      "from": "BTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d5d4fed9-c1f1-4a6c-9c18-e697ec868d57",
+      "from": "COMP",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "87a4da73-a4e1-4d82-bc27-5bace98c25c9",
+      "from": "COMP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "80f01378-2b15-4fe7-82eb-b0c340bc8c7d",
+      "from": "CRV",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "c438be4d-f32c-4611-9ee0-b05d4b60b077",
+      "from": "CRV",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "0acd5ac3-472a-49f9-812f-18e130d62f5f",
+      "from": "DAI",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "1317924a-80d9-4c0d-a8d2-92c7d31c47f0",
+      "from": "DAI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "47288846-eb04-4ed1-a2ea-f85be2921b80",
+      "from": "DOGE",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "f6b2aecc-aa8b-4140-afbf-373c51d70252",
+      "from": "DOGE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "f90cfc0a-a55c-4f0b-a80b-06cfd5b4f748",
+      "from": "DOGE",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d60567a0-5224-4c7a-946e-0efc0291290e",
+      "from": "DOT",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "a1add1c5-0508-4722-8577-afce3e2409ba",
+      "from": "DOT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "929054f0-fbdf-4121-9336-927e7d424523",
+      "from": "ENS",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "8b346566-bf75-4865-8233-e7c9cee6f7f9",
+      "from": "ENS",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "b67425b0-5c2e-49b7-ae89-1b30a5780e48",
+      "from": "ETH",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "22b3149d-42b1-49e9-b11f-8e1a59fb8088",
+      "from": "ETH",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "9272d605-e22e-4bdb-9626-03c9f92221e9",
+      "from": "ETH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "ecef0ea1-ceaf-4288-836c-2db15f3d2a3a",
+      "from": "FET",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "c2bbf98a-2b93-4eb9-a5a5-e38c9f5f7246",
+      "from": "FET",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "c442f812-2fd5-4d2a-aaae-ea0d61d03a95",
+      "from": "FIL",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "05fb55a0-8db2-42d1-8ae2-8faf65444f73",
+      "from": "FIL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "df3becb1-64e8-4549-b99d-6a71057380d6",
+      "from": "FTM",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "c1370c72-8090-4b40-8926-aa5d4fb650c5",
+      "from": "FTM",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "214fe46b-4b2e-419b-ade3-953334ef69a6",
+      "from": "ICP",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "fbeb7084-577c-4ac7-af90-d971a5e53a29",
+      "from": "ICP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d73299da-0d14-467b-a7e6-9b2f199921a9",
+      "from": "LINK",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "9e9d5261-4c11-4bf8-b219-eb32100b900a",
+      "from": "LINK",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "0bf18590-5099-4d76-b6b0-06c29215ac82",
+      "from": "LRC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "125cc63f-38de-493a-b7e7-18b763a3a949",
+      "from": "LRC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "1868de34-3dea-44cc-a3b2-c042b990e666",
+      "from": "LTC",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "3d39683e-e845-4fa1-9b46-6dd66b991c7f",
+      "from": "LTC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "3af4ce61-be9d-4544-8ca4-0dd1dbfa6140",
+      "from": "LTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "a6c24213-bcde-4834-9cd5-47c5f4665d4c",
+      "from": "MKR",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "f5b90ade-59be-418a-929a-34b9fa482400",
+      "from": "MKR",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "f6b9b0d5-651c-4ce3-91a9-207dfe9c664f",
+      "from": "MNT",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "6343d862-d15e-451a-9851-6c94f03562c7",
+      "from": "MNT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "57f259ca-1faf-4f62-9705-fb89044f37fd",
+      "from": "NEAR",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "6c7bd827-5932-4cf4-9b10-24fc1766d1ae",
+      "from": "NEAR",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "99d9e406-fd10-4832-bf55-c676bc9143d8",
+      "from": "OP",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "6631b98d-aedd-4256-a586-e16ce7d56d6c",
+      "from": "OP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "9b58b966-6969-4784-bd8d-9d91dd107df1",
+      "from": "PEPE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "90c66a06-f2c3-4480-9331-42841b950a0f",
+      "from": "PEPE",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "50b98fe9-ad44-4982-9957-71615dff6ce7",
+      "from": "POL",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "0b7b77e0-ebb9-48d3-bf3d-36a375f099f5",
+      "from": "POL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "1226275f-02c6-454d-bc6f-bafdaadff7b7",
+      "from": "RUNE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "af7ef32b-3490-41e2-a42d-aa9e40e28a6b",
+      "from": "RUNE",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "168773fb-a7db-4a89-9948-8cddf6be0ad0",
+      "from": "SHIB",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "4a7d5e9a-3a08-445b-8e1b-7fa403122f47",
+      "from": "SHIB",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "c37210e5-9b9e-4da4-b60e-fdb5f4866413",
+      "from": "SNX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "d42cc665-911d-4b4c-bf4f-03258022335a",
+      "from": "SNX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "270f84de-de34-4cc9-a274-5b33f6a02d92",
+      "from": "SOL",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "7b1ea864-5596-41ce-ac21-b4d985a8d606",
+      "from": "SOL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "91c7d956-c92d-40ab-bf10-dce3781fe2e2",
+      "from": "SUI",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "ce89caeb-7cd5-4654-b114-cfbd318985b5",
+      "from": "SUI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "8f7c5c8b-b286-402e-a742-ec39de650c7f",
+      "from": "TRX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "2118dfaf-04c2-4472-86cc-c23d55d7dcc2",
+      "from": "TRX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "33c27aa6-2aa5-4d6b-ae59-1a3b920dfe12",
+      "from": "UNI",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "b2dde842-aac2-44ee-8bbe-211f6ed0f61c",
+      "from": "UNI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "8924d2b7-3d11-4a61-a5c7-7afdb9ca1cdf",
+      "from": "WBTC",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "b1ce479e-f1d7-4774-b97a-2fbadb6f9fe0",
+      "from": "WBTC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "3605cf3e-e43e-4fac-8a7f-a425ef857306",
+      "from": "WBTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "e5fc1fd3-72f9-4c71-bbea-66538d27b73d",
+      "from": "WLD",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "53a70026-89f4-4e84-bb2c-5e812777cd3f",
+      "from": "WLD",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d91b7bae-2a76-4296-97f8-3e783b552e78",
+      "from": "XRP",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "1bad05a4-7c1f-40de-9fd1-9df48ac8823e",
+      "from": "XRP",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "467b0c27-abea-455f-b6e9-937dc8d07113",
+      "from": "XRP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "11d21ecd-87ed-420e-aa16-3f30b0320248",
+      "from": "XTZ",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "aee9ce62-69dd-4da3-85e5-683e5237b14c",
+      "from": "XTZ",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "1802e8da-5646-4b20-a45b-30273fa22364",
+      "from": "ZIL",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "886612f2-c12d-4b8e-a766-705c3c3692d0",
+      "from": "ZIL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "0a55495e-16fc-4799-9e8f-a40a0c819c67",
+      "from": "ZRX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "aa056c88-4598-4fda-b52d-ac494a68d2a8",
+      "from": "ZRX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "9bd9db6d-087f-4fa3-bc91-c43b594604c7",
+      "from": "API3",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "23804ba1-9468-4b1b-b6fc-ca0fd09a0b5b",
+      "from": "API3",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "c3eb02f2-1ea8-4c32-a787-592125255a61",
+      "from": "AXS",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "d2328bc0-a6ec-480e-ab17-114ab9464887",
+      "from": "AXS",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "bd4427eb-af90-41a5-90aa-25b89fae5bff",
+      "from": "BAT",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "09387bb4-53f7-48ee-b3a9-6be40c37898c",
+      "from": "BAT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "c21a8e9a-67e2-4a5f-b5f3-563b67b574ee",
+      "from": "CRO",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "1f42eadd-b7b3-47da-8d0f-034f4afdeeb4",
+      "from": "CRO",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "b630750e-58ac-4240-825e-525f70e17474",
+      "from": "CVC",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "c5e4ac8e-9532-410f-b6a7-97f846ca20dc",
+      "from": "CVC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "a3ff89cb-870c-4c09-8e9c-f6b1c8254579",
+      "from": "DYDX",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "33073440-651a-41ed-9e9b-d331bfdcba4f",
+      "from": "DYDX",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "a401765f-0b13-44a9-8a02-d39bc10c3b2e",
+      "from": "FLOKI",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "f395e200-5150-4b68-a39b-8c4745617347",
+      "from": "FLOKI",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "c840cd13-b669-4104-a316-91b47e910fe3",
+      "from": "FLR",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "e5439709-05da-4983-844b-6030f341287f",
+      "from": "FLR",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "21a6d132-2b7f-4b27-9d9a-dfcd613416e8",
+      "from": "FUN",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "8fd65006-5baf-4716-ab24-d2541c53950d",
+      "from": "FUN",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "3e7fcfa0-238b-4e79-ba54-cd7eb64ba211",
+      "from": "HOT",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "d614e0a9-98d4-4547-a178-f350d904eacf",
+      "from": "HOT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "50e8097b-e402-4dea-b82c-a409b9830f49",
+      "from": "KSM",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "99cb3c4e-1950-436f-8ff6-bf62d56dd5d9",
+      "from": "KSM",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "93936bd6-aa4a-4457-891c-dea942d5a923",
+      "from": "QNT",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "04d43ad5-a4ed-4a85-9e42-f6000fd99349",
+      "from": "QNT",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "762d7bd9-2b0b-4cfa-8287-b50e56bdf0ea",
+      "from": "SAND",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "f319215f-c04d-48bf-954e-1f368e740bce",
+      "from": "SAND",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "da51396a-ed54-438d-a773-47ddb6db26d2",
+      "from": "STORJ",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "7b010591-3b9f-4ea4-a17f-8e2a17795bc6",
+      "from": "STORJ",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "1e2746b0-2e17-429a-9e98-82239c8c854e",
+      "from": "UMA",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "9fd1198b-53ec-4915-b6c3-67512497c701",
+      "from": "UMA",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "847595b0-3ac0-4802-ab91-220f1e002811",
+      "from": "RUNE",
+      "to": "USD"
+    },
+    {
+      "tradingPairId": "b1fda0b7-d67f-4866-a8e4-7c2a583a61a8",
+      "from": "RUNE",
+      "to": "USDT"
+    }
+  ],
+  "regulations": [
+    {
+      "regulationId": "3391cc4b-4e4c-41f3-8f52-9939b339f379",
+      "regulator": "3fc33198-e71f-4f72-bf47-873371770efb",
+      "number": "1109697",
+      "printscreen": "Screenshot 2024-12-04 182631.png"
+    },
+    {
+      "regulationId": "eeaa0847-f70a-4cb0-acd6-84b35ddfcfdb",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000247904061",
+      "printscreen": "Screenshot 2024-12-04 183018.png"
+    },
+    {
+      "regulationId": "032d4fb4-ec68-46b3-8d9a-580bce902e18",
+      "regulator": "01a80e9b-d439-43a7-834b-33a7186d573d",
+      "number": "792",
+      "printscreen": null
+    },
+    {
+      "regulationId": "1164d440-697e-4515-80e9-6134bb25a3e4",
+      "regulator": "b78c0a87-7225-4de2-82a6-a7dc4eece5f9",
+      "number": "131469",
+      "printscreen": null
+    },
+    {
+      "regulationId": "c23b3fda-48c2-4794-86b4-6fd6b25179d7",
+      "regulator": "8c200e9e-7cf0-4824-b739-da9daf5028c9",
+      "number": "MT-1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "e8d4b9f6-34e0-4b6a-817e-54edbd4f6618",
+      "regulator": "ccff7c64-07b3-4231-8c2e-55b45cb628a6",
+      "number": "27793",
+      "printscreen": null
+    },
+    {
+      "regulationId": "13bf9692-3928-47e6-91e6-4fcc6cbaeb60",
+      "regulator": "63749821-be37-4aee-8f17-197c871926a8",
+      "number": "MTR1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "242d2ecc-4056-4303-b142-aa119e0451e2",
+      "regulator": "71c4573f-9420-4d47-a450-013295a4b8d4",
+      "number": "FT230000264",
+      "printscreen": null
+    },
+    {
+      "regulationId": "d5eb5b7f-23ac-4d81-b70f-9697fba83226",
+      "regulator": "818c1d36-414b-4950-b5a8-3217dbe41e91",
+      "number": "65882",
+      "printscreen": null
+    },
+    {
+      "regulationId": "ec8e6856-2187-4158-8a87-aba203b67b21",
+      "regulator": "b3d78659-ddf6-4cc0-b986-632a0891dced",
+      "number": "MTL 249",
+      "printscreen": null
+    },
+    {
+      "regulationId": "1a891184-eb25-495b-a718-973593c6d03b",
+      "regulator": "a38445dd-c2c7-4abc-938a-5d5e9cd3bce4",
+      "number": "MT.0000359",
+      "printscreen": null
+    },
+    {
+      "regulationId": "253b72aa-91f3-4b4c-ab4d-7d7f1e446874",
+      "regulator": "a94931e8-679f-45bf-998e-0035ab4b2aca",
+      "number": "2019-0032",
+      "printscreen": null
+    },
+    {
+      "regulationId": "de9d10ce-acf0-4bdf-87c0-649220cb9330",
+      "regulator": "d53e536f-ed0c-49ea-8fb6-fd8250096f3b",
+      "number": "MT.0000153",
+      "printscreen": null
+    },
+    {
+      "regulationId": "d025decc-d1bf-4fc7-9a2e-450349635161",
+      "regulator": "74524eb6-cc6f-4600-93e8-395f0e784963",
+      "number": null,
+      "printscreen": null
+    },
+    {
+      "regulationId": "94dde762-6ab4-48dc-8a34-feacd6ff0ec9",
+      "regulator": "4c400250-f973-4447-8dc0-e15c0f8082cd",
+      "number": null,
+      "printscreen": null
+    },
+    {
+      "regulationId": "050f0f88-4160-411e-a503-8b9c30e554a4",
+      "regulator": "0be7fce5-e05d-4616-9237-f13bd7a17984",
+      "number": "12-1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "776b64d1-f0d2-4d09-9bb2-8a09222c8724",
+      "regulator": "afb91e3c-e292-435e-9e67-99fea6b3856d",
+      "number": "MN-MT-1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "9887a955-ac39-4d44-957c-5e0384d975ef",
+      "regulator": "e783503c-1e8d-4f51-8392-e9080eec96a8",
+      "number": null,
+      "printscreen": null
+    },
+    {
+      "regulationId": "a71803c9-17c5-49b2-95ab-ce17a1f947d0",
+      "regulator": "5eb0f4c4-4bac-463b-97c2-573a86784d54",
+      "number": "MT11107",
+      "printscreen": null
+    },
+    {
+      "regulationId": "6f341b05-8897-42ae-8f3c-a64c71076078",
+      "regulator": "024382dc-0e2c-4d80-943b-821390803227",
+      "number": "22937-MT",
+      "printscreen": null
+    },
+    {
+      "regulationId": "461a1ea8-ea29-48fa-b98e-cbcb0618fb53",
+      "regulator": "6e6a2b9c-a01b-489f-9daf-0b73eabf15a3",
+      "number": "1903929C22",
+      "printscreen": null
+    },
+    {
+      "regulationId": "b016499b-1b58-4a03-b153-364d898692ab",
+      "regulator": "8ebcf20d-41df-42e2-8ec4-f53a382e8079",
+      "number": null,
+      "printscreen": null
+    },
+    {
+      "regulationId": "7d0837b6-b983-4504-a528-0c3cec59e108",
+      "regulator": "709b1910-3e30-49b2-8e58-e300c17f1601",
+      "number": "184054",
+      "printscreen": null
+    },
+    {
+      "regulationId": "3c7c0092-e562-4050-9d83-8e7a238055f2",
+      "regulator": "740f203e-30c3-4fc6-aa15-fa89c114fc48",
+      "number": "MT104354",
+      "printscreen": null
+    },
+    {
+      "regulationId": "835817de-74ef-4742-88db-5c4615b85615",
+      "regulator": "a24ff13d-a10d-41b7-ac5b-0ccb2c00efe4",
+      "number": "OHMT176",
+      "printscreen": null
+    },
+    {
+      "regulationId": "2d7da374-4295-4b99-8eb7-9bce339c93f1",
+      "regulator": "3e3fe6a0-9112-4564-a4cc-167b0d79143b",
+      "number": "OKDOB001",
+      "printscreen": null
+    },
+    {
+      "regulationId": "126941a7-ef36-476c-899a-99f75f80a2a1",
+      "regulator": "c5069282-cafc-418c-81ef-eb4b3fc6fb34",
+      "number": "30237",
+      "printscreen": null
+    },
+    {
+      "regulationId": "3f6ebfd9-a829-48cf-9fcb-4dcf8a1b93ac",
+      "regulator": "712bd304-d084-437f-9a9e-dcac7cf02ca7",
+      "number": "20203907CT",
+      "printscreen": null
+    },
+    {
+      "regulationId": "33f82c67-c0b0-4929-862c-a0a9ad6125f5",
+      "regulator": "ef74576c-bf37-4bf9-b737-0f5b2c96d1ac",
+      "number": null,
+      "printscreen": null
+    },
+    {
+      "regulationId": "1f4bd5d5-4e17-452e-acb5-fba133d2b6c6",
+      "regulator": "04d7a670-52d6-4d14-8347-dffe4943479a",
+      "number": "1804170.MT",
+      "printscreen": null
+    },
+    {
+      "regulationId": "f7347e6d-b88a-436e-9ac4-a9fd7c58a932",
+      "regulator": "5af99b87-4e9a-47a7-8608-499e43e1ffe4",
+      "number": "1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "5bdd0184-a61e-47d4-af11-e0a3ef2b9560",
+      "regulator": "df01eed0-20c9-4ea9-9845-f2697044b79e",
+      "number": "3223",
+      "printscreen": null
+    },
+    {
+      "regulationId": "76371c2a-fbe2-410e-8452-93a1c1a71eb2",
+      "regulator": "87088685-9636-45ab-a3da-6394d14403de",
+      "number": "100-139",
+      "printscreen": null
+    },
+    {
+      "regulationId": "1fb0f590-271f-40b2-a272-d7bfd679e94e",
+      "regulator": "1d2e1cd4-703f-432c-9f5b-077776e383e4",
+      "number": "MO-416",
+      "printscreen": null
+    },
+    {
+      "regulationId": "4686e86f-a4ac-4300-9494-ae58d5384e12",
+      "regulator": "c3a53ef0-3acc-4c29-8b60-7e7ad172d48c",
+      "number": "550-MT-1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "434600a4-90ea-4873-a57c-d9febc6d8a47",
+      "regulator": "be26e395-1335-41c9-b183-34750752fa65",
+      "number": "WVMT-1804170",
+      "printscreen": null
+    },
+    {
+      "regulationId": "644efaea-6e91-43c0-9c2c-461cd79f4a6d",
+      "regulator": "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+      "number": "306186479",
+      "printscreen": "Screenshot 2025-01-17 113510.png"
+    }
+  ],
+  "vaspSanction": null,
+  "onChain": null
+}

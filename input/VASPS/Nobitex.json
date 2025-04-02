@@ -1,0 +1,82 @@
+{
+  "vaspId": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+  "commonName": "Nobitex",
+  "url": "https://nobitex.ir/",
+  "domiciledCountry": "IRN",
+  "hqRegion": "Asia",
+  "isSanctioned": true,
+  "directOnramp": true,
+  "indirectOnramp": "",
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2017",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "25119753-3f36-45ab-ac1b-df1192dd79f0",
+      "vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "type": "Exchange"
+    },
+    {
+      "vaspTypeId": "8213f1dc-0eb1-44f6-bcec-d1d818f33476",
+      "vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "type": "DeFi Exchange"
+    }
+  ],
+  "names": [],
+  "countryRel": [
+    {
+      "countryRelId": "2a3db315-8d08-4fdf-bed1-f40812167b13",
+      "country": "IRN",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": "Black List"
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "0814c476-32bd-4150-9a48-3303de1cee99",
+      "createdDate": "01/27/2025",
+      "customerInfo": "Email address && phone number, legal name && DOB && Government ID && Verified bank account && selfie && country of citizenchip",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": false,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": "1000000000000",
+      "currency": "IRR",
+      "limitFrequency": "Day",
+      "Notes": null,
+      "internalNotes": "Details and screenshot taken from here: https://www.youtube.com/watch?v=mD2NhMgEu6o"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "c0677dac-2c79-4573-ba48-f9b6aa98f738",
+      "paymentMethod": "Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": "IRN",
+      "onrampProvider": null,
+      "account": []
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}

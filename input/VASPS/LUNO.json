@@ -1,0 +1,744 @@
+{
+  "vaspId": "53ca0b28-cf89-453c-80f2-0e5fe56ca50e",
+  "commonName": "LUNO",
+  "url": "https://www.luno.com/",
+  "domiciledCountry": "GBR",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2013",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "04f0930b-0146-4dd5-9c11-899e09b4e13e",
+      "vasp": "53ca0b28-cf89-453c-80f2-0e5fe56ca50e",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "5b8e8783-4a0a-4ed1-bed7-a6f0cc1825a0",
+      "type": "Formerly",
+      "name": "BitX",
+      "country": "GBR"
+    },
+    {
+      "nameId": "1229960f-ae0a-4977-8ecc-73612b8749f8",
+      "type": "Legal",
+      "name": "Luno",
+      "country": "GBR"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "ad44d9f0-4529-44e1-9990-a8dff64406d0",
+      "country": "ZAF",
+      "type": "Offices In",
+      "calculateSanctionByCountry": "Grey List"
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "dd66c8f4-b551-4d5e-b753-3fd550fff0e9",
+      "createdDate": "02/20/2025",
+      "customerInfo": "Email address && Government ID && Selfie && Legal name && phone number && address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "Notes": "Each country has different limits",
+      "internalNotes": "https://guide.luno.com/hc/en-gb/articles/11035643143325-What-are-Luno-s-fees-and-transaction-limits"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "f75f7136-c779-4875-bf56-86420ac0e486",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "198d5272-77a4-4f62-b431-12d2b46da865",
+          "number": "51410583",
+          "bic": "SBZAZAJJXXX",
+          "iban": null,
+          "routingType": "SWIFT",
+          "localRouting": "051001",
+          "bank": "817eb9c8-53d9-4f33-a9cc-6cd132eabc54",
+          "bankRole": "Custodian",
+          "vasp": "53ca0b28-cf89-453c-80f2-0e5fe56ca50e",
+          "country": "ZAF"
+        }
+      ]
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [
+    {
+      "tradingPairId": "3bff4bfe-36dc-417f-b81a-90c4c0da50cc",
+      "from": "ADA",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "3c2f99ac-ecbe-4990-9d80-ed158ef82a6b",
+      "from": "ATOM",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "62e31407-1980-40cd-a3a6-ce1717411d6a",
+      "from": "AVAX",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "26b5e016-d42d-4ffb-a267-28daa5cfb79a",
+      "from": "BTC",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "4f9cd224-9d2b-4c72-8f96-76d1e6f827b9",
+      "from": "ETH",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "984c4a51-166e-4c6f-9680-60ee243867cf",
+      "from": "MATIC",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "7ac1ddbf-1340-4715-817c-5659c7c9ff94",
+      "from": "SOL",
+      "to": "AUD"
+    },
+    {
+      "tradingPairId": "d1c7d9b7-e283-4f79-b1c3-a6a30444a5bd",
+      "from": "ADA",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "c7eab42a-d0dd-4aa6-8d40-91ead0be66c1",
+      "from": "ATOM",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "4cef6265-1027-4d72-a8ef-b85d826c305b",
+      "from": "AVAX",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "a39c7813-ccd8-4108-bd87-66f492a1c620",
+      "from": "BCH",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "1c36d4d1-8dc8-4981-9ada-fb157aff0ee9",
+      "from": "BTC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "2a006037-99c1-497e-a94b-46bb831db0d4",
+      "from": "DOT",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "6c42be9a-a86c-4d13-834e-6361ae438ad5",
+      "from": "ETH",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "9638ce68-167b-4682-8789-992a7d4431dd",
+      "from": "ETH",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "358c540c-dca6-4006-8515-0d815e5c013c",
+      "from": "LTC",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "6a3e1747-4924-4028-ac7b-d1e767b1e281",
+      "from": "MATIC",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "23516777-8214-4af0-b66b-0cd9de1659c9",
+      "from": "SOL",
+      "to": "ADA"
+    },
+    {
+      "tradingPairId": "c750081b-c66e-4e6d-8fdf-901d73d77407",
+      "from": "SOL",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "d7b39127-b5bd-4244-bd64-1ac8d95ffc05",
+      "from": "SOL",
+      "to": "XRP"
+    },
+    {
+      "tradingPairId": "aeb205c5-fa9d-41dd-9e79-ea89b0f85e80",
+      "from": "XRP",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "b8451027-15b7-4f84-8b03-252cfb7a598a",
+      "from": "ADA",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "fa512f0f-092a-443e-ad99-47e45012a0e1",
+      "from": "ATOM",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "41425457-b9e1-4a3f-b045-45a412a894a5",
+      "from": "AVAX",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "44efa730-2ee2-45fc-97aa-46f07d4ef095",
+      "from": "BTC",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "3bdb7b23-c57e-4074-9fac-00a72e97b4ae",
+      "from": "DOT",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "39d20dbe-02df-4796-b8d1-33dab1942422",
+      "from": "ETH",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "298998ca-69dd-4cd0-a066-368cd6a7e3ac",
+      "from": "MATIC",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "5970954e-7879-47e7-b9a9-d4800336202a",
+      "from": "SOL",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "abf25aff-18d7-4338-b4f9-069ca9e64b31",
+      "from": "USDT",
+      "to": "IDR"
+    },
+    {
+      "tradingPairId": "d9a84294-f79b-407a-a105-716364a38a81",
+      "from": "BTC",
+      "to": "KES"
+    },
+    {
+      "tradingPairId": "70a95483-ad11-4a6c-9195-4f9c810678bd",
+      "from": "ETH",
+      "to": "KES"
+    },
+    {
+      "tradingPairId": "bf2c8a28-3d22-464d-b50b-c24b2e934b82",
+      "from": "AAVE",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "c12ff98b-a4de-404b-bf04-01a57e02b47c",
+      "from": "ALGO",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "580e98c3-2392-4319-8418-3725fcd6742c",
+      "from": "CRV",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "2e104f90-e8b1-417c-af72-b7aed26322d2",
+      "from": "FTM",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "401e0935-fc50-4daa-8265-349351048405",
+      "from": "MKR",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "e8e23be5-bca2-44bf-bf17-d54afbdcb184",
+      "from": "NEAR",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "20363b18-240c-4b73-942e-2bb873d38bac",
+      "from": "USDC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "a9fee8e4-4045-443b-80b2-fbf4b5c1ac7e",
+      "from": "XLM",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "ca2b0ea0-41fd-4d72-b81b-ec643412fc85",
+      "from": "XRP",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "d8a0dca9-0904-4ac8-a306-1e659081b39d",
+      "from": "AAVE",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "6cbbb3c8-6203-4691-a534-b361064ab924",
+      "from": "BTC",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "5f56cf24-21a6-49a7-b82b-649528e901fa",
+      "from": "CRV",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "8d701c6b-80d1-4f97-9b5c-002e2a172311",
+      "from": "ETH",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "8cfc0998-f2af-4439-9024-79e63d81c193",
+      "from": "XLM",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "7b4c3e11-1da5-4680-a7fa-0540581366b1",
+      "from": "XRP",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "6ed0ccd4-1f5a-4484-9b94-16af4bfeeec6",
+      "from": "LINK",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "b360414a-e694-4151-b52a-379f6c589512",
+      "from": "UNI",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "16ae0cbf-6bf3-44c1-8cb2-c401c70f0d35",
+      "from": "LTC",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "fbb266d6-2c11-4520-ab74-c5918aec1c52",
+      "from": "BCH",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "36261218-4a7b-49f0-a603-a03be0a4f753",
+      "from": "ADA",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "3dd83f68-bf68-480f-888b-5c652022f1c5",
+      "from": "SOL",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "ad700d59-2492-466b-8363-3465bd6764be",
+      "from": "SNX",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "6c107e4c-d496-409e-a4e1-804b4d94c48e",
+      "from": "AVAX",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "f2a6d0c4-df2f-4e15-89ec-1f05b172eff0",
+      "from": "ATOM",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "5763c0af-2a6b-4541-a1fc-2f899b6ecb6d",
+      "from": "DOT",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "6c820614-9aa1-4587-88c5-9f98c8993fa5",
+      "from": "MATIC",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "57de5ef0-4749-4a43-ae2c-02952b07100a",
+      "from": "MKR",
+      "to": "MYR"
+    },
+    {
+      "tradingPairId": "e4367aee-6341-480f-8002-d0eccbf7d261",
+      "from": "AAVE",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "00abf6dc-9804-497d-b6b4-2151fdc1ff65",
+      "from": "ADA",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "bba08e1e-0926-4410-b9f0-4b7d4f84d274",
+      "from": "ALGO",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "2e23d4dc-ba45-48c0-9d06-f7b3635f8c64",
+      "from": "ATOM",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "38ea2cac-1bea-4ddd-bcb1-8c2f76ef0b2b",
+      "from": "AVAX",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "19ee5f29-48bb-4733-a160-27541970b904",
+      "from": "BTC",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "14425fb0-7781-4276-8385-cc3ae7e8531c",
+      "from": "CRV",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "90e00f3e-9179-4c2d-8112-1830930d80de",
+      "from": "DOGE",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "383f0bb2-b7bf-4cea-ad96-d6b87d5a1eaa",
+      "from": "DOT",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "b48f2074-64ec-4eb6-81da-dfc5d3bc7179",
+      "from": "ETH",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "6761bcdb-ce0d-4428-9578-55864ea28b20",
+      "from": "FTM",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "15f92f02-c21e-446b-8f6c-c23f0933aabc",
+      "from": "GRT",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "edfa6465-3804-4dcd-98c4-014b753ca7b9",
+      "from": "LINK",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "3d8a8b97-3df4-420f-ad00-7c0433fe9419",
+      "from": "LTC",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "a22054ab-ba4e-458b-9d62-f0f35d410476",
+      "from": "MATIC",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "204f4e2d-fd02-4502-ade5-fd0b0af2d4ba",
+      "from": "MKR",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "797dfe0b-9943-4a48-95f2-8e934376c6ae",
+      "from": "NEAR",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "aaeb6474-2213-4e1a-9597-50bafddadee7",
+      "from": "SAND",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "014be568-535f-4e0a-be8d-4b43f8e7dae1",
+      "from": "SNX",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "7843be55-95ac-4299-8814-d72b13d977d8",
+      "from": "SOL",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "ac1ac95d-b4fd-496e-8840-eb17b90755b0",
+      "from": "TRX",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "252a0fbc-8891-4317-b60f-1479d31c5cd8",
+      "from": "UNI",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "5bfc1a38-4a8b-44ed-b813-903b82ef6440",
+      "from": "USDC",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "88356046-250e-4fe7-aaa6-865419487c39",
+      "from": "USDT",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "aff023a6-d887-45a9-b935-34f530326c9d",
+      "from": "XLM",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "297335de-21d1-4989-8f69-ceb8b6c411cb",
+      "from": "XRP",
+      "to": "NGN"
+    },
+    {
+      "tradingPairId": "85c7d2c3-c67f-4265-9736-195c5f941006",
+      "from": "BTC",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "e5ab8e18-0dbf-4b0e-a517-21690aeba191",
+      "from": "DOGE",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "a77799c1-96bd-4eda-8104-0c37d85b3526",
+      "from": "ETH",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "e4c48d88-9c20-4d0b-8c42-fc5e9ae578c2",
+      "from": "GRT",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "8d0934ab-f1f6-4a3b-af33-69eee1562871",
+      "from": "SAND",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "ca7595e4-0882-43cc-bf48-5846259fef50",
+      "from": "SNX",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "080a3c91-8832-4eb2-a306-163de0b09b60",
+      "from": "SOL",
+      "to": "USDT"
+    },
+    {
+      "tradingPairId": "ca5db457-2602-4361-b006-fa077851e178",
+      "from": "TRX",
+      "to": "BTC"
+    },
+    {
+      "tradingPairId": "758f8636-7409-4d5b-9255-81467645efc9",
+      "from": "AAVE",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "0bc3720c-47aa-47c8-b725-0d648d4fccce",
+      "from": "ADA",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "b7dc9a77-7587-477c-8476-7cf3e17d3293",
+      "from": "ALGO",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "3fe30c15-4512-4ac1-8c3f-62a0a5a93c6b",
+      "from": "ATOM",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "c6f5ef07-0863-4fb5-ab17-6623b40ed20d",
+      "from": "AVAX",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "16104f7b-b46c-48ba-94a2-d2497e93cdc1",
+      "from": "BCH",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "8210a8c6-e891-44d9-9a46-a0d54abe2e5f",
+      "from": "BTC",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "3e6c9d0b-1090-40a8-a93d-0a6149f201d1",
+      "from": "CRV",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "84dd902d-bbf6-4dee-b6a7-9daeddb52103",
+      "from": "DOGE",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "ba3fc170-c03c-41c8-9c5b-e50da3b58b36",
+      "from": "DOT",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "eeff3971-358a-4c76-a8bf-a12356ccbd45",
+      "from": "ETH",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "472f4fdb-deb9-4a02-be4f-90d4864f7b0e",
+      "from": "FTM",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "5dee2274-0d93-4b81-b797-4b2f577363fb",
+      "from": "GRT",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "d4f230b0-0421-4d15-adf2-89655abf63e6",
+      "from": "LINK",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "bb99f9e4-f956-4728-9e4d-9f3edba2593e",
+      "from": "LTC",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "da99f16f-19ce-4a82-b84e-e1a2af4c032e",
+      "from": "MATIC",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "7f826bf1-0efb-4b95-8723-f9472371bcb0",
+      "from": "MKR",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "3ad006a1-ce8e-4521-b302-90b05a7b3df5",
+      "from": "NEAR",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "c5063855-224d-4889-9aed-bd39371a59cc",
+      "from": "SAND",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "14050894-e4f3-4716-abbe-39125552d74d",
+      "from": "SNX",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "8daa0850-ef1f-4601-9529-8b3d27e3fb66",
+      "from": "SOL",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "33fc1de0-b0c8-4715-b420-e6e40346d2dd",
+      "from": "TRX",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "26dd6fc4-5125-46b3-805a-90368d5c42cb",
+      "from": "UNI",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "daf19226-003f-4d05-812f-eb60416b7955",
+      "from": "USDC",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "f5828e59-d200-4e9a-a457-afda13aa53c7",
+      "from": "USDT",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "de8217f7-7245-46a4-a73a-083e82d64d8a",
+      "from": "XLM",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "aae3421a-e96d-46cd-9451-07227d2549d7",
+      "from": "XRP",
+      "to": "ZAR"
+    },
+    {
+      "tradingPairId": "e4ca1c72-e828-4c2f-b184-1167b410bc48",
+      "from": "ADA",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "ba267a1b-9a1d-4b3b-8905-2d6b560dd05d",
+      "from": "ATOM",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "4fcac16e-04e9-40d0-afe6-ad9566a3602c",
+      "from": "AVAX",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "76dd517f-489b-49bf-b25b-1bf6dba9ea39",
+      "from": "BTC",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "0081bbf8-e024-4895-bb95-5f8aa526fa8b",
+      "from": "MATIC",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "79129b8a-9fd0-421e-aff7-35bead6d2675",
+      "from": "SOL",
+      "to": "UGX"
+    },
+    {
+      "tradingPairId": "43ca43e7-ec86-4c1b-a6d2-cec04d1c8454",
+      "from": "BTC",
+      "to": "GBP"
+    },
+    {
+      "tradingPairId": "c4510e11-d243-485b-89dc-e2e3895e0195",
+      "from": "ETH",
+      "to": "GBP"
+    }
+  ],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}

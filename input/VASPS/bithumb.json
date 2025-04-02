@@ -1,0 +1,68 @@
+{
+  "vaspId": "2d0ef03b-4f22-4f2a-97f4-2b225f04595e",
+  "commonName": "bithumb",
+  "url": "https://www.bithumb.com/",
+  "domiciledCountry": "KOR",
+  "hqRegion": "Asia",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/05/2014",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "2177e0cb-2bfb-4e6e-9312-2ab59911b5dc",
+      "vasp": "2d0ef03b-4f22-4f2a-97f4-2b225f04595e",
+      "type": "Exchange"
+    }
+  ],
+  "names": [],
+  "countryRel": [
+    {
+      "countryRelId": "2ad04777-2fa8-4974-9b1d-4e8fdcd8fc9d",
+      "country": "KOR",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "4351ed6e-cb2b-4bdd-ae17-738bcbc73f70",
+      "createdDate": "02/14/2025",
+      "customerInfo": "Phone Number || Email Address && Address,Selfie && Government ID, Proof of Residency",
+      "requires2fa": false,
+      "legalNameRequired": false,
+      "dobRequired": false,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": "5000000",
+      "currency": "KRW",
+      "limitFrequency": "Transaction",
+      "Notes": null,
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [],
+  "billingDescriptor": [],
+  "tradingPairs": [],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}

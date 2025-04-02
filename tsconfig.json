@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "ESNext", // Use ES modules (this will allow you to use import.meta)
+      "target": "ESNext", // Use modern JavaScript features
+      "moduleResolution": "node", // Resolve modules like Node.js
+      "esModuleInterop": true, // Ensure compatibility with CommonJS modules
+      "strict": true, // Enable strict type-checking options
+      "skipLibCheck": true, // Skip checking library files for errors
+      "forceConsistentCasingInFileNames": true // Ensure consistent file naming
+    }
+  }
+  

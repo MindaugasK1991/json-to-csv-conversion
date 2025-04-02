@@ -1,0 +1,2350 @@
+{
+  "vaspId": "af9f0a20-a549-499f-abbf-8a6f6cb570b7",
+  "commonName": "Bitvavo",
+  "url": "https://bitvavo.com/",
+  "domiciledCountry": "NLD",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2018",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://support.bitvavo.com/hc/en-us/articles/4405187032721-Transaction-monitoring",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "d64ee4d4-b7b0-4b04-b4bd-74f059fe005d",
+      "vasp": "af9f0a20-a549-499f-abbf-8a6f6cb570b7",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "099f87f8-60f6-4ad2-8181-20c99b269dbc",
+      "type": "Legal",
+      "name": "Bitvavo B.V.",
+      "country": "NLD"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "ecdab79d-73d7-411d-9a85-9153d399e586",
+      "country": "NLD",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f2f74fb6-3707-4b9a-b1c7-6b7168c752c4",
+      "country": "AUT",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "704f13df-134a-42f2-885d-6709813269a3",
+      "country": "BEL",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "4b262e25-2080-4994-aabd-c2b334c0bf64",
+      "country": "BGR",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "a86addd2-1fde-472a-971d-378df491aec5",
+      "country": "CZE",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e8755a8e-f7f4-4e72-9336-98a7785614ef",
+      "country": "DNK",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "67d6cd67-b997-4c68-86f1-63d935316204",
+      "country": "EST",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "1666af29-9528-411d-9e33-981778bf78a2",
+      "country": "FIN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "99a5a6ee-33e7-4fc3-ba4f-52fbb622b515",
+      "country": "FRA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "db96fb7c-6550-4bbf-aa28-8a2f2a9152fc",
+      "country": "HUN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "1cdde512-f6d8-4998-b842-ef66f09e5894",
+      "country": "IRL",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "79a74ca4-c826-496d-b68c-0a3850f1a79d",
+      "country": "ITA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "297dedb4-c957-46d9-bb6d-e45bcfdee5ce",
+      "country": "LVA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "77330f5b-62c8-4a83-aa65-f07c3978d58b",
+      "country": "LTU",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c09084d1-e4df-489a-b064-5c087037ebed",
+      "country": "LUX",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "015578d3-7a74-4217-9b5a-1df84eaf2940",
+      "country": "MLT",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "dff4397f-8aef-4005-aeb1-3000e5cf42d5",
+      "country": "NLD",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "99a05b0d-056b-4338-9c47-6df33a885859",
+      "country": "NOR",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7d14837a-3237-42c7-83de-f68c5dc8203a",
+      "country": "POL",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "84f7b68b-7b4d-46b9-92fb-c65489fc5647",
+      "country": "PRT",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "210f70ab-ce9f-429b-b06d-cff92284feb9",
+      "country": "ROU",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f9de83bb-c4a3-4250-8333-6abe311b4eea",
+      "country": "SVK",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d18c3004-b286-4033-9266-cfb30e5701aa",
+      "country": "SVN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "3617a412-ac45-4c1a-ba0c-5a3de28054ab",
+      "country": "ESP",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2ab8b5ff-8e65-44d1-bc5d-e8ca21daa287",
+      "country": "SWE",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ed569ee9-bab2-40b3-8a98-e4667b0d8b6b",
+      "country": "CHE",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "71d2a5a4-a089-4f31-a06e-b9fbde724f17",
+      "country": "GBR",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "d7e47c2e-e2f9-4484-98f5-6dc2a1285fae",
+      "createdDate": "02/25/2025",
+      "customerInfo": "Legal name, Email address && Nationality && DOB && Government ID && SSN && Residential Address && Proof of Address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": false,
+      "videoRequired": true,
+      "transactionLimitsExist": true,
+      "amountLimit": "1000000",
+      "currency": "EUR",
+      "limitFrequency": null,
+      "Notes": null,
+      "internalNotes": "https://support.bitvavo.com/hc/en-us/articles/4405187872657-How-can-I-deposit-euro-to-Bitvavo"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "658018eb-163f-44ad-8263-f43b13fa7a31",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "aa71dc52-4f76-464a-b37b-f1b47157c45c",
+          "number": "BUNQ2291234129",
+          "bic": "BUNQNLADXXX",
+          "iban": "NL23BUNQ2291234129",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "4535556b-7a3e-4b74-a699-6f5a2a6d8076",
+          "bankRole": "Custodian",
+          "vasp": "af9f0a20-a549-499f-abbf-8a6f6cb570b7",
+          "country": "NDL"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "b9fb80e7-9a5e-48c2-8db5-ba77769d1ced",
+      "paymentMethod": "Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "92e3e3a2-16af-4ae1-81e2-047f20b31192",
+      "paymentMethod": "iDeal",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "ba7bd618-cacc-49bb-83b2-bb809ac3a73f",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "14c9aca1-7b9d-4317-ac5c-fbd699b2a506",
+      "paymentMethod": "Sofort",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "7969d8b7-4d1c-470c-baf7-d0df2002d8ae",
+      "paymentMethod": "Bancontact",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "03f92137-527d-4521-a5b5-a72201119339",
+      "paymentMethod": "EPS",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    },
+    {
+      "paymentMethodId": "82d533e0-0aee-43d1-96ba-45dbf7857ad5",
+      "paymentMethod": "Giropay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": []
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [
+    {
+      "tradingPairId": "cf8fe0c1-258a-43a7-a777-ae19927554c2",
+      "from": "XRP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "38b95642-e9cb-4854-a7fc-ca2ebca7b832",
+      "from": "BTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "42642250-aaca-4603-bb2f-3ef14224484c",
+      "from": "ETH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "79eada07-5f97-4505-84de-526e919d89b0",
+      "from": "SOL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9812103d-76b7-4609-9a5c-894bcbd4e4af",
+      "from": "TRB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f2cab209-c8f4-4a79-a9ba-5529c45819f9",
+      "from": "KAITO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0ca865e4-e0b2-4deb-961c-cf50cd39152c",
+      "from": "SUI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "db8120a6-41e4-4d11-86a2-2f1680941be9",
+      "from": "DOGE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "aba4a7da-195e-404f-957a-ca6ca1863535",
+      "from": "ADA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7877e412-79b4-4e87-8532-32408c6336d3",
+      "from": "HBAR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "dcd218f3-a460-4354-99c7-27d72ab2d64a",
+      "from": "WIF",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cceed421-0ba6-4f67-95dd-0b686dc417b9",
+      "from": "IP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "bc8084f9-cebb-4ae8-9e72-66e5005106d3",
+      "from": "USDC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6d39d977-8101-48aa-a23b-9a892173ed60",
+      "from": "S",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "823e39ca-491c-40d0-a292-e8df7b2fd34c",
+      "from": "MKR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8084e544-51d1-4e02-a138-578ec0e403b0",
+      "from": "MOODENG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0e959ce9-bb6a-43e6-bf33-43a127a3086c",
+      "from": "LTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "63479ed1-1956-422b-9b25-7b25c2583647",
+      "from": "RAY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fc2d537c-99a4-4e2f-a318-eac8d24530b1",
+      "from": "OM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "45237e6c-55ae-4910-8195-62b99fef7fc6",
+      "from": "BNX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "56c4b6c8-b0a5-4f8b-92e6-36c7da15e68d",
+      "from": "ZK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8d462dec-9c20-48ab-beb2-6f338ef3e65b",
+      "from": "RUNE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a936314a-4f4c-4b86-910c-54d5e7c3cba1",
+      "from": "ONDO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f313c531-1087-4373-9f20-69cce053ac01",
+      "from": "TAO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "071f1857-6ae7-4843-ac9c-8a0bdee9190c",
+      "from": "ETH",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "1123aa82-107d-44af-8af7-2283aec17dbf",
+      "from": "PEPE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4da7ec62-695b-4aad-81d5-9df1daceadf7",
+      "from": "SEI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cf32c34c-501a-4b5e-98e7-f601b34d9f86",
+      "from": "GLM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4a74f3bc-1ca3-4c19-8002-3dfb6d8cfa82",
+      "from": "FET",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3dd113b9-d8c2-4d22-bf99-08028cd0bbbd",
+      "from": "AIXBT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ec72d0b1-4542-4a75-9ea8-d82fef7c8641",
+      "from": "LINK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "98248e74-f5ef-4811-8ea0-da3c0a6fd1cd",
+      "from": "PNUT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c99f00ff-5220-42c1-9b02-672417f62576",
+      "from": "TIA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "73b58a13-c766-4208-b3d8-2df159d438a7",
+      "from": "INJ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "00fc76c6-6d2a-4808-8f79-615e166ea52f",
+      "from": "HYPE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "12fc8f6b-f393-47a5-9a88-1592672ece32",
+      "from": "TRUMP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "040f0f7c-a113-4326-80ae-c829934da242",
+      "from": "TNSR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "16279392-7c60-4cf8-91cf-108c810c57c9",
+      "from": "JUP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "74c6b51e-c1d1-4992-98b0-f1a5caade814",
+      "from": "BTC",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "4efdd318-4591-449f-939a-e05c1e0d819a",
+      "from": "VIRTUAL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c73e66bf-dbd7-44ec-97b1-4a54984c9ef4",
+      "from": "QNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "378e3e60-ce7e-40e0-ae42-80ce5cc3f0c2",
+      "from": "VET",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "70755fdb-8050-4fa8-aa2a-525b16b5bb58",
+      "from": "EIGEN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cea0a1e1-814b-4297-b590-31fbff36c99e",
+      "from": "WLD",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d968eece-d17b-4c7f-8ba5-42c589872100",
+      "from": "NEAR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f9f4f4a6-7ef4-47bc-a016-8386bbe6b354",
+      "from": "RENDER",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "eca2fe80-e032-4679-82d2-187a40fb4b17",
+      "from": "GALA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4178ed2e-7855-4f6b-8197-1c4f37b93b8b",
+      "from": "MOG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "eeabd989-b3cb-4179-adc1-626323859d05",
+      "from": "LISTA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6da2d21c-ae3f-403b-945e-26085a15ea6a",
+      "from": "PYTH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "46da10bb-d98b-4aed-9bab-0aa474fb1c2b",
+      "from": "ANIME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7f6b7ccc-0baa-408b-be6f-c351ab9a3955",
+      "from": "JASMY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "00223a1d-facd-40bf-99f2-a83a98f918b6",
+      "from": "POL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4f14c7a3-8842-4cde-abb4-392a10682cee",
+      "from": "ACH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "31e01860-8b44-4f2b-a709-2ddfc3544de9",
+      "from": "ALGO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f622fc79-9bfc-4d0a-ab86-5972f99ae0c1",
+      "from": "AVAX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e688dc1a-41ba-44b5-8147-6f1b546f7d82",
+      "from": "NOT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8ea42106-4d25-4b5f-89e0-6996eb4e1792",
+      "from": "OGN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "36c7df20-58eb-4d6e-873e-82bb0fb05a8a",
+      "from": "ARB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d48574b6-ac02-4e65-ab55-ac5dbb33ad61",
+      "from": "SHIB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e2c4a48f-a701-4603-99e8-6a83aad6a9af",
+      "from": "CHILLGUY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8856a49b-9e49-4d07-b4f7-323801888417",
+      "from": "XLM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f09d0221-e37e-41b0-8bcd-f04aadb329a1",
+      "from": "SWEAT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f9eeeb4f-4223-4366-8371-1ced17dab5c0",
+      "from": "BONK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "14f3939c-25ea-41b0-915f-102f7e9959e1",
+      "from": "KAS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0305d59c-b2b9-40ff-b10a-8a03e1a38a06",
+      "from": "ENS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "36821208-e13d-4103-b84d-8c312ce22329",
+      "from": "ARKM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f51b51ab-02c5-40ab-9212-998190078b2d",
+      "from": "TRX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0f8843c2-6a7a-4189-83da-eefe0d876370",
+      "from": "AAVE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f7691524-e98d-4238-92f5-4d2fa9e88fbf",
+      "from": "DOT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cd81de7b-f231-45a7-ad76-7fa5886d7056",
+      "from": "MICHI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fef45b4d-383c-406c-a4fa-9d25126bcc2a",
+      "from": "PENGU",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cdcae001-9b77-46e6-9be9-8799a9f48d43",
+      "from": "AXS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2a00ee39-86dc-4b62-ae20-32bd10f35df4",
+      "from": "AEVO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c8f90adc-134e-48ce-912b-62b367d18891",
+      "from": "MOVE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "42d213ef-a1be-40cf-8650-4e33facc16d8",
+      "from": "DNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0c332cf3-9ef6-4027-a9dd-f0f23ef631fb",
+      "from": "APT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "52379381-5411-44a4-a47e-6322e8544bae",
+      "from": "FLOKI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d0f9caab-5823-43d5-a4c2-7c0360b45fe5",
+      "from": "CAKE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a87eb78e-8743-4355-8664-3c0915b226a2",
+      "from": "ICP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f6c67918-b18b-429d-9477-da7b846c9306",
+      "from": "GRASS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cd5128d3-0a1f-4b1d-a638-a020a6067698",
+      "from": "THETA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3b2a5d9a-90bf-450a-b60c-4c641a33031d",
+      "from": "STX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e7b777a3-cde6-48bf-8917-2fada41b534f",
+      "from": "CLV",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4bc223ec-4472-4ad2-b04c-18590c44255c",
+      "from": "AUCTION",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "210c2d49-7735-4037-844d-d7c232804230",
+      "from": "AXL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "37bd5e9c-2fae-4238-a55a-204b5917e139",
+      "from": "BNB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6ba39fb1-c4a1-42ed-90a1-2395a88cb9d3",
+      "from": "HEI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "660088ac-65bd-455a-81a0-88c55c13eaeb",
+      "from": "CRO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9bba376e-c1ce-4ddc-b6d5-d35695f57897",
+      "from": "ETHFI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "429f3095-b7f9-4362-9371-c1efbee8ced3",
+      "from": "POPCAT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ef33100b-2f49-4725-b63e-8e5b0b70733f",
+      "from": "FIL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1b985ccc-8e22-444f-9f00-1531171d0353",
+      "from": "REQ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "eabbd339-773d-4a92-b87d-e7a7a7ebb933",
+      "from": "XRP",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "d1ac7bc4-82a4-480c-91ef-0931ae52e2bd",
+      "from": "CAT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "059559c1-63d2-4fd8-a4c9-3709e8ebd112",
+      "from": "FUEL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a9bf2f08-b927-4cd8-a649-2ca1e51dcdd9",
+      "from": "PLUME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2ca128e3-8932-4660-bd3a-72976a28c50b",
+      "from": "VELO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "aa2a12fb-1613-450d-95ff-12e4b1d44385",
+      "from": "OSMO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6b07390b-dcb6-48bb-9d7f-8192852c8ae7",
+      "from": "OP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "dbe5df1a-794f-4d02-8eac-f15cc738d83f",
+      "from": "CVC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1f898b87-354d-4c01-a4e8-d2a1af965f66",
+      "from": "CETUS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cb0653fc-d52d-4f4f-bafb-7086a2362aa9",
+      "from": "PENDLE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "11cbe6e4-6f42-4ca9-80ac-1498ce1a78b3",
+      "from": "CRV",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b30cace6-4a6d-4269-b84f-62ed0a11a0c5",
+      "from": "BIO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fbbc9ccc-cea2-4bb6-84c4-06e568b75d9a",
+      "from": "AR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b810fe3b-a265-4608-b7ee-7ad4bf273fae",
+      "from": "ENA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "72043f14-0f7c-4d44-8ac2-d0b5ed2d24d6",
+      "from": "DEEP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "41032a78-3214-427d-81ee-f5febba1a7bc",
+      "from": "BOME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9d1ff039-5298-4c2e-a8ca-2e4441ddeb3b",
+      "from": "TON",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "87f8175f-b83b-4fce-a8c4-d0c7cea1cfd4",
+      "from": "SPX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d7116369-e6f8-40fd-9adb-08bdaac5db22",
+      "from": "ARK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d736794e-08ce-4ecd-a964-6505b636cf47",
+      "from": "TAI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "864d4194-f0dd-4b35-8bfb-9d734b9a9289",
+      "from": "PEAQ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d2024281-d254-4135-857d-5b29481b8258",
+      "from": "BEAM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "88ef9527-d21f-4c09-92fa-7d91e8e4640f",
+      "from": "HNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0019ac10-b866-493c-b96b-ef0ee7dd9319",
+      "from": "ACT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "eee3a6b7-1378-4a26-bab3-b77f7674044d",
+      "from": "BCH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9f962bfb-9aaa-4ec6-abfd-a216f34380f4",
+      "from": "SUPER",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fa55bb96-e0e7-4986-b562-fae91d0422a8",
+      "from": "XYO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "00c93486-0eeb-4e9d-a62e-9e36285757db",
+      "from": "XDC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d165ca9c-85df-4e57-952d-33086d3474ad",
+      "from": "TRU",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "023732d2-8963-422c-995d-c05f49e55dbd",
+      "from": "CATI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "88d35fd2-f3fc-4c97-b506-57c140042c7e",
+      "from": "SUI",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "8519ea45-450c-4178-9a04-e0ac6b328a05",
+      "from": "PONKE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1a19866c-77f1-497d-b04c-e482c9716bf7",
+      "from": "VTHO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "89371936-daa4-47bb-8a3e-b9cf7096decc",
+      "from": "DOGS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "34c36adb-8264-4066-802e-b3d45714ea0f",
+      "from": "COW",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3d497729-cdd9-413f-a93f-b4f855db6326",
+      "from": "SSV",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2e960a4d-a538-4a1a-b93f-02e306b15e1d",
+      "from": "F",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "78f53460-4ab0-4447-927d-57e9f92a79ed",
+      "from": "COTI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7894e8c1-433a-474f-9b19-ed906dc4a67a",
+      "from": "ROSE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4951fa91-689b-42f9-9564-031b903b8ce3",
+      "from": "UNI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fea327a9-f544-4e54-8a24-1bb102fbf8c7",
+      "from": "ZRO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2e5d6127-54d7-4a0e-97ca-22235e81d331",
+      "from": "LMWR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "26bbe0ea-0a5b-40de-bdf6-f5fa628f6c51",
+      "from": "NEIRO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c070b3b5-3f97-4bb0-9d05-767ecbd91831",
+      "from": "THE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6f8945e7-2224-4881-88ed-8fbf1259b976",
+      "from": "IMX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f7bab4dc-898b-4d32-b266-53974e70f57b",
+      "from": "STRAX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fe685897-749a-4bae-aaf8-b28cf23765e8",
+      "from": "COMP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cbf1d497-cb29-44ba-8404-1b28179f702b",
+      "from": "S",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "c5260c73-9bd4-424d-824e-e2adc6772d2a",
+      "from": "CHZ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "10ff351e-9cec-450f-a15a-2c567dccec27",
+      "from": "CFG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ae014b65-94c4-4d82-8bf0-b34ec3ba2024",
+      "from": "BEL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2387b889-0d24-45fc-ae0d-283d6afea2c3",
+      "from": "SAND",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "84adf974-8d04-4471-8a4b-67b4a03facde",
+      "from": "EGLD",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "15bd1654-af31-49a7-b52a-b46f9f29167f",
+      "from": "SOL",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "8ff7dc93-da12-48b6-a9b4-a5f84b1610ba",
+      "from": "TOMO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b12e1270-b17a-4732-b6c5-e25f1483bc62",
+      "from": "NMR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c1547fa6-76bd-4f4e-9a00-89f29608d242",
+      "from": "VANRY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d4df4efc-cff9-4dcd-b028-e6eb782b1fe8",
+      "from": "YGG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7417ba86-cfa9-4180-aca3-21b7bfd94c2e",
+      "from": "ATOM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "62cea207-b399-42f3-a481-bf5afb707d36",
+      "from": "DEGEN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b71c5c13-1227-48ec-af39-b5e320b502d9",
+      "from": "UMA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7fe7b8ec-306b-441b-8e77-bb5e69b3b8ae",
+      "from": "CPOOL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0cb5d4af-0aa7-43dc-bd5d-479eb5af1cb0",
+      "from": "LUNA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "67a116ce-9dc1-4d76-b817-e7ded75a88a7",
+      "from": "RLC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4169fe8c-d5e4-452c-b19c-709019f95e06",
+      "from": "BRETT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4f980fdf-4a9d-4936-b5d2-ea42b1dc9edc",
+      "from": "METIS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5c65b390-0fa7-4a28-b768-02c6e53b2a3b",
+      "from": "AERO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "12161858-3122-4bbf-8cc8-8ee0e29e8976",
+      "from": "XVG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "daeca098-f04b-4b47-8d14-467fa777ef7e",
+      "from": "PRIME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "24728002-fea3-4f4e-aacf-e25087caa770",
+      "from": "RSR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cc48fab8-f12b-4733-8937-757252672722",
+      "from": "YFI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3575a74a-8103-4ccc-a1e4-dbfd011b5f74",
+      "from": "GOAT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "72dd8494-d441-45c1-93aa-b4ede485c6ae",
+      "from": "DGB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "55be0e43-7285-4f9b-b52b-78ab4e7f20c3",
+      "from": "LDO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "47b281a2-6166-4ce6-9530-dc370870e537",
+      "from": "TURBO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0f3412de-e9ac-46d8-897d-171be6fa4470",
+      "from": "NPC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "831df8e4-6f6a-4905-99f4-8cfdfd87c415",
+      "from": "CSPR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8bd9e288-daa2-4f58-8ee9-ff3b2164601c",
+      "from": "PHA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0862c25e-72c9-47b8-80e1-d25e03327cea",
+      "from": "MORPHO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "521b92df-0d3c-421f-81c8-ed1b9d8a6403",
+      "from": "PERP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e6bacd7f-d156-4348-ba92-3a0533a1d2d6",
+      "from": "ETC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a8259988-5ed9-406e-afd7-40ac1e993905",
+      "from": "MANA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b59c5440-3690-40e4-9879-f6d1178f85fa",
+      "from": "KAIA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e789fd67-52e4-4979-952e-e78f568c474b",
+      "from": "PEPE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "17eaddf2-96c8-4d7b-8376-f8d8e491329f",
+      "from": "MANTA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a930d6e8-4c73-49ed-ad6b-d304f040a008",
+      "from": "ALT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "77a2a5cf-ea3e-449c-a7a5-2d519547ca6e",
+      "from": "GRT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "73e3d003-f9cb-4aff-9542-4b10766d669a",
+      "from": "WOO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f3291dff-873c-49a9-82ad-77b3a89f1967",
+      "from": "GIGA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6f8f3c95-fd56-4de2-b142-c149a1653d64",
+      "from": "UXLINK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e99c2015-f866-4525-9d90-2adf6ed9e52e",
+      "from": "FLR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e4f6f196-8071-4375-9ea2-436eb407717e",
+      "from": "ENJ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8096bcc3-eb7a-4409-9045-aa9654089523",
+      "from": "STORJ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5cb12bce-e4ff-4106-a817-2f5f366a1357",
+      "from": "ADA",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "3f4aff06-08c6-47d2-8239-431b925d3977",
+      "from": "HMSTR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e0effbb0-dc6d-458c-bceb-dcf42539ef0a",
+      "from": "AMP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "74839e03-a5b0-43e1-80e3-7eb146f9342d",
+      "from": "KDA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "60f33c19-e4df-40f2-84d7-4262f2a3d035",
+      "from": "LINA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "256b851d-0599-4b0b-bd51-cf1becac910f",
+      "from": "PROM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f8329c9d-0782-4e10-8e03-b25a1dba0693",
+      "from": "ORDI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1a33fd8c-65b6-427d-997b-3cf7d29db5ff",
+      "from": "MIOTA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3f5f185e-be70-406a-8c79-5a536aa0c953",
+      "from": "LRC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "edbc157b-c767-4560-b6fb-70f469dc8258",
+      "from": "FTT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fbdc7388-2d2f-424c-8b7f-4183756a852c",
+      "from": "CYBER",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "64595c20-78aa-4bdb-bae9-fa5537d16b8e",
+      "from": "AGLD",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "775fc437-f4fb-4615-a2f7-73bf6e9d9cea",
+      "from": "NOS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "29ad0fae-6873-44bd-b9d8-a64e8dd8101b",
+      "from": "DRIFT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e74241b5-00bb-4486-bc24-297870fb2fcd",
+      "from": "OMNI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a84c2888-c44c-4de7-9429-6658b8d2c7ed",
+      "from": "ZETA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "47575be0-3505-4b1a-9560-0036f9def0e0",
+      "from": "D",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2d3fd154-b5c0-4821-a4ce-d1a11fd6fe10",
+      "from": "IO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ca5dec1f-aecf-46bd-9216-2b7f66c735e2",
+      "from": "BLUR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "90cde70b-4995-40c1-bb4f-dc9d5cb58852",
+      "from": "TIA",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "76a253b9-9996-45b6-95eb-f0b8f99e3383",
+      "from": "CHR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "627ae608-dd25-4017-b7e7-e930ad7dd060",
+      "from": "STRK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "76da85a9-10c0-40f4-a030-3485e444e9c4",
+      "from": "NULS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "de9ac5c4-e0de-4233-81cb-a82c7b8207f1",
+      "from": "JTO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "661e7c91-c0b9-4fdf-b1b1-a9b308611dba",
+      "from": "DYDX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "428f4be4-fe8d-4927-9411-cd197ceac697",
+      "from": "HOT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a7913eee-cb62-47e2-97e2-958ec710a3f7",
+      "from": "LPT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a2959744-3b60-4585-92f0-d650137b332e",
+      "from": "GMX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "049ca0ed-963b-4961-8956-59ddd4b6938f",
+      "from": "ILV",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a3d70953-d83c-48ab-9dbf-d59b53260328",
+      "from": "BLZ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9e527673-ee02-4eb9-8ce0-67cfd371bb5a",
+      "from": "DCR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f6516a12-5632-41ee-ac36-03639fbe30f7",
+      "from": "AIOZ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "82bcc31b-2b39-41b2-91d6-e3b839377f5c",
+      "from": "VANA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "bf352fb1-cefd-4f94-acfc-a6b93aa0ade1",
+      "from": "NEO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0a4b36d9-7cd1-4a9c-96cb-919de1d54a7e",
+      "from": "BAND",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b5bc6ecb-effa-4b8a-af35-ec3c60010d67",
+      "from": "AKT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9943adc2-39be-4b84-9ecd-0f26bac9ffd8",
+      "from": "ID",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5ad22ce1-a9a7-48ff-8e75-91728dfb6c65",
+      "from": "RAD",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1a5c53d3-a260-45db-a327-9274441707bf",
+      "from": "ONE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "04fbcacb-8394-47ab-bd11-cc32a5560ec1",
+      "from": "ARPA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d036da22-ec43-4ffa-a8d3-1bd69ed26e6c",
+      "from": "TOKEN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ae76b36b-bf54-4ed9-aa07-dc804145c502",
+      "from": "DYM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "810de145-7c92-4054-88ba-cd2b4191b85d",
+      "from": "LUMIA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0aff012d-4a6f-4920-896d-8eeac5f74971",
+      "from": "UTK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9fa8d449-13dc-439c-875b-c45eb562f512",
+      "from": "EOS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4f207d8b-7e77-4d9b-b034-8b994f1c3ff8",
+      "from": "ATH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "09222bfb-a202-4aad-b670-52f80c7417a5",
+      "from": "LUNA2",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3054eca2-7bf1-487e-8b52-7696761ad06b",
+      "from": "RON",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "63e31240-6e96-4924-8b9d-c9ddf666e555",
+      "from": "ZIL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "326f1674-9e41-443d-b8dc-01092021f6df",
+      "from": "ME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e0303c41-65dc-469f-bc9f-132322615c39",
+      "from": "PYR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "868fcb42-50e6-4cd0-93c8-5c82165efef6",
+      "from": "ZEUS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a38e3f73-0aca-4cda-9cad-b6ac7a68da1a",
+      "from": "SKL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "89a50941-3a12-4627-ab5f-bc5f437cb0a3",
+      "from": "GLMR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "64a49b18-426c-4117-bff4-14455bb6cebf",
+      "from": "APE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e628f9f5-1ec2-4518-98dd-e8ba0c13fbca",
+      "from": "XLM",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "f1b93e31-de2d-4d5b-a55b-0fb5bb610a1a",
+      "from": "LSK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7392160d-742e-43a7-bd4b-1f6d89e5b067",
+      "from": "POLYX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b8ba2f2a-f816-4d07-9036-8dd6e7ae66ff",
+      "from": "BIGTIME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c7efd021-8da6-4e7c-8050-518a8058934b",
+      "from": "VRA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c66d1509-265e-4463-b1cf-5e2875a3dd97",
+      "from": "W",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f6efcd8a-d514-4ecc-8e56-58204dd358d7",
+      "from": "SUSHI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "82cfb6fd-2e71-4735-8c06-1ea53f4ea327",
+      "from": "CFX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "feb279b5-0541-469e-be72-53edcffdbbc7",
+      "from": "SWELL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3c886e3f-d69c-4d79-a59e-c310abac8325",
+      "from": "DOGE",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "50674efd-b249-4f44-80f0-1fdc1799dcd6",
+      "from": "XAI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a07bf7bb-806e-498f-acf1-dd9befbd1257",
+      "from": "RPL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "815d3630-7369-467c-b0c4-62e43c84a707",
+      "from": "DENT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "83952bfd-8766-4d7e-9491-7f3f2507feee",
+      "from": "SNX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "936746c6-b9f7-4150-a661-2bcd734f4226",
+      "from": "BANANA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cd5f6a97-473d-442f-86a5-069cbaad9192",
+      "from": "KSM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c7a466ed-3143-4d77-8b1f-a22f3cf5c595",
+      "from": "ICX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f2809c9e-ab40-46a7-9e00-8832f6ca6732",
+      "from": "MEME",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2a68bbec-0803-4a85-b44a-91a9739efa0a",
+      "from": "MASK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "32c8c69a-d5d3-4d5c-8d46-771d0a22c1e9",
+      "from": "WELL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0f82a8f6-0c27-47cb-a98a-08342df0156d",
+      "from": "FIDA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1e89f5e2-6a57-45ee-a98f-8b4af3aa71d1",
+      "from": "FLOW",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fa48c1a5-699b-4caf-a2e6-473334bcef79",
+      "from": "LIT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "daf4e7a4-018b-4c83-b9d3-0b8a21ce5043",
+      "from": "ONT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e67756c2-844f-4e9a-8d26-e79989ea549c",
+      "from": "MAGIC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e3b9f69d-864c-43c1-86ae-1c20316df584",
+      "from": "CELO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "30500aa5-8c65-4cd5-bc94-50a5dd68593c",
+      "from": "POLS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "21918203-691c-43f8-a91c-75851feca184",
+      "from": "GMT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3ecc2cff-cc70-44a2-8a24-c3ab7fb1fcb3",
+      "from": "CTK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b90674ea-2b88-4d9f-8ebb-617a1edcbcaa",
+      "from": "CELR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6666ad7e-6305-4ce6-8492-85c0dc97337f",
+      "from": "REZ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fe267017-5a41-4ea4-9096-213fc21477af",
+      "from": "ABT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3615ebad-101e-493a-b1ba-ef96266e5ac2",
+      "from": "BAT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ae6c31fd-5c4b-44d2-9044-0e4998dd04ec",
+      "from": "SLF",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b6482f35-ac8d-4a26-aead-0dffe6875fbd",
+      "from": "SHIB",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "9bed5c3a-593a-49f5-a3c6-a400772734fd",
+      "from": "DIA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "93f40059-67f1-487f-8047-1870b30ffd08",
+      "from": "MOVR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "114f00cd-f62a-4bcf-9110-e6886629ef53",
+      "from": "GAS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ede20ee8-51f4-4555-89b5-bab7de5b5a9b",
+      "from": "SYRUP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7141b81f-cfac-4462-8d5a-2d8dac157fbd",
+      "from": "POND",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6927b2f2-dd93-4307-ab41-3fa88127d7ce",
+      "from": "RVN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6b99a969-3f1f-4d64-b4b8-b57ec0baf6dd",
+      "from": "BETA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a0744332-1b48-454f-aa34-31e2242ecc54",
+      "from": "QTUM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9336c987-6a38-4af0-b120-8a2525c5b79b",
+      "from": "ZRX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "158037f4-a9d2-4b59-b433-d4dfaffaddb5",
+      "from": "PIXEL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "976d1156-334d-438f-b9e3-064825aeb614",
+      "from": "MEW",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "885297f1-978b-4ed0-a72e-e6e005f4cbc5",
+      "from": "API3",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "949670c8-9250-4741-909b-c4c10fc4248f",
+      "from": "POWR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2d9cf595-5e1c-4916-88ee-78c2be97e952",
+      "from": "CVX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b534b16a-12b0-4b1e-a574-0f221b1e7586",
+      "from": "LTO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a10e570c-fd47-4998-a998-47ee3197aec6",
+      "from": "WIN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "de0dd006-fc83-4fcf-add1-5e4bb52fe346",
+      "from": "ACX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5982f258-bb46-4506-b607-da05b5497421",
+      "from": "ORCA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "28512931-047e-484f-8779-683a54382d4e",
+      "from": "MBOX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2a14fb0d-6f87-459e-bf84-6d7e0d47e04a",
+      "from": "XTZ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1fdfa91a-6a56-4cb8-b47d-d3929ae18949",
+      "from": "KAVA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "bfc64a95-a524-4cf8-b819-04591dbf0a0f",
+      "from": "MAVIA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "56c5f537-6dee-4f7b-85e2-b025018b72ff",
+      "from": "HIGH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7a2e7fe4-3e3e-45ef-8272-ebd09e45dbd7",
+      "from": "TRAC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e2999227-df9c-490c-9980-e5516af8d52c",
+      "from": "TLM",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "20fdc3fe-530a-4544-9867-3331077246aa",
+      "from": "ZEN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8a237950-9ec7-480f-80b3-5ee7345036a4",
+      "from": "DATA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ca36ec69-43aa-47bf-9f74-0cb0bd285672",
+      "from": "SAGA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5b24e34b-39ac-4ae0-99cf-4dcc9206660a",
+      "from": "PHB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0cc10aef-69d5-47b6-bc0c-398f8a584b5a",
+      "from": "BTT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ce99379b-9427-4f13-9cc6-3e66ace73126",
+      "from": "LYX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5cc93474-1039-467c-be06-de8649ce5c9c",
+      "from": "1INCH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1ab4e7dd-f4f4-4fa6-b945-b5c98138b6d3",
+      "from": "NFP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8f40e031-80e2-4d1a-90d6-9889b7459621",
+      "from": "C98",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a72a57e1-4156-49b2-a054-a2e8a00b570d",
+      "from": "CKB",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8312a869-2ac0-4d52-8ea2-b1900e0cd39e",
+      "from": "KMNO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "175f8e0a-a5fa-4c42-8965-d5a43b913c35",
+      "from": "PUFFER",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9cd3a38f-f308-44d1-90de-816b0d0e2306",
+      "from": "DUSK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9a3af817-6739-417c-bb53-d455fccf2d32",
+      "from": "LINK",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "501e3195-7e04-4579-9679-7b642a0372e6",
+      "from": "MERL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "44968cc7-2baf-4995-9fdf-7a7a7ba1a685",
+      "from": "FXS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5794b1e2-475c-429f-9b79-3965427dfc80",
+      "from": "PEOPLE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "aae23e55-e7d9-4a7f-9ff8-528fedf757e2",
+      "from": "RARE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "beca0f1c-afd2-4c82-9ebc-a86a0dccc2b7",
+      "from": "SLP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c1fb8a9d-591d-4bc5-b927-0f6374982711",
+      "from": "MTL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6459585c-3830-405f-a07b-8801f2d992e6",
+      "from": "AVA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "e7c63e80-fada-432c-9dac-566f9d7225c5",
+      "from": "FORTH",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "460ff3b0-57e1-477c-a90b-b5c01bbb4143",
+      "from": "MLN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7ed9fd84-0839-40cb-9853-bd19877f1e11",
+      "from": "CTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "84766132-d9cc-4e74-84f9-886a84b48973",
+      "from": "NANO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cf03c5c1-c4ea-4be3-8ebe-f0faee3ef093",
+      "from": "IQ",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d7a7c629-99dc-4576-a338-63f0dd9192b1",
+      "from": "PORTAL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c55fdcaa-5e1d-4d22-a855-86ef5f4db619",
+      "from": "EDU",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c9d722ad-5ecf-4a8a-be51-b80872084156",
+      "from": "HOOK",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2a4c74be-2497-47df-a6fb-81dc58b6bf4f",
+      "from": "MINA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "f4707cc6-c509-4af4-8963-83077e9180be",
+      "from": "ANKR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "60f30c02-414c-4856-b598-d844764b0fdf",
+      "from": "IDEX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8a19079f-2cb1-4816-a632-cb61aca30221",
+      "from": "ONG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6d59430d-f9f4-4784-8815-e6255b9f6519",
+      "from": "FET",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "36c1878f-5bee-4f2c-8fff-940d068c04d0",
+      "from": "STMX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "d3dc5945-32c2-4287-a44e-a173a1fad157",
+      "from": "ERN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1ae4d25a-05ad-4fe0-95ac-01be12bf61c9",
+      "from": "ALICE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "dc3e19c1-8bf5-4b15-a797-81a6b9a6f5f7",
+      "from": "AUDIO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0ba639c7-3dae-402e-ba96-a99f1cafc726",
+      "from": "SXP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0df6235e-8f93-4fd8-88b5-e747b73cee16",
+      "from": "RDNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "bb2022e4-1991-4630-93f8-bde88316cdc3",
+      "from": "DBR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ed66d30d-6b57-46d4-8848-52afffe8ce24",
+      "from": "ACE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "15605064-6e4b-4b31-8abe-857d56b23776",
+      "from": "ZRC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1db89037-8b8e-4700-b23b-2ef417a6dadb",
+      "from": "ASTR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "70624bcc-7992-4c43-8854-c885e2dc7225",
+      "from": "WIF",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "860cdd98-96c7-4736-ad6e-7b7df321ecd7",
+      "from": "ACA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "372b1312-9895-4cb7-bc45-1df8b669172a",
+      "from": "ATA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1d8d4644-8b74-4771-bd3b-df53a70ad5e6",
+      "from": "CTSI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "6817164e-ae80-4196-855e-dd2e12b0630b",
+      "from": "IOTX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "94566b84-bfe4-4f10-b5c5-abe1510bac85",
+      "from": "TAIKO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b793bb1a-8d5c-4b2d-9d06-5da19cbcd478",
+      "from": "WLD",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "5a0737e1-13f7-4bbe-a414-721916df5fe5",
+      "from": "BICO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "72e63ca9-3658-4f53-ad7d-4e15b4394b2e",
+      "from": "DOT",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "7cf29f93-1fe7-4c1b-a5b9-3e55a17daa16",
+      "from": "TWT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "188532c8-6a28-4c50-9fb4-d8f18f316620",
+      "from": "OXT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0a3eec6b-305b-4bdd-bdfe-75fd7d8c599c",
+      "from": "SAFE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "0f8d7779-0423-4330-a4d6-97081507a3e1",
+      "from": "BAL",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "544a4a56-f9bb-43d6-be27-acef1c7e810a",
+      "from": "GTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2bb0a71d-b5e2-45ce-8900-13714c753b7e",
+      "from": "BADGER",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b1a63aa5-672a-4330-9eb8-38c4dacf44a7",
+      "from": "HONEY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2dba9da4-f6e5-4a3a-b1fb-95e4f106e04e",
+      "from": "DODO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7b9d8341-1a01-4a6e-8410-6b9b1c7bf364",
+      "from": "FLUX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "44458a67-b68c-4a3e-af32-6fcfa7f85a96",
+      "from": "ELF",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "83b2613d-1125-4ffe-b754-f5a80259e587",
+      "from": "G",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1f0d0c94-8d66-448a-aebe-9290b698c31f",
+      "from": "KMD",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cc5c07b4-0c4d-4b66-bed3-cf9e44d2500f",
+      "from": "JST",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c17d1404-5ea2-4805-a8e5-604a7052c5ac",
+      "from": "SNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "151012fe-3113-4269-a171-67ad2a9a6b04",
+      "from": "SYN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "284b7145-3cdd-4a76-9dc7-19e9312c39ee",
+      "from": "T",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c6c4e471-e476-4969-a56c-9ab16bcb9010",
+      "from": "GHST",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "60234055-3da6-4d4b-9920-8aa06f1fed0d",
+      "from": "WAXP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "227d77ec-55ff-4208-8bf1-ba5518306fa5",
+      "from": "PUNDIX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "396ce939-8247-4252-ad5e-2c5dcbce0ab7",
+      "from": "LQTY",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "c28154c4-3e7e-4849-85da-56914327bec2",
+      "from": "BNT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "eff99680-ffa9-4e55-9cd4-ffc2f19b0e51",
+      "from": "ADX",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ca11f68c-2f2e-477c-a004-7254cb4294a0",
+      "from": "BLAST",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "5fb74bbc-40b8-4166-bc77-30efed294aee",
+      "from": "QKC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "fda3b2bd-5872-4bb0-870c-4863ee599579",
+      "from": "MDT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cc55b57e-7b30-4ced-ac71-1a00dd1d1d75",
+      "from": "AERGO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "9fa538e6-16d0-46a4-b66e-2b78616dbf6c",
+      "from": "CORE",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "8f7a8c4e-96a7-4cf2-8cdd-2625ac3d7d21",
+      "from": "ALPHA",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "a6e85168-7bef-4855-8ef4-64e8f2c319bb",
+      "from": "NOT",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "fd6e1910-aa49-4f71-8f1a-c26bb55f3afc",
+      "from": "SCR",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "1e2f2aac-9fa7-4f14-be0c-934186b746c7",
+      "from": "EUROC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "b7468059-8bb3-4150-bbab-3c0ff68cf747",
+      "from": "GNO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "cb383a4c-1e4e-4c95-ae7a-fab2da8a03fc",
+      "from": "SEI",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "d266648c-13f3-427a-90d7-26164473cf33",
+      "from": "MAV",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "94ce5a1e-ebfd-45c3-87fe-523646dce902",
+      "from": "IOST",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "3fa66210-c4fb-44bd-972a-3292fe67b95e",
+      "from": "HIFI",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "4bd00fa0-dcc5-4acb-97d6-d364c5aa1002",
+      "from": "NKN",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "dcf7d5fe-3314-444a-9087-eed7784b2fa6",
+      "from": "COS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "046c5e6e-71de-4b56-ad5e-2d927c497e79",
+      "from": "WBTC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "34a6d50f-59b0-4ab3-9a44-63ebb864ae39",
+      "from": "KNC",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "ffca7c21-1b54-4fbb-839d-9776161fd8eb",
+      "from": "HFT",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "2914aadd-06f2-40b8-af81-900f395f6cd5",
+      "from": "AVAX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "2ffe3b78-3d9a-411a-a6a5-1b0a86307dc7",
+      "from": "FIS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "7ec396d1-7908-4a9b-a5c6-dcb54e5e4220",
+      "from": "GNS",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "25449e5f-9a50-4227-81df-b03ac6a79dc7",
+      "from": "COMBO",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "da9802a7-05f1-4f82-ac9e-b8cc0144dccf",
+      "from": "STG",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "df26d6b5-d738-4163-a507-53ea6e0682f1",
+      "from": "SFP",
+      "to": "EUR"
+    },
+    {
+      "tradingPairId": "24444dfa-b2ba-4a82-bf90-90e25a90abd0",
+      "from": "STX",
+      "to": "USDC"
+    },
+    {
+      "tradingPairId": "b0e8ea25-9fe3-4e9f-a79a-302278c5479b",
+      "from": "NEAR",
+      "to": "USDC"
+    }
+  ],
+  "regulations": [
+    {
+      "regulationId": "0675a072-5042-4980-9006-d523253f9451",
+      "regulator": "01c5dee4-4f05-4aa0-a781-3978a3bc0f3d",
+      "number": "68743424",
+      "printscreen": "kvk.nl_en_search.png"
+    },
+    {
+      "regulationId": "4736f050-07fc-4235-a031-1e4433d9423d",
+      "regulator": "9d4895d3-7d75-44b2-8c4f-5b01e99fb413",
+      "number": "E2023-101",
+      "printscreen": "www.amf-france.org_en_node_73518.png"
+    },
+    {
+      "regulationId": "c9dbcc54-ce9d-4503-b09f-d3014b79a6d2",
+      "regulator": "ffffba06-1420-46f6-9d19-c84fbb977450",
+      "number": "PSV50",
+      "printscreen": "Screenshot 2025-02-28 at 16.29.30"
+    },
+    {
+      "regulationId": "6a1943a0-54b0-4557-b7b2-bf958915f546",
+      "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+      "number": null,
+      "printscreen": "Screenshot 2025-02-28 at 17.01.44"
+    }
+  ],
+  "vaspSanction": null,
+  "onChain": null
+}

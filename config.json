@@ -1,0 +1,27 @@
+{
+    "Account": {
+        "headers": ["Account_ID", "VASP_ID", "VASP_Name", "Routing_Type", "Local_Routing", "BIC", "IBAN", "Account_Number", "Bank_ID", "Bank_Name", "Bank_Role", "Account_Country"],
+        "fields": ["accountId", "vaspId", "commonName", "routingType","localRouting", "bic", "iban", "number", "bank", "bankName", "bankRole", "country"]
+    },
+
+    "Country": {
+        "headers": ["Country_ID", "Name", "Iso_alpha_3", "Iso_alpha_2", "FSRB", "Basel_Rank", "Is_Any_FATF", "Is_Any_FSRB", "Is_Sanctioned", "Is_FATF_blacklist", "Is_FATF_greylist", "Is_EU_High_Risk", "Is_OFAC_Comprehensive_Sanction","Is_OFAC_Selective_Sanction"],
+        "fields": ["countryId", "name", "isoAlpha3", "isoAlpha2", "fsrb", "baselRank", "isAnyFatf", "isAnyFsrb", "isSanctioned", "isFatfBlacklist", "isFatfGreylist", "isEuHighRisk", "isOfacComprehensiveSanction","isOfacSelectiveSanction", "isUnSanctioned", "isFinancialActionTaskForce"]
+    },
+
+    "Names" :{
+        "headers": ["Name_ID", "VASP_ID", "VASP_Name", "Name_Type", "Name", "Country"],
+        "fields": ["nameId", "vaspId", "commonName", "type", "name", "country"]
+    },
+
+    "Payment_Methods" :{
+        "headers": ["Payment_Method_ID", "VASP_ID", "VASP_Name", "Payment_Method", "Is_Amount_Restricted", "Jurisdiction", "Onramp_Provider_ID", "Onramp_Provider_Name"],
+        "fields": ["paymentMethodId", "vaspId", "commonName", "paymentMethod", "isAmountRestricted", "jurisdiction", "onrampProviderId", "onrampProviderName"]
+    },
+
+    "Regulations" :{
+        "headers": ["Regulation_ID", "VASP_ID", "VASP_Name", "Regulator_ID", "Regulator_Name", "Regulator_Country", "Regulation_Number", "Start_Date", "End_Date"],
+        "fields": ["regulationId", "vaspId", "commonName", "regulator", "name", "jurisdiction", "number", "openedDate", "closedDate"]
+    }
+
+}

@@ -1,0 +1,95 @@
+{
+  "vaspId": "a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3",
+  "commonName": "Upbit",
+  "url": "https://upbit.com/",
+  "domiciledCountry": "KOR",
+  "hqRegion": "Asia",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "10/24/2017",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://upbit-id-static.upbitit.in/mobile_for_app/htm/private_data_md.html",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "7e6f23bc-066d-445c-b68e-4366a205e565",
+      "vasp": "a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3",
+      "type": "Exchange"
+    },
+    {
+      "vaspTypeId": "97f87b38-9882-4f61-9fde-fef1a1ae24c8",
+      "vasp": "a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3",
+      "type": "NFT Vendor"
+    }
+  ],
+  "names": [],
+  "countryRel": [
+    {
+      "countryRelId": "eb18a2fc-7ae2-4be0-ac2d-3f763a4fd525",
+      "country": "KOR",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "0939820c-d5f6-4aba-8eb5-21bd20df6e93",
+      "createdDate": "02/21/2025",
+      "customerInfo": "Email, Full Name && DOB && Country of Citizenship && Address && Government ID && Selfie",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": "1000000000",
+      "currency": "IDR",
+      "limitFrequency": "Day",
+      "Notes": null,
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "f29f4229-ad1d-4702-b170-6c4e9384d935",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": "IDN",
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "902970ac-418f-4e48-a0a1-b6f4a1e52a47",
+          "number": "8348100610007532",
+          "bic": null,
+          "iban": null,
+          "routingType": "Local",
+          "localRouting": null,
+          "bank": "b2c98386-abd6-4b25-9e9d-461c473b4816",
+          "bankRole": "Custodian",
+          "vasp": "a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3",
+          "country": "IND"
+        }
+      ]
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}

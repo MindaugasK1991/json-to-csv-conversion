@@ -1,0 +1,83 @@
+{
+  "vaspId": "740a7eb0-2728-43e1-b6b2-5fe7bbf6eede",
+  "commonName": "BTC Markets",
+  "url": "https://www.btcmarkets.net/",
+  "domiciledCountry": "AUS",
+  "hqRegion": "Oceania",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": null,
+  "openedDate": "01/01/2013",
+  "closedDate": "",
+  "isCustodial": true,
+  "AML Policy URL": "https://www.btcmarkets.net/regulation",
+  "profile": "",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "fa11f4b7-6aef-46a3-abaa-b87fac4e141b",
+      "vasp": "740a7eb0-2728-43e1-b6b2-5fe7bbf6eede",
+      "type": "Exchange"
+    }
+  ],
+  "names": [],
+  "countryRel": [],
+  "kyc": [
+    {
+      "kycId": "3ec50781-dcb3-4187-a379-6c264eb53909",
+      "createdDate": "02/14/2025",
+      "customerInfo": "Email Address, Legal Name && Address && DOB && Government ID || Proof of Residency || Selfie",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": "1000",
+      "currency": "AUD",
+      "limitFrequency": "Day",
+      "Notes": null,
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "a24f64b0-d57d-4402-80c3-dc920033187b",
+      "paymentMethod": "BPay",
+      "isAmountRestricted": true,
+      "jurisdiction": "AUS",
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "8bb980a7-f4c6-43d4-9045-a65d2afe0472",
+          "number": "91488",
+          "bic": null,
+          "iban": null,
+          "routingType": "BPay",
+          "localRouting": "8364201000646114",
+          "bank": null,
+          "bankRole": null,
+          "vasp": "740a7eb0-2728-43e1-b6b2-5fe7bbf6eede",
+          "country": "AUS"
+        }
+      ]
+    }
+  ],
+  "billingDescriptor": [],
+  "tradingPairs": [],
+  "regulations": [],
+  "vaspSanction": null,
+  "onChain": null
+}
