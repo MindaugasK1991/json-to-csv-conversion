@@ -15,7 +15,7 @@
   "openedDate": "01/01/2006",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://brokeragetoday.com/avatrade-account-verification/",
+  "AML_Policy_URL": "https://brokeragetoday.com/avatrade-account-verification/",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -324,5 +324,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

@@ -1,0 +1,148 @@
+{ 
+    "sanctions" :[
+    {
+      "Vasp_sanction_ID": "3fc30948-cd68-4a0d-bb85-3954bb517bb5",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cc9d5ca7-fadf-4225-898f-2d7a684bd055",
+      "Sanction_Url": "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "06/30/1905",
+      "Sanction_end": "07/08/1905"
+    },
+    {
+      "Vasp_sanction_ID": "3433d96f-9f6c-4b96-ad0d-1b520720720f",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cc9d5ca7-fadf-4225-898f-2d7a684bd055",
+      "Sanction_Url": "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "07/12/1905",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "3eaf81eb-c06d-4d80-b024-eaaac1ce9491",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "Sanction_Url": "https://eur-lex.europa.eu/eli/compos/2007/140/oj/eng",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "02/01/2007",
+      "Sanction_end": "07/26/2010"
+    },
+    {
+      "Vasp_sanction_ID": "fe84a8c7-93d5-4490-8c4a-f6a1f2da3e5e",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "Sanction_Url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32007E0246",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "04/23/2007",
+      "Sanction_end": "07/26/2010"
+    },
+    {
+      "Vasp_sanction_ID": "76da4aac-ade8-430b-a4b4-a961219dfcec",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "Sanction_Url": "https://eur-lex.europa.eu/eli/reg/2012/267/oj/eng",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "03/23/2012",
+      "Sanction_end": "04/12/2025"
+    },
+    {
+      "Vasp_sanction_ID": "36bd8953-24eb-4efb-9fbb-32eee1aee701",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "Sanction_Url": "https://eur-lex.europa.eu/eli/reg/2011/359/oj/eng",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "04/12/2011",
+      "Sanction_end": "04/13/2025"
+    },
+    {
+      "Vasp_sanction_ID": "dc9e1e24-771d-47f3-b0af-94ed6f56cb52",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "Sanction_Url": "https://eur-lex.europa.eu/eli/dec/2010/413/oj/eng",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "07/26/2010",
+      "Sanction_end": "04/13/2025"
+    },
+    {
+      "Vasp_sanction_ID": "7991a022-8526-443d-b123-e396a842eaed",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8046/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "01/23/1981",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "9d70ef64-def6-4655-ab75-8f183a553e64",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8051/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "02/26/1981",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "41596c1d-102d-4410-bad7-59fed1bcd017",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8056/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "10/30/1987",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "4bc16856-a549-4bf8-a9d4-d833e2ddbb24",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8061/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "03/16/1995",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "6a3f8f80-4713-4805-89a0-42f89507c05d",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8066/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "05/07/1995",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "50568aca-6de8-46db-b0ee-a8cc220ed06e",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8071/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "08/20/1997",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "c7feace3-0751-4af2-98e5-fbcab647ad3c",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/8076/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "09/29/2010",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "103ca8d3-ce3e-417f-8bab-ff1a0fd7cd28",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/5931/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "02/06/2012",
+      "Sanction_end": ""
+    },
+    {
+      "Vasp_sanction_ID": "c7eb752f-e811-44e9-bc4a-54fd6a9b70c2",
+      "Vasp": "ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5",
+      "Sanctioning_Body": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "Sanction_Url": "https://ofac.treasury.gov/media/48161/download?inline",
+      "Sanction_Type": "byCountry",
+      "Sanction_start": "10/18/2023",
+      "Sanction_end": ""
+    }
+   ]
+}   

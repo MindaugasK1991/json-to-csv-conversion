@@ -15,7 +15,7 @@
   "openedDate": "01/01/2019",
   "closedDate": "",
   "isCustodial": false,
-  "AML Policy URL": "https://transak.com/group-bsl-asl-policy",
+  "AML_Policy_URL": "https://transak.com/group-bsl-asl-policy",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -1267,5 +1267,6 @@
   "tradingPairs": [],
   "regulations": [],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

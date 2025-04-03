@@ -15,7 +15,7 @@
   "openedDate": "01/01/1992",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://www.home.saxo/legal/compliance/saxo-compliance",
+  "AML_Policy_URL": "https://www.home.saxo/legal/compliance/saxo-compliance",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -567,32 +567,56 @@
     {
       "tradingPairId": "b75d419f-83ab-4b62-8023-6a52d2635ccb",
       "from": "BTC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "3813bc28-27b4-41df-a1ef-02b62fb2b8be",
       "from": "ETH",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "25687844-3d72-4923-ac72-0d81f7cb6dce",
       "from": "BTC",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "ae0d377f-050d-4749-89fb-79bec34fbc78",
       "from": "ETH",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "46ac1539-7272-4b2a-a540-2c1b886948ec",
       "from": "BTC",
-      "to": "JPY"
+      "From_chain": null,
+      "to": "JPY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0f87fff9-0d86-4750-a159-1ca17ac1a096",
       "from": "ETH",
-      "to": "JPY"
+      "From_chain": null,
+      "to": "JPY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     }
   ],
   "regulations": [
@@ -628,5 +652,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

@@ -7,6 +7,12 @@ const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 // Define types for config.json structure
 interface Config {
+
+    Vasps: {
+        headers: string[];
+        fields: string[];
+    };
+
     Account: {
         headers: string[];
         fields: string[];
@@ -30,6 +36,49 @@ interface Config {
         headers: string[];
         fields: string[];
     };
+
+    Trading_Pairs: {
+        headers: string[];
+        fields: string[];
+    };
+
+    Categories: {
+        headers: string[];
+        fields: string[];
+    };
+
+    Kyc: {
+        headers: string[];
+        fields: string[];
+    };
+
+    Sanctions: {
+        headers: string[];
+        fields: string[];
+    };
+}
+
+// Define types for Country.json structure
+interface vaspData {
+    data: {
+        vaspId: string; 
+        commonName: string;
+        url: string; 
+        domiciledCountry: string, 
+        hqRegion: string; 
+        isSanctioned: boolean; 
+        directOnramp: boolean;
+        indirectOnramp: boolean;
+        hasOfframp: boolean;
+        tradesFiat: boolean;
+        tradesPrivacyCoins: boolean;
+        isDecentralized: boolean;
+        hasKyc: boolean;
+        openedDate: string;
+        closedDate: string;
+        isCustodial: boolean;
+        AML_Policy_URL: string; 
+    };
 }
 
 // Define types for Country.json structure
@@ -49,9 +98,8 @@ interface CountryData {
         isEuHighRisk: boolean;
         isOfacComprehensiveSanction: boolean;
         isOfacSelectiveSanction: boolean;
-        isUnSanctioned: boolean;
-        isFinancialActionTaskForce: boolean;
-    }[];
+        // sanctions: any[];
+    };
 }
 
 // Define types for VASP JSON structure related to Names
@@ -83,6 +131,58 @@ interface Regulations {
     closedDate: string;
 }
 
+// Define types for VASP JSON structure related to Trading_Pairs
+interface TradingPairs {
+    tradingPairId: string;
+    from: string;
+    From_chain: string;
+    to: string;
+    To_chain: string;
+    Is_Privacy: boolean;
+    Is_Fiat: boolean;
+}
+
+interface Categories {
+    vaspTypeId: string;
+    type: string;
+}
+
+interface Kyc {
+    kycId: string; 
+    requires2fa: boolean; 
+    legalNameRequired: boolean; 
+    dobRequired: boolean;
+    addressRequired: boolean;
+    ssn_tinRequired: boolean;
+    countryOfCitizenshipRequired: boolean;
+    govtIdRequired: boolean;
+    proofOfResidencyRequired: boolean;
+    emailRequired: boolean; 
+    phoneRequired: boolean;
+    selfieRequired: boolean;
+    videoRequired: boolean; 
+    transactionLimitsExist: boolean;
+    amountLimit: boolean;
+    currency: string;
+    limitFrequency: boolean;
+    notes: string;
+}
+
+interface Sanctions {
+    Vasp_sanction_ID: string;
+    Vasp: string;
+    Sanctioning_Body: string;
+    Sanction_Url: string;
+    Sanction_Type: string;
+    Sanction_start: string;
+    Sanction_end: string;
+}
+
+interface SanctioningBody {
+    sanctioningbodyId: string;
+    name: string;
+}
+
 // Load config.json to get headers and field mappings
 const configPath = path.join(__dirname, "config.json");
 let config: Config;
@@ -97,12 +197,26 @@ const countrySchema = config.Country;
 const namesSchema = config.Names;
 const paymentMethodsSchema = config.Payment_Methods;
 const regulatorsSchema = config.Regulations;
+const tradingPairsSchema = config.Trading_Pairs; 
+const categoriesSchema = config.Categories;
+const kycSchema = config.Kyc;
+const sanctionsSchema = config.Sanctions;
+const vaspSchema = config.Vasps;
 
 // Ensure the output directory exists
 const outputDir = path.join(__dirname, "output");
 if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
+
+// Define CSV writer for Vasps.csv with headers from config.json
+const vaspsCsvWriter = createObjectCsvWriter({
+    path: path.join(outputDir, "Vasps.csv"),
+    header: vaspSchema.headers.map((header, index) => ({
+        id: vaspSchema.fields[index],
+        title: header
+    }))
+});
 
 // Define CSV writer for Account.csv with headers from config.json
 const accountCsvWriter = createObjectCsvWriter({
@@ -122,9 +236,9 @@ const countryCsvWriter = createObjectCsvWriter({
     }))
 });
 
-// Define CSV writer for Name.csv with headers from config.json
+// Define CSV writer for Names.csv with headers from config.json
 const namesCsvWriter = createObjectCsvWriter({
-    path: path.join(outputDir, "Name.csv"),
+    path: path.join(outputDir, "Names.csv"),
     header: namesSchema.headers.map((header, index) => ({
         id: namesSchema.fields[index],
         title: header
@@ -142,9 +256,45 @@ const paymentMethodsCsvWriter = createObjectCsvWriter({
 
 // Define CSV writer for Regulators.csv with headers from config.json
 const regulatorsCsvWriter = createObjectCsvWriter({
-    path: path.join(outputDir, "Regulators.csv"),
+    path: path.join(outputDir, "Regulations.csv"),
     header: regulatorsSchema.headers.map((header, index) => ({
         id: regulatorsSchema.fields[index],
+        title: header
+    }))
+});
+
+// Define CSV writer for Trading_Pairs.csv with headers from config.json
+const tradingPairsCsvWriter = createObjectCsvWriter({
+    path: path.join(outputDir, "Trading_Pairs.csv"),
+    header: tradingPairsSchema.headers.map((header, index) => ({
+        id: tradingPairsSchema.fields[index],
+        title: header
+    }))
+});
+
+// Define CSV writer for Categories.csv with headers from config.json
+const categoriesPairsCsvWriter = createObjectCsvWriter({
+    path: path.join(outputDir, "Categories.csv"),
+    header: categoriesSchema.headers.map((header, index) => ({
+        id: categoriesSchema.fields[index],
+        title: header
+    }))
+});
+
+// Define CSV writer for Categories.csv with headers from config.json
+const kycPairsCsvWriter = createObjectCsvWriter({
+    path: path.join(outputDir, "KYC.csv"),
+    header: kycSchema.headers.map((header, index) => ({
+        id: kycSchema.fields[index],
+        title: header
+    }))
+});
+
+// Define CSV writer for Sanctions.csv with headers from config.json
+const sanctionsPairsCsvWriter = createObjectCsvWriter({
+    path: path.join(outputDir, "Sanctions.csv"),
+    header: sanctionsSchema.headers.map((header, index) => ({
+        id: sanctionsSchema.fields[index],
         title: header
     }))
 });
@@ -163,10 +313,10 @@ try {
 }
 
 // Read Regulators.json
-const regulatoprsPath = path.join(__dirname, "input", "auxiliary", "Regulators.json");
+const regulatorsPath = path.join(__dirname, "input", "auxiliary", "Regulators.json");
 let regulatorData: any;
 try {
-    regulatorData = JSON.parse(fs.readFileSync(regulatoprsPath, "utf-8"));
+    regulatorData = JSON.parse(fs.readFileSync(regulatorsPath, "utf-8"));
     if (!regulatorData || !Array.isArray(regulatorData.regulators)) {
         throw new Error("Invalid Regulators.json structure: 'regulators' should be an array.");
     }
@@ -175,18 +325,35 @@ try {
     process.exit(1);
 }
 
+// Read SanctioningBody.json
+const sanctioningBodyPath = path.join(__dirname, "input", "auxiliary", "SanctioningBody.json");
+let sanctioningBodyData: any;
+try {
+    sanctioningBodyData = JSON.parse(fs.readFileSync(sanctioningBodyPath, "utf-8"));
+    if (!sanctioningBodyData || !Array.isArray(sanctioningBodyData.sanctioning_body)) {
+        throw new Error("Invalid SanctioningBody.json structure: 'sanctioning_body' should be an array.");
+    }
+} catch (error) {
+    console.error("Error reading Regulators.json:", error);
+    process.exit(1);
+}
 
 // Create a map for bankId to bank name
 const bankMap = new Map(bankData.banks.map((bank: any) => [bank.bankId, bank.name]));
 
-// Create a map for bankId to bank name
+// Create a map for regulator
 const regulatorMap = new Map(regulatorData.regulators.map((regulator: any) => [regulator.Id, regulator.name, regulator.jurisdiction]));
 
-// Read all VASP JSON files
+// // Create a map for sanctioning body
+// const sanctioningBodyMap = new Map(sanctioningBodyData.sanctioning_body.map((sanctioning_body: any) => [sanctioning_body.Id, sanctioning_body.name]));
+
+
 const vaspDirectoryPath = path.join(__dirname, "input", "VASPS");
 const vaspFiles = fs.readdirSync(vaspDirectoryPath).filter(file => file.endsWith(".json"));
 
 const accounts: any[] = [];
+const vasps: any[] = []; // New array to store VASP data
+
 // Process each VASP.json file
 vaspFiles.forEach(file => {
     const vaspPath = path.join(vaspDirectoryPath, file);
@@ -204,6 +371,28 @@ vaspFiles.forEach(file => {
     const vaspId = vaspData.vaspId;
     const commonName = vaspData.commonName;
 
+    // Collect main VASP data
+    vasps.push({
+        vaspId: vaspId,
+        commonName: commonName,
+        url: vaspData.url || "",
+        domiciledCountry: vaspData.domiciledCountry || "",
+        hqRegion: vaspData.hqRegion || "",
+        isSanctioned: vaspData.isRegulated ? true : false,
+        directOnramp: vaspData.directOnramp ? true : false,
+        indirectOnramp: vaspData.indirectOnramp ? true : false,
+        hasOfframp: vaspData.hasOfframp ? true : false,
+        tradesFiat: vaspData.tradesFiat ? true : false,
+        tradesPrivacyCoins: vaspData.tradesPrivacyCoins ? true : false,
+        isDecentralized: vaspData.isDecentralized ? true : false,
+        hasKyc: vaspData.hasKyc ? true : false,
+        openedDate: vaspData.openedDate || "",  
+        closedDate: vaspData.closedDate || "",
+        isCustodial: vaspData.isCustodial ? true : false,
+        AML_Policy_URL: vaspData.AML_Policy_URL || ""
+    });
+
+    // Collect account data under paymentMethods
     if (vaspData.paymentMethods) {
         vaspData.paymentMethods.forEach((paymentMethod: any) => {
             if (paymentMethod.account) {
@@ -228,16 +417,26 @@ vaspFiles.forEach(file => {
     }
 });
 
-// Check if there is data to write to Account.csv
+// Check and write to Vasps.csv
+if (vasps.length === 0) {
+    console.error("No VASP data found to write to CSV.");
+    process.exit(1);
+}
+
+vaspsCsvWriter.writeRecords(vasps)
+    .then(() => console.log("Vasps.csv has been written successfully."))
+    .catch(error => console.error("Error writing Vasps.csv:", error));
+
+// Check and write to Account.csv
 if (accounts.length === 0) {
     console.error("No account data found to write to CSV.");
     process.exit(1);
 }
 
-// Write to Account.csv
 accountCsvWriter.writeRecords(accounts)
     .then(() => console.log("Account.csv has been written successfully."))
     .catch(error => console.error("Error writing Account.csv:", error));
+
 
 // Read Country.json
 const countryPath = path.join(__dirname, "input", "auxiliary", "Country.json");
@@ -269,7 +468,8 @@ const countries = countryData.countries.map((country: any) => ({
     isOfacComprehensiveSanction: country.isOfacComprehensiveSanction ? true : false,
     isOfacSelectiveSanction: country.isOfacSelectiveSanction ? true : false,
     isUnSanctioned: country.isUnSanctioned ? true : false,
-    isFinancialActionTaskForce: country.isFinancialActionTaskForce ? true : false
+    isFinancialActionTaskForce: country.isFinancialActionTaskForce ? true : false,
+    sanctions: country.sanctions || []
 }));
 
 // Check if there is data to write to Country.csv
@@ -309,7 +509,7 @@ vaspFiles.forEach(file => {
                 nameId: name.nameId || "",
                 vaspId: vaspId,
                 commonName: commonName,  // Correctly use commonName for VASP_NAME
-                nameType: name.type || "",
+                type: name.type || "",
                 name: name.name || "",
                 country: name.country || ""
             });
@@ -332,6 +532,24 @@ namesCsvWriter.writeRecords(names)
 const paymentMethods: any[] = [];
 
 // Process each VASP.json file to extract payment methods data
+const vaspMap = new Map<string, string>();
+
+// First, read all VASP files and populate the map
+vaspFiles.forEach(file => {
+    const vaspPath = path.join(vaspDirectoryPath, file);
+    let vaspData: any;
+    try {
+        vaspData = JSON.parse(fs.readFileSync(vaspPath, "utf-8"));
+        if (!vaspData || !vaspData.vaspId || !vaspData.commonName) {
+            throw new Error(`Invalid structure in ${file}: Missing 'vaspId' or 'commonName'.`);
+        }
+        vaspMap.set(vaspData.vaspId, vaspData.commonName); // Store vaspId -> commonName
+    } catch (error) {
+        console.error(`Error reading ${file}:`, error);
+    }
+});
+
+// Now, process the VASP files again and extract payment methods
 vaspFiles.forEach(file => {
     const vaspPath = path.join(vaspDirectoryPath, file);
     let vaspData: any;
@@ -342,7 +560,7 @@ vaspFiles.forEach(file => {
         }
     } catch (error) {
         console.error(`Error reading ${file}:`, error);
-        return; // Skip this file and continue with the next one
+        return;
     }
 
     const vaspId = vaspData.vaspId;
@@ -350,19 +568,23 @@ vaspFiles.forEach(file => {
 
     if (vaspData.paymentMethods) {
         vaspData.paymentMethods.forEach((paymentMethod: any) => {
+            const onrampProviderId = paymentMethod.onrampProvider || "";
+            const onrampProviderName = vaspMap.get(onrampProviderId) || ""; // Lookup commonName
+
             paymentMethods.push({
                 paymentMethodId: paymentMethod.paymentMethodId || "",
                 vaspId: vaspId,
                 commonName: commonName,
-                paymentMethod: paymentMethod.paymentMethod || "",
-                isAmountRestricted: paymentMethod.isAmountRestricted ? true : false,
+                paymentMethod: paymentMethod.paymentMethod || "", 
+                isAmountRestricted: typeof paymentMethod.isAmountRestricted === "boolean" ? paymentMethod.isAmountRestricted : "",                
                 jurisdiction: paymentMethod.jurisdiction || "",
-                onrampProviderId: paymentMethod.onrampProviderId || "",
-                onrampProviderName: paymentMethod.onrampProviderName || ""
+                onrampProviderId: onrampProviderId,
+                onrampProviderName: onrampProviderName // Extracted commonName
             });
         });
     }
 });
+
 
 // Check if there is data to write to Payment_Methods.csv
 if (paymentMethods.length === 0) {
@@ -375,11 +597,94 @@ paymentMethodsCsvWriter.writeRecords(paymentMethods)
     .then(() => console.log("Payment_Methods.csv has been written successfully."))
     .catch(error => console.error("Error writing Payment_Methods.csv:", error));
 
+//Regulations
 
-// Array to store the regulators data
+// Read and parse Regulators.json
+let regulatorsData: any;
+try {
+    regulatorsData = JSON.parse(fs.readFileSync(regulatorsPath, "utf-8"));
+    console.log("Regulators.json loaded:", regulatorsData); // Debug log
+
+    // Ensure the file has the expected structure
+    if (!regulatorsData || !Array.isArray(regulatorsData.regulators)) {
+        throw new Error("Invalid structure: 'regulators' key is missing or not an array.");
+    }
+
+    // Populate regulatorMap using the nested array
+    regulatorsData.regulators.forEach((regulator: any) => {
+        if (regulator.regulatorId) {
+            regulatorMap.set(regulator.regulatorId, {
+                name: regulator.name ?? "",
+                jurisdiction: regulator.jurisdiction ?? ""
+            });
+        }
+    });
+
+    console.log("Regulator Map:", regulatorMap); // Debug log
+} catch (error) {
+    console.error(`Error reading Regulators.json:`, error);
+    process.exit(1);
+}
+
+// Array to store the regulations data
 const regulators: any[] = [];
 
-// Process each VASP.json file to extract regulators data
+// Process each VASP.json file to extract regulations data
+vaspFiles.forEach(file => {
+    const vaspPath = path.join(vaspDirectoryPath, file);
+    let vaspData: any;
+    try {
+        vaspData = JSON.parse(fs.readFileSync(vaspPath, "utf-8"));
+        if (!vaspData || !vaspData.vaspId || !vaspData.commonName) {
+            throw new Error(`Invalid structure in ${file}: Missing 'vaspId' or 'commonName'.`);
+        }
+    } catch (error) {
+        console.error(`Error reading ${file}:`, error);
+        return;
+    }
+
+    const vaspId = vaspData.vaspId;
+    const commonName = vaspData.commonName;
+    const openedDate = vaspData.openedDate;
+    const closedDate = vaspData.closedDate;
+
+    if (vaspData.regulations) {
+        vaspData.regulations.forEach((regulation: any) => {
+            const regulatorDetails = regulatorMap.get(regulation.regulator) as { name: string; jurisdiction: string } || { name: "", jurisdiction: "" };
+
+            console.log(`Matching Regulator: ${regulation.regulator}`, regulatorDetails); // Debug log
+
+            regulators.push({
+                regulationId: regulation.regulationId || "",
+                vaspId: vaspId,
+                commonName: commonName,
+                regulator: regulation.regulator || "",
+                name: regulatorDetails.name,         // ✅ Extracted from Regulators.json
+                jurisdiction: regulatorDetails.jurisdiction, // ✅ Extracted from Regulators.json
+                number: regulation.number || "",
+                openedDate: openedDate|| "",
+                closedDate: closedDate || ""
+            });
+        });
+    }
+});
+
+// Check if there is data to write to Regulations.csv
+if (regulators.length === 0) {
+    console.error("No data found to write to CSV.");
+    process.exit(1);
+}
+
+// Write to Regulations.csv
+regulatorsCsvWriter.writeRecords(regulators)
+    .then(() => console.log("Regulators.csv has been written successfully."))
+    .catch(error => console.error("Error writing Regulations.csv:", error));
+
+
+// Array to store the trading pairs data
+const tradingPairs: any[] = [];
+
+// Process each VASP.json file to extract trading pairs data
 vaspFiles.forEach(file => {
     const vaspPath = path.join(vaspDirectoryPath, file);
     let vaspData: any;
@@ -396,29 +701,235 @@ vaspFiles.forEach(file => {
     const vaspId = vaspData.vaspId;
     const commonName = vaspData.commonName;
 
-    if (vaspData.regulations) {
-        vaspData.regulations.forEach((regulator: any) => {
-            regulators.push({
-                regulationId: regulator.regulationId || "",
+    if (vaspData.tradingPairs) {
+        vaspData.tradingPairs.forEach((tradingPair: TradingPairs) => {
+            tradingPairs.push({
+                tradingPairId: tradingPair.tradingPairId || "",
                 vaspId: vaspId,
-                commonName: commonName,
-                regulator: regulator.regulator || "",
-                name: regulatorMap.get(regulator.name) || "",
-                jurisdiction: regulatorMap.get(regulator.jurisdiction) || "",
-                number: regulator.number || "",
-                openedDate: regulator.openedDate || ""
+                commonName: commonName,  // Correctly use commonName for VASP_NAME
+                from: tradingPair.from || "",
+                From_chain: tradingPair.From_chain || "",
+                to: tradingPair.to || "",
+                To_chain: tradingPair.To_chain || "",
+                Is_Privacy: tradingPair.Is_Privacy ? true : false,
+                Is_Fiat: tradingPair.Is_Fiat ? true : false
             });
         });
     }
 });
 
-// Check if there is data to write to Regulators.csv
-if (regulators.length === 0) {
-    console.error("No data found to write to CSV.");
+// Check if there is data to write to Trading_Pairs.csv
+if (tradingPairs.length === 0) {
+    console.error("No trading pairs data found to write to CSV.");
     process.exit(1);
 }
 
-// Write to Regulators.csv
-regulatorsCsvWriter.writeRecords(regulators)
-    .then(() => console.log("Regulators.csv has been written successfully."))
-    .catch(error => console.error("Error writing Regulators.csv:", error));
+// Write to Trading_Pairs.csv
+tradingPairsCsvWriter.writeRecords(tradingPairs)
+    .then(() => console.log("Trading_Pairs.csv has been written successfully."))
+    .catch(error => console.error("Error writing Trading_Pairs.csv:", error));
+
+// Array to store the categories data
+const categories: any[] = [];
+
+// Process each VASP.json file to extract trading pairs data
+vaspFiles.forEach(file => {
+    const vaspPath = path.join(vaspDirectoryPath, file);
+    let vaspData: any;
+    try {
+        vaspData = JSON.parse(fs.readFileSync(vaspPath, "utf-8"));
+        if (!vaspData || !vaspData.vaspId || !vaspData.commonName) {
+            throw new Error(`Invalid structure in ${file}: Missing 'vaspId' or 'commonName'.`);
+        }
+    } catch (error) {
+        console.error(`Error reading ${file}:`, error);
+        return; // Skip this file and continue with the next one
+    }
+
+    const vaspId = vaspData.vaspId;
+    const commonName = vaspData.commonName;
+
+    if (vaspData.vaspType) {
+        vaspData.vaspType.forEach((category: Categories) => {
+            categories.push({
+                vaspTypeId: category.vaspTypeId || "",
+                vaspId: vaspId,
+                commonName: commonName,  // Correctly use commonName for VASP_NAME
+                type: category.type || ""
+            });
+        });
+    }
+});
+
+// Check if there is data to write to Categories.csv
+if (categories.length === 0) {
+    console.error("No categories data found to write to CSV.");
+    process.exit(1);
+}
+
+// Write to Categories.csv
+categoriesPairsCsvWriter.writeRecords(categories)
+    .then(() => console.log("Categories.csv has been written successfully."))
+    .catch(error => console.error("Error writing Categories.csv:", error));
+
+
+// Array to store the KYC data
+const kycData: any[] = [];
+
+// Process each VASP.json file to extract kyc data
+vaspFiles.forEach(file => {
+    const vaspPath = path.join(vaspDirectoryPath, file);
+    let vaspData: any;
+    try {
+        vaspData = JSON.parse(fs.readFileSync(vaspPath, "utf-8"));
+        if (!vaspData || !vaspData.vaspId || !vaspData.commonName) {
+            throw new Error(`Invalid structure in ${file}: Missing 'vaspId' or 'commonName'.`);
+        }
+    } catch (error) {
+        console.error(`Error reading ${file}:`, error);
+        return; // Skip this file and continue with the next one
+    }
+
+    const vaspId = vaspData.vaspId;
+    const commonName = vaspData.commonName;
+
+    if (vaspData.kyc) {
+        vaspData.kyc.forEach((kyc: Kyc) => {
+            kycData.push({
+                kycId: kyc.kycId || "",
+                vaspId: vaspId,
+                commonName: commonName,  // Correctly use commonName for VASP_NAME
+                requires2fa: kyc.requires2fa ? true : false,
+                legalNameRequired: kyc.legalNameRequired ? true : false,
+                dobRequired: kyc.dobRequired ? true : false,
+                addressRequired: kyc.addressRequired ? true : false,
+                ssn_tinRequired: kyc.ssn_tinRequired ? true : false,
+                countryOfCitizenshipRequired: kyc.countryOfCitizenshipRequired ? true : false,
+                govtIdRequired: kyc.govtIdRequired ? true : false,
+                proofOfResidencyRequired: kyc.proofOfResidencyRequired ? true : false,
+                emailRequired: kyc.emailRequired ? true : false,
+                phoneRequired: kyc.phoneRequired ? true : false,
+                selfieRequired: kyc.selfieRequired ? true : false,
+                videoRequired: kyc.videoRequired ? true : false,
+                transactionLimitsExist: kyc.transactionLimitsExist ? true : false,
+                amountLimit: kyc.amountLimit ? true : false,
+                currency: kyc.currency || "",
+                limitFrequency: kyc.limitFrequency ? true : false,
+                notes: kyc.notes || ""
+            });
+        });
+    }
+});
+
+// Check if there is data to write to Kyc.csv
+if (kycData.length === 0) {
+    console.error("No kyc data found to write to CSV.");
+    process.exit(1);
+}
+
+// Write to Categories.csv
+kycPairsCsvWriter.writeRecords(kycData)
+    .then(() => console.log("Kyc.csv has been written successfully."))
+    .catch(error => console.error("Error writing Kyc.csv:", error));
+
+
+// Read Vasp_Sanctions.json
+// SanctioningBody.json processing logic is already defined earlier, so this duplicate block is removed.
+
+// Create a map for quick lookup of sanctioning body names
+const sanctioningBodyMap: Map<string, string> = new Map();
+
+// Read and parse Sanctioning_Body.json
+try {
+    const vaspSanctioningBodyData = JSON.parse(fs.readFileSync(sanctioningBodyPath, "utf-8"));
+    console.log("✅ Sanctioning_Body.json loaded:", vaspSanctioningBodyData); // Debug log
+
+    // Ensure the file has the expected structure
+    if (!vaspSanctioningBodyData || !Array.isArray(vaspSanctioningBodyData.sanctioning_body)) {
+        throw new Error("❌ Invalid structure: 'sanctioning_body' key is missing or not an array.");
+    }
+
+    // Populate sanctioningBodyMap using the nested array
+    vaspSanctioningBodyData.sanctioning_body.forEach((body: any) => {
+        if (body.sanctioningBodyId && body.name) { // ✅ Only add valid entries
+            sanctioningBodyMap.set(body.sanctioningBodyId, body.name);
+        }
+    });
+
+    console.log("✅ Sanctioning_Body Map:", sanctioningBodyMap); // Debug log
+} catch (error) {
+    console.error(`❌ Error reading Sanctioning_Body.json:`, error);
+    process.exit(1);
+}
+
+// Array to store the Sanctions data
+const sanctionsData: any[] = [];
+
+// Read Vasp_Sanctions.json
+const vaspSanctionsPath = path.join(__dirname, "input", "auxiliary", "Vasp_Sanctions.json");
+let vaspSanctionData: { sanctions: Sanctions[] };
+
+try {
+    vaspSanctionData = JSON.parse(fs.readFileSync(vaspSanctionsPath, "utf-8"));
+    if (!vaspSanctionData || !Array.isArray(vaspSanctionData.sanctions)) {
+        throw new Error("Invalid Vasp_Sanctions.json structure: 'sanctions' should be an array.");
+    }
+} catch (error) {
+    console.error("Error reading Vasp_Sanctions.json:", error);
+    process.exit(1);
+}
+
+console.log("✅ Extracted sanctions data:", vaspSanctionData.sanctions);
+
+// Create a map for quick lookup of common names by vaspId
+const vaspCommonNameMap: Map<string, string> = new Map();
+
+// Process each VASP.json file to build the vaspCommonNameMap
+vaspFiles.forEach(file => {
+    const vaspPath = path.join(vaspDirectoryPath, file);
+    
+    try {
+        const vaspData = JSON.parse(fs.readFileSync(vaspPath, "utf-8"));
+        
+        if (vaspData?.vaspId && vaspData?.commonName) {
+            vaspCommonNameMap.set(vaspData.vaspId, vaspData.commonName);
+        }
+    } catch (error) {
+        console.error(`Error reading ${file}:`, error);
+        return; // Skip this file and continue with the next one
+    }
+});
+
+console.log("✅ Extracted common names:", vaspCommonNameMap);
+
+// Process each sanction entry
+vaspSanctionData.sanctions.forEach(sanction => {
+    const sanctioningBodyName = sanctioningBodyMap.get(sanction.Sanctioning_Body) || "";
+    const commonName = vaspCommonNameMap.get(sanction.Vasp) || "";
+
+    // Only add if either name or commonName is found
+    if (sanctioningBodyName || commonName) {
+        sanctionsData.push({
+            Vasp_sanction_ID: sanction.Vasp_sanction_ID || "",
+            Vasp: sanction.Vasp || "",
+            commonName: commonName,
+            Sanctioning_Body: sanction.Sanctioning_Body || "",
+            name: sanctioningBodyName,
+            Sanction_URL: sanction.Sanction_Url || "",
+            Sanction_Type: sanction.Sanction_Type || "",
+            Sanction_start: sanction.Sanction_start || "",
+            Sanction_end: sanction.Sanction_end || "",
+        });
+    }
+});
+
+// Check if there is data to write to CSV
+if (sanctionsData.length === 0) {
+    console.error("No sanctions data found to write to CSV.");
+    process.exit(1);
+}
+
+// Write to Sanctions.csv
+sanctionsPairsCsvWriter.writeRecords(sanctionsData)
+    .then(() => console.log("✅ Sanctions.csv has been written successfully."))
+    .catch(error => console.error("❌ Error writing Sanctions.csv:", error));

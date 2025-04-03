@@ -15,7 +15,7 @@
   "openedDate": "01/01/2011",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "",
+  "AML_Policy_URL": "",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -1453,812 +1453,1460 @@
     {
       "tradingPairId": "1d2755a3-7af5-40b2-a182-3f7db49a4784",
       "from": "TFUEL",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "29fda22e-35f8-4072-9db7-07684b9e6868",
       "from": "XLM",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "a722e648-07b4-49d5-ad26-00fb575c6b08",
       "from": "ALGO",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "6e09144c-3385-46b6-bfda-bb69490d5057",
       "from": "EFI",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "a4593786-867c-4d4f-98fd-9ad3c19253ca",
       "from": "XTZ",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f0a28773-de92-454c-854e-20500473f236",
       "from": "XLM",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "a38b58fa-3284-4b10-b021-6659bd5392db",
       "from": "USDC",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "806fc4a3-bc7d-44f5-b6d9-c83f9da9f903",
       "from": "OGN",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "bc5ae03b-9b20-4955-8fbc-8dc01396b1ee",
       "from": "CLOUT",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "8f05895b-4d09-45c1-95d1-c4f7ec623ccf",
       "from": "STX",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "4b1104ea-c9a1-4727-9080-cb0e9bbe0193",
       "from": "CEUR",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "a58b15e2-56d2-49df-be36-8a90ad81e12f",
       "from": "EOS",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "c311569f-e924-405e-8c66-70e58a9cd794",
       "from": "PAX",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "95db5252-8a8e-4281-af40-fe7313c0a4b5",
       "from": "BCH",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0a0a331c-7801-43c5-8188-bb116c7cecbd",
       "from": "DAI",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "86b80365-70b0-4ec5-aad9-70da7a3f2d96",
       "from": "USDT",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "772169b4-48f7-452b-8080-3d453a52191d",
       "from": "CRV",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "2a95c624-dfc7-44ea-8318-2801e0abec1d",
       "from": "LINK",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ae418b88-fb30-43b8-8d79-edca38edc965",
       "from": "CHZ",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "ca0dd81e-0700-477f-bac6-6099d1358994",
       "from": "APE",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "ca718f90-a804-4d32-b029-4160cdf198c2",
       "from": "STX",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "241f44c9-a773-4cbc-ae9a-ef422ce773e4",
       "from": "MATIC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ae9459ca-ec69-4fd5-b1e0-131ef6c5ba34",
       "from": "WDGLD",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "f97befb0-04c8-40d2-b053-fdea6e67f55e",
       "from": "ETH",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "9c8ba4e3-994a-46f8-ae06-45d00860b788",
       "from": "SNX",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "bda4ea88-8380-494e-81ff-b87f3cbbdba0",
       "from": "LEND",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "b0842d74-e5ee-4b73-835b-7fc2235ec452",
       "from": "XLM",
-      "to": "PAX"
+      "From_chain": null,
+      "to": "PAX",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "3107fd7b-ae4c-494d-a62e-a2d1cc607c6d",
       "from": "XRP",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "be0c84df-ec2e-42fc-a064-20697b20c26d",
       "from": "XLM",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "5a96c724-317c-42b6-a43e-100cff1e556f",
       "from": "BAT",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": true,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "7446b8c6-4c5f-4c69-bbc7-3dfa166b4045",
       "from": "LINK",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "34ea7c09-011f-4bed-b5f9-21949505c894",
       "from": "DGLD",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "70577909-c1a3-41e1-b90b-e6f9db9bf265",
       "from": "BCH",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "a93941d8-0463-4814-a873-9fd8c8b16192",
       "from": "BCH",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ba9e39e3-9219-4782-a258-15eba462261f",
       "from": "CLOUT",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "50675d8c-afdd-41e7-96be-6e703bdccf51",
       "from": "BTC",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "fd62e96f-2301-480e-9744-351997bfb8f1",
       "from": "BCH",
-      "to": "ETH"
+      "From_chain": null,
+      "to": "ETH",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ae70f3f5-8545-4328-bc75-978df1ee9e23",
       "from": "ETH",
-      "to": "TRY"
+      "From_chain": null,
+      "to": "TRY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "379a9bd3-0145-4151-9ff9-eecd6a600436",
       "from": "WLUNA",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "3881f32a-ade3-499b-8247-2c8bdc7f16a3",
       "from": "THETA",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "a505b924-ae04-43f8-9a05-d9e8d69a57fc",
       "from": "GALA",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "8bd3bd13-5ea1-4a0a-937e-2746a2e0f36d",
       "from": "CUSD",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "88f3337f-2032-47ee-885f-74895d6f68ec",
       "from": "BTC",
-      "to": "TRY"
+      "From_chain": null,
+      "to": "TRY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "f650ada3-bb53-4dbe-946f-12b43ac9f623",
       "from": "ALGO",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "952f38f7-bfd4-436c-8503-080340003d0a",
       "from": "ETH",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "b8cf0fb9-f731-4a8d-b7f4-09b1d523b221",
       "from": "DOGE",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "f12721f2-8394-4a3f-9a36-a43cce5d4277",
       "from": "GRT",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "b5420890-c452-4f0f-a764-a4ee124e5493",
       "from": "STX",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "89feee68-8ddf-4989-aef6-49039c6fad6b",
       "from": "XRP",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "28b32ae1-3cee-4406-9a72-81de829202b9",
       "from": "XLM",
-      "to": "ETH"
+      "From_chain": null,
+      "to": "ETH",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "5a666441-608f-46c8-98b4-4316b7d638bf",
       "from": "USD",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "886b4f49-96b6-407c-a3d6-52c7d8badec3",
       "from": "YFI",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "53802afd-fe45-4010-9353-60871ffbe17a",
       "from": "BTC",
-      "to": "PAX"
+      "From_chain": null,
+      "to": "PAX",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ad8b5d6e-7096-417d-9eb2-fa9c413ce863",
       "from": "UMA",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "9778c3ef-f2b4-4f62-a092-e8db793477d0",
       "from": "WBTC",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ca44e4d5-1289-4ae3-960e-5dc247698a66",
       "from": "MKR",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "e3ff757c-bb44-44b7-bc8b-6f2565cd1839",
       "from": "NEAR",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "9b641168-b84f-4567-be27-0e83dcf766a7",
       "from": "CRV",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "1f3a7ae3-d420-46ef-b04d-e472dc535b50",
       "from": "TRX",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "4fde97e8-d0f9-41ef-8269-d96d48423984",
       "from": "UNI",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "6ac634c5-467e-4eb7-8f7c-9c6afd1937cb",
       "from": "DOT",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "097c9dcd-52b8-4092-ada2-baf00ddff376",
       "from": "BAT",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": true,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "646dd2cd-5b05-4892-95aa-817aadb3633b",
       "from": "BCH",
-      "to": "PAX"
+      "From_chain": null,
+      "to": "PAX",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "c93b9a84-6253-4abb-a6e5-d1f73fe86d3e",
       "from": "DAI",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "3ae753a3-608a-4248-bf5e-0939db13324f",
       "from": "UNI",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "d897f72a-ffb2-4c52-8d0a-a4d0be2f6d9e",
       "from": "TFUEL",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "6ec5d3fd-9160-40ed-930f-24aed9fdae92",
       "from": "SOL",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f61eddab-5e96-4656-a599-6e0de6118de1",
       "from": "ETH",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "78ea104d-9ad0-43f9-9865-fe7322356ef9",
       "from": "WDGLD",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "371086ad-7e55-40e6-af62-0218111c078b",
       "from": "CELO",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "d0cad121-33e0-41fc-a54d-47460a5e923c",
       "from": "USDC",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "264788a1-b413-4426-a966-70de38b3159f",
       "from": "XTZ",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "b11df5b8-1094-4747-a398-a0636564ab72",
       "from": "WBTC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "571c5f3d-969b-41d5-be39-60b3ab7c414f",
       "from": "MKR",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "b84b4eb7-ed93-4001-9a27-72f8343434e4",
       "from": "LTC",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0c90c3e9-3a51-4a5a-b13c-b2599a57f717",
       "from": "LINK",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "ccea036f-980c-40d1-a765-9b5a10a1ca6a",
       "from": "DOGE",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f5b58a9e-ed7a-44db-a353-920d71e105ab",
       "from": "GRT",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "ba14f71d-8447-49b8-a3e7-423093c60973",
       "from": "COMP",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "fc78ed97-f1bf-4b09-9072-a037ce33c28b",
       "from": "CRV",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "d760a2ec-b2bc-43ee-88eb-6e7684bc44da",
       "from": "CEUR",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "a3a4ab88-ceb7-426d-a0f1-3d86ad73fd73",
       "from": "GBP",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "6cb5914f-b8c5-4f27-b3e0-ad0d726376f4",
       "from": "LTC",
-      "to": "BTC"
+      "From_chain": null,
+      "to": "BTC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "30ba442b-9c54-4dd5-b98d-4d9ffbb87458",
       "from": "EFI",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "a3095689-fc0f-4864-b243-e8e201add964",
       "from": "EOS",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f705ed3c-8b0a-48f9-931f-8db7cf027de2",
       "from": "DAI",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "b4509769-9ba6-4e81-8391-6762dd736b8e",
       "from": "SOL",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "abe90eb9-8222-4da2-8235-244d2f6452d0",
       "from": "BTC",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "fa2eb351-c47b-4d62-8929-bd6b476e01b8",
       "from": "USDC",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "abea7bf7-e3d0-4f75-ad1d-d63b0b786205",
       "from": "MKR",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "354f5c17-f699-4edb-9670-763fde53d0a6",
       "from": "SNX",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "e3347b1d-b17b-4957-abc2-9b2aa023c49c",
       "from": "LTC",
-      "to": "TRY"
+      "From_chain": null,
+      "to": "TRY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "c0a86cf7-28a9-48f2-af3a-2da3377c9c75",
       "from": "UMA",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "04eeb020-fc0c-44bd-8a68-1b9df01e588b",
       "from": "WBTC",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "2dacd310-19c6-4193-a6c6-9526703f1a82",
       "from": "UMA",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "c6d5c77c-2a9a-4b0a-a80b-24e1f3c038d7",
       "from": "UNI",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "b1b61006-4ad7-4686-8fff-6504b594788d",
       "from": "CELO",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "972248f8-ea1e-45fb-bc4e-3532f0ad5e4f",
       "from": "THETA",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "884b526f-0c71-4e53-9de8-6766a4d974ce",
       "from": "LTC",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "37ef02bf-46f6-46c9-b735-82d4bf7ba4c3",
       "from": "SNX",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "fc643d16-f7d8-4a04-a89d-f14bfc8d4d9a",
       "from": "WDGLD",
-      "to": "DGLD"
+      "From_chain": null,
+      "to": "DGLD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "52c480b2-0c0a-4803-ac19-d7f9ac207c18",
       "from": "THETA",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "10fe4b7d-48cd-4ec7-b136-370f5bada31a",
       "from": "GRT",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "490e902e-ad31-45a4-a6a5-b5074f74e258",
       "from": "DOT",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "b5022d3f-6f4f-4509-a360-67a9f3a9bbd0",
       "from": "EUR",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "95dbbe67-61d3-4ec2-bb1a-1575403cc398",
       "from": "XTZ",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "bc77ff44-43be-4aa5-a34c-1e1143c02a5d",
       "from": "USDT",
-      "to": "TRY"
+      "From_chain": null,
+      "to": "TRY",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "e1f49abd-67f5-4b6c-9de5-7f779a0da6b1",
       "from": "RARE",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f73f7efc-a666-4bfd-8177-c20bb9e976af",
       "from": "COMP",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "8de508ed-a150-4b83-84fd-23a3b879ba7d",
       "from": "USDT",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "3764096c-f6ed-49b4-bb9c-676af47c0f94",
       "from": "LEND",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "c9bfd04b-41bc-4cb0-8389-483da0781911",
       "from": "CELO",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "2f678a75-2cc6-4bf6-9d19-df9b2434e240",
       "from": "USD",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "00501d7c-b3db-4b8e-ae2e-a926018a5b96",
       "from": "ETH",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "e1efcf12-002c-4117-b0df-19e0a0cacec8",
       "from": "OGN",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "395c9408-443a-4b7f-abde-fefe37b30a82",
       "from": "ZRX",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "8d822aa8-dee3-406d-bfdc-94c98cf0c0ea",
       "from": "TFUEL",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "e369eaf0-a937-42cf-9b80-0752be57998f",
       "from": "ADA",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0553fa9f-a683-4240-a2a6-2f25b5918cb2",
       "from": "BAT",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": true,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "3ccd1542-6d4a-40ce-aa5a-e82b00e301db",
       "from": "ADA",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "d323132d-d0b1-4a9a-ba63-02a1ef2c6939",
       "from": "AAVE",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "e5bd27de-b995-461c-a1f6-0b711117cb2b",
       "from": "APE",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "3d36719e-cbc0-4206-bae8-8fd3a87a09e4",
       "from": "USDC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "8755b016-5aed-4f17-bbb8-06aa2c397657",
       "from": "ETH",
-      "to": "PAX"
+      "From_chain": null,
+      "to": "PAX",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "a44cd114-4537-4d14-92ff-51f3f889b6fa",
       "from": "BCH",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "66c2f7c0-437d-4187-954f-871884e84016",
       "from": "ZRX",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "484adffc-605b-470e-8f97-395b28de2455",
       "from": "CUSD",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0348e5d8-f8ea-48c1-ad08-9c1af1472377",
       "from": "ALGO",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "c6782f4b-f8f5-46ec-8c70-42348a570091",
       "from": "SUSHI",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f34ade6d-a9bd-4f26-a34c-de1eff5b168c",
       "from": "ENJ",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "ab16b47c-db03-4004-bea2-4b28df858773",
       "from": "LTC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "2666344d-46e1-41e1-9e4d-fea47bc3fa32",
       "from": "DAI",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "90ca1c3d-a1f5-4bc2-bd8f-b4aa593d9f26",
       "from": "EFI",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "0a7e6dbc-67be-42e3-9af8-bf51bae4c7eb",
       "from": "BTC",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "31d25300-df7c-4f37-a3fe-6301b776a36a",
       "from": "USDT",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "35cee7b6-9ac0-45ac-9c1d-a7bb47eb02ab",
       "from": "DGLD",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "144eb9a3-9b51-41f8-9a6a-7a17a6ea4ecb",
       "from": "EOS",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "6f297e45-d980-47ab-8ca3-71a74321403b",
       "from": "YFI",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "19100d6d-46b7-4625-8a41-134974778176",
       "from": "WLUNA",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "777c445f-54af-427f-982c-5333beb48453",
       "from": "RARE",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "984d544e-78b3-48a1-9409-5b49e0273bfe",
       "from": "SUSHI",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "f5d9e1fb-b490-46ad-bcf9-e3e229967352",
       "from": "RARE",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "9e446a22-8af5-463b-8011-80141c1d2f2e",
       "from": "COMP",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "0a4c8ef5-dfba-4276-a61d-46a8e7f3fba4",
       "from": "ENJ",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "143f0501-9420-432c-8296-f7ad16caf7a1",
       "from": "CUSD",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "d2721c7b-368e-4bf4-96e1-cd88318e67fa",
       "from": "LTC",
-      "to": "PAX"
+      "From_chain": null,
+      "to": "PAX",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "b6449c1c-bea0-41be-8703-4be18db9353d",
       "from": "MATIC",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "8e4853db-0d2a-45e5-825d-bb8b724516e4",
       "from": "PAX",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "2461a15b-969d-4d25-b6f4-fae1e4b610be",
       "from": "NEAR",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "824bf730-7406-477a-a333-9b3af501c4fa",
       "from": "AAVE",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "b299221a-a19a-4209-99d7-0d2c71b321ac",
       "from": "BTC",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "1f5748f0-8e99-4b3a-9701-869181456644",
       "from": "DOT",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "d192293c-4c85-4797-9edc-86752ec318c5",
       "from": "WLUNA",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "a02e9ab9-81e3-4341-a23d-ee6b7221c355",
       "from": "APE",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "465e6a56-557d-4e2a-a679-d6d616f7e2bb",
       "from": "ETH",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "7e6207bc-6c5c-407f-9aee-eacdc1319cda",
       "from": "SOL",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "6a6c435f-42b5-4b45-8a87-92a935bc9b3a",
       "from": "ZRX",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "761d1458-b115-4362-b349-eddccd7e650c",
       "from": "ADA",
-      "to": "USDC"
+      "From_chain": null,
+      "to": "USDC",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "8dc23625-0ae4-4aa7-8f0f-9fb494a99f00",
       "from": "MATIC",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "744ce28a-f195-472a-9422-88a66a7937a8",
       "from": "SUSHI",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "447aaad5-26a1-4d8a-8722-a6ebc198bc4a",
       "from": "NEAR",
-      "to": "USDT"
+      "From_chain": null,
+      "to": "USDT",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": false
     },
     {
       "tradingPairId": "5adda48c-13aa-4869-ad82-d7745fc92b8c",
       "from": "DAI",
-      "to": "USD"
+      "From_chain": null,
+      "to": "USD",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     }
   ],
   "regulations": [
@@ -2312,5 +2960,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

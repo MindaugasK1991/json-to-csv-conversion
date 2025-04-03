@@ -15,7 +15,7 @@
   "openedDate": "09/23/2017",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://mercuryo.io/explore/article/aml-kyc",
+  "AML_Policy_URL": "https://mercuryo.io/explore/article/aml-kyc",
   "profile": "EinarasUS",
   "isReported": true,
   "vaspType": [
@@ -521,5 +521,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

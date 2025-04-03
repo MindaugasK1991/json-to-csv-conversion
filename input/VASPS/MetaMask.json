@@ -15,7 +15,7 @@
   "openedDate": "01/01/2016",
   "closedDate": "",
   "isCustodial": false,
-  "AML Policy URL": "",
+  "AML_Policy_URL": "",
   "profile": "",
   "isReported": true,
   "vaspType": [
@@ -239,5 +239,6 @@
   "tradingPairs": [],
   "regulations": [],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

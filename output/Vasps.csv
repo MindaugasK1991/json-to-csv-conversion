@@ -1,0 +1,87 @@
+VASP_ID,VASP_Name,URL,HQ_country,HQ_Region,Is_Sanctioned,Direct_Onramp,Indirect_Onramp,Has_Off_Ramp,Trades_FIAT,Trades_Privacy_Coins,Is_Decentralized,Has_KYC,Opened_Date,Closed_Date,Is_Custodial,AML_Policy_URL
+5f9c7631-96c5-4c3d-a6d1-183e7c52c457,Alchemy Pay,https://alchemypay.org/,,,false,false,false,false,false,false,false,false,,,false,
+ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,https://www.arkfi.io/,LTU,Europe,false,true,true,true,false,true,true,false,01/01/2022,,false,
+ef53a1d1-5e87-4bb3-abe9-8db2f17a2fe9,AscendEX,https://ascendex.com/,SGP,Asia,false,true,true,true,true,true,false,false,01/01/2018,,true,https://ascendex.com/en/terms-of-service
+89545e05-1121-41e6-9662-3e20fc6a3314,Astro Pay,https://trade.astropay.com/,,,false,false,false,false,false,false,false,false,,,false,
+91554304-d2fc-4052-a698-f42f8d166958,AvaTrade,https://www.avatrade.com/,IRL,Europe,false,true,true,true,true,true,false,false,01/01/2006,,true,https://brokeragetoday.com/avatrade-account-verification/
+61fcc0b4-2d87-4265-97f4-95e1cf380294,BTC Direct,https://btcdirect.eu/,,,false,false,false,false,false,false,false,false,,,false,
+740a7eb0-2728-43e1-b6b2-5fe7bbf6eede,BTC Markets,https://www.btcmarkets.net/,AUS,Oceania,false,true,false,true,true,true,false,false,01/01/2013,,true,https://www.btcmarkets.net/regulation
+ae0f61a5-7a5e-46d1-a079-be0ccec83c81,Banxa,https://banxa.com/,AUS,Oceania,false,true,false,true,true,true,false,false,01/01/2014,,false,https://banxa.com/aml-policy/
+572de404-20d2-45a3-881e-b907ea319e7a,Binance.US,https://www.binance.com/,USA,Americas,false,false,false,false,false,false,false,false,09/01/2019,,true,https://www.binance.us/compliance
+4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,https://www.binance.com/,,,false,true,true,true,true,true,false,false,07/01/2017,,true,
+4e3e28bd-bba5-402b-88de-ed5ffe1c02f3,BingX,https://bingx.com/en/,SGP,Asia,false,true,true,true,false,false,false,false,01/01/2018,,true,https://bingx.com/en/support/articles/360034028153-Disclaimer/
+f1aeb13d-abac-4bf3-a981-050b4f53236e,Bit2me,https://bit2me.com/,ESP,Europe,false,true,false,true,true,true,false,false,01/01/2014,,true,https://bit2me.com/legal/aml-kyc
+dfd6561b-d803-4bb8-bce4-e97f3bda8c52,BitFlyer,https://bitflyer.com/en-eu/,JPN,Asia,false,true,false,true,true,true,false,false,01/09/2014,,true,https://bitflyer.com/en-jp/anti-money-laundering
+e2140447-6250-46e5-828a-2068bccc374d,Bitget,https://www.bitget.com/,SGP,Asia,false,true,true,true,true,true,false,false,01/01/2018,,true,
+581cc0b3-50a5-429e-9d4c-321832305488,Bitpanda,https://www.bitpanda.com/,AUT,Europe,false,true,true,true,true,true,false,false,01/01/2014,,true,
+fd6f4ad2-11d9-453d-a308-21bf1326e691,Bitstamp,https://www.bitstamp.net/,LUX,Europe,false,true,true,true,true,true,false,false,08/01/2011,,true,https://www.bitstamp.net/learn/security/what-is-anti-money-laundering-law-aml/
+af9f0a20-a549-499f-abbf-8a6f6cb570b7,Bitvavo,https://bitvavo.com/,NLD,Europe,false,true,false,true,true,true,false,false,01/01/2018,,true,https://support.bitvavo.com/hc/en-us/articles/4405187032721-Transaction-monitoring
+689d49da-145f-48d9-b045-c417e23921ae,Blockchain.com,https://www.blockchain.com/,LTU,Europe,false,true,false,true,true,true,false,false,01/01/2011,,true,
+1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,https://www.bybit.com/,ARE,Asia,false,true,true,true,true,true,false,false,03/01/2018,,true,
+58276b0f-fa0e-47da-9f14-8be1c217222f,Cash App,https://cash.app/,USA,Americas,false,true,false,true,false,false,false,false,01/01/2013,,true,
+39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,https://cex.io/,USA,Americas,false,true,false,true,true,true,false,false,01/01/2013,,true,https://cex.io/compliance/aml-kyc
+ced7e171-648d-4001-a661-70f8454dbfe6,Circle,https://www.circle.com/,,,false,false,false,false,false,false,false,false,,,false,
+1e7acbef-3ca4-4d1b-ae4a-00d39d0d93ee,CoinCorner,https://www.coincorner.com/,IMN,Europe,false,true,false,true,true,false,false,false,01/01/2014,,true,
+6896b296-6abd-4e58-9e1a-ba02d2d55886,CoinJar,https://www.coinjar.com/,AUS,Oceania,false,true,false,true,true,true,false,false,05/01/2013,,true,https://support.coinjar.com/hc/en-us/articles/28814873312793-CoinJar-s-regulatory-obligations
+7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,https://www.coinbase.com/,,,false,true,false,true,true,true,false,false,06/01/2012,,true,
+0d41e81a-e9e7-432e-9cc9-2db495efb9a9,Coinmetro,https://www.coinmetro.com/,EST,Europe,false,true,true,true,true,true,false,false,01/01/2022,,true,https://help.coinmetro.com/hc/en-gb/articles/6843996840221-Coinmetro-s-AML-CTF-KYT-and-KYC-Verification-Practices
+a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,https://crypto.com/,SGP,Asia,false,true,false,true,true,true,false,false,01/01/2016,,true,https://crypto.com/glossary/anti-money-laundering-aml
+c20f4352-2a20-47ce-97de-f4e9201bc5c7,Deepcoin,https://www.deepcoin.com,SGP,Asia,false,false,false,false,false,false,false,false,11/01/2018,,true,https://www.deepcoin.com/en/support/articles/360052420651
+eb472792-66b8-40a5-b864-76882f7a7859,Delta Exchange,https://www.delta.exchange/,IND,Asia,false,true,false,true,false,false,false,false,01/01/2018,,true,
+fa812b99-1e84-4f2c-8c6b-58ce1e7d0e29,Dzengi,https://dzengi.com/,BLR,Europe,false,true,false,true,true,true,false,false,10/24/2022,,true,https://prod-img.dzengi.com/docs/t_c_eng_2025-01-17.pdf
+89800d6d-b19c-4328-be2c-ea77f98300f6,EXMO,https://exmo.com/,POL,Europe,false,true,true,true,true,false,false,false,01/01/2014,,true,https://exmo.com/blog/en/aml-ctf-kyc-policy
+1de3f1ba-bf7c-49bd-8866-42a04988e1fc,FixedFloat,https://ff.io/,,,false,false,false,false,false,false,false,false,,,false,
+3de4c409-0fa1-4b43-a0b9-b9930f7ab446,Gate.io,https://www.gate.io/,CYM,Americas,false,true,true,true,false,true,false,false,01/01/2017,,true,https://www.gate.io/announcements/article/30683
+b359a823-691c-47c2-88d4-e071119d30ec,Gemini,https://www.gemini.com/,USA,Americas,false,true,false,true,true,true,false,false,10/25/2014,,true,https://www.gemini.com/cryptopedia/anti-money-laundering-blockchain
+c3544c3b-d739-4928-bc69-6192efce5c5c,Guardarian,https://guardarian.com/,EST,Europe,false,true,true,true,true,true,false,false,08/29/2017,,false,https://guardarian.com/aml-policy
+a2112108-2978-4522-85a6-0a8c50344013,HTX,https://www.htx.com/,SYC,Africa,false,true,true,true,true,true,true,false,01/01/2013,,true,https://www.htx.com/support/360000121402
+c9d37d78-6695-47a2-a210-c32fd90d56e3,IG Group,https://www.iggroup.com/,GBR,Europe,false,true,false,true,true,false,false,false,01/01/1974,,true,
+d503453c-dc3b-44f9-b281-3f0f1f79420a,Interactive Brokers,https://www.interactivebrokers.ie/en/,USA,Americas,false,true,true,true,true,false,false,false,01/01/1977,,true,
+d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,https://www.kraken.com/,USA,Americas,false,true,true,true,true,true,false,false,07/28/2011,,true,
+18fe7739-869e-43b4-84c1-7eefe19b8e82,Kriptomat,https://kriptomat.io/,EST,Europe,false,true,true,true,true,true,false,false,01/01/2018,,true,https://kriptomat.io/aml/
+95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,https://www.kucoin.com/,SYC,Africa,false,true,true,true,true,true,false,false,01/01/2017,,true,https://www.kucoin.com/legal/anti-money-laundering-and-counter-terrorism-financing
+f4e5aa00-3b54-48e5-85c0-fdd72b4377d9,Kuna,https://kuna.io/,LTU,Europe,false,true,true,true,true,true,false,false,01/01/2014,,true,https://kuna.io/en/legal/aml-kyc
+c89c35f1-4350-4351-b9ec-87d07f3a52fb,LCX,https://www.lcx.com/,LIE,Europe,false,true,false,true,true,true,false,false,04/24/2018,,true,https://www.lcx.com/automating-anti-money-laundering-practices-and-crypto-compliance/
+53ca0b28-cf89-453c-80f2-0e5fe56ca50e,LUNO,https://www.luno.com/,GBR,Europe,false,true,false,true,true,false,false,false,01/01/2013,,true,
+c85c6c0f-776e-450d-976f-708195d36675,Legend Trading,https://www.legendtrading.com/,,,false,false,false,false,false,false,false,false,,,false,
+58e680e2-88ec-4453-b20b-c166a36e12c5,LibertyX,https://libertyx.com/,USA,Americas,false,true,false,true,false,false,false,false,01/01/2014,,false,
+3eb66f59-ccaf-4224-b620-80f6171adeec,Link,https://link.com/,,,false,false,false,false,false,false,false,false,,,false,
+ae74106e-d8b9-48dd-8605-0585d7376d30,MEXC,https://www.mexc.com/,SYC,Africa,false,true,true,true,true,true,false,false,01/01/2018,,true,
+ff47f5f0-49ea-49f7-8bfc-d28d8533bab5,Mercuryo,https://my.mercuryo.io/,GBR,Europe,false,true,true,true,false,false,false,false,09/23/2017,,true,https://mercuryo.io/explore/article/aml-kyc
+bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,https://metamask.io/,USA,Americas,false,false,true,true,false,true,true,false,01/01/2016,,false,
+61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,https://www.moonpay.com/,USA,Americas,false,true,false,true,false,false,false,false,01/01/2019,,false,
+2959bf26-7c56-4761-979b-14ddfb3a7112,Multi X,https://www.multiexc.com/,,,false,false,false,false,false,false,false,false,,,false,
+86641c75-6d49-406a-8de5-e45376ea604b,Neteller,https://www.neteller.com/,,,false,false,false,false,false,false,false,false,,,false,
+ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5,Nobitex,https://nobitex.ir/,IRN,Asia,false,true,false,true,true,true,false,false,01/01/2017,,true,
+0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,https://www.okx.com/,SYC,Africa,false,true,true,true,true,true,true,false,01/05/2013,,true,https://www.okx.com/help/eea-risk-and-compliance-disclosure
+0287ee97-477c-4370-b9c2-599f84e565da,Onramp.money,https://onramp.money/,,,false,false,false,false,false,false,false,false,,,false,
+837331e7-d4f3-4372-8642-62b3ca0fb410,Onramper,https://onramper.com/,,,false,false,false,false,false,false,false,false,,,false,
+1fea66ec-a852-4fc3-aa1f-8b4358ad85d2,Payb.is,https://paybis.com/,,,false,false,false,false,false,false,false,false,,,false,
+3f1e5a01-8006-4e4b-b892-68e6c907b8b2,Paymonade,https://www.paymonade.tech/,,,false,false,false,false,false,false,false,false,,,false,
+983a19d7-431d-481e-84ed-828b0d430d16,Plus500,https://www.plus500.com/lt/,CYP,Europe,false,true,true,true,true,false,false,false,01/01/2008,,true,https://www.plus500.com/Docs/Plus500/AntiMoneyLaundering.pdf
+b1ad5378-c8b2-4599-bf1e-e8a53b68c633,Poloniex,https://poloniex.com/,PAN,Americas,false,false,true,true,false,true,false,false,01/01/2014,,true,https://support.poloniex.com/hc/en-us/articles/15461997752855-Huobi-Platform-User-Agreement
+7d29f90f-cef2-40f3-b230-2ddb832e8652,Ramp Network,https://ramp.network/,,,false,false,false,false,false,false,false,false,,,false,
+b1be20fa-4e46-45c2-99ef-4e3e09e4cec7,Remitano,https://remitano.com/global,SYC,Africa,false,true,true,true,true,false,false,false,01/01/2014,,true,https://remitano.com/mx/anti-money-laundering-policy
+089d040e-b144-4f63-b784-30145874ae90,Revolut,https://www.revolut.com/,GBR,Europe,false,true,false,true,true,true,false,false,07/01/2015,,true,https://help.revolut.com/business/help/more/security-and-personal-data/what-is-money-laundering/
+b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,https://robinhood.com/eu/en/about/crypto/,USA,Americas,false,true,false,true,true,false,false,false,01/01/2018,,true,
+6040ea2a-8bc7-4329-a294-31fa44f332bc,Sardine,https://www.sardine.ai/,,,false,false,false,false,false,false,false,false,,,false,
+cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9,Saxo bank,https://www.home.saxo/,DNK,Europe,false,true,false,true,true,false,false,false,01/01/1992,,true,https://www.home.saxo/legal/compliance/saxo-compliance
+b5dc5fd7-a07b-4964-8262-3f08b450f759,Simplex,https://www.simplex.com/,,,false,false,false,false,false,false,false,false,,,false,
+1d71cc07-3953-4336-bfda-45ceb7ec0ed9,Skrill,https://www.skrill.com/,,,false,false,false,false,false,false,false,false,,,false,
+2e68f51d-b12f-46ef-9bb1-e62c1d283d24,SpectroCoin,https://spectrocoin.com/,LTU,Europe,false,true,true,true,true,true,false,false,02/01/2013,,true,https://spectrocoin.com/terms/amlPolicy.html
+b32be4a9-2f8b-478a-99f6-7290d3fd4479,Stripe,https://stripe.com/,USA,Americas,false,true,true,true,true,false,false,false,01/01/2010,,true,
+c257bf8f-6054-49fc-b75e-73299660b2b7,SwissBorg,https://swissborg.com/,CHE,Europe,false,true,false,true,true,true,false,false,01/01/2017,,true,https://help.swissborg.com/hc/en-gb/articles/360016368433-SwissBorg-Financial-Crimes-Policies-and-procedures
+c75dbfc3-230d-41a8-8f7a-2eaebe9b510b,Swissquote,https://www.swissquote.ch/,CHE,Europe,false,true,true,true,true,false,false,false,01/01/2000,,true,https://links.imagerelay.com/cdn/2958/ql/sqb-aml-and-ctf-policy-en.pdf
+0a0cf6fc-d3f7-4d56-88ff-aef23c24b5c6,Tothemoon,https://tothemoon.com/,CYP,Europe,false,true,false,true,true,true,false,false,01/01/2017,,true,https://tothemoon.com/faq/aml-kyc-policy-43000634569
+57d505e9-b7a4-4014-a04d-55b1bc296deb,Transak,https://transak.com/,USA,Americas,false,true,true,true,false,false,false,false,01/01/2019,,false,https://transak.com/group-bsl-asl-policy
+e53754a5-21c4-415d-bdaf-904e19e6ca5d,Unlimit,https://www.unlimit.com/,,,false,false,false,false,false,false,false,false,,,false,
+a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3,Upbit,https://upbit.com/,KOR,Asia,false,true,false,true,true,true,false,false,10/24/2017,,true,https://upbit-id-static.upbitit.in/mobile_for_app/htm/private_data_md.html
+f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,https://uphold.com/,USA,Americas,false,true,false,true,true,true,false,false,01/01/2013,,true,https://support.uphold.com/hc/en-us/articles/203399367-Security-at-Uphold
+430b052e-edf8-405f-87ef-85088201da20,VALR,https://www.valr.com/,ZAF,Africa,false,true,false,true,true,false,false,false,01/01/2018,,true,https://support.valr.com/hc/en-us/articles/360019021931-Terms-of-Service
+c48539e9-92ee-4794-96a5-21908c3e1e9f,Volet,https://volet.com/,,,false,false,false,false,false,false,false,false,,,false,
+4e1e6420-ff29-40d5-9425-e00b3ee741f6,WhiteBIT,https://whitebit.com/,LTU,Europe,false,true,true,true,true,true,false,false,11/16/2018,,true,https://whitebit.com/terms/aml-policy
+d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,https://wirexapp.com/,GBR,Europe,false,true,false,true,true,true,false,false,01/01/2014,,true,https://wirexapp.com/legal/row-terms-and-conditions
+112f4b6b-e6a8-40c0-bc2f-68170d2d3d12,Wise,https://wise.com/,,,false,false,false,false,false,false,false,false,,,false,
+1d9304cd-7de3-4979-9f89-30ef63ea5826,Zondacrypto,https://zondacrypto.com/,EST,Europe,false,true,true,true,true,true,false,false,01/01/2014,,true,https://zondacrypto.com/en/safety/zondacrypto-exchange/aml-kyc-policy
+2d0ef03b-4f22-4f2a-97f4-2b225f04595e,bithumb,https://www.bithumb.com/,KOR,Asia,false,true,false,true,true,true,false,false,01/05/2014,,true,
+c7f5625f-ca6a-4922-b764-6e931d813cc3,eToro,https://www.etoro.com/,,,false,true,true,true,true,true,false,false,01/01/2007,,true,https://www.etoro.com/about/anti-money-laundering/

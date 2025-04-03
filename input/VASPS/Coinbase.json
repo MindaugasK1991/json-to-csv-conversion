@@ -15,7 +15,7 @@
   "openedDate": "06/01/2012",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "",
+  "AML_Policy_URL": "",
   "profile": "EinarasUS",
   "isReported": true,
   "vaspType": [
@@ -425,5 +425,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

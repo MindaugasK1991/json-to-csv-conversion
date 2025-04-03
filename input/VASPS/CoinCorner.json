@@ -15,7 +15,7 @@
   "openedDate": "01/01/2014",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "",
+  "AML_Policy_URL": "",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -339,12 +339,20 @@
     {
       "tradingPairId": "44cab14f-be38-4d36-a990-bdb9fa8ce027",
       "from": "BTC",
-      "to": "GBP"
+      "From_chain": null,
+      "to": "GBP",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     },
     {
       "tradingPairId": "0bde0717-6b5d-411f-ad30-4fa1eb622461",
       "from": "BTC",
-      "to": "EUR"
+      "From_chain": null,
+      "to": "EUR",
+      "To_chain": null,
+      "Is_Privacy": null,
+      "Is_Fiat": true
     }
   ],
   "regulations": [
@@ -368,5 +376,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

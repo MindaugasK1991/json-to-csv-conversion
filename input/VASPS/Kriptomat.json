@@ -15,7 +15,7 @@
   "openedDate": "01/01/2018",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://kriptomat.io/aml/",
+  "AML_Policy_URL": "https://kriptomat.io/aml/",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -368,5 +368,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

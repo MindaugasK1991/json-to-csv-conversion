@@ -15,7 +15,7 @@
   "openedDate": "01/01/2017",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://help.swissborg.com/hc/en-gb/articles/360016368433-SwissBorg-Financial-Crimes-Policies-and-procedures",
+  "AML_Policy_URL": "https://help.swissborg.com/hc/en-gb/articles/360016368433-SwissBorg-Financial-Crimes-Policies-and-procedures",
   "profile": "",
   "isReported": true,
   "vaspType": [
@@ -547,5 +547,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

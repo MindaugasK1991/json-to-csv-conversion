@@ -1,0 +1,131 @@
+Vasp_Type_ID,VASP_ID,VASP_Name,Category
+a36995f7-01ae-4eb8-bf44-90c76aed5a02,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,DeFi Exchange
+0cba5c20-6deb-4cad-8197-ac7a630ee193,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Bridge
+21d588c5-b231-4231-9ee5-d66ed4b90720,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,NFT Vendor
+a6aca88c-8cb7-404d-841d-9bb79f0d615d,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Credit Card Provider
+bde3e827-dd58-406e-9ca5-00b1c64b54cf,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Payment Provider
+9bcc21e7-8dc2-4738-aee5-3cfe007d214a,ef53a1d1-5e87-4bb3-abe9-8db2f17a2fe9,AscendEX,Exchange
+d6b5da90-56ee-492a-bfe8-25872ad0b718,91554304-d2fc-4052-a698-f42f8d166958,AvaTrade,Exchange
+fa11f4b7-6aef-46a3-abaa-b87fac4e141b,740a7eb0-2728-43e1-b6b2-5fe7bbf6eede,BTC Markets,Exchange
+e846331b-dbf4-44c3-b496-ab00bb40cc31,ae0f61a5-7a5e-46d1-a079-be0ccec83c81,Banxa,Payment Provider
+7bcb6b4d-79a7-40d8-95a7-0b18f0b9e0ed,572de404-20d2-45a3-881e-b907ea319e7a,Binance.US,Exchange
+b11099fd-4702-48a6-8566-892f208f5333,4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,Exchange
+ed36fd24-7cc6-4a9b-a7c8-57b73b5b3bce,4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,NFT Vendor
+03791eaf-7037-497b-8a64-84e540c82616,4e3e28bd-bba5-402b-88de-ed5ffe1c02f3,BingX,Exchange
+daad8017-5636-4956-aa2c-e09b326f0413,f1aeb13d-abac-4bf3-a981-050b4f53236e,Bit2me,Exchange
+b6bc374c-8023-4c8c-9ef1-18d15d8e2f0a,f1aeb13d-abac-4bf3-a981-050b4f53236e,Bit2me,Wallet
+590d9af0-6d1f-45a9-9f5e-6fab2d5b224a,f1aeb13d-abac-4bf3-a981-050b4f53236e,Bit2me,Credit/Debit Card Provider
+e8cc09e3-04a7-4283-86b4-f0b338f54844,dfd6561b-d803-4bb8-bce4-e97f3bda8c52,BitFlyer,Credit Card Provider
+dc413ce3-448e-4c47-8fdf-7580f976da9c,dfd6561b-d803-4bb8-bce4-e97f3bda8c52,BitFlyer,Exchange
+64b52351-b58c-4d55-ae4e-3ea29ae7fb43,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Exchange
+d3194ede-9023-4fe0-b11e-66b6c52aa9cb,e2140447-6250-46e5-828a-2068bccc374d,Bitget,NFT Vendor
+308b1305-129c-45ae-b30f-df6cc5163050,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Credit Card Provider
+f7c0fb63-5f98-47df-82ec-657e23fee505,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Wallet
+19a8621d-8707-4235-a908-53420821ad46,e2140447-6250-46e5-828a-2068bccc374d,Bitget,DeFi
+1f6b3df1-bb12-4500-bf00-5b62330efb4d,581cc0b3-50a5-429e-9d4c-321832305488,Bitpanda,Exchange
+3950812a-0b80-49ad-95c5-2be2ed409e43,581cc0b3-50a5-429e-9d4c-321832305488,Bitpanda,Payment Provider
+905b2631-1982-4444-a2f4-2db5d724a961,581cc0b3-50a5-429e-9d4c-321832305488,Bitpanda,Debit Card Provider
+dec9177f-67a2-49b6-918c-874343a2d6b1,fd6f4ad2-11d9-453d-a308-21bf1326e691,Bitstamp,Exchange
+d64ee4d4-b7b0-4b04-b4bd-74f059fe005d,af9f0a20-a549-499f-abbf-8a6f6cb570b7,Bitvavo,Exchange
+088eb7bb-dc5c-4dea-b91b-0483c1efecd7,689d49da-145f-48d9-b045-c417e23921ae,Blockchain.com,Exchange
+4c6e4e70-be0a-4fb9-b52d-81eec78ce006,689d49da-145f-48d9-b045-c417e23921ae,Blockchain.com,Payment Provider
+f0798a4e-0649-4a3f-981c-732c30cc9060,689d49da-145f-48d9-b045-c417e23921ae,Blockchain.com,Wallet
+b832db56-9604-4c13-a167-68b84769282f,689d49da-145f-48d9-b045-c417e23921ae,Blockchain.com,DeFi Exchange
+479f8983-f33d-40eb-86f4-e7a0a87e349a,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,Exchange
+8d4004bd-3547-4015-9816-688d3cdb9c3c,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,Credit Card Provider
+8881c44c-fb08-4575-b93e-962a651353c4,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,NFT Vendor
+80711211-6ded-4e4a-a189-4c478413714a,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,DeFi Exchange
+27ed9f34-0a27-475b-bbf0-e41f2b314423,58276b0f-fa0e-47da-9f14-8be1c217222f,Cash App,Payment Provider
+de18b6d5-d6c6-4f1b-af70-1e505dea0c97,58276b0f-fa0e-47da-9f14-8be1c217222f,Cash App,Credit Card Provider
+e0f04744-b271-485a-a278-b0a1e2a18ade,39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,Exchange
+3f0e8b08-a3ad-4037-b599-cb20fcee76b5,39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,Credit Card Provider
+0ed34aa2-27f3-4af7-8675-41f5d4dd3c29,1e7acbef-3ca4-4d1b-ae4a-00d39d0d93ee,CoinCorner,Exchange
+e96668a4-150c-405d-ba16-1af30ae4d3f5,1e7acbef-3ca4-4d1b-ae4a-00d39d0d93ee,CoinCorner,Credit Card Provider
+a536a1e9-717f-4f76-8feb-70989d723e87,6896b296-6abd-4e58-9e1a-ba02d2d55886,CoinJar,Exchange
+bed235b5-4063-4408-827a-6dffca0a49cf,6896b296-6abd-4e58-9e1a-ba02d2d55886,CoinJar,Debit Card Provider
+efe9310e-f59e-4dd1-9385-b694ead1c363,7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,Exchange
+dcf35e6d-1e38-4cd2-9f07-2b093f69eaac,7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,Payment Provider
+9bc1d0cd-0d66-45c2-98e1-bffafeaf3e2a,0d41e81a-e9e7-432e-9cc9-2db495efb9a9,Coinmetro,Exchange
+c94aa2c3-996e-44b2-80ac-f9f89d49db12,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,Exchange
+7ae34bf1-2f34-4ec4-a169-26d7822ca873,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,Credit Card Provider
+e22ef70d-8913-4396-a06b-dbd399acba1c,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,NFT Vendor
+94d7cbe2-c2c2-4c27-b0ba-38efe340b0a7,c20f4352-2a20-47ce-97de-f4e9201bc5c7,Deepcoin,Exchange
+9a0101c3-4839-41f9-b424-3a94f0682422,eb472792-66b8-40a5-b864-76882f7a7859,Delta Exchange,Exchange
+890d25f9-e54b-4abb-a72e-72f868fea064,fa812b99-1e84-4f2c-8c6b-58ce1e7d0e29,Dzengi,Exchange
+78538367-003c-4029-b9e1-125059fe38f6,89800d6d-b19c-4328-be2c-ea77f98300f6,EXMO,Exchange
+2d327173-f7dc-4e19-aba8-8ad4f7c9cb72,3de4c409-0fa1-4b43-a0b9-b9930f7ab446,Gate.io,Exchange
+5ce4b716-f366-4879-911c-28b1bcf058c9,b359a823-691c-47c2-88d4-e071119d30ec,Gemini,Exchange
+2f73be4b-c0ff-41d6-8467-7a2f21fd04e2,b359a823-691c-47c2-88d4-e071119d30ec,Gemini,Credit Card Provider
+24823afd-0b20-4de3-9e2e-35fadadb51f3,c3544c3b-d739-4928-bc69-6192efce5c5c,Guardarian,Exchange
+7114c014-3586-41af-8c03-dddf3ede3d7e,c3544c3b-d739-4928-bc69-6192efce5c5c,Guardarian,Payment Provider
+b86afd04-8340-40c9-8972-65d4b61919e9,a2112108-2978-4522-85a6-0a8c50344013,HTX,Exchange
+5726d8a0-1ea8-4c76-845e-3b7b0ed34409,c9d37d78-6695-47a2-a210-c32fd90d56e3,IG Group,Exchange
+871e62bd-b455-4c0f-b6b3-c5c2c3769e8d,d503453c-dc3b-44f9-b281-3f0f1f79420a,Interactive Brokers,Exchange
+f6471e1b-d3d0-45ca-b6c8-7c497848c727,d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,Exchange
+d21da23d-31ab-4ab3-9576-4eb49dc649a2,d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,NFT Vendor
+e4c03f7e-5622-43b6-b4e6-77f19b62ebee,18fe7739-869e-43b4-84c1-7eefe19b8e82,Kriptomat,Exchange
+76622398-0d24-461e-9fe9-46922bbc5236,95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,Exchange
+d27aa727-1e42-4bad-9533-753a9af96bb1,95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,Credit Card Provider
+8689b5b8-764b-4a1e-b844-2ec9faf4c5f2,f4e5aa00-3b54-48e5-85c0-fdd72b4377d9,Kuna,Exchange
+475dd2a8-1079-417f-b0c0-c25141c423d2,f4e5aa00-3b54-48e5-85c0-fdd72b4377d9,Kuna,Payment Provider
+9dc2f24c-fa7a-4f14-8e9d-3ad177d6e627,c89c35f1-4350-4351-b9ec-87d07f3a52fb,LCX,Exchange
+04f0930b-0146-4dd5-9c11-899e09b4e13e,53ca0b28-cf89-453c-80f2-0e5fe56ca50e,LUNO,Exchange
+3165525c-38e0-4898-8f0a-3966975a272d,58e680e2-88ec-4453-b20b-c166a36e12c5,LibertyX,ATM
+1ed81e29-a53b-407b-b20a-aa7eb420566b,ae74106e-d8b9-48dd-8605-0585d7376d30,MEXC,Exchange
+b74c938f-8a2f-42d9-9a8b-332f26ef0520,ae74106e-d8b9-48dd-8605-0585d7376d30,MEXC,Credit Card Provider
+e1291a99-f784-4673-ba21-076d4423fad8,ae74106e-d8b9-48dd-8605-0585d7376d30,MEXC,Wallet
+6edb8bb7-0e3d-4d2d-854a-e8fdd0d7f121,ff47f5f0-49ea-49f7-8bfc-d28d8533bab5,Mercuryo,Payment Provider
+513ba783-53f2-431d-b76a-3451003622a3,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,DeFi
+f626fb8b-b214-4fed-b27d-575f58e01561,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,Wallet
+fee47d27-6153-4f7b-a594-ceb073425f52,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,Credit Card Provider
+b2f14941-aa97-43bb-9a5a-3eee9c4a9562,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Exchange
+82c1dd60-6f79-497e-9fe8-c9c644ba9bfe,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Payment Provider
+ed4c0c3f-6e41-48fc-90bd-af14e1cf1ef6,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Bridge
+25119753-3f36-45ab-ac1b-df1192dd79f0,ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5,Nobitex,Exchange
+8213f1dc-0eb1-44f6-bcec-d1d818f33476,ebe2aee3-c46f-4755-92fc-a89fbcc7bbd5,Nobitex,DeFi Exchange
+a28498e9-8f92-4e2b-bc63-b0cea95ba02c,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Bridge
+198a49d4-8ec5-4565-9768-9a390b5e7673,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,DeFi Exchange
+2b637321-952d-49d0-af13-85db3e2801f4,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Exchange
+1c8ac6e1-a0ad-4519-ae96-935b508c5a7a,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,NFT Vendor
+d46b8327-ca1b-44be-8186-1b4806567299,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Wallet
+0541c923-3b54-4e73-ae5b-b00c706d7c61,983a19d7-431d-481e-84ed-828b0d430d16,Plus500,Exchange
+3e1dd72d-947f-44c0-b753-52362495f599,b1ad5378-c8b2-4599-bf1e-e8a53b68c633,Poloniex,Exchange
+724c12d4-fe5e-4956-b8e1-9da3100be100,b1be20fa-4e46-45c2-99ef-4e3e09e4cec7,Remitano,Payment Provider
+a4fb1de3-6a91-4b94-b639-7c2d5b0b7b02,b1be20fa-4e46-45c2-99ef-4e3e09e4cec7,Remitano,Exchange
+80be44bc-ba3d-4646-b53d-48db8fef1d00,089d040e-b144-4f63-b784-30145874ae90,Revolut,Exchange
+e994582c-0445-433e-ad9a-5132c5826e95,089d040e-b144-4f63-b784-30145874ae90,Revolut,Payment Provider
+50a058aa-4113-4c5f-86f5-dc26faddfaac,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Exchange
+daf4e5f0-fdfc-4d3f-adb8-5588ad3bd366,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Credit Card Provider
+80e2b23c-efb1-4af3-abea-4756588ddddc,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Wallet
+57dc2cbc-4431-49b0-97a7-5ed705b05e11,cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9,Saxo bank,Investment bank
+b6d1de72-1cdd-4496-a43b-89f3c474f397,cbe4dcfb-03e1-48c3-8eb7-67e948a6acf9,Saxo bank,Exchange
+f07942d0-3a93-40e7-b4ef-eb22b09082e1,2e68f51d-b12f-46ef-9bb1-e62c1d283d24,SpectroCoin,Exchange
+e2c259a8-7de4-419d-95d7-98c10d435e01,2e68f51d-b12f-46ef-9bb1-e62c1d283d24,SpectroCoin,Debit Card Provider
+15e608c0-ecb7-45bb-9206-b6d84aa5f261,2e68f51d-b12f-46ef-9bb1-e62c1d283d24,SpectroCoin,Crypto Purchase Enabler
+3c686e8a-20ad-4ac5-9bf2-6f7e6dd45b46,b32be4a9-2f8b-478a-99f6-7290d3fd4479,Stripe,Exchange
+e5d7fe99-9d83-4edc-91c7-d987241da49e,b32be4a9-2f8b-478a-99f6-7290d3fd4479,Stripe,Credit Card Provider
+fbada538-2480-4b5d-97df-a46e9768693e,b32be4a9-2f8b-478a-99f6-7290d3fd4479,Stripe,Payment Provider
+aaa0f63b-d33c-4812-98c1-fd6bdea64b30,c257bf8f-6054-49fc-b75e-73299660b2b7,SwissBorg,Exchange
+08916a0e-4f67-429f-9329-603a0ea207b9,c75dbfc3-230d-41a8-8f7a-2eaebe9b510b,Swissquote,Credit Card Provider
+78e5c11e-b98c-41ae-836e-89f3aa3af155,c75dbfc3-230d-41a8-8f7a-2eaebe9b510b,Swissquote,Exchange
+4b15fdf1-e7e5-4798-ba38-bc0ff88501fd,c75dbfc3-230d-41a8-8f7a-2eaebe9b510b,Swissquote,Wallet
+1383fa42-5d15-47ca-b790-7e5a5339a979,0a0cf6fc-d3f7-4d56-88ff-aef23c24b5c6,Tothemoon,Exchange
+307e6867-acc0-40d7-a987-5a73c005eca3,0a0cf6fc-d3f7-4d56-88ff-aef23c24b5c6,Tothemoon,Debit Card Provider
+b08cd473-fba8-41a0-aba1-2c279639cdc0,57d505e9-b7a4-4014-a04d-55b1bc296deb,Transak,Payment Provider
+7e6f23bc-066d-445c-b68e-4366a205e565,a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3,Upbit,Exchange
+97f87b38-9882-4f61-9fde-fef1a1ae24c8,a1a03cc3-0e6b-4888-9ee3-4cdf60f9c6a3,Upbit,NFT Vendor
+21cb6ac5-f133-4e48-a10e-3f1b32cd1c72,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Payment Provider
+4bb83b94-3a58-42b1-9d09-37c8be02a248,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Exchange
+fc953c8d-b531-4410-9785-bca00ded950c,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Credit Card Provider
+628aed19-72c4-444b-9e3d-f4e9b13e5166,430b052e-edf8-405f-87ef-85088201da20,VALR,Exchange
+2cfcbd47-5bc0-471d-9bad-c68032af6eee,4e1e6420-ff29-40d5-9425-e00b3ee741f6,WhiteBIT,Exchange
+c01c21a8-193b-423a-8a75-f53398123fd5,4e1e6420-ff29-40d5-9425-e00b3ee741f6,WhiteBIT,Debit Card Provider
+5596be98-5c3f-457e-8de4-09ff9e3ecaa3,4e1e6420-ff29-40d5-9425-e00b3ee741f6,WhiteBIT,Payment Provider
+f67da5f5-2662-418e-9275-7a43e3764ee4,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Exchange
+6f37ca25-4d29-4968-b694-6ad5b3d8344f,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Credit Card Provider
+1adabbfe-f210-4242-b8f4-981cf7912213,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Bridge
+8d148c98-5e6c-427a-8f3c-ffbd8ad4754c,1d9304cd-7de3-4979-9f89-30ef63ea5826,Zondacrypto,Exchange
+4cb16a03-27cc-42c2-babe-84c58ebaccaa,1d9304cd-7de3-4979-9f89-30ef63ea5826,Zondacrypto,Credit Card Provider
+b31b56a9-873d-4436-bbe2-a117b9f009ae,1d9304cd-7de3-4979-9f89-30ef63ea5826,Zondacrypto,Crypto Purchase Enabler
+2177e0cb-2bfb-4e6e-9312-2ab59911b5dc,2d0ef03b-4f22-4f2a-97f4-2b225f04595e,bithumb,Exchange
+0d1c9114-8664-41ec-b589-530e4da15d1d,c7f5625f-ca6a-4922-b764-6e931d813cc3,eToro,Exchange

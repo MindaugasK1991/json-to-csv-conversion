@@ -15,7 +15,7 @@
   "openedDate": "01/01/2014",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://wirexapp.com/legal/row-terms-and-conditions",
+  "AML_Policy_URL": "https://wirexapp.com/legal/row-terms-and-conditions",
   "profile": "",
   "isReported": true,
   "vaspType": [
@@ -1704,5 +1704,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

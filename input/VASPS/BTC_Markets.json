@@ -15,7 +15,7 @@
   "openedDate": "01/01/2013",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://www.btcmarkets.net/regulation",
+  "AML_Policy_URL": "https://www.btcmarkets.net/regulation",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -79,5 +79,6 @@
   "tradingPairs": [],
   "regulations": [],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

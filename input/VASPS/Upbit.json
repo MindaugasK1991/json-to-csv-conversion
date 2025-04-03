@@ -15,7 +15,7 @@
   "openedDate": "10/24/2017",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://upbit-id-static.upbitit.in/mobile_for_app/htm/private_data_md.html",
+  "AML_Policy_URL": "https://upbit-id-static.upbitit.in/mobile_for_app/htm/private_data_md.html",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -91,5 +91,6 @@
   "tradingPairs": [],
   "regulations": [],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

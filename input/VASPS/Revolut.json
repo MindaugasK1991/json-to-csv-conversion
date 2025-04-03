@@ -15,7 +15,7 @@
   "openedDate": "07/01/2015",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://help.revolut.com/business/help/more/security-and-personal-data/what-is-money-laundering/",
+  "AML_Policy_URL": "https://help.revolut.com/business/help/more/security-and-personal-data/what-is-money-laundering/",
   "profile": "",
   "isReported": true,
   "vaspType": [
@@ -504,5 +504,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }

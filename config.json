@@ -1,4 +1,9 @@
 {
+    "Vasps": {
+        "headers": ["VASP_ID", "VASP_Name", "URL", "HQ_country", "HQ_Region", "Is_Sanctioned", "Direct_Onramp", "Indirect_Onramp", "Has_Off_Ramp", "Trades_FIAT", "Trades_Privacy_Coins", "Is_Decentralized", "Has_KYC", "Opened_Date", "Closed_Date", "Is_Custodial", "AML_Policy_URL"],
+        "fields": ["vaspId", "commonName", "url", "domiciledCountry", "hqRegion", "isSanctioned", "directOnramp", "indirectOnramp", "hasOfframp", "tradesFiat", "tradesPrivacyCoins", "isDecentralized", "hasKyc", "openedDate", "closedDate", "isCustodial", "AML_Policy_URL"]
+    },
+
     "Account": {
         "headers": ["Account_ID", "VASP_ID", "VASP_Name", "Routing_Type", "Local_Routing", "BIC", "IBAN", "Account_Number", "Bank_ID", "Bank_Name", "Bank_Role", "Account_Country"],
         "fields": ["accountId", "vaspId", "commonName", "routingType","localRouting", "bic", "iban", "number", "bank", "bankName", "bankRole", "country"]
@@ -22,6 +27,27 @@
     "Regulations" :{
         "headers": ["Regulation_ID", "VASP_ID", "VASP_Name", "Regulator_ID", "Regulator_Name", "Regulator_Country", "Regulation_Number", "Start_Date", "End_Date"],
         "fields": ["regulationId", "vaspId", "commonName", "regulator", "name", "jurisdiction", "number", "openedDate", "closedDate"]
+    },
+
+    "Trading_Pairs" :{
+        "headers": ["Trading_Pair_ID", "VASP_ID", "VASP_Name", "From_Symbol", "From_Chain", "To_Symbol", "To_Chain", "Is_Privacy", "Is_Fiat"],
+        "fields": ["tradingPairId", "vaspId", "commonName", "from", "From_chain", "to", "To_chain", "Is_Privacy", "Is_Fiat"]
+    },
+
+    "Categories" :{
+        "headers": ["Vasp_Type_ID", "VASP_ID", "VASP_Name", "Category"],
+        "fields": ["vaspTypeId", "vaspId", "commonName", "type"]
+    },
+
+    "Kyc" :{
+        "headers": ["KYC_ID", "VASP_ID", "VASP_Name", "Requires_2fa", "Legal_Name_Required", "DOB_Required", "Address_Required", "SSN/TIN_Required", "Country_of_Citizenship_Required", "Govt_ID_Required", "Proof_of_Residency_Required", "Email_Required", "Phone_Required", "Selfie_Requirred", "Video_Required", "Transaction_Limits_Exist", "Amount_Limit", "Currency", "Limit_Frequency", "Notes"],
+        "fields": ["kycId", "vaspId", "commonName", "requires2fa", "legalNameRequired", "dobRequired", "addressRequired", "ssn_tinRequired", "countryOfCitizenshipRequired", "govtIdRequired", "proofOfResidencyRequired", "emailRequired", "phoneRequired", "selfieRequired", "videoRequired", "transactionLimitsExist", "amountLimit", "currency", "limitFrequency", "notes"]
+    },
+
+    "Sanctions" : {
+        "headers": ["VASP_Sanction_ID", "VASP_ID", "VASP_Name", "Sanctioning_Body", "Sanctioning_Body_Name", "Sanction_URL", "Sanction_Type", "Sanction_Start", "Sanction_End"],
+        "fields": ["Vasp_sanction_ID", "Vasp", "commonName", "Sanctioning_Body", "name", "Sanction_URL", "Sanction_Type", "Sanction_start", "Sanction_end"]
     }
+
 
 }

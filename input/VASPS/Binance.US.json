@@ -15,7 +15,7 @@
   "openedDate": "09/01/2019",
   "closedDate": "",
   "isCustodial": true,
-  "AML Policy URL": "https://www.binance.us/compliance",
+  "AML_Policy_URL": "https://www.binance.us/compliance",
   "profile": "",
   "isReported": false,
   "vaspType": [
@@ -246,5 +246,6 @@
     }
   ],
   "vaspSanction": null,
-  "onChain": null
+  "onChain": null,
+  "sanctions": []
 }
