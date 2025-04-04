@@ -1,0 +1,352 @@
+{
+  "onChainId" : "LibertyX",
+  "vaspId" : "58e680e2-88ec-4453-b20b-c166a36e12c5",
+  "commonName" : "LibertyX",
+  "url" : "https://libertyx.com/",
+  "domiciledCountry" : "USA",
+  "hqRegion" : "Americas",
+  "isSanctioned" : false,
+  "directOnramp" : true,
+  "indirectOnramp" : false,
+  "hasOffRamp" : null,
+  "tradesFiat" : false,
+  "tradesPrivacyCoins" : false,
+  "isDecentralized" : false,
+  "hasKyc" : true,
+  "kycSubScore" : 73,
+  "openedDate" : "01/01/2014",
+  "closedDate" : null,
+  "isCustodial" : false,
+  "amlPolicyUrl" : null,
+  "profile" : "EinarasUS",
+  "isReported" : true,
+  "vaspType" : [ {
+    "vaspTypeId" : "3165525c-38e0-4898-8f0a-3966975a272d",
+    "type" : "ATM"
+  } ],
+  "names" : [ {
+    "nameId" : "dae8ce24-1722-425a-80be-bc5155ba4bd2",
+    "type" : "Legal",
+    "name" : "Moon Inc.",
+    "country" : "USA"
+  } ],
+  "countryRel" : [ {
+    "countryRelId" : "5598c500-fa70-4543-9f93-6f3841d2be65",
+    "country" : "USA",
+    "type" : "Headquartered in",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d19ab85b-9e95-4b94-a37b-5e33dafb6d3a",
+    "country" : "CUB",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Comprehensive"
+  }, {
+    "countryRelId" : "e39f77d6-f630-4899-936f-33ee4ba21e08",
+    "country" : "PRK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "a2ee721a-398d-45b6-ad98-80e24bf5a99c",
+    "country" : "SYR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "02403392-9307-42d3-883a-9d33de0532ce",
+    "country" : "IRN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "e74910b2-2d58-4914-8bc9-954af99408e0",
+    "country" : "RUS",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Comprehensive"
+  }, {
+    "countryRelId" : "7084b5b5-a34c-4a15-b176-05efc4d0c226",
+    "country" : "AFG",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "cd441e00-c0ef-4658-86bb-b58c0e429750",
+    "country" : "CAF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "92a60536-df18-4514-8afa-63f0b18cfc0f",
+    "country" : "IRQ",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "751f5d84-a489-4b9c-80a9-ca6c91042893",
+    "country" : "NIC",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "0a2d3004-2f2c-4002-9174-3114510bcfbb",
+    "country" : "VEN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "348269c7-2187-42fa-81d9-8ec6b511c443",
+    "country" : "COD",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "bb5fd71c-3a8e-4c61-8ca7-391997a1943c",
+    "country" : "LBN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "32ca1834-dcce-4fab-adf9-24f39d1f46e2",
+    "country" : "SOM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "9c9be171-abe4-426b-8ee9-9a7ddcd3989c",
+    "country" : "YEM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "eeb3e8d8-4b8b-4cdc-80cc-f8b0f9371188",
+    "country" : "BLR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "fed18d96-956e-4f39-9cb5-03a3faf873e8",
+    "country" : "ETH",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "a4f8a6cd-764e-4399-95ec-0fe18fb9d236",
+    "country" : "LBY",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "c6ee2881-fdf2-40a4-8d47-3ec358d8fdb1",
+    "country" : "SSD",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "695296a9-cd5e-43c9-9302-46f69a3f6c23",
+    "country" : "MMR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "cea0660f-4ea2-4450-b2a0-addbbc6f9793",
+    "country" : "HKG",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "e5e979d9-a35d-4950-a2b7-c2a78928732a",
+    "country" : "MLI",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "7011101a-2f75-4b1b-a8f0-bcf8102b9907",
+    "country" : "SDN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  } ],
+  "kyc" : [ {
+    "kycId" : "4d4fe254-c2d1-46fc-9fc3-29dbbd3ba86a",
+    "createdDate" : "01/20/2025",
+    "customerInfo" : "Phone Number, Email Address && Government ID, SSN/TIN",
+    "requires2fa" : true,
+    "legalNameRequired" : false,
+    "dobRequired" : false,
+    "addressRequired" : false,
+    "ssn_tinRequired" : true,
+    "countryOfCitizenshipRequired" : false,
+    "govtIdRequired" : true,
+    "proofOfResidencyRequired" : false,
+    "emailRequired" : true,
+    "phoneRequired" : true,
+    "selfieRequired" : false,
+    "videoRequired" : false,
+    "transactionLimitsExist" : true,
+    "amountLimit" : 3000,
+    "currency" : "USD",
+    "limitFrequency" : "Day",
+    "notes" : null,
+    "internalNotes" : "waiting on app dl"
+  } ],
+  "kycWeights" : {
+    "ssnTinRequiredWeight" : 25,
+    "proofOfResidencyRequiredWeight" : 15,
+    "videoRequiredWeight" : 14,
+    "govtIdRequiredWeight" : 12,
+    "selfieRequiredWeight" : 10,
+    "legalNameRequiredWeight" : 5,
+    "addressRequiredWeight" : 6,
+    "dobRequiredWeight" : 12,
+    "phoneRequiredWeight" : 4,
+    "countryOfCitizenshipRequiredWeight" : 6,
+    "transactionLimitsExistWeight" : 7,
+    "emailRequiredWeight" : 2
+  },
+  "paymentMethods" : [ {
+    "paymentMethodId" : "8b3529e0-e251-4271-9cc8-888a43363d19",
+    "paymentMethod" : "Physical Fiat",
+    "isAmountRestricted" : true,
+    "jurisdiction" : "USA",
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "d0d8f2d2-5cb3-46fb-b509-0139b561d429",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : true,
+    "jurisdiction" : "USA",
+    "onrampProvider" : null,
+    "account" : [ ]
+  } ],
+  "billingDescriptor" : [ {
+    "billingDescriptorId" : "35022879-f779-41f2-8f21-7045583e1992",
+    "descriptor" : "3860 SEPULVEDA BOULEVAR TORRANCE CA"
+  } ],
+  "tradingPairs" : [ ],
+  "regulations" : [ {
+    "regulationId" : "46911eb3-4179-402b-8679-5f6b26f5b180",
+    "regulator" : "c3a53ef0-3acc-4c29-8b60-7e7ad172d48c",
+    "number" : "1863571",
+    "printscreen" : "Screenshot 2024-12-04 165742.png",
+    "startDate" : "12/09/2014",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "57aeaef0-97c1-481d-a5c0-9e9bf732f341",
+    "regulator" : "1c86cfdc-dd39-43eb-9b77-93d4680e1f4e",
+    "number" : null,
+    "printscreen" : "Screenshot 2024-12-04 170200.png",
+    "startDate" : "01/01/2019",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "457fc425-c4ce-4df6-8463-49db132b3115",
+    "regulator" : "01a80e9b-d439-43a7-834b-33a7186d573d",
+    "number" : "858",
+    "printscreen" : null,
+    "startDate" : "04/13/2022",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "cd4a2d2e-cb85-4bb4-a3c2-45f53cf667ed",
+    "regulator" : "b78c0a87-7225-4de2-82a6-a7dc4eece5f9",
+    "number" : "133270",
+    "printscreen" : null,
+    "startDate" : "06/19/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "a390daaf-e9fb-4011-addc-f616174a9f80",
+    "regulator" : "8c200e9e-7cf0-4824-b739-da9daf5028c9",
+    "number" : "MT-1238308",
+    "printscreen" : null,
+    "startDate" : "12/01/2023",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "949c6630-2da8-4103-829c-34f349bcf32e",
+    "regulator" : "71c4573f-9420-4d47-a450-013295a4b8d4",
+    "number" : "FT230000372",
+    "printscreen" : null,
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "ad68b078-59ef-4569-a7e3-9d4e24c14339",
+    "regulator" : "818c1d36-414b-4950-b5a8-3217dbe41e91",
+    "number" : "46574",
+    "printscreen" : null,
+    "startDate" : "10/06/2015",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "58a6a16b-aa19-4b9f-a331-0b50cc6afacc",
+    "regulator" : "74524eb6-cc6f-4600-93e8-395f0e784963",
+    "number" : null,
+    "printscreen" : null,
+    "startDate" : "06/26/2023",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "8d56f90e-0d49-43da-9135-0f0cec46bded",
+    "regulator" : "0be7fce5-e05d-4616-9237-f13bd7a17984",
+    "number" : "1238308",
+    "printscreen" : null,
+    "startDate" : "08/16/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "1e32e5c5-baf4-4716-b0d4-36d599bb1c9f",
+    "regulator" : "b5ff5573-3118-432f-92d2-30f0776f3753",
+    "number" : "MT/1238308/2022",
+    "printscreen" : null,
+    "startDate" : "08/19/2022",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "df0c794c-667e-47c1-aaf8-64bec1e7cd51",
+    "regulator" : "5eb0f4c4-4bac-463b-97c2-573a86784d54",
+    "number" : "MT11224",
+    "printscreen" : null,
+    "startDate" : "03/20/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "a949c760-e372-4c7e-97f5-e04cb8be8150",
+    "regulator" : "024382dc-0e2c-4d80-943b-821390803227",
+    "number" : "27093-MT",
+    "printscreen" : null,
+    "startDate" : "05/16/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "ceee45de-4185-44e2-8461-29603d98e3a2",
+    "regulator" : "8ebcf20d-41df-42e2-8ec4-f53a382e8079",
+    "number" : null,
+    "printscreen" : null,
+    "startDate" : "09/20/2021",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "167106b6-c8fa-4ee8-a23a-dc8f704283a8",
+    "regulator" : "1c86cfdc-dd39-43eb-9b77-93d4680e1f4e",
+    "number" : "122519",
+    "printscreen" : null,
+    "startDate" : "01/01/2019",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "0513fd15-f8b4-496e-974f-46b12e40edbe",
+    "regulator" : "a24ff13d-a10d-41b7-ac5b-0ccb2c00efe4",
+    "number" : "OHMT 258",
+    "printscreen" : null,
+    "startDate" : "09/06/2023",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "57f9cadc-9e0c-4dc3-bbf9-f6f6b7794c9a",
+    "regulator" : "991cc30c-8d95-4cd1-8a36-e4a9c51b9396",
+    "number" : "110524",
+    "printscreen" : null,
+    "startDate" : "08/27/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "5626823e-b331-4838-b6cd-85727917c59b",
+    "regulator" : "87088685-9636-45ab-a3da-6394d14403de",
+    "number" : "MT-1238308",
+    "printscreen" : null,
+    "startDate" : "10/06/2023",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "314a3f91-14d9-45c4-bfeb-cb82cab8468a",
+    "regulator" : "c3a53ef0-3acc-4c29-8b60-7e7ad172d48c",
+    "number" : "550-MT-92891",
+    "printscreen" : null,
+    "startDate" : "12/09/2014",
+    "endDate" : null,
+    "validated" : null
+  } ],
+  "vaspSanction" : [ ]
+}

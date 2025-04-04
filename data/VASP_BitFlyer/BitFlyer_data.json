@@ -1,0 +1,724 @@
+{
+   "vaspId": "dfd6561b-d803-4bb8-bce4-e97f3bda8c52",
+   "commonName": "BitFlyer",
+   "url": "https://bitflyer.com/en-eu/",
+   "domiciledCountry": "JPN",
+   "hqRegion": "Asia",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": false,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/09/2014",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://bitflyer.com/en-jp/anti-money-laundering",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "e8cc09e3-04a7-4283-86b4-f0b338f54844",
+         "type": "Credit Card Provider"
+      },
+      {
+         "vaspTypeId": "dc413ce3-448e-4c47-8fdf-7580f976da9c",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "77d3abb9-75be-4150-ac2f-3c8ba15c6c0a",
+         "type": "Legal",
+         "name": "bitFlyer, Inc.",
+         "country": "JPN"
+      },
+      {
+         "nameId": "a246a8fb-7606-43a1-a807-2e7cd86a5a6b",
+         "type": "Legal",
+         "name": "BitFlyer USA, Inc.",
+         "country": "USA"
+      },
+      {
+         "nameId": "721da62c-8396-4da2-932c-7fd00b0286d8",
+         "type": "Legal",
+         "name": "bitFlyer EUROPE S.A.",
+         "country": "LUX"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "8a92c1af-a0b0-46ff-bd2e-bd8a39b92458",
+         "country": "JPN",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "f386491b-42e0-4b0f-bd04-b8def96e3035",
+         "country": "USA",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "17cf6f20-896d-4b87-8d68-397c0ce4552d",
+         "country": "LUX",
+         "type": "Offices In"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "e1b4fea6-2698-435e-87c7-0386fba8f91a",
+         "createdDate": "03/04/2025",
+         "customerInfo": "Email Addres && Full name, Date of Birth, Nationality, Country of Birth, Street address, City, Postal Code, Country && Financial information && Telephone number && Authentication code && ID verification, Driver's License || National identity card && Face Recognition",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": true,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": true,
+         "transactionLimitsExist": true,
+         "amountLimit": 50000,
+         "currency": "USD",
+         "limitFrequency": "Day",
+         "notes": "Limits vary depending on account class (trade lite, normal trade account and trade pro class).",
+         "internalNotes": "https://bitflyer.com/en-jp/faq/trade_bitcoin"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "95422210-5cd4-4b71-ba63-50c544e1328c",
+         "paymentMethod": "Credit Card",
+         "isAmountRestricted": true,
+         "jurisdiction": "GBR",
+         "account": []
+      },
+      {
+         "paymentMethodId": "7381722a-e3c8-4318-9d39-ed483482acea",
+         "paymentMethod": "Debit Card",
+         "isAmountRestricted": true,
+         "jurisdiction": "GBR",
+         "account": []
+      },
+      {
+         "paymentMethodId": "1d751d61-4e70-4957-9941-1ea1769a7570",
+         "paymentMethod": "Bank Transfer",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "9a1dffd9-b9de-4345-8cc9-6e1adca8f0ee",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": true,
+         "jurisdiction": "GBR",
+         "account": [
+            {
+               "accountId": "0c1f07b6-a51d-4c31-af16-c576d22ff692",
+               "number": "0019505532986000",
+               "bic": "BCEELULLXXX",
+               "iban": "LU570019505532986000",
+               "routingType": "IBAN",
+               "bank": "85b3891e-a103-40c6-b2fa-32839b345e77",
+               "bankRole": "Custodian",
+               "vasp": "dfd6561b-d803-4bb8-bce4-e97f3bda8c52",
+               "country": "LUX"
+            },
+            {
+               "accountId": "acc1f982-3294-4e82-80da-161e17b6520a",
+               "number": "088110104824Y000E",
+               "bic": "BFRILI22XXX",
+               "iban": "LI97088110104824Y000E",
+               "routingType": "IBAN",
+               "bank": "78a9b83e-4b46-4846-a02d-01ed2ceaaceb",
+               "bankRole": "Custodian",
+               "vasp": "dfd6561b-d803-4bb8-bce4-e97f3bda8c52",
+               "country": "LIE"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "b913b3e1-eda1-4bf0-ab71-61975103fecc",
+         "paymentMethod": "PayPal",
+         "isAmountRestricted": true,
+         "jurisdiction": "GBR",
+         "account": []
+      },
+      {
+         "paymentMethodId": "2a3a6da6-2ac3-4e56-8b5c-a3ee1797e2cf",
+         "paymentMethod": "Wire Transfer",
+         "account": []
+      },
+      {
+         "paymentMethodId": "21e69e14-97b3-4d5c-bd24-a4d631f74afe",
+         "paymentMethod": "Sofort",
+         "isAmountRestricted": true,
+         "jurisdiction": "GBR",
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [
+      {
+         "traidingPairId": "6efc4854-5db7-4af2-a5d3-496e0d03d3a0",
+         "from": "BTC",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "deb50993-e057-49ee-8518-3346ccff4b7a",
+         "from": "ETH",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "b64dbfeb-4da8-4852-bdeb-c9908287b591",
+         "from": "XRP",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "09613e0e-a352-43e8-92cd-31af9d7e4ade",
+         "from": "BTC",
+         "to": "EUR"
+      },
+      {
+         "traidingPairId": "a340ebd3-9deb-4d20-b5e6-df2edad5e4aa",
+         "from": "XLM",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "9f9c4ac5-491f-4e13-a43d-a949377c5c0d",
+         "from": "ETH",
+         "to": "BTC"
+      },
+      {
+         "traidingPairId": "4702390d-6751-4542-bd9b-5634650e9400",
+         "from": "ETH",
+         "to": "EUR"
+      },
+      {
+         "traidingPairId": "0cd0365e-549b-4c15-9b2e-dea78ede1170",
+         "from": "ETH",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "c6036be4-cdec-4def-b937-bafd99772c43",
+         "from": "BTC",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "317986d0-e977-4672-9fcd-ab0576250e36",
+         "from": "BCH",
+         "to": "BTC"
+      },
+      {
+         "traidingPairId": "deb3faa4-6893-4491-8dcb-2d30adcbb1d2",
+         "from": "DOGE",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "c089788d-001e-4df9-b7c1-b7c698ecb67f",
+         "from": "SHIB",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "a2f2e876-2b34-44f2-bebc-d9c61f173912",
+         "from": "PEPE",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "1e7773be-697e-44a4-9968-cc7fac75ddef",
+         "from": "AVAX",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "6b65b513-0a3b-4556-ba94-55540f974859",
+         "from": "BCH",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "60451d05-bf0d-40e3-a112-d35c057e0f1a",
+         "from": "DOT",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "2c0e5c96-d999-4814-9b7d-12f55336509b",
+         "from": "LINK",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "8194876c-c585-4e39-8714-cea705a99a2f",
+         "from": "LTC",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "b29863af-f446-4a6d-8bea-62906a8a47c5",
+         "from": "ETC",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "c90a049e-1362-44aa-83ac-e2b9430950e4",
+         "from": "POL",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "bb04c02f-a77b-49e3-9cfa-5ca62be80ca9",
+         "from": "MATIC",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "96cbea76-a006-4c97-be0e-f8fcb41777ad",
+         "from": "MKR",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "975c4d2e-078a-40b9-aab3-6b8549035c1c",
+         "from": "IMX",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "5cecc653-3654-4713-b062-92e23a1db881",
+         "from": "RNDR",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "8a8519a2-30c4-4f6b-866e-a818d6f129f0",
+         "from": "GRT",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "6915bbbc-cf63-4c63-9278-d6740ea9ad89",
+         "from": "AXS",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "d29cb291-922a-43b3-99ec-efb32cbfc30c",
+         "from": "XTZ",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "859b8a39-8eab-423c-88f7-9af8a0d6644a",
+         "from": "FLR",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "b7e27b80-632e-41b7-91ac-d5debc00e774",
+         "from": "SAND",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "b200488a-7450-438c-8933-fa9368afdc11",
+         "from": "MANA",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "9a4340a3-ca33-4435-862a-c12a0e0a5e49",
+         "from": "CHZ",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "e3963eff-5c2d-45a3-ac91-c15d75dcbb5c",
+         "from": "APE",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "a1b80d96-14d1-4f66-b883-ab738ca0864c",
+         "from": "BAT",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "4e79f305-ea82-479f-8b49-ee48a10a03b9",
+         "from": "MASK",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "9970b6ad-c387-468b-a0cc-3043fc528799",
+         "from": "XEM",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "c594bb58-779d-40d1-b59b-a7f4daa2abe5",
+         "from": "LSK",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "d4d9bcd3-264f-400e-be60-55006f485480",
+         "from": "XYM",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "6fdc19ac-46e8-45fc-8aa2-b6f22a95d74f",
+         "from": "MONA",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "867623ff-f9c9-4d55-bc1d-270ba5d94117",
+         "from": "PLT",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "7a02dee8-c9ec-499b-9963-215f39250554",
+         "from": "DAI",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "c1c09080-4e4f-4bf6-91be-d0db6ed9be3c",
+         "from": "ZPG",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "72cc7b84-15d6-47d3-8b52-9a73913f5e1e",
+         "from": "ZPGAG",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "c96b7abc-aa1e-4946-8dff-6cf0905c8e11",
+         "from": "ZPGPT",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "535c211f-c618-4789-a1b5-7b5397ac7783",
+         "from": "ELF",
+         "to": "JPY"
+      },
+      {
+         "traidingPairId": "3becb7fd-8191-4a87-9fcb-b54b426993cd",
+         "from": "FX",
+         "to": "JPY"
+      }
+   ],
+   "regulations": [
+      {
+         "regulationId": "333cb7fe-8d71-4665-9f47-daea22b6c2b2",
+         "regulator": "aff285ad-21b3-4c83-8c71-9a7d9e0f39b1",
+         "number": "00003",
+         "printscreen": "Screenshot 2025-03-03 at 10.26.24",
+         "startDate": "09/29/2017",
+         "validated": true
+      },
+      {
+         "regulationId": "e99aa7a8-c5ea-4ff5-9127-e1c0c4a9cbb1",
+         "regulator": "01a80e9b-d439-43a7-834b-33a7186d573d",
+         "number": "SC 572",
+         "printscreen": "Screenshot 2025-02-27 at 15.31.28",
+         "startDate": "11/20/2017",
+         "endDate": "04/09/2019",
+         "validated": true
+      },
+      {
+         "regulationId": "98251ad5-d7fa-470d-a314-72cf8e62524e",
+         "regulator": "3fc33198-e71f-4f72-bf47-873371770efb",
+         "number": "AKMT-10118",
+         "printscreen": "Screenshot 2025-02-27 at 16.21.16",
+         "startDate": "09/06/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "42c03740-b720-4afd-b551-a5e2bcbdbff9",
+         "regulator": "07ef813c-035c-4386-8578-a8e7cdba42d7",
+         "number": "MT-0940025",
+         "printscreen": "Screenshot 2025-02-27 at 16.22.49",
+         "startDate": "03/01/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "28a7c77c-005d-4cd5-9d6d-599d3ece5ef4",
+         "regulator": "b78c0a87-7225-4de2-82a6-a7dc4eece5f9",
+         "number": "110165",
+         "printscreen": "Screenshot 2025-02-27 at 16.24.05",
+         "startDate": "02/20/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "6676bc59-afbd-450e-a085-0d4552c552f9",
+         "regulator": "8c200e9e-7cf0-4824-b739-da9daf5028c9",
+         "number": "MT-1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.25.22",
+         "startDate": "02/05/2021",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "01a835c2-34dc-4a21-a19c-ac674597ab7a",
+         "regulator": "bf46cf6f-6db3-44f6-87b8-b0cf8ee7cba8",
+         "number": "023484",
+         "printscreen": "Screenshot 2025-02-27 at 16.26.17",
+         "startDate": "03/10/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "47f56f00-9c01-4a02-abdd-5141ffca0096",
+         "regulator": "63749821-be37-4aee-8f17-197c871926a8",
+         "number": "MTR1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.27.19",
+         "startDate": "06/12/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "96ae6e74-a8aa-4e95-9dff-5b05c0307e51",
+         "regulator": "818c1d36-414b-4950-b5a8-3217dbe41e91",
+         "number": "1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.29.12",
+         "startDate": "06/02/2023",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "5a95aa64-f01c-450b-bba4-a4fa75d2e2f9",
+         "regulator": "b3d78659-ddf6-4cc0-b986-632a0891dced",
+         "number": "MTL-206",
+         "printscreen": "Screenshot 2025-02-27 at 16.30.28",
+         "startDate": "05/05/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "eb44024a-360c-4185-9f9d-dd43dcbebb40",
+         "regulator": "a38445dd-c2c7-4abc-938a-5d5e9cd3bce4",
+         "number": "MT.0000308",
+         "printscreen": "Screenshot 2025-02-27 at 16.34.29",
+         "startDate": "02/01/2018",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "161c485e-67df-46da-8bc0-791dfcc226f1",
+         "regulator": "a94931e8-679f-45bf-998e-0035ab4b2aca",
+         "number": "2017-0007",
+         "printscreen": "Screenshot 2025-02-27 at 16.39.23",
+         "startDate": "03/30/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "575c6ced-854c-43a8-8b56-79f18071463d",
+         "regulator": "d53e536f-ed0c-49ea-8fb6-fd8250096f3b",
+         "number": "MT.0000124",
+         "printscreen": "Screenshot 2025-02-27 at 16.43.13",
+         "startDate": "04/14/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "3c6c6509-ae76-488e-b134-442a09ef1622",
+         "regulator": "74524eb6-cc6f-4600-93e8-395f0e784963",
+         "number": "1528491-1329182",
+         "printscreen": "Screenshot 2025-02-27 at 16.45.58, Screenshot 2025-02-27 at 16.46.30",
+         "startDate": "06/14/2018",
+         "endDate": "12/31/2025",
+         "validated": false
+      },
+      {
+         "regulationId": "0210916e-8973-4e87-81db-fd9c4b6fa2f0",
+         "regulator": "4c400250-f973-4447-8dc0-e15c0f8082cd",
+         "number": "NMT1329184",
+         "printscreen": "Screenshot 2025-02-27 at 16.47.53, Screenshot 2025-02-27 at 16.48.32",
+         "startDate": "08/24/2017",
+         "endDate": "12/31/2025",
+         "validated": false
+      },
+      {
+         "regulationId": "6c1a4c8c-3865-4a95-a4ea-750e98dec20d",
+         "regulator": "afb91e3c-e292-435e-9e67-99fea6b3856d",
+         "number": "MN-MT-1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.50.18",
+         "startDate": "05/30/2019",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "1d271a40-d228-4325-a095-b449eff33ef0",
+         "regulator": "b5ff5573-3118-432f-92d2-30f0776f3753",
+         "number": "3336",
+         "printscreen": "Screenshot 2025-02-27 at 16.51.26",
+         "startDate": "12/28/2021",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "2b2c9e19-1765-4bbb-b5ff-2671e14560d3",
+         "regulator": "d639606d-6575-4447-86b4-038b85569e17",
+         "number": "MO-25-9748",
+         "printscreen": "Screenshot 2025-02-27 at 16.52.23",
+         "startDate": "02/07/2025",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "96eb780e-7ceb-4385-a42d-eb289750fc93",
+         "regulator": "e783503c-1e8d-4f51-8392-e9080eec96a8",
+         "number": "1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.53.42",
+         "startDate": "05/30/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "c4fc1bd1-6d96-4259-91fd-0958c9387c2b",
+         "regulator": "024382dc-0e2c-4d80-943b-821390803227",
+         "number": "1528491MT",
+         "printscreen": "Screenshot 2025-02-27 at 16.54.39",
+         "startDate": "06/09/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "e6099489-82f8-4306-a441-1d9284590dff",
+         "regulator": "8ebcf20d-41df-42e2-8ec4-f53a382e8079",
+         "number": "1528491",
+         "printscreen": "Screenshot 2025-02-27 at 16.55.30, Screenshot 2025-02-27 at 16.56.02",
+         "startDate": "02/23/2017",
+         "endDate": "12/31/2025",
+         "validated": false
+      },
+      {
+         "regulationId": "f12710bf-5869-46f3-835d-54af9849ef6a",
+         "regulator": "1c86cfdc-dd39-43eb-9b77-93d4680e1f4e",
+         "number": "122474",
+         "printscreen": "Screenshot 2025-02-27 at 16.57.18",
+         "startDate": "11/28/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "ed12abca-20d8-498e-9044-c77e10f7d520",
+         "regulator": "709b1910-3e30-49b2-8e58-e300c17f1601",
+         "number": "172347",
+         "printscreen": "Screenshot 2025-02-27 at 21.22.22",
+         "startDate": "06/13/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "48b2b693-ad7c-40ba-9e5a-9ee1a4661903",
+         "regulator": "740f203e-30c3-4fc6-aa15-fa89c114fc48",
+         "number": "MT103122",
+         "printscreen": "Screenshot 2025-02-27 at 21.23.34",
+         "startDate": "05/03/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "48096996-9bb2-4789-8082-a1e42914c90c",
+         "regulator": "a24ff13d-a10d-41b7-ac5b-0ccb2c00efe4",
+         "number": "OHMT126",
+         "printscreen": "Screenshot 2025-02-27 at 21.24.40",
+         "startDate": "04/07/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "2d2ccc58-5da7-475c-bf67-db07215a3727",
+         "regulator": "3e3fe6a0-9112-4564-a4cc-167b0d79143b",
+         "number": "OKDOB001",
+         "printscreen": "Screenshot 2025-02-27 at 21.25.55",
+         "startDate": "06/09/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "821496ea-ba55-4936-bc42-f58f402ef7b7",
+         "regulator": "c5069282-cafc-418c-81ef-eb4b3fc6fb34",
+         "number": "MTX-30182",
+         "printscreen": "Screenshot 2025-02-27 at 21.27.01",
+         "startDate": "05/18/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "58d2c7c7-2fff-4df6-aea6-c1118884d518",
+         "regulator": "712bd304-d084-437f-9a9e-dcac7cf02ca7",
+         "number": "20203901CT",
+         "printscreen": "Screenshot 2025-02-27 at 21.28.12",
+         "startDate": "01/01/2020",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "47027c9b-79fb-4df5-976f-234320b7ddeb",
+         "regulator": "ef74576c-bf37-4bf9-b737-0f5b2c96d1ac",
+         "number": "SC-AG-C-01020",
+         "printscreen": "Screenshot 2025-02-27 at 21.33.08, Screenshot 2025-02-27 at 21.33.54",
+         "startDate": "10/28/2019",
+         "endDate": "12/31/2025",
+         "validated": false
+      },
+      {
+         "regulationId": "465d31f4-7929-4198-8d86-1874ab3c51cb",
+         "regulator": "04d7a670-52d6-4d14-8347-dffe4943479a",
+         "number": "1528491.MT",
+         "printscreen": "Screenshot 2025-02-27 at 21.34.43",
+         "startDate": "05/02/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "13ab32b4-d4d6-4b13-a8f4-b93f49560582",
+         "regulator": "5af99b87-4e9a-47a7-8608-499e43e1ffe4",
+         "number": "1528491",
+         "printscreen": "Screenshot 2025-02-27 at 22.01.22",
+         "startDate": "09/14/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "ba05477d-3c8f-4bd5-9fe5-f86d68dc88b4",
+         "regulator": "df01eed0-20c9-4ea9-9845-f2697044b79e",
+         "number": "3152",
+         "printscreen": "Screenshot 2025-02-27 at 22.02.41",
+         "startDate": "11/10/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "e7d7fcc6-4772-4004-85f8-41cc7352f8d1",
+         "regulator": "87088685-9636-45ab-a3da-6394d14403de",
+         "number": "100-100",
+         "printscreen": "Screenshot 2025-02-27 at 22.03.39",
+         "startDate": "06/20/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "365e5883-ae6d-4be9-b606-24910434d71a",
+         "regulator": "1d2e1cd4-703f-432c-9f5b-077776e383e4",
+         "number": "MO-338",
+         "printscreen": "Screenshot 2025-02-27 at 22.05.12",
+         "startDate": "06/21/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "44b6f123-b854-4b3e-b108-876daf3a7f70",
+         "regulator": "c3a53ef0-3acc-4c29-8b60-7e7ad172d48c",
+         "number": "550-MT-106026",
+         "printscreen": "Screenshot 2025-02-27 at 22.06.12",
+         "startDate": "05/16/2017",
+         "endDate": "12/31/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "e9fc2f3d-a743-4069-a812-77d02b7fac1b",
+         "regulator": "1c516f87-ae1b-479b-99e0-1d234ae29a21",
+         "number": "Z00000016",
+         "printscreen": "Screenshot 2025-02-28 at 09.21.24",
+         "startDate": "09/01/2017",
+         "validated": true
+      },
+      {
+         "regulationId": "af46cadb-067f-45ad-b7ef-2e8fbbfe5dd4",
+         "regulator": "1c516f87-ae1b-479b-99e0-1d234ae29a21",
+         "number": "@00000001",
+         "printscreen": "Screenshot 2025-03-03 at 09.37.20",
+         "startDate": "03/23/2021",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "bitflyer"
+}

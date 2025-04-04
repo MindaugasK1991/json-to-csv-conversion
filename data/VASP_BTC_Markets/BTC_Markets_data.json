@@ -1,0 +1,150 @@
+{
+  "vaspId": "740a7eb0-2728-43e1-b6b2-5fe7bbf6eede",
+  "commonName": "BTC Markets",
+  "url": "https://www.btcmarkets.net/",
+  "domiciledCountry": "AUS",
+  "hqRegion": "Oceania",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2013",
+  "isCustodial": true,
+  "amlPolicyUrl": "https://www.btcmarkets.net/regulation",
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "fa11f4b7-6aef-46a3-abaa-b87fac4e141b",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "866b80ff-c074-47c3-b9e3-30bb5c9b46d2",
+      "type": "Legal",
+      "name": "BTC Markets Pty Ltd",
+      "country": "AUS"
+    },
+    {
+      "nameId": "31537e1c-4c2d-4fa2-94bf-e48aeccefb49",
+      "type": "Legal",
+      "name": "BTC Markets",
+      "country": "AUS"
+    },
+    {
+      "nameId": "7df59bd5-6372-468b-9f20-e5523f512300",
+      "type": "Legal",
+      "name": "BTCM Payments Pty Ltd",
+      "country": "AUS"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "4deec44f-84e7-4cad-b707-4a44efaba526",
+      "country": "AUS",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "3ec50781-dcb3-4187-a379-6c264eb53909",
+      "createdDate": "02/14/2025",
+      "customerInfo": "Email Address, Legal Name && Address && DOB && Government ID || Proof of Residency || Selfie",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": null,
+      "amountLimit": 0,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": null,
+      "internalNotes": "Only found information on the minimum deposit limits, which mention that you can request an increase. However, there is no specification on the maximum amount. "
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "a24f64b0-d57d-4402-80c3-dc920033187b",
+      "paymentMethod": "BPay",
+      "isAmountRestricted": true,
+      "jurisdiction": "AUS",
+      "account": [
+        {
+          "accountId": "8bb980a7-f4c6-43d4-9045-a65d2afe0472",
+          "number": "91488",
+          "routingType": "BPay",
+          "localRouting": "8364201000646114",
+          "vasp": "740a7eb0-2728-43e1-b6b2-5fe7bbf6eede",
+          "country": "AUS",
+          "bic": null,
+          "iban": null,
+          "bank": null,
+          "bankRole": null
+        }
+      ],
+      "onrampProvider": null
+    },
+    {
+      "paymentMethodId": "e1c63c60-39bb-49bf-a603-cfccb36aae9f",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": "AUS",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "f0dabb27-6a24-4ebe-a17a-94a27e5b30e7",
+      "paymentMethod": "OSKO/Pay ID",
+      "isAmountRestricted": true,
+      "jurisdiction": "AUS",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "b614c2d8-f282-455f-947a-95a84e44758e",
+      "paymentMethod": "Bank transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "d89dc948-7e5b-4b1f-b42d-618b7319cb86",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "b954b8a5-c379-4791-a235-79d9bbf1f7ca",
+      "regulator": "80c56bc2-ae7d-402b-9296-5ab90769c5dc",
+      "number": "001297122",
+      "printscreen": "Screenshot 2025-03-29 at 22.14.39",
+      "startDate": "06/03/2012",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null,
+  "onChain": null,
+  "closedDate": null,
+  "profile": null
+}

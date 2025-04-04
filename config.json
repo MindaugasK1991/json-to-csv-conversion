@@ -1,7 +1,7 @@
 {
     "Vasps": {
-        "headers": ["VASP_ID", "VASP_Name", "URL", "HQ_country", "HQ_Region", "Is_Sanctioned", "Direct_Onramp", "Indirect_Onramp", "Has_Off_Ramp", "Trades_FIAT", "Trades_Privacy_Coins", "Is_Decentralized", "Has_KYC", "Opened_Date", "Closed_Date", "Is_Custodial", "AML_Policy_URL"],
-        "fields": ["vaspId", "commonName", "url", "domiciledCountry", "hqRegion", "isSanctioned", "directOnramp", "indirectOnramp", "hasOfframp", "tradesFiat", "tradesPrivacyCoins", "isDecentralized", "hasKyc", "openedDate", "closedDate", "isCustodial", "AML_Policy_URL"]
+        "headers": ["VASP_ID", "VASP_Name", "URL", "Is_Reported", "HQ_country", "HQ_Region", "Is_Sanctioned", "Direct_Onramp", "Indirect_Onramp", "Has_Off_Ramp", "Trades_FIAT", "Trades_Privacy_Coins", "Is_Decentralized", "Has_KYC", "Opened_Date", "Closed_Date", "Is_Custodial", "AML_Policy_URL"],
+        "fields": ["vaspId", "commonName", "url", "isReported", "domiciledCountry", "hqRegion", "isSanctioned", "directOnramp", "indirectOnramp", "hasOfframp", "tradesFiat", "tradesPrivacyCoins", "isDecentralized", "hasKyc", "openedDate", "closedDate", "isCustodial", "AML_Policy_URL"]
     },
 
     "Account": {
@@ -11,7 +11,7 @@
 
     "Country": {
         "headers": ["Country_ID", "Name", "Iso_alpha_3", "Iso_alpha_2", "FSRB", "Basel_Rank", "Is_Any_FATF", "Is_Any_FSRB", "Is_Sanctioned", "Is_FATF_blacklist", "Is_FATF_greylist", "Is_EU_High_Risk", "Is_OFAC_Comprehensive_Sanction","Is_OFAC_Selective_Sanction"],
-        "fields": ["countryId", "name", "isoAlpha3", "isoAlpha2", "fsrb", "baselRank", "isAnyFatf", "isAnyFsrb", "isSanctioned", "isFatfBlacklist", "isFatfGreylist", "isEuHighRisk", "isOfacComprehensiveSanction","isOfacSelectiveSanction", "isUnSanctioned", "isFinancialActionTaskForce"]
+        "fields": ["countryId", "name", "isoAlpha3", "isoAlpha2", "fsrb", "baselRank", "isAnyFatf", "isAnyFsrb", "isSanctioned", "isFatfBlacklist", "isFatfGreylist", "isEuHighRisk", "isOfacComprehensiveSanction","isOfacSelectiveSanction"]
     },
 
     "Names" :{
@@ -31,7 +31,7 @@
 
     "Trading_Pairs" :{
         "headers": ["Trading_Pair_ID", "VASP_ID", "VASP_Name", "From_Symbol", "From_Chain", "To_Symbol", "To_Chain", "Is_Privacy", "Is_Fiat"],
-        "fields": ["tradingPairId", "vaspId", "commonName", "from", "From_chain", "to", "To_chain", "Is_Privacy", "Is_Fiat"]
+        "fields": ["traidingPairId", "vaspId", "commonName", "from", "From_chain", "to", "To_chain", "Is_Privacy", "Is_Fiat"]
     },
 
     "Categories" :{
@@ -48,6 +48,5 @@
         "headers": ["VASP_Sanction_ID", "VASP_ID", "VASP_Name", "Sanctioning_Body", "Sanctioning_Body_Name", "Sanction_URL", "Sanction_Type", "Sanction_Start", "Sanction_End"],
         "fields": ["Vasp_sanction_ID", "Vasp", "commonName", "Sanctioning_Body", "name", "Sanction_URL", "Sanction_Type", "Sanction_start", "Sanction_end"]
     }
-
 
 }

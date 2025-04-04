@@ -1,0 +1,414 @@
+{
+  "onChain": null,
+  "vaspId": "d93e3110-f47d-4883-8cf0-54475f668a25",
+  "commonName": "BitMart",
+  "url": "https://www.bitmart.com/en-US/",
+  "domiciledCountry": "CYM",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2017",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://bitmart.zendesk.com/hc/en-us/articles/360008401954-BitMart-AML-KYC-Policy-Update",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "b83b769f-d1f9-4107-bf2a-f31849e96e70",
+      "type": "Exchange"
+    },
+    {
+      "vaspTypeId": "f649f842-4299-47b8-b5ac-2ee46eec7d01",
+      "type": "NFT Vendor"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "d36fcfe0-8a3c-418e-8303-4acae2f83418",
+      "type": "Legal",
+      "name": "GBM Global UAB",
+      "country": "LTU"
+    },
+    {
+      "nameId": "f36419eb-ac19-4552-9fa0-e17f821dfb3c",
+      "type": "Legal",
+      "name": "GBM FOUNDATION COMPANY LTD",
+      "country": "CYM"
+    },
+    {
+      "nameId": "0a3e4be2-6944-48b4-9292-fb0b57211eb0",
+      "type": "Legal",
+      "name": "GBM CUSTODY SERVICES LIMITED",
+      "country": "HKG"
+    },
+    {
+      "nameId": "a7701ad3-e763-43a8-948a-7468a8f286ed",
+      "type": "Legal",
+      "name": "Bachi.tech Corporation",
+      "country": "USA"
+    },
+    {
+      "nameId": "a2c69a45-b563-4bdf-b049-8adf72334bab",
+      "type": "Legal",
+      "name": "GBM Global Holding Co Ltd",
+      "country": "CYM"
+    },
+    {
+      "nameId": "8ccca417-0f77-4822-81e5-e3dc4f7bdf0d",
+      "type": "DBA",
+      "name": "BitMart",
+      "country": null
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "fbcf61de-d40d-4eab-8643-d5aad2cceae0",
+      "country": "United States of America",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ba26fe68-bfe2-4d2a-9a44-3f112d1867bc",
+      "country": "Cuba",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "32f267e2-77f1-4891-a362-0a3e6d0e9b6d",
+      "country": "Iran",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "7f342ef4-e607-409a-a0eb-cc45e01c5eaa",
+      "country": "Netherlands, Kingdom of the",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "16bac9fc-7d12-4908-aa27-e50f43b989c5",
+      "country": "Korea, Democratic People's Republic of",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "5ff92ac4-99e9-4e8d-81d3-c433d48c9767",
+      "country": "Syrian Arab Republic",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "dac797bd-945a-44db-b168-a956be0c89a9",
+      "country": "Hong Kong",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "f87a9179-d180-4b5d-bbac-7d9d4e6fa62e",
+      "country": "Afghanistan",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "e96bbe61-a5b0-4aa9-a0ca-a8437caebb7a",
+      "country": "Belarus",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "1facc9ed-7505-4cef-8221-c8ee1e03ab88",
+      "country": "Belgium",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7d73b510-ad2d-4d5b-bcfe-4c33fe601066",
+      "country": "Myanmar",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "4cbaaef1-30a0-43d3-a014-e82ce79e1198",
+      "country": "China",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "89894e62-1a03-451e-9450-0ba43d357ba8",
+      "country": "Côte d'Ivoire",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "42c254b8-9c51-4b71-b06f-05feebee6ffe",
+      "country": "Congo, Democratic Republic of the",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "24bfd48b-7641-4a7a-92b3-23c7089bee4b",
+      "country": "Iran, Islamic Republic of",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "9bc1f8d1-5b7a-4dc4-bb33-3c5b3a9c49b2",
+      "country": "Iraq",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "a6bb46e6-49cc-4e7b-9222-d71ebcf08657",
+      "country": "Liberia",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "12479c25-84cc-467a-92de-a1c144b9b219",
+      "country": "Singapore",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d1583c21-4011-4113-bd17-1b60fbbf7ef8",
+      "country": "South Sudan",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "0555b42a-5e3f-4a2d-a9da-a20899c30f42",
+      "country": "Zimbabwe",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "9aee585f-f3a2-474a-bd8a-c5399e65eb08",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ab8b0b4d-e306-40b0-9350-3061c52c5b46",
+      "country": "Italy",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5d06baa8-9bee-4a22-af6b-a641648fe19d",
+      "country": "Bangladesh",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e3f66cdf-bd9f-4ceb-b348-6f9cd876e149",
+      "country": "Pakistan",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "cebd8892-3447-411d-8a49-f3023956c1c8",
+      "country": "Morocco",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "8ef798de-d3a4-4c74-b634-49dacacfc449",
+      "country": "Egypt",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "63047af6-1684-4b24-b386-a39e81346efb",
+      "country": "Algeria",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "32bfbb75-b22d-4cae-8b31-1f4d35ebe788",
+      "country": "Cayman Islands",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ce758362-066d-45da-8530-54b53b38f3bb",
+      "country": "CHN",
+      "type": "Offices in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "acdbb12c-8351-411f-8cc6-b3dcee54572a",
+      "country": "KOR",
+      "type": "Offices in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f3063359-72a5-4e7f-8143-1fd3ee2ec81f",
+      "country": "USA",
+      "type": "Offices in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "b86eccb6-ef48-4df0-8260-872034e61718",
+      "createdDate": "03/20/2025",
+      "customerInfo": "Email address || Phone number && Country && Legal name && DOB && Government ID && Selfie",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": false,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": 5000000,
+      "currency": "USDT",
+      "limitFrequency": "Daily",
+      "notes": null,
+      "internalNotes": "Please ensure your country of residence matches your valid ID. "
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "5306183b-93dd-4743-bc5e-d9847f7138b4",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "f8d6ea3e-a92e-46c4-8774-1d67bd416181",
+      "paymentMethod": "MoonPay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "61913fa7-17ef-4a90-95b0-3c625e12a37b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "0ffc3e18-ace7-4ecd-bb10-c01ac4f359ac",
+      "paymentMethod": "Banxa",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+      "account": null
+    },
+    {
+      "paymentMethodId": "8ac3d267-6855-46f4-944e-c9066dfc699a",
+      "paymentMethod": "Simplex",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "b5dc5fd7-a07b-4964-8262-3f08b450f759",
+      "account": null
+    },
+    {
+      "paymentMethodId": "d08d1330-dc29-4145-b7d2-479e4ce08168",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "5e3169f8-aa7c-4301-bb81-7874a93d817b",
+      "paymentMethod": "Google Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "a6b78239-ee73-46ce-af2d-4fd97f974032",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "0a53277a-f42e-495d-b951-62dec4300b20",
+      "paymentMethod": "PIX",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "7b4e44c3-5739-44f3-b405-050dc3cc9f67",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "41efb2a3-d284-4e64-a276-c0d19e99af5b",
+      "paymentMethod": "Gift Card",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "f651c40e-0388-4424-882b-0a0bbf3e7962",
+      "paymentMethod": "Paxful",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "4f45efb7-1155-4955-93c0-d8608745f893",
+      "regulator": "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+      "number": "306308253",
+      "printscreen": null,
+      "startDate": null,
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "a78b5b07-6ca3-4d3c-ab6c-cfd9ef731ab6",
+      "regulator": "03eb2e88-ab3e-4aba-8720-38c5384a997f",
+      "number": "TC010093",
+      "printscreen": null,
+      "startDate": null,
+      "endDate": null,
+      "validated": false
+    },
+    {
+      "regulationId": "82a1187f-a197-4c72-b54a-dd0f422e9a43",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000278244998",
+      "printscreen": null,
+      "startDate": "08/05/2024",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "69a19550-0c44-4594-ac41-b09293d9f57e",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": null,
+      "startDate": "08/05/2024",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

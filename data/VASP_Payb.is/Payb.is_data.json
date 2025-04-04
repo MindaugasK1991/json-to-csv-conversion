@@ -1,0 +1,41 @@
+{
+   "vaspId": "1fea66ec-a852-4fc3-aa1f-8b4358ad85d2",
+   "commonName": "Payb.is",
+   "url": "https://paybis.com/",
+   "isSanctioned": false,
+   "isReported": false,
+   "vaspType": [],
+   "names": [],
+   "countryRel": [],
+   "kyc": [
+      {
+         "kycId": "fa87d3da-e80b-4893-8e71-573c359836d6",
+         "createdDate": "12/04/2024",
+         "customerInfo": "Nationality && Phisical Address && SSN && Government ID && Selfie",
+         "requires2fa": false,
+         "legalNameRequired": false,
+         "dobRequired": false,
+         "addressRequired": true,
+         "ssn_tinRequired": true,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": false,
+         "selfieRequired": true,
+         "videoRequired": false,
+         "transactionLimitsExist": true,
+         "amountLimit": 2000,
+         "currency": "USD",
+         "limitFrequency": "Transaction",
+         "notes": "Uses Sumsub",
+         "internalNotes": "As a third party through ARK finance"
+      }
+   ],
+   "paymentMethods": [],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [],
+   "vaspSanction": [],
+   "onChain": ""
+}

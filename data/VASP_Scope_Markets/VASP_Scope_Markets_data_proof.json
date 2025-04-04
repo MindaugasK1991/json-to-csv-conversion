@@ -1,0 +1,2561 @@
+{
+  "onChain": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "vaspId": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "commonName": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "url": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": [
+      "27027214-7148-43cb-9323-06d54a8e0480"
+    ]
+  },
+  "domiciledCountry": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "hqRegion": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "isSanctioned": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "directOnramp": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "indirectOnramp": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "hasOfframp": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "tradesFiat": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "tradesPrivacyCoins": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "isDecentralized": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "hasKyc": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "openedDate": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "closedDate": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "isCustodial": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "amlPolicyUrl": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "profile": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "isReported": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "vaspType": [
+    {
+      "vaspTypeId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [
+          "88cdb355-c680-45a8-9038-2614f6131fb7"
+        ],
+        "pdfs": [],
+        "urls": []
+      }
+    }
+  ],
+  "names": [
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [
+          "24400603-5be8-4156-b1f6-a069438db5d7"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [
+          "61911735-a605-4625-9405-c25f6d04197c"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [
+          "e6a6c78e-f786-4089-9f25-e526805e5730"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "nameId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "name": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "countryRelId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "country": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "type": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "calculateSanctionByCountry": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "createdDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "customerInfo": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "requires2fa": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "legalNameRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "dobRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "addressRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "ssn_tinRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "countryOfCitizenshipRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "govtIdRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "proofOfResidencyRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "emailRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "phoneRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "selfieRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "videoRequired": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "transactionLimitsExist": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "amountLimit": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "currency": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "limitFrequency": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "notes": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "internalNotes": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": [
+          "0dd685a7-0991-434e-ae97-db1d6edb64e6"
+        ]
+      }
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "paymentMethod": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "isAmountRestricted": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "jurisdiction": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "onrampProvider": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "account": [
+        {
+          "accountId": {
+            "screenshots": [
+              "1ead3629-306c-4e64-a744-ecba037b1604"
+            ],
+            "pdfs": [],
+            "urls": []
+          },
+          "number": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bic": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "iban": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "routingType": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "localRouting": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bank": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bankRole": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "country": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          }
+        },
+        {
+          "accountId": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "number": {
+            "screenshots": [
+              "a5d75b3a-8e95-4577-878b-b13b7777f79d"
+            ],
+            "pdfs": [],
+            "urls": []
+          },
+          "bic": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "iban": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "routingType": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "localRouting": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bank": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bankRole": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "country": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          }
+        },
+        {
+          "accountId": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "number": {
+            "screenshots": [
+              "e4ec0213-6737-4273-b49c-3ac552587511"
+            ],
+            "pdfs": [],
+            "urls": []
+          },
+          "bic": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "iban": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "routingType": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "localRouting": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bank": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bankRole": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "country": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          }
+        },
+        {
+          "accountId": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "number": {
+            "screenshots": [
+              "912173c2-4ff3-4c73-b7eb-3fc1d1c997df"
+            ],
+            "pdfs": [],
+            "urls": []
+          },
+          "bic": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "iban": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "routingType": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "localRouting": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bank": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bankRole": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "country": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          }
+        },
+        {
+          "accountId": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "number": {
+            "screenshots": [
+              "f173d82d-5273-49fe-911a-aa566d11a602"
+            ],
+            "pdfs": [],
+            "urls": []
+          },
+          "bic": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "iban": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "routingType": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "localRouting": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bank": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "bankRole": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          },
+          "country": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+          }
+        }
+      ]
+    },
+    {
+      "paymentMethodId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "paymentMethod": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "isAmountRestricted": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "jurisdiction": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "onrampProvider": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "account": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "paymentMethodId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "paymentMethod": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "isAmountRestricted": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "jurisdiction": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "onrampProvider": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "account": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "paymentMethodId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "paymentMethod": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "isAmountRestricted": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "jurisdiction": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "onrampProvider": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "account": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    }
+  ],
+  "billingDescriptor": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "tradingPairs": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  },
+  "regulations": [
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "fd698728-09b9-42a0-b3f7-0bebe2ab6bb2",
+          "b9d0fd1c-8761-49a8-abfe-20f3f3782696"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "dd7a6db4-5d13-4c47-a4b8-3dae02eea4ba"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "25f77e3c-8891-4e15-aaa3-d3749a8e99b1",
+          "48826831-ad25-4b4b-98b9-48ab0aa8de4f"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "52cd8b05-758a-4e48-8e67-482ddf19ae94"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "464346ec-0d88-40ab-8d41-93f645af2263"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    },
+    {
+      "regulationId": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "regulator": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "number": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "printscreen": {
+        "screenshots": [
+          "0cbdc3a2-83dd-41a9-87ed-93c24892dca3",
+          "b8a0f5df-df6a-4f34-8f95-8357f289207c"
+        ],
+        "pdfs": [],
+        "urls": []
+      },
+      "startDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "endDate": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      },
+      "validated": {
+        "screenshots": [],
+        "pdfs": [],
+        "urls": []
+      }
+    }
+  ],
+  "vaspSanction": {
+    "screenshots": [],
+    "pdfs": [],
+    "urls": []
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "onChain": null,
+  "vaspId": "ae572adb-0be1-464d-853f-9b99be37512b",
+  "commonName": "BlueBit",
+  "url": "https://www.bluebit.io/en_US/",
+  "domiciledCountry": "ARE",
+  "hqRegion": "ASIA",
+  "isSanctioned": false,
+  "directOnramp": false,
+  "indirectOnramp": true,
+  "hasOfframp": false,
+  "tradesFiat": false,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "03/01/2022",
+  "closedDate": null,
+  "isCustodial": false,
+  "amlPolicyUrl": "https://www.bluebit.io/en_US/footerPage/amlKycPolicy",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "3fbae6b0-44d1-4eca-84fe-0803f81613c9",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "a6c770e6-7df1-490b-b552-9ef0d3559f9e",
+      "type": "Legal",
+      "name": "BlueBit.io",
+      "country": null
+    },
+    {
+      "nameId": "5573ed6b-dbfc-4641-8e52-fb563850f006",
+      "type": "Legal",
+      "name": "BlueBit LTD",
+      "country": "VCT"
+    },
+    {
+      "nameId": "e4a3b9d1-7c85-4ab0-ab3e-9613aa95c774",
+      "type": "Legal",
+      "name": "BlueBit",
+      "country": null
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "7668acf8-1447-4cdb-a6ff-71935861b1f4",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "ad19cc8f-b00b-4814-9129-841d961e7936",
+      "createdDate": "03/27/2025",
+      "customerInfo": "Email && Password, Country of Residence, Passport country && Document type && Name && Governmental ID No., Selfie && Full Name && DOB && Today’s Date && Account UID number, Proof of Address || Bank statement",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": 1000000,
+      "currency": "USDT",
+      "limitFrequency": "Daily",
+      "notes": null,
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "ba162fdf-0527-4828-8c8c-e4b689604773",
+      "paymentMethod": "Volet",
+      "isAmountRestricted": null,
+      "jurisdiction": "IRL",
+      "onrampProvider": "c48539e9-92ee-4794-96a5-21908c3e1e9f",
+      "account": null
+    },
+    {
+      "paymentMethodId": "e50d9027-6f93-4a21-9012-b16269ed5b0b",
+      "paymentMethod": "Credit card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "303de402-64a4-4397-afc0-2548cdd42f1d",
+      "paymentMethod": "Debit card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "1ca988e8-ed54-4f01-9bab-bc165aabd889",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "de4eb0d2-6b62-403c-8f3c-d583b900cb64",
+      "regulator": null,
+      "number": null,
+      "printscreen": null,
+      "startDate": null,
+      "endDate": null,
+      "validated": null
+    }
+  ],
+  "vaspSanction": null
+}

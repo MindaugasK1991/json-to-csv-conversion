@@ -1,0 +1,1106 @@
+{
+   "vaspId": "581cc0b3-50a5-429e-9d4c-321832305488",
+   "commonName": "Bitpanda",
+   "url": "https://www.bitpanda.com/",
+   "domiciledCountry": "AUT",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2014",
+   "isCustodial": true,
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "1f6b3df1-bb12-4500-bf00-5b62330efb4d",
+         "type": "Exchange"
+      },
+      {
+         "vaspTypeId": "3950812a-0b80-49ad-95c5-2be2ed409e43",
+         "type": "Payment Provider"
+      },
+      {
+         "vaspTypeId": "905b2631-1982-4444-a2f4-2db5d724a961",
+         "type": "Debit Card Provider"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "ef5ef136-4aba-46d7-aadd-f218f07aad3a",
+         "type": "Legal",
+         "name": "Bitpanda GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "3da77e80-bbb0-4506-9b80-43923f9104b9",
+         "type": "Legal",
+         "name": "Bitpanda Group AG",
+         "country": "CHE"
+      },
+      {
+         "nameId": "3c93a7e2-4ebc-442a-bd17-6afef00d4288",
+         "type": "Legal",
+         "name": "Bitpanda Metals GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "8df55f51-2c20-4daa-9856-03444e4bb5d9",
+         "type": "Legal",
+         "name": "Bitpanda Payments GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "504c5e19-1718-4ce5-8f47-b58b15593d4e",
+         "type": "Legal",
+         "name": "Bitpanda Financial Services GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "2f5cf1b0-0f91-420f-a058-35d07e8e64ae",
+         "type": "Legal",
+         "name": "Bitpanda Customer Care GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "1c299392-1b55-4d2c-82aa-3d87020c71fa",
+         "type": "Legal",
+         "name": "Bitpanda Custody Ltd",
+         "country": "GBR"
+      },
+      {
+         "nameId": "7db73b51-06fb-4075-a588-4947250a8921",
+         "type": "Legal",
+         "name": "Pantos GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "961731a7-075a-4a37-a9ab-692bf3a133dd",
+         "type": "Legal",
+         "name": "Bitpanda Asset Management GmbH",
+         "country": "DEU"
+      },
+      {
+         "nameId": "fbd5e9c1-0cf8-4df0-ada6-f7e2cd746a5e",
+         "type": "Legal",
+         "name": "Bitpanda Teknoloji A.Ş",
+         "country": "TUR"
+      },
+      {
+         "nameId": "6743cc45-6e50-4436-b9d1-0ff333086b4c",
+         "type": "Legal",
+         "name": "BITPANDA ISSUANCE GMBH",
+         "country": "DEU"
+      },
+      {
+         "nameId": "d2dd2eaf-7123-441a-920e-8b043314fd87",
+         "type": "Formerly",
+         "name": "Blitz B21-513 GmbH",
+         "country": "DEU"
+      },
+      {
+         "nameId": "24e0ba1a-0630-4adb-b10c-cd05af9e0c8b",
+         "type": "Legal",
+         "name": "Bitpanda Financial Services GmbH (Berlin Branch)",
+         "country": "DEU"
+      },
+      {
+         "nameId": "f5832d3c-e744-4f04-81ca-4502c9e25ba4",
+         "type": "Legal",
+         "name": "Bitpanda GmbH (Berlin Branch)",
+         "country": "DEU"
+      },
+      {
+         "nameId": "f8481bd4-25e9-4b36-8d65-6ad964c07c64",
+         "type": "Formerly",
+         "name": "Coinimal GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "ae1b0aad-65c8-4845-854a-8861dd2f063c",
+         "type": "Legal",
+         "name": "Bitpanda GmbH Swedish Filial",
+         "country": "SWE"
+      },
+      {
+         "nameId": "bce8cdd8-076d-4e6e-8bba-9c588b2c3c65",
+         "type": "Legal",
+         "name": "Bitpanda GmbH Czech Republic",
+         "country": "CZE"
+      },
+      {
+         "nameId": "68ff850f-9552-4d3e-9e2b-a624d629b222",
+         "type": "Formerly",
+         "name": "Bitpanda Pro Exchange B.V.",
+         "country": "NLD"
+      },
+      {
+         "nameId": "cb0b894a-5caf-4bb9-b3c5-731f01cc1e4e",
+         "type": "Formerly",
+         "name": "Bitpanda Pro Germany GmbH",
+         "country": "DEU"
+      },
+      {
+         "nameId": "e6ae0e28-06a3-4cfc-b32d-f0879cb52032",
+         "type": "Legal",
+         "name": "BITPANDA BROKER UK LTD",
+         "country": "GBR"
+      },
+      {
+         "nameId": "65a0239c-eb59-4b34-af73-5ab99d52f707",
+         "type": "Formerly",
+         "name": "BITPANDA FINANCIAL SERVICES UK LIMITED",
+         "country": "GBR"
+      },
+      {
+         "nameId": "88fc9387-901c-4742-aabf-f544198ebf84",
+         "type": "Legal",
+         "name": "BITPANDA GMBH, UK ESTABLISHMENT",
+         "country": "GBR"
+      },
+      {
+         "nameId": "fb703e97-e113-4128-acc5-54dc703b3872",
+         "type": "Legal",
+         "name": "BITPANDA TECHNOLOGY UK LIMITED",
+         "country": "GBR"
+      },
+      {
+         "nameId": "456e5d85-d9a5-48d2-a65b-61ea093fa556",
+         "type": "Legal",
+         "name": "BITPANDA UK LIMITED",
+         "country": "GBR"
+      },
+      {
+         "nameId": "54ed941c-c6c8-42e2-8e4e-9f23a4d8864e",
+         "type": "Legal",
+         "name": "BITPANDA UK HOLDING LTD.",
+         "country": "GBR"
+      },
+      {
+         "nameId": "ad1d6c3a-92d7-421a-bb63-62d2695e994a",
+         "type": "Formerly",
+         "name": "CRP TECHNOLOGIES LIMITED",
+         "country": "GBR"
+      },
+      {
+         "nameId": "2358b209-1968-415e-aaef-52240a90cbc4",
+         "type": "Formerly",
+         "name": "COMMERCIAL RAPID PAYMENT TECHNOLOGIES LIMITED",
+         "country": "GBR"
+      },
+      {
+         "nameId": "e1e75203-e425-433f-8df9-22bf2b912abc",
+         "type": "Formerly",
+         "name": "TRUSTOLOGY Ltd",
+         "country": "GBR"
+      },
+      {
+         "nameId": "75eab787-81fe-4932-b2a2-cda0c25f52da",
+         "type": "Formerly",
+         "name": "TRUSTOLOGY Limited",
+         "country": "GBR"
+      },
+      {
+         "nameId": "1c04c3dd-a537-4ade-b898-c813069879b4",
+         "type": "Legal",
+         "name": "BITPANDA CUSTODY MENA DMCC",
+         "country": "UAE"
+      },
+      {
+         "nameId": "0f8416c9-a4e6-43f4-940e-2cd4f31f9911",
+         "type": "Legal",
+         "name": "BITPANDA MENA DMCC",
+         "country": "UAE"
+      },
+      {
+         "nameId": "99f58d52-043f-4413-93ea-208714a1e6b8",
+         "type": "Legal",
+         "name": "BITPANDA BROKER MENA DMCC",
+         "country": "UAE"
+      },
+      {
+         "nameId": "3f105a6c-fcec-4f58-93ef-308f6573c247",
+         "type": "Legal",
+         "name": "Bitpanda Technology sp.z.o.o.",
+         "country": "POL"
+      },
+      {
+         "nameId": "d4e9dfcc-7811-4e52-9de8-52a6fcd9e740",
+         "type": "Legal",
+         "name": "BP23 Holding Ltd",
+         "country": "MLT"
+      },
+      {
+         "nameId": "fa0434aa-d5ef-4607-80ea-96bf6c4d2aac",
+         "type": "Legal",
+         "name": "BP Group Services GmbH",
+         "country": "AUT"
+      },
+      {
+         "nameId": "d8a300fc-6ae2-4053-919c-c21fca3e4c71",
+         "type": "Legal",
+         "name": "BP23 CA LTD.",
+         "country": "MLT"
+      },
+      {
+         "nameId": "c8fbb8ba-7688-4c58-abf3-9ce5170d9a3b",
+         "type": "Legal",
+         "name": "BP23 PAY LTD.",
+         "country": "MLT"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "c49d88d7-5e10-4a68-a4b5-856c2cb814e8",
+         "country": "AUT",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "ee3ef192-fbf8-44e4-8ab0-4ba5db476f60",
+         "country": "ALA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "83b9f353-421a-43a2-8f66-b58216fddb13",
+         "country": "AND",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "1d304855-7024-4534-9a93-8acfc1c9f9c8",
+         "country": "AUT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ed74e570-a02a-4b50-a0c9-2b50655d02f8",
+         "country": "BEL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "e7137f81-681f-460a-9a26-7a8ab63b1dc8",
+         "country": "BGR",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "a428e2c3-6c9c-4746-acd8-468dd175bf69",
+         "country": "HRV",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "a6e541de-c58f-4c33-b38e-af6b24298c44",
+         "country": "CYP",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "a9441238-40ec-4479-8757-37431bee5f00",
+         "country": "CZE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d2548368-a9c3-4c28-8a0a-e6a792c8794c",
+         "country": "DNK",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "3d2627d9-6142-4e9e-9b95-ed2b913a0e3c",
+         "country": "EST",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "28735854-fcb6-4b28-9672-7eb1295c4d71",
+         "country": "FRO",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "02ad5ae9-d1e8-47f1-b52c-af0ad16f4ba7",
+         "country": "FIN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d6155212-1474-4699-8c43-8eb0e7dd63ce",
+         "country": "FRA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "b18f85b9-e9a9-4654-8783-eddeda677f3a",
+         "country": "DEU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "6e41a3e0-d14c-48ac-a18a-84edd0baa612",
+         "country": "GRC",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "f2f0de0d-c40a-4775-bb7a-3198e8dac603",
+         "country": "GRL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cb4a0a6f-165d-4698-9148-bf4aca7f0e61",
+         "country": "GGY",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "0b218715-380f-47ba-b5c9-27fb3d00753c",
+         "country": "VAT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d46bbd01-5478-4fe7-b5bf-79a71c8c64d3",
+         "country": "HUN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "4de7344c-ab92-4204-a363-2c670f43ba25",
+         "country": "ISL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "473e7306-fe11-47a8-89c0-7c01481825cb",
+         "country": "IRL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cfbee0b5-72ec-4546-8f5b-36dc311cc464",
+         "country": "IMN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "a87e9153-b3bb-43ae-8779-1b59161673e2",
+         "country": "ITA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "fdb981be-75dc-4d3a-acab-5369e9676b4a",
+         "country": "JEY",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "c52c1b01-6fac-4323-a9de-b7ef632a7562",
+         "country": "LVA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "952c7001-e718-431f-9271-b0041f27ec35",
+         "country": "LIE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "2ed19b82-46a4-416a-bc13-3ebde624c4cc",
+         "country": "LTU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ccf1351a-1770-44bf-bf39-a119a9779380",
+         "country": "LUX",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "fe60cd65-91b3-4b55-a0ed-fa366554ddf3",
+         "country": "MLT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "b275e289-1bf9-4154-979e-069cd71e1290",
+         "country": "MCO",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "0125eccf-045c-4200-a268-32572345c4dd",
+         "country": "NOR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "f2fedc18-b8e8-477e-b8b7-dd51f8958d74",
+         "country": "POL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "f5c46002-6072-44df-a29f-69c4cbc7d1b9",
+         "country": "PRT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "10ce157a-79af-4664-8ad9-8645f025ff00",
+         "country": "REU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "fc2ee1aa-6066-48ae-93e4-50dc0e309f47",
+         "country": "ROU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "e103c9a5-9480-4a06-8d6e-c2c05eec75e3",
+         "country": "SMR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "1158f50f-ddec-4b25-9e38-9c72c69bd4f9",
+         "country": "SRB",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "4120b0a3-a133-46e7-8864-801dc5af1546",
+         "country": "SVK",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "994c4f70-afb6-49dc-9431-64e915348bcb",
+         "country": "SVN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "1078a6c6-6c99-4b65-a5c6-e71c05973301",
+         "country": "ESP",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "27e0f92d-a2f8-46b5-b325-d8abd6c66bd7",
+         "country": "SJM",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "46cae9ae-d0d7-4751-9c21-2b1d6711722c",
+         "country": "SWE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "a327493a-9de2-42e5-8647-6e565f16bbc3",
+         "country": "CHE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "616c3721-eaf6-4462-b686-5c48f0b907d8",
+         "country": "TUR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "79ca16c0-c374-45f9-a13f-25e7ec9f8ab4",
+         "country": "ARE",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "0fddd33a-6e52-4b40-8b57-d46351d7c43d",
+         "country": "GBR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "6da321e7-4d01-45b4-ab76-c82107bef812",
+         "country": "AFG",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "f963e76a-a2a2-4601-827f-5c6024d0e984",
+         "country": "ASM",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "fa4d25a1-3d62-4c46-a0f3-49b343be7574",
+         "country": "AIA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "b793fa70-582d-4dd6-8e38-1d9dc088cce9",
+         "country": "BLR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "c43f5219-e593-4179-b8c9-f099067f9ef0",
+         "country": "BLZ",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "f292e9c3-4e61-442c-8766-895538412c15",
+         "country": "BDI",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "999ec9c9-8562-4d90-a4d7-126851f72b76",
+         "country": "BFA",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "70e6577e-8eaf-41c9-89bb-378ec0b30b1e",
+         "country": "CMR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "de35fb09-01a9-4f99-9f73-11d6a85bb161",
+         "country": "CAF",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "22d05981-621c-4120-86f2-9f76bd4de592",
+         "country": "TCD",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "81d70c54-ecd8-4e22-a4a5-4141606a6af8",
+         "country": "COM",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "e8e0a596-aa57-4716-ac88-64fde849e668",
+         "country": "COD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "f3d4a423-54ff-483a-a058-449a9554f873",
+         "country": "CUB",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "74b5cf14-e2b7-4285-a923-8ccb6c104d0e",
+         "country": "CUW",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "a401c395-b96c-49ee-a180-5e0a45f763a0",
+         "country": "ETH",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "298bd46a-c75f-42eb-bf94-244ff8a594ce",
+         "country": "GUM",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "15fdf3df-0aa5-4381-ab96-0970d27e943e",
+         "country": "HTI",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "bcf67803-473f-4716-a259-116d459b8be5",
+         "country": "IRN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "fae67aa5-5908-4ef1-aed8-2dff0b290077",
+         "country": "IRQ",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "d91e25af-5761-46ff-92d6-f4e2ca2ec2ea",
+         "country": "KIR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "f5156241-8bce-4948-8828-9b06daf76a24",
+         "country": "LBN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "5eccf593-48e9-4bf3-a4a5-7c4b065e3b6c",
+         "country": "LBY",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "6fafc842-f369-4dde-8d0f-f5cfe0f40e0c",
+         "country": "MLI",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "086abccc-070e-4db0-955e-768841720da8",
+         "country": "MOZ",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "80a1e548-6f83-495e-a57f-b938236d3fcb",
+         "country": "MMR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "8ca67859-f9e0-4e14-90b5-c052e4e422dd",
+         "country": "NIC",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "cc085213-19d8-472e-8c72-13e51686c5f3",
+         "country": "PRK",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "7dffa091-d3f8-4082-b416-fcc91ef89747",
+         "country": "PAK",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "febaafdf-f425-4e21-8bcb-20fc6f08803a",
+         "country": "PSE",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "d5db72b0-6eb0-410b-a35b-4b0ac2e0cbfb",
+         "country": "PHL",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "a31c2bd1-60f5-4e6b-a6f6-5aa7e91e1967",
+         "country": "RUS",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "3001c867-2d3d-4c10-93b4-a00e9a805f53",
+         "country": "SEN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "52b8159d-e1ef-41cd-855a-5e74a7211423",
+         "country": "SOM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "64b97163-d06f-4435-b35d-adffbf28c535",
+         "country": "SSD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "db58c475-1a96-4be3-9d22-9251c33cafb7",
+         "country": "SDN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "4e6de8ca-0c2d-4ad4-87b5-5a92f771a364",
+         "country": "SYR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "a50e2cd6-2820-4973-8929-cbafbc24dce0",
+         "country": "TCA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "46239855-7a9c-422c-b7dc-67518038da95",
+         "country": "TUV",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "4a957ec0-4030-4c5f-8398-d4b8c3644e95",
+         "country": "UGA",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "a90771a0-9834-4842-8f42-986a40703f9c",
+         "country": "USA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "581843e7-4a8f-41f1-a697-ed8b0b7c2e7e",
+         "country": "VUT",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "d6257f63-c816-4ca2-a5c8-38e588ac565f",
+         "country": "VEN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "ed860355-3ad7-4130-ae90-f5a84ad7b19b",
+         "country": "YEM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "05376121-55f8-4c32-a68b-96592a3091ca",
+         "country": "ZWE",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "03d1a2ce-2791-4750-a684-c08351ab915c",
+         "country": "DEU",
+         "type": "Offices In"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "7e40cf92-23f7-4087-891a-6d7cd5b05f1f",
+         "createdDate": "03/08/2025",
+         "customerInfo": "Legal name && Email address && Strong Password && Country of Residence, DOB && Address && Phone number, Government ID && Video",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": true,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": true,
+         "transactionLimitsExist": true,
+         "amountLimit": 10000000,
+         "currency": "EUR",
+         "limitFrequency": "Day",
+         "notes": "collecting KYC data",
+         "internalNotes": "https://www.bitpanda.com/en/legal/card-privacy-policy. Limits vary from daily to monthly -> onlince / card / transfers and currencies."
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "ecce8bab-70e0-4a83-bfb4-a9e4bea74a56",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": [
+            {
+               "accountId": "051d64fa-6166-49f2-b597-95dff87677c5",
+               "number": "7700771007272306",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE517700771007272306",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "EST"
+            },
+            {
+               "accountId": "58b85e21-9b00-4607-b8fa-56f4b789cf96",
+               "number": "7700771006334672",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE427700771006334672",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "EST"
+            },
+            {
+               "accountId": "c4c593b7-3c88-4a4c-a68e-8c752e4f91ec",
+               "number": "100701000349528000",
+               "bic": "DEUTDEBB101",
+               "iban": "DE62100701000349528000",
+               "routingType": "IBAN",
+               "bank": "5ae4ece3-a13c-4848-abc3-d676ca3db302",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "DEU"
+            },
+            {
+               "accountId": "af469bc6-b6fa-47ae-addd-0154eb94673a",
+               "number": "088110105515K000U",
+               "bic": "BFRILI22XXX",
+               "iban": "LI40088110105515K000U",
+               "routingType": "IBAN",
+               "bank": "5732ad64-a454-4196-a6bb-71f121602fe6",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "LIE"
+            },
+            {
+               "accountId": "b420df32-d20b-4ed9-b05b-67298ea9d198",
+               "number": "088110105515K000D",
+               "bic": "BFRILI22XXX",
+               "iban": "LI14088110105515K000D",
+               "routingType": "IBAN",
+               "bank": "5732ad64-a454-4196-a6bb-71f121602fe6",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "LIE"
+            },
+            {
+               "accountId": "f3a6e4d3-f61a-4479-a07c-0337f909c912",
+               "number": "088110105515K000D",
+               "bic": "BFRILI22XXX",
+               "iban": "LI41088110105515K000C",
+               "routingType": "IBAN",
+               "bank": "5732ad64-a454-4196-a6bb-71f121602fe6",
+               "bankRole": "Custodian",
+               "vasp": "581cc0b3-50a5-429e-9d4c-321832305488",
+               "country": "LIE"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "77436bd2-356f-4198-afae-50a94e4e82e3",
+         "paymentMethod": "Debit / Credit Card",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "8fce32c4-73cd-44c2-b19f-bbdc5e4b7ec7",
+         "paymentMethod": "Apple Pay",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "46de8cf4-0a41-49dd-b1d7-d220946873f7",
+         "paymentMethod": "PayPal",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "7ed59fad-b539-4e40-bb46-f4cef19aabb5",
+         "paymentMethod": "Sofort",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "5192af44-35ed-444d-ae6f-d2e99a0d1622",
+         "paymentMethod": "Skrill",
+         "isAmountRestricted": true,
+         "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+         "account": []
+      },
+      {
+         "paymentMethodId": "79b13ce4-8ef1-45ba-af52-7a3762ed8f03",
+         "paymentMethod": "Neteller",
+         "isAmountRestricted": true,
+         "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+         "account": []
+      },
+      {
+         "paymentMethodId": "e394f4ce-52c2-48b6-8ab3-3c931540bf56",
+         "paymentMethod": "Giropay",
+         "jurisdiction": "DEU",
+         "account": []
+      },
+      {
+         "paymentMethodId": "b3d4da78-4264-4459-826b-01db9d6651dc",
+         "paymentMethod": "EPS",
+         "jurisdiction": "AUT",
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [
+      {
+         "regulationId": "b36f6a4f-cb5a-4455-9b91-ff1eb7251f00",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "11625148",
+         "printscreen": "Bitpanda Custody Ltd.pdf",
+         "startDate": "10/16/2018",
+         "validated": true
+      },
+      {
+         "regulationId": "35a16a48-967a-4c23-ad4d-9b09444b0a37",
+         "regulator": "8d0d1469-4250-4dfa-ab0b-a7850490026c",
+         "number": "HRB 258842",
+         "printscreen": "HRB-258842-bitpanda.png",
+         "startDate": "10/09/2020",
+         "validated": true
+      },
+      {
+         "regulationId": "3ea27279-5795-45cf-abdd-7a71304e8f30",
+         "regulator": "8d0d1469-4250-4dfa-ab0b-a7850490026c",
+         "number": "HRB 271190",
+         "printscreen": "HRB-271190-Bitpanda.png",
+         "startDate": "01/30/2020",
+         "validated": true
+      },
+      {
+         "regulationId": "ea005186-8a40-4ae6-99dd-8ad96e4d1dee",
+         "regulator": "8d0d1469-4250-4dfa-ab0b-a7850490026c",
+         "number": "HRB 252737",
+         "printscreen": "HRB-252737-Bitpanda.png",
+         "startDate": "11/12/2021",
+         "validated": true
+      },
+      {
+         "regulationId": "2ed31bc9-043e-4b75-8084-ac0f608f223b",
+         "regulator": "8d0d1469-4250-4dfa-ab0b-a7850490026c",
+         "number": "HRB 226876",
+         "printscreen": "HRB-226876-Bitpanda.png",
+         "startDate": "02/18/2021",
+         "validated": true
+      },
+      {
+         "regulationId": "fa5cf5d3-f36a-4111-8e59-e19cf11b72d2",
+         "regulator": "f7f60657-53c4-4d55-962e-77fffd4426e3",
+         "number": "516413-1681",
+         "printscreen": "Sweden-Bitpanda.png",
+         "startDate": "02/14/2023",
+         "validated": true
+      },
+      {
+         "regulationId": "ac6438c3-e429-4ea8-92bc-ec9ab8fe23b2",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "551181k",
+         "printscreen": "551181k-AUT-Bitpanda.png",
+         "startDate": "02/27/2021",
+         "validated": true
+      },
+      {
+         "regulationId": "8693c5e6-0aa1-4dba-90bf-a6f145dfa687",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "569240v",
+         "printscreen": "569240v-AUT-Bitpanda.png",
+         "validated": true
+      },
+      {
+         "regulationId": "328abcf7-92a8-4594-b30d-6011fdf26758",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "501412x",
+         "printscreen": "501412x-AUT-Bitpanda.png",
+         "validated": true
+      },
+      {
+         "regulationId": "9ded3d83-be05-41f0-80e7-671ab4e0aea8",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "11412485",
+         "printscreen": "BITPANDA BROKER UK LTD.pdf",
+         "startDate": "10/11/2021",
+         "validated": true
+      },
+      {
+         "regulationId": "3c2d44e7-14d5-43ed-beb1-3afe324748fe",
+         "regulator": "9d4895d3-7d75-44b2-8c4f-5b01e99fb413",
+         "number": "E2023-076",
+         "printscreen": "Bitpanda GmbH _ AMF.pdf",
+         "startDate": "05/30/2023",
+         "validated": true
+      },
+      {
+         "regulationId": "490f88e1-ca94-4ccd-9f84-437a9dace46c",
+         "regulator": "4f7b7dca-3695-40b9-b620-c8aa70772ab3",
+         "number": "CHE-267.250.666",
+         "printscreen": "Screenshot 2025-03-14 at 17.18.07.png",
+         "validated": false
+      },
+      {
+         "regulationId": "9563a37c-6799-40f6-9976-0d1b71d10ccf",
+         "regulator": "7bb0bb07-1915-4805-9090-bdb78a8f40b5",
+         "number": "387860040",
+         "printscreen": "bitpanda_pl.png",
+         "startDate": "03/18/2021",
+         "validated": false
+      },
+      {
+         "regulationId": "5fcb15c7-f9c2-409f-8f9b-3ebb6339efb5",
+         "regulator": "16e8cab6-6609-410b-b1b9-86653f14a23f",
+         "number": "11716584",
+         "printscreen": "Czech_Republi-Bitpanda.png",
+         "startDate": "08/03/2021",
+         "validated": false
+      },
+      {
+         "regulationId": "1aa4a09e-1db3-4753-b283-cbd0f9b550a5",
+         "regulator": "809a405a-5ae9-4b61-b54d-0ba2010ab041",
+         "number": "3359621",
+         "printscreen": "Screenshot 2025-02-28 at 20.55.12",
+         "validated": false
+      },
+      {
+         "regulationId": "4536c74f-d372-4c1a-baa8-cc55d6f1eb30",
+         "regulator": "809a405a-5ae9-4b61-b54d-0ba2010ab041",
+         "number": "3378037",
+         "printscreen": "Screenshot 2025-02-28 at 20.55.12",
+         "validated": false
+      },
+      {
+         "regulationId": "211fd680-6b44-4ad3-b7d6-36e80c53cf64",
+         "regulator": "809a405a-5ae9-4b61-b54d-0ba2010ab041",
+         "number": "3385459",
+         "printscreen": "Screenshot 2025-02-28 at 20.55.12",
+         "validated": false
+      },
+      {
+         "regulationId": "bd5531be-a19d-43bb-8247-b7b8987cdaf7",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "14923149",
+         "printscreen": "BITPANDA UK HOLDING LTD..png",
+         "startDate": "06/08/2023",
+         "validated": false
+      },
+      {
+         "regulationId": "17e2a183-9b3a-489f-a0c1-65b1374e0631",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "11106704",
+         "printscreen": "BITPANDA UK LIMITED",
+         "startDate": "12/12/2017",
+         "validated": false
+      },
+      {
+         "regulationId": "1d5ffaca-b2a5-4ef0-9fff-591b4b7c3642",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "13515477",
+         "printscreen": "BITPANDA TECHNOLOGY UK LIMITED.png",
+         "startDate": "07/16/2021",
+         "validated": false
+      },
+      {
+         "regulationId": "a13f2f0a-5891-4f9e-9ae9-641cecbad39a",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "BR025493",
+         "printscreen": "BITPANDA GMBH, UK ESTABLISHMENT",
+         "startDate": "02/15/2023",
+         "validated": false
+      },
+      {
+         "regulationId": "15523fb5-349f-43ba-8a96-2ab69c324091",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "481562f",
+         "printscreen": "Bitpanda_policy_1.png",
+         "validated": false
+      },
+      {
+         "regulationId": "b186933a-d67d-4092-973d-973109856540",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "511923d",
+         "printscreen": "Bitpanda_policy_1.png",
+         "validated": false
+      },
+      {
+         "regulationId": "375bd410-3de5-4b01-a337-d812ac378f2e",
+         "regulator": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+         "number": "523486h",
+         "printscreen": "Bitpanda_policy_2.png",
+         "validated": false
+      },
+      {
+         "regulationId": "060c9dec-05ef-40bf-a66c-6ad0cc70ba36",
+         "regulator": "488dc280-e6df-4c93-8598-6c40e204255e",
+         "number": "243948-5",
+         "printscreen": "Bitpanda_policy_1.png",
+         "validated": false
+      },
+      {
+         "regulationId": "bc2dbecd-e3cf-4a7a-90be-2bf933ca0f52",
+         "regulator": "78ad2d0d-2626-4cff-a292-06e2866282f4",
+         "number": "C 106261",
+         "printscreen": "BP23_CA_LTD.png",
+         "startDate": "10/25/2023",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "bitpanda"
+}

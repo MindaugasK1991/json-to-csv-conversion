@@ -1,0 +1,1019 @@
+[
+  {
+    "regulatorId": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "name": "Financial Conduct Authority",
+    "jurisdiction": "GBR",
+    "isActive": true,
+    "url": "https://register.fca.org.uk/s/"
+  },
+  {
+    "regulatorId": "9d4895d3-7d75-44b2-8c4f-5b01e99fb413",
+    "name": "Autorité des Marchés Financiers",
+    "jurisdiction": "FRA",
+    "isActive": true,
+    "url": "https://www.amf-france.org/en/warnings/white-lists"
+  },
+  {
+    "regulatorId": "ffffba06-1420-46f6-9d19-c84fbb977450",
+    "name": "Organismo Agenti e Mediatori",
+    "jurisdiction": "ITA",
+    "isActive": true,
+    "url": "https://www.organismo-am.it/elenchi-registri/operatori_valute_virtuali/index.html"
+  },
+  {
+    "regulatorId": "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "name": "Registry of Legal Entities of the Republic of Lithuania",
+    "jurisdiction": "LTU",
+    "isActive": true,
+    "url": "https://www.registrucentras.lt/jar/p_en/index.php"
+  },
+  {
+    "regulatorId": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+    "name": "Financial Crimes Enforcement Network",
+    "jurisdiction": "USA",
+    "isActive": true,
+    "url": "https://www.fincen.gov/msb-state-selector"
+  },
+  {
+    "regulatorId": "01a80e9b-d439-43a7-834b-33a7186d573d",
+    "name": "Alabama Securities Commission",
+    "jurisdiction": "USA",
+    "region": "Alabama",
+    "isActive": true,
+    "url": "http://asc.alabama.gov"
+  },
+  {
+    "regulatorId": "07ef813c-035c-4386-8578-a8e7cdba42d7",
+    "name": "Arizona Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Arizona",
+    "isActive": true,
+    "url": "http://difi.az.gov"
+  },
+  {
+    "regulatorId": "b78c0a87-7225-4de2-82a6-a7dc4eece5f9",
+    "name": "Arkansas Securities Department",
+    "jurisdiction": "USA",
+    "region": "Arkansas",
+    "isActive": true,
+    "url": "http://arkansas.gov"
+  },
+  {
+    "regulatorId": "ccff7c64-07b3-4231-8c2e-55b45cb628a6",
+    "name": "Office of the State Bank Commissioner",
+    "jurisdiction": "USA",
+    "region": "Delaware",
+    "isActive": true,
+    "url": "http://delaware.gov"
+  },
+  {
+    "regulatorId": "63749821-be37-4aee-8f17-197c871926a8",
+    "name": "District of Columbia Department of Financial Insurance, Securities, and Banking",
+    "jurisdiction": "USA",
+    "region": "District of Columbia",
+    "isActive": true,
+    "url": "http://dc.gov"
+  },
+  {
+    "regulatorId": "71c4573f-9420-4d47-a450-013295a4b8d4",
+    "name": "Florida Office of Financial Regulation",
+    "jurisdiction": "USA",
+    "region": "Florida",
+    "isActive": true
+  },
+  {
+    "regulatorId": "b3d78659-ddf6-4cc0-b986-632a0891dced",
+    "name": "Idaho Department of Finance",
+    "jurisdiction": "USA",
+    "region": "Idaho",
+    "isActive": true,
+    "url": "http://finance.Idaho.gov"
+  },
+  {
+    "regulatorId": "a38445dd-c2c7-4abc-938a-5d5e9cd3bce4",
+    "name": "Illinois Department of Financial and Professional Regulation",
+    "jurisdiction": "USA",
+    "region": "Illinois",
+    "isActive": true,
+    "url": "http://illinois.gov"
+  },
+  {
+    "regulatorId": "a94931e8-679f-45bf-998e-0035ab4b2aca",
+    "name": "State of Iowa Division of Banking",
+    "jurisdiction": "USA",
+    "region": "Iowa",
+    "isActive": true,
+    "url": "http://idob.state.ia.us"
+  },
+  {
+    "regulatorId": "736108f9-11fc-4799-8659-b3ee70e52917",
+    "name": "Kentucky Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Kentucky",
+    "isActive": true,
+    "url": "http://ky.gov"
+  },
+  {
+    "regulatorId": "74524eb6-cc6f-4600-93e8-395f0e784963",
+    "name": "Louisiana Office of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Louisiana",
+    "isActive": true,
+    "url": "http://ofi.la.gov"
+  },
+  {
+    "regulatorId": "0be7fce5-e05d-4616-9237-f13bd7a17984",
+    "name": "Maryland Department of Labor, Licensing & Regulation",
+    "jurisdiction": "USA",
+    "region": "Maryland",
+    "isActive": true,
+    "url": "http://maryland.gov"
+  },
+  {
+    "regulatorId": "dfae71d2-23d6-4c04-9c34-03933f11899e",
+    "name": "Michigan Department of Insurance and Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Michigan",
+    "isActive": true,
+    "url": "http://michigan.gov"
+  },
+  {
+    "regulatorId": "afb91e3c-e292-435e-9e67-99fea6b3856d",
+    "name": "Minnesota Department of Commerce and Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Minnesota",
+    "isActive": true,
+    "url": "http://state.mn.us"
+  },
+  {
+    "regulatorId": "b5ff5573-3118-432f-92d2-30f0776f3753",
+    "name": "Mississippi Department of Banking and Consumer Finance",
+    "jurisdiction": "USA",
+    "region": "Mississippi",
+    "isActive": true,
+    "url": "http://dbcf.ms.gov"
+  },
+  {
+    "regulatorId": "d639606d-6575-4447-86b4-038b85569e17",
+    "name": "Missouri Division of Finance",
+    "jurisdiction": "USA",
+    "region": "Missouri",
+    "isActive": true,
+    "url": "http://dof.mo.gov"
+  },
+  {
+    "regulatorId": "e783503c-1e8d-4f51-8392-e9080eec96a8",
+    "name": "Nebraska Department of Banking & Finance",
+    "jurisdiction": "USA",
+    "region": "Nebraska",
+    "isActive": true,
+    "url": "http://nebraska.gov"
+  },
+  {
+    "regulatorId": "5eb0f4c4-4bac-463b-97c2-573a86784d54",
+    "name": "Nevada Financial Institutions Division",
+    "jurisdiction": "USA",
+    "region": "Nevada",
+    "isActive": true,
+    "url": "http://fid.state.nv.us"
+  },
+  {
+    "regulatorId": "024382dc-0e2c-4d80-943b-821390803227",
+    "name": "New Hampshire Banking Department",
+    "jurisdiction": "USA",
+    "region": "New Hampshire",
+    "isActive": true,
+    "url": "http://banking.nh.gov"
+  },
+  {
+    "regulatorId": "6e6a2b9c-a01b-489f-9daf-0b73eabf15a3",
+    "name": "New Jersey Department of Banking and Insurance",
+    "jurisdiction": "USA",
+    "region": "New Jersey",
+    "isActive": true,
+    "url": "http://dobi.nj.gov"
+  },
+  {
+    "regulatorId": "8ebcf20d-41df-42e2-8ec4-f53a382e8079",
+    "name": "New Mexico Regulation & Licensing Department Financial Institutions Division",
+    "jurisdiction": "USA",
+    "region": "New Mexico",
+    "isActive": true,
+    "url": "http://state.nm.us"
+  },
+  {
+    "regulatorId": "3e3fe6a0-9112-4564-a4cc-167b0d79143b",
+    "name": "Oklahoma State Banking Department",
+    "jurisdiction": "USA",
+    "region": "Oklahoma",
+    "isActive": true,
+    "url": "http://banking.ok.gov"
+  },
+  {
+    "regulatorId": "991cc30c-8d95-4cd1-8a36-e4a9c51b9396",
+    "name": "Pennsylvania Department of Banking and Securities",
+    "jurisdiction": "USA",
+    "region": "Pennsylvania",
+    "isActive": true,
+    "url": "http://pa.gov"
+  },
+  {
+    "regulatorId": "f12330b2-ef4b-46f8-acfc-6f4281999ee8",
+    "name": "Puerto Rico Office of the Commissioner of Financial Institutions Regulation and Licensing Division",
+    "jurisdiction": "USA",
+    "region": "Puerto Rico",
+    "isActive": true,
+    "url": "http://ocif.pr.gov"
+  },
+  {
+    "regulatorId": "712bd304-d084-437f-9a9e-dcac7cf02ca7",
+    "name": "State of Rhode Island Department of Business Regulation Division of Banking",
+    "jurisdiction": "USA",
+    "region": "Rhode Island",
+    "isActive": true
+  },
+  {
+    "regulatorId": "ef74576c-bf37-4bf9-b737-0f5b2c96d1ac",
+    "name": "Office of the Attorney General",
+    "jurisdiction": "USA",
+    "region": "South Carolina",
+    "isActive": true,
+    "url": "http://scag.gov"
+  },
+  {
+    "regulatorId": "04d7a670-52d6-4d14-8347-dffe4943479a",
+    "name": "South Dakota Department of Labor and Regulation Division of Banking",
+    "jurisdiction": "USA",
+    "region": "South Dakota",
+    "isActive": true,
+    "url": "http://state.sd.us"
+  },
+  {
+    "regulatorId": "5af99b87-4e9a-47a7-8608-499e43e1ffe4",
+    "name": "Tennessee Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Tennessee",
+    "isActive": true,
+    "url": "http://tn.gov"
+  },
+  {
+    "regulatorId": "03e27ea3-7059-4488-8fe3-6e39f28bb872",
+    "name": "Utah Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Utah",
+    "isActive": true,
+    "url": "http://utah.gov"
+  },
+  {
+    "regulatorId": "1d2e1cd4-703f-432c-9f5b-077776e383e4",
+    "name": "Virginia State Corporation Commission Bureau of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Virginia",
+    "isActive": true,
+    "url": "http://scc.virginia.gov"
+  },
+  {
+    "regulatorId": "a9f788ab-4f49-4386-9547-ab5742fe020a",
+    "name": "Wyoming Department of Audit Division of Banking",
+    "jurisdiction": "USA",
+    "region": "Wyoming",
+    "isActive": true,
+    "url": "http://wyo.gov"
+  },
+  {
+    "regulatorId": "1af27f35-c657-4e77-b52f-88283357c464",
+    "name": "Bank of Spain",
+    "jurisdiction": "ESP",
+    "isActive": true,
+    "url": "https://app.bde.es/rbe_spa/#/buscador"
+  },
+  {
+    "regulatorId": "7bb0bb07-1915-4805-9090-bdb78a8f40b5",
+    "name": "Polish Tax Administration Chamber of Poland in Katowice",
+    "jurisdiction": "POL",
+    "isActive": true,
+    "url": "https://www.slaskie.kas.gov.pl/c/document_library/get_file?uuid=73ffde9b-0123-4594-8a94-a4d458218386&groupId=3559133"
+  },
+  {
+    "regulatorId": "f7f60657-53c4-4d55-962e-77fffd4426e3",
+    "name": "Swedish Financial Supervisory Authority",
+    "jurisdiction": "SWE",
+    "isActive": true,
+    "url": "https://www.fi.se/en/our-registers/company-register/"
+  },
+  {
+    "regulatorId": "eb7c9d88-acfb-4dda-9d52-7ccc507dd607",
+    "name": "Astana Financial Services Authority",
+    "jurisdiction": "KAZ",
+    "isActive": true,
+    "url": "https://publicreg.myafsa.com/licence_details/AFSA-A-LA-2024-0028/"
+  },
+  {
+    "regulatorId": "f5e53fa9-5e8d-4339-95df-086782f8fd36",
+    "name": "Abu Dhabi Global Market (ADGM)",
+    "jurisdiction": "ARE",
+    "isActive": true,
+    "url": "https://www.adgm.com/public-registers/fsra/"
+  },
+  {
+    "regulatorId": "e4aec571-293f-44d4-8690-8414758c2a0f",
+    "name": "Central Bank of Bahrain",
+    "jurisdiction": "BHR",
+    "isActive": true,
+    "url": "https://www.cbb.gov.bh/licensing-directory/"
+  },
+  {
+    "regulatorId": "1b677eb7-4093-4117-a12b-734f84984e7e",
+    "name": "Dubai Virtual Asset Regulatory Authority",
+    "jurisdiction": "ARE",
+    "isActive": true,
+    "url": "https://www.vara.ae/en/licenses-and-register/public-register/"
+  },
+  {
+    "regulatorId": "d958d59f-7fdd-4b1a-a915-dba732532b60",
+    "name": "Australian Transaction Reports and Analysis Centre",
+    "jurisdiction": "AUS",
+    "isActive": true,
+    "url": "https://abr.business.gov.au/Search/"
+  },
+  {
+    "regulatorId": "010d3b67-c8d6-42c1-a4c3-f12eef1a5bd6",
+    "name": "Financial Intelligence Unit - India",
+    "jurisdiction": "IND",
+    "isActive": true,
+    "url": "https://www.fiuindia.gov.in/pdfs/judgements/Binance_Order_10_2024.pdf"
+  },
+  {
+    "regulatorId": "67e0f824-d8f0-41ac-b19f-ce171a16df33",
+    "name": "Bappebti",
+    "jurisdiction": "IDN",
+    "isActive": true,
+    "url": "https://bappebti.go.id/calon_pedagang_aset_kripto"
+  },
+  {
+    "regulatorId": "aff285ad-21b3-4c83-8c71-9a7d9e0f39b1",
+    "name": "Japan Financial Services Agency",
+    "jurisdiction": "JPN",
+    "isActive": true,
+    "url": "https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf"
+  },
+  {
+    "regulatorId": "d9b2fcbb-b99b-49a5-8e36-4c17c9d432e2",
+    "name": "New Zealand register of financial service providers",
+    "jurisdiction": "NZL",
+    "isActive": true,
+    "url": "https://fsp-app.companiesoffice.govt.nz/orp-fsp-register/viewInstance/view.html?id=757b371f1b6eec44bad4008937136b8f8eaa2411941526b0c89920ec56eda1fa&_timestamp=5975682198922904"
+  },
+  {
+    "regulatorId": "69b6bb69-4d1b-4f21-88d6-a7fff6b7d557",
+    "name": "Thailand Ministry of Finance through the Securities and Exchange Commission",
+    "jurisdiction": "THA",
+    "isActive": true
+  },
+  {
+    "regulatorId": "98c0a8b1-dd6f-41fe-b606-56ff3d000c94",
+    "name": "Tax Administration Service",
+    "jurisdiction": "MEX",
+    "isActive": true
+  },
+  {
+    "regulatorId": "08f26291-d5c9-4af1-8a6c-3621282478b9",
+    "name": "Comisión Nacional De Activos Digitales",
+    "jurisdiction": "SLV",
+    "isActive": true,
+    "url": "https://cnad.gob.sv/es/registro-publico/proveedores-de-servicio-de-activos-digitales/"
+  },
+  {
+    "regulatorId": "5c8de85c-3f70-49c4-9933-f6eac0bf558b",
+    "name": "Virtual Asset Service Provider Registry of the National Securities Commission",
+    "jurisdiction": "ARG",
+    "isActive": true
+  },
+  {
+    "regulatorId": "fafba2ff-14dd-4826-a95e-02198363f3af",
+    "name": "Financial Sector Conduct Authority",
+    "jurisdiction": "ZAF",
+    "isActive": true,
+    "url": "https://www.fsca.co.za/MagicScripts/mgrqispi.dll"
+  },
+  {
+    "regulatorId": "012f53d0-1c0d-4b07-89fd-8f18adc346cb",
+    "name": "Central Bank of Ireland",
+    "jurisdiction": "IRL",
+    "isActive": true,
+    "url": "https://registers.centralbank.ie/DownloadsPage.aspx"
+  },
+  {
+    "regulatorId": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+    "name": "Financial Transactions and Reports Analysis Centre of Canada",
+    "jurisdiction": "CAN",
+    "isActive": true,
+    "url": "https://fintrac-canafe.canada.ca/msb-esm/reg-eng https://fintrac-canafe.canada.ca/msb-esm/reg-eng"
+  },
+  {
+    "regulatorId": "acb0460c-cb7a-4652-bb41-606696ece993",
+    "name": "Croatian Financial Services Supervisory Services",
+    "jurisdiction": "HRV",
+    "isActive": true,
+    "url": "https://www.hanfa.hr/areas-of-supervision/virtual-currencies/list-of-entities-that-have-notified-hanfa-of-their-activities-in-the-provision-of-exchange-services-between-virtual-currencies-and-fiat-currencies-andor-the-provision-of-custodian-wallet-services/"
+  },
+  {
+    "regulatorId": "c14d0153-dee9-4190-9b60-a0d513f469a5",
+    "name": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+    "jurisdiction": "DEU",
+    "isActive": true,
+    "url": "https://portal.mvp.bafin.de/database/InstInfo/sucheForm.do?institutName=&institutId=&institutBakNr=&institutRegNr=&kategorieId=&sucheButtonInstitut=Search"
+  },
+  {
+    "regulatorId": "c3a53ef0-3acc-4c29-8b60-7e7ad172d48c",
+    "name": "Washington State Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Washington",
+    "isActive": true,
+    "url": "https://dfi.wa.gov/sites/default/files/documents/virtual-currency-licensee-list.pdf"
+  },
+  {
+    "regulatorId": "1c86cfdc-dd39-43eb-9b77-93d4680e1f4e",
+    "name": "New York State Department of Financial Services",
+    "jurisdiction": "USA",
+    "region": "New York",
+    "isActive": true,
+    "url": "https://myportal.dfs.ny.gov/web/guest-applications/who-we-supervise"
+  },
+  {
+    "regulatorId": "3fc33198-e71f-4f72-bf47-873371770efb",
+    "name": "Division of Banking and Securities",
+    "jurisdiction": "USA",
+    "region": "Alaska",
+    "isActive": true,
+    "url": "https://www.commerce.alaska.gov/cbp/businesslicense/search/License"
+  },
+  {
+    "regulatorId": "8c200e9e-7cf0-4824-b739-da9daf5028c9",
+    "name": "Connecticut Department of Banking",
+    "jurisdiction": "USA",
+    "region": "Connecticut",
+    "isActive": true
+  },
+  {
+    "regulatorId": "818c1d36-414b-4950-b5a8-3217dbe41e91",
+    "name": "Georgia Department of Banking and Finance",
+    "jurisdiction": "USA",
+    "region": "Georgia",
+    "isActive": true
+  },
+  {
+    "regulatorId": "d53e536f-ed0c-49ea-8fb6-fd8250096f3b",
+    "name": "Office of the State Bank Commissioner",
+    "jurisdiction": "USA",
+    "region": "Kansas",
+    "isActive": true
+  },
+  {
+    "regulatorId": "4c400250-f973-4447-8dc0-e15c0f8082cd",
+    "name": "Dept. of Professional & Financial Regulation",
+    "jurisdiction": "USA",
+    "region": "Maine",
+    "isActive": true
+  },
+  {
+    "regulatorId": "740f203e-30c3-4fc6-aa15-fa89c114fc48",
+    "name": "North Dakota Department of Financial Institutions. Consumer Division",
+    "jurisdiction": "USA",
+    "region": "North Dakota",
+    "isActive": true
+  },
+  {
+    "regulatorId": "a24ff13d-a10d-41b7-ac5b-0ccb2c00efe4",
+    "name": "Ohio Division of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Ohio",
+    "isActive": true
+  },
+  {
+    "regulatorId": "c5069282-cafc-418c-81ef-eb4b3fc6fb34",
+    "name": "Oregon Division of Financial Regulation",
+    "jurisdiction": "USA",
+    "region": "Oregon",
+    "isActive": true
+  },
+  {
+    "regulatorId": "df01eed0-20c9-4ea9-9845-f2697044b79e",
+    "name": "Texas Department of Banking",
+    "jurisdiction": "USA",
+    "region": "Texas",
+    "isActive": true
+  },
+  {
+    "regulatorId": "87088685-9636-45ab-a3da-6394d14403de",
+    "name": "Department of Financial Regulation",
+    "jurisdiction": "USA",
+    "region": "Vermont",
+    "isActive": true
+  },
+  {
+    "regulatorId": "be26e395-1335-41c9-b183-34750752fa65",
+    "name": "West Virginia Division of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "West Virginia",
+    "isActive": true
+  },
+  {
+    "regulatorId": "709b1910-3e30-49b2-8e58-e300c17f1601",
+    "name": "North Carolina Commissioner of Banks",
+    "jurisdiction": "USA",
+    "region": "North Carolina",
+    "isActive": true
+  },
+  {
+    "regulatorId": "21966102-2481-449e-aa5a-ff85f655384a",
+    "name": "Registry for Trust and Company Service Providers",
+    "jurisdiction": "HKG",
+    "isActive": true,
+    "url": "https://www.tcsp.cr.gov.hk/tcspls/index"
+  },
+  {
+    "regulatorId": "37d851fe-de62-4d4b-a93a-514ea70dfa9a",
+    "name": "Gibraltar Financial Services Commission",
+    "jurisdiction": "GIB",
+    "isActive": true,
+    "url": "https://www.fsc.gi/regulated-entities"
+  },
+  {
+    "regulatorId": "78ad2d0d-2626-4cff-a292-06e2866282f4",
+    "name": "Malta Financial Services Authority",
+    "jurisdiction": "MLT",
+    "isActive": true,
+    "url": "https://www.mfsa.mt/financial-services-register/"
+  },
+  {
+    "regulatorId": "f0035b9e-dd6c-42ab-90be-9946ca1a066a",
+    "name": "Hellenic Capital Market Commission",
+    "jurisdiction": "GRC",
+    "isActive": true,
+    "url": "http://www.hcmc.gr/aweb/files/laundering/files/Register%20of%20Providers%20of%20Exchange%20Services_EN.pdf"
+  },
+  {
+    "regulatorId": "06fb7436-a6cf-4aec-a1e5-0db15c2bb4a6",
+    "name": "De Nederlandsche Bank",
+    "jurisdiction": "NLD",
+    "isActive": true,
+    "url": "https://www.dnb.nl/en/public-register/register-of-crypto-service-providers/?p=1&l=10&rc=V1dGVEFD"
+  },
+  {
+    "regulatorId": "68f759fc-417e-4a93-a716-4ea86757c06c",
+    "name": "European Central Bank",
+    "jurisdiction": "DEU",
+    "isActive": true,
+    "url": "https://www.ecb.europa.eu/paym/html/midMFID.en.html"
+  },
+  {
+    "regulatorId": "5467d8b1-4ee0-41b8-99f3-08d25afe5206",
+    "name": "Financial Intelligence Unit",
+    "jurisdiction": "EST",
+    "isActive": true,
+    "url": "https://mtr.ttja.ee/?m=1"
+  },
+  {
+    "regulatorId": "3cb09e23-8029-4d20-be71-2ce02665c087",
+    "name": "Department of Regulatory Agencies",
+    "jurisdiction": "USA",
+    "region": "Colorado",
+    "isActive": true,
+    "url": "https://banking.colorado.gov/industry/money-transmitters"
+  },
+  {
+    "regulatorId": "f39629d4-5e2b-42cd-964e-f56131b659e9",
+    "name": "Department of Commerce and Consumer Affairs",
+    "jurisdiction": "USA",
+    "region": "Hawaii",
+    "isActive": true,
+    "url": "https://cca.hawaii.gov/dfi/digital-currency-innovation-lab-2020/"
+  },
+  {
+    "regulatorId": "f46327d3-31fa-4330-8913-f6cbbcf8d7a9",
+    "name": "Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Indiana",
+    "isActive": true
+  },
+  {
+    "regulatorId": "0994bd69-d436-4e30-a756-0e40e545ea1f",
+    "name": "Accounting And Corporate Regulatory Authority",
+    "jurisdiction": "SGP",
+    "isActive": true,
+    "url": "https://eservices.mas.gov.sg/fid/institution https://www.bizfile.gov.sg"
+  },
+  {
+    "regulatorId": "bf46cf6f-6db3-44f6-87b8-b0cf8ee7cba8",
+    "name": "Bloomberg Finance L.P.",
+    "jurisdiction": "USA",
+    "region": "Delaware",
+    "isActive": true,
+    "url": "https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&.=%5Bobject%20Object%5D&ts=2616435759"
+  },
+  {
+    "regulatorId": "8d0d1469-4250-4dfa-ab0b-a7850490026c",
+    "name": "District Court of Frankfurt",
+    "jurisdiction": "DEU",
+    "isActive": true,
+    "url": "https://www.frankfurt-main.ihk.de/servicenavigation/chamber-of-commerce-and-industry/startup-support-and-business-development/entry-in-the-commercial-register-5277160"
+  },
+  {
+    "regulatorId": "22248dce-ae0e-4e34-8890-62ef11c98ede",
+    "name": "Financial Market Authority in Austria",
+    "jurisdiction": "AUT",
+    "isActive": true,
+    "url": "https://www.fma.gv.at/unternehmensdatenbank-suche/?cname=&place=&bic=&category=&per_page=10&submitted=1"
+  },
+  {
+    "regulatorId": "1c5a10c7-3371-40a3-8f7b-3255ea30ba74",
+    "name": "Securities and Exchange Commission",
+    "jurisdiction": "USA",
+    "isActive": true,
+    "url": "https://www.sec.gov/file/list-companies"
+  },
+  {
+    "regulatorId": "3840c69f-d191-4508-b83b-5bb9549ff6ec",
+    "name": "Financial Industry Regulatory Authority, Inc",
+    "jurisdiction": "USA",
+    "isActive": true,
+    "url": "https://www.finra.org/about/entities-we-regulate"
+  },
+  {
+    "regulatorId": "41ef4687-3571-4d20-8338-ee2532872e9f",
+    "name": "Banco Central do Brasil - BCB",
+    "jurisdiction": "BRA",
+    "isActive": true,
+    "url": "https://www.bcb.gov.br/en"
+  },
+  {
+    "regulatorId": "5f4b69b8-a760-4d4b-98f9-47f56d868efa",
+    "name": "Nationwide Multistate Licensing System and Registry (NMLS)",
+    "jurisdiction": "USA",
+    "isActive": true,
+    "url": "https://mortgage.nationwidelicensingsystem.org/SitePages/default.aspx"
+  },
+  {
+    "regulatorId": "b68b645d-d3f8-4e91-b357-1436b6dd290c",
+    "name": "Financial Services Authority Seychelles",
+    "jurisdiction": "SYC",
+    "isActive": true,
+    "url": "https://fsaseychelles.sc/regulated-entities"
+  },
+  {
+    "regulatorId": "1bdb134d-87d9-4eaf-b81f-62785cb8c514",
+    "name": "Central Bank of the Russian Federation",
+    "jurisdiction": "RUS",
+    "isActive": true
+  },
+  {
+    "regulatorId": "e682a629-329b-4c47-98c1-3343822455a0",
+    "name": "Latvijas Banka (Bank of Latvia)",
+    "jurisdiction": "LVA",
+    "isActive": true,
+    "url": "https://www.bank.lv/en/statistics/information-for-data-users/lists"
+  },
+  {
+    "regulatorId": "1fe0b8a2-c2d3-44e9-aa4a-9dba5b43a0d5",
+    "name": "Central Bank of the Islamic Republic of Iran (CBI)",
+    "jurisdiction": "IRN",
+    "isActive": true,
+    "url": "https://irsherkat.ssaa.ir"
+  },
+  {
+    "regulatorId": "16e8cab6-6609-410b-b1b9-86653f14a23f",
+    "name": "Czech National Bank",
+    "jurisdiction": "CZE",
+    "isActive": true,
+    "url": "https://www.cnb.cz/en"
+  },
+  {
+    "regulatorId": "268caef0-1a75-457d-8d9c-939d6912887c",
+    "name": "Puerto Rico Bureau of Financial Institutions",
+    "jurisdiction": "PRI",
+    "region": "Puerto Rico",
+    "isActive": true,
+    "url": "https://www.ocif.pr.gov/"
+  },
+  {
+    "regulatorId": "2f5dc936-ceaf-4769-b25a-23e02104adfd",
+    "name": "California Department of Financial Protection and Innovation",
+    "jurisdiction": "USA",
+    "region": "California",
+    "isActive": true
+  },
+  {
+    "regulatorId": "225d60f5-4a6a-4e87-97ba-8274ebc4bdda",
+    "name": "Department of Financial Institutions",
+    "jurisdiction": "USA",
+    "region": "Wisconsin",
+    "isActive": true,
+    "url": "https://dfi.wi.gov/Pages/FinancialServices/LicensedFinancial/MoneyTransmitter.aspx"
+  },
+  {
+    "regulatorId": "7842184b-b67a-4730-84ce-8eecba3a81f3",
+    "name": "Financial Services Authority, St Vincent & the Grenadines",
+    "jurisdiction": "VCT",
+    "isActive": true,
+    "url": "https://svgfsa.com/company-name-search/"
+  },
+  {
+    "regulatorId": "01c5dee4-4f05-4aa0-a781-3978a3bc0f3d",
+    "name": "Netherlands Chamber of Commerce, KVK",
+    "jurisdiction": "NLD",
+    "isActive": true,
+    "url": "https://www.kvk.nl/en/search/"
+  },
+  {
+    "regulatorId": "487dbe66-2202-4bd8-910f-f485fb9da0b6",
+    "name": "Cyprus Securities and Exchange Commission",
+    "jurisdiction": "CYP",
+    "isActive": true,
+    "url": "https://www.cysec.gov.cy/en-gb/home/"
+  },
+  {
+    "regulatorId": "1c516f87-ae1b-479b-99e0-1d234ae29a21",
+    "name": "Commission de Surveillance du Secteur Financier",
+    "jurisdiction": "LUX",
+    "isActive": true,
+    "url": "https://www.cssf.lu/en/"
+  },
+  {
+    "regulatorId": "4f7b7dca-3695-40b9-b620-c8aa70772ab3",
+    "name": "Swiss Federal Financial Market Supervisory Authority (FINMA)",
+    "jurisdiction": "CHE",
+    "isActive": true,
+    "url": "https://www.finma.ch"
+  },
+  {
+    "regulatorId": "d634c7a2-79c0-40af-bd27-9c3103ce314d",
+    "name": "Securities and Futures Commission (SFC)",
+    "jurisdiction": "HKG",
+    "isActive": true,
+    "url": "https://apps.sfc.hk/publicregWeb/searchByName"
+  },
+  {
+    "regulatorId": "80c56bc2-ae7d-402b-9296-5ab90769c5dc",
+    "name": "Australian Securities and Investments Commission (ASIC)",
+    "jurisdiction": "AUS",
+    "isActive": true,
+    "url": "https://service.asic.gov.au/"
+  },
+  {
+    "regulatorId": "3f7c9c12-c641-40cc-ba7c-0cd2f0cf16ca",
+    "name": "Isle of Man Financial Services Authority",
+    "jurisdiction": "IMN",
+    "isActive": true,
+    "url": "https://www.iomfsa.im/register-search/"
+  },
+  {
+    "regulatorId": "95d62535-59c6-4886-8863-c206a4c9a38e",
+    "name": "Financial Market Authority Liechtenstein",
+    "jurisdiction": "LIE",
+    "isActive": true,
+    "url": "https://www.fma-li.li/en/financial-centre/register-of-licensees/ https://www.llv.li/"
+  },
+  {
+    "regulatorId": "f852dee6-dd18-471d-ba0e-c36641c7154f",
+    "name": "National Bank of the Republic of Belarus (NBRB)",
+    "jurisdiction": "BLR",
+    "isActive": true
+  },
+  {
+    "regulatorId": "3f5bfaf2-93be-4b11-b525-df85cef68540",
+    "name": "Registry of Companies and Intellectual Property (ROCIP)",
+    "jurisdiction": "LCA",
+    "isActive": true,
+    "url": "http://www.rocip.gov.lc/stlucia/default.aspx"
+  },
+  {
+    "regulatorId": "0303d561-0e2e-41e1-bac6-2b2d51309034",
+    "name": "National Bank of Georgia",
+    "jurisdiction": "GEO",
+    "isActive": true,
+    "url": "https://nbg.gov.ge/en/page/virtual-asset-service-providers-vasps"
+  },
+  {
+    "regulatorId": "0c51de53-6b17-4eeb-8233-50a4b37adda4",
+    "name": "Republic of Bulgaria Registry Agency",
+    "jurisdiction": "BGR",
+    "isActive": true,
+    "url": "https://nra.bg/wps/portal/nra/registers-i-spisuci/registers/page.virtualni.valuti/registur-na-licata-predstaviashti-uslugi-za-obmqna-megdu-virtualni-i-priznati-valuti"
+  },
+  {
+    "regulatorId": "a522dc7c-ed2c-495b-ba63-b5f6be15819b",
+    "name": "Polish Financial Supervision Authority",
+    "jurisdiction": "POL",
+    "isActive": true,
+    "url": "https://www.knf.gov.pl/en/ENTITIES/entities_search"
+  },
+  {
+    "regulatorId": "5863b24d-620c-4128-8d11-9f2112c03842",
+    "name": "The BVI Financial Services Commission",
+    "jurisdiction": "VGB",
+    "isActive": true,
+    "url": "https://www.bvifsc.vg/"
+  },
+  {
+    "regulatorId": "2e7792f4-3f9a-49fa-a1e2-48822cfe4796",
+    "name": "Israel Securities Authority",
+    "jurisdiction": "ISR",
+    "isActive": true,
+    "url": "https://www.new.isa.gov.il/"
+  },
+  {
+    "regulatorId": "a9afdfa5-d56b-441a-8429-8b226d221149",
+    "name": "National Futures Association (NFA)",
+    "jurisdiction": "USA",
+    "region": "Chicago",
+    "isActive": true,
+    "url": "https://www.nfa.futures.org/basicnet/"
+  },
+  {
+    "regulatorId": "e2f58af7-bc1a-4317-88dc-f16c07ba5f0b",
+    "name": "Bermuda Monetary Authority",
+    "jurisdiction": "BMU",
+    "isActive": true,
+    "url": "https://www.bma.bm/regulated-entities"
+  },
+  {
+    "regulatorId": "a467d660-3593-4a0f-976f-ea3d0edd8eb4",
+    "name": "Dubai Financial Services Authority",
+    "jurisdiction": "ARE",
+    "isActive": true,
+    "url": "https://www.dfsa.ae/public-register/firms/ig-limited"
+  },
+  {
+    "regulatorId": "d8eb870a-a5f8-4b4b-846e-45d117a59222",
+    "name": "The National Credit Regulator (NCR)",
+    "jurisdiction": "ZAF",
+    "isActive": true,
+    "url": "https://www.ncr.org.za/register_of_registrants/registered_adr.php"
+  },
+  {
+    "regulatorId": "9f2c586f-c998-4deb-8947-1965d9824757",
+    "name": "Patents and Companies Registration Agency",
+    "jurisdiction": "ZMB",
+    "isActive": true,
+    "url": "https://search.pacra.org.zm/"
+  },
+  {
+    "regulatorId": "809a405a-5ae9-4b61-b54d-0ba2010ab041",
+    "name": "United Arab Emirates Ministry of Economy",
+    "jurisdiction": "UAE",
+    "isActive": true,
+    "url": "https://www.centralbank.ae/en/licensing/#!#CBUAE%20Register%20Insurance%20Entities"
+  },
+  {
+    "regulatorId": "488dc280-e6df-4c93-8598-6c40e204255e",
+    "name": "Central Bank of the Republic of Turkey (CBRT)",
+    "jurisdiction": "TUR",
+    "isActive": true,
+    "url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Payment+Services/Electronic+Money+Institutions"
+  },
+  {
+    "regulatorId": "51629af1-db99-4b65-8105-9b8126832b03",
+    "name": "Danish Financial Supervisory Authority (FSA)",
+    "jurisdiction": "DNK",
+    "isActive": true,
+    "url": "https://virksomhedsregister.finanstilsynet.dk/"
+  },
+  {
+    "regulatorId": "2b075f0e-592f-4c1e-85ef-c68d64eae208",
+    "name": "Monetary Authority of Singapore (MAS)",
+    "jurisdiction": "SGP",
+    "isActive": true,
+    "url": "https://eservices.mas.gov.sg/fid"
+  },
+  {
+    "regulatorId": "f54874f3-81c4-4add-98ce-e2f508f7c9b8",
+    "name": "Lietuvos Bankas",
+    "jurisdiction": "LTU",
+    "isActive": true,
+    "url": "https://www.lb.lt/en/sfi-financial-market-participants"
+  },
+  {
+    "regulatorId": "ce6cb9af-3466-42cd-b7bc-79dbefe9fe3b",
+    "name": "Securities and Exchange Commission (SEC)",
+    "jurisdiction": "NGA",
+    "isActive": true,
+    "url": "https://sec.gov.ng/cmos/"
+  },
+  {
+    "regulatorId": "43f1bd86-5af1-4556-a0ce-8a4520c585c4",
+    "name": "Central Bank of Nigeria",
+    "jurisdiction": "NGA",
+    "isActive": true,
+    "url": "https://www.cbn.gov.ng/index.html"
+  },
+  {
+    "regulatorId": "64066a4c-b648-4bdb-85e6-6f98d3235c0c",
+    "name": "Corporate Affairs Commission",
+    "jurisdiction": "NGA",
+    "isActive": true,
+    "url": "https://search.cac.gov.ng/list"
+  },
+  {
+    "regulatorId": "d98d9ae4-188b-47c4-a657-71e12d4a50bd",
+    "name": "Insta Financials",
+    "jurisdiction": "IND",
+    "isActive": true
+  },
+  {
+    "regulatorId": "43e4ad4b-1a0a-401b-9cbf-2e852e09a3a0",
+    "name": "Romanian Companies",
+    "jurisdiction": "ROU",
+    "isActive": true,
+    "url": "https://www.romanian-companies.eu/ascendex-technology-srl-45258590/"
+  },
+  {
+    "regulatorId": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+    "name": "Financial Services Commission (FSC)",
+    "jurisdiction": "BLZ",
+    "region": null,
+    "isActive": true,
+    "url": "https://www.belizefsc.org.bz/"
+  },
+  {
+
+    "regulatorId": "a69b4ed8-1e2c-4787-ac8e-2ad6110f8f2a",
+    "name": "Slovak Business Register (Obchodný register Slovenskej republiky)",
+    "jurisdiction": "SVK",
+    "region": null,
+    "isActive": true,
+    "url": "https://www.orsr.sk/search_subjekt.asp?lan=en"
+  },
+  {
+    "regulatorId": "bd746087-1614-405d-86e4-e4dea850753d",
+    "name": "Companies Registration Office",
+    "jurisdiction": "IRL",
+    "region": null,
+    "isActive": true,
+    "url": "https://core.cro.ie"
+  },
+  {
+    "regulatorId": "a6017546-8d1b-4972-8bc3-744dc95ddcfd",
+    "name": "Israeli Corporations Authority",
+    "jurisdiction": "ISR",
+    "region": null,
+    "isActive": true,
+    "url": "https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8"
+  },
+  {
+    "regulatorId": "d3536fca-eedf-4b48-af86-0c9042ac7c42",
+    "name": "Financial Services Commision (FSC) of Belize",
+    "jurisdiction": "BLZ",
+    "region": "Americas",
+    "isActive": true,
+    "url": "https://www.belizefsc.org.bz/registered-individuals-companies/"
+  },
+  {
+    "regulatorId": "72625da3-b0bc-46e5-bd7f-30be091752b9",
+    "name": "Capital Markets Authority (CMA) of Kenya",
+    "jurisdiction": "KEN",
+    "region": "Africa",
+    "isActive": true,
+    "url": "https://licensees.cma.or.ke"
+  },
+  {
+    "regulatorId": "7c88d334-fcf3-4d2a-a231-65f61131386f",
+    "name": "Financial Services Commission (FSC) of Mauritius",
+    "jurisdiction": "MUS",
+    "region": "Africa",
+    "isActive": true,
+    "url": "https://www.fscmauritius.org/en"
+  },
+  {
+    "regulatorId": "bcbb4ce9-6331-4a19-a807-bcef3a56b562",
+    "name": "The BVI Financial Services Commission",
+    "jurisdiction": "VGB",
+    "region": null,
+    "isActive": true,
+    "url": "https://www.bvifsc.vg/"
+  },
+  {
+    "regulatorId": "03eb2e88-ab3e-4aba-8720-38c5384a997f",
+    "name": "Hong Kong Trust or Company Service Provider Registry",
+    "jurisdiction": "HKG",
+    "region": null,
+    "isActive": true,
+    "url": "https://www.tcsp.cr.gov.hk/tcspls/index"
+  },
+  {
+    "regulatorId": "e9ec5011-b817-47b7-b67b-70406496c5cb",
+    "name": "Cayman Islands Monetary Authority (CIMA)",
+    "jurisdiction": "CYM",
+    "region": null,
+    "isActive": true,
+    "url": "https://www.tcsp.cr.gov.hk/tcspls/index"
+  },
+  {
+    "regulatorId": "95dceaa1-77f2-42e8-9943-19e15a69c32d",
+    "name": "French Prudential Supervision and Resolution Authority (ACPR)",
+    "jurisdiction": "FRA",
+    "region": null,
+    "isActive": true,
+    "url": "https://acpr.banque-france.fr/"
+  }
+]

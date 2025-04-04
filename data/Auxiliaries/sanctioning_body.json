@@ -1,0 +1,22 @@
+[
+   {
+      "sanctioningBodyId": "cc9d5ca7-fadf-4225-898f-2d7a684bd055",
+      "name": "Financial Action Task Force (FATF)",
+      "url": "https://www.fatf-gafi.org/"
+   },
+   {
+      "sanctioningBodyId": "a48c6d58-9174-49b3-a6c1-44c1eb6018c1",
+      "name": "European Council",
+      "url": "https://finance.ec.europa.eu/"
+   },
+   {
+      "sanctioningBodyId": "cdda45e1-235b-4643-ac0f-d7beff283a44",
+      "name": "Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/"
+   },
+   {
+      "sanctioningBodyId": "5c831319-85ae-4392-90b8-8be02e54e930",
+      "name": "Securities and Exchange Commission",
+      "url": "https://www.sec.gov/"
+   }
+]

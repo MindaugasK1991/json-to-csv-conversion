@@ -1,0 +1,222 @@
+{
+  "onChain": null,
+  "vaspId": "051a4abb-34a4-4c38-a061-714a137c4b72",
+  "commonName": "Libertex",
+  "url": "https://libertex.com/",
+  "domiciledCountry": "CYP",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": false,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2012",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://libertex.com/privacy-cookies-policy",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "bbaec16a-58e5-4520-b4d7-debf51c3967f",
+      "type": "CFD Broker"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "a0fb8f35-c943-4b3d-ac0b-c939c3d604e0",
+      "type": "Legal",
+      "name": "Indication Investments Ltd",
+      "country": "CYP"
+    },
+    {
+      "nameId": "cb512108-288a-4dfb-987f-4fdafbbc544a",
+      "type": "Legal",
+      "name": "Libertex Group",
+      "country": "CYP"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "c63400a1-36e1-4d11-940e-3839023ca610",
+      "country": "CYP",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "8d8a25b7-ff45-4e4d-86a0-7fc728d49bd1",
+      "country": "DEU",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "e17f8c47-2243-4418-8a33-e84abd146330",
+      "createdDate": "03/25/2025",
+      "customerInfo": "Email Address, Full name && DOB, Address && Nationality, Phone number, Questionnaire, Country of Residence, Government ID, Proof of Address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": false,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": "Unlimited",
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "8f104220-e96b-4a97-8b2c-7418b2c0b7fa",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "7eb27096-29f6-4def-993e-bebd8aa2425d",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "c5934231-3053-42d2-9cac-86c2f23f01a5",
+      "paymentMethod": "iDeal",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "0b69be41-7589-44bd-9e6c-0302cf36564b",
+      "paymentMethod": "Trustly",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "9dcb7ef0-3c30-4364-be64-c45cacb725da",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": null
+    },
+    {
+      "paymentMethodId": "bb12e357-01fc-4c07-acc4-007da75c9df7",
+      "paymentMethod": "Giropay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "3a69ec9c-2609-4e37-b972-9ae1717d5ffd",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "84b96b2a-c26f-4767-b127-3e86295bd291",
+          "number": "902000010000020101002376",
+          "bic": "CARDCY2LXXX",
+          "iban": "CY20902000010000020101002376",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "e064b089-2a42-4ef7-b536-00f6ecca9de0",
+          "bankRole": "Custodian",
+          "country": "CYP"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "9497299f-3a13-4b76-99e2-34348122e480",
+      "paymentMethod": "Multibanco",
+      "isAmountRestricted": null,
+      "jurisdiction": "PRT",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "d01d05b7-bfa0-4099-b51a-5c3452f62076",
+      "paymentMethod": "Przelewy24",
+      "isAmountRestricted": null,
+      "jurisdiction": "POL",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "2c849164-260b-4ef9-b5e7-44ea0165bfda",
+      "paymentMethod": "Blik",
+      "isAmountRestricted": null,
+      "jurisdiction": "POL",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "1d219127-46ba-4c91-b2f7-bb69ba7bd5ca",
+      "paymentMethod": "EPS",
+      "isAmountRestricted": null,
+      "jurisdiction": "AUT",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "a5644c4e-b5b4-406f-afb3-f1747cdd070b",
+      "paymentMethod": "Neteller",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "50b49580-a7e3-44d0-b573-91e218216793",
+      "paymentMethod": "Wire transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "683a29a5-6a70-4d9b-9e62-dda6c13fb77a",
+      "regulator": "487dbe66-2202-4bd8-910f-f485fb9da0b6",
+      "number": "164/12",
+      "printscreen": "Screenshot 2025-03-24 at 22.29.32",
+      "startDate": "01/31/2012",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "074685b9-d484-451d-a7e2-2788d04253e1",
+      "regulator": "c14d0153-dee9-4190-9b60-a0d513f469a5",
+      "number": "10128281",
+      "printscreen": "Screenshot 2025-03-24 at 22.39.28",
+      "startDate": "06/14/2012",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

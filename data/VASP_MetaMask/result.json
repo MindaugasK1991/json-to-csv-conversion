@@ -1,0 +1,222 @@
+{
+  "onChainId" : "MetaMask",
+  "vaspId" : "bb1d8e77-e654-4a66-9d0e-33e4811da598",
+  "commonName" : "MetaMask",
+  "url" : "https://metamask.io/",
+  "domiciledCountry" : "USA",
+  "hqRegion" : "Americas",
+  "isSanctioned" : false,
+  "directOnramp" : false,
+  "indirectOnramp" : true,
+  "hasOffRamp" : null,
+  "tradesFiat" : false,
+  "tradesPrivacyCoins" : true,
+  "isDecentralized" : true,
+  "hasKyc" : false,
+  "kycSubScore" : 100,
+  "openedDate" : "01/01/2016",
+  "closedDate" : null,
+  "isCustodial" : false,
+  "amlPolicyUrl" : null,
+  "profile" : null,
+  "isReported" : true,
+  "vaspType" : [ {
+    "vaspTypeId" : "513ba783-53f2-431d-b76a-3451003622a3",
+    "type" : "DeFi"
+  }, {
+    "vaspTypeId" : "f626fb8b-b214-4fed-b27d-575f58e01561",
+    "type" : "Wallet"
+  }, {
+    "vaspTypeId" : "fee47d27-6153-4f7b-a594-ceb073425f52",
+    "type" : "Credit Card Provider"
+  } ],
+  "names" : [ {
+    "nameId" : "6b7f3359-3081-4717-bf3e-d1c702dc3b2f",
+    "type" : "Legal",
+    "name" : "Consensys Software Inc.",
+    "country" : "USA"
+  } ],
+  "countryRel" : [ {
+    "countryRelId" : "dbbfde9f-5f7d-48d1-b4f3-fa59d6695f0d",
+    "country" : "USA",
+    "type" : "Headquartered in",
+    "calculateSanctionByCountry" : null
+  } ],
+  "kyc" : [ ],
+  "kycWeights" : {
+    "ssnTinRequiredWeight" : 25,
+    "proofOfResidencyRequiredWeight" : 15,
+    "videoRequiredWeight" : 14,
+    "govtIdRequiredWeight" : 12,
+    "selfieRequiredWeight" : 10,
+    "legalNameRequiredWeight" : 5,
+    "addressRequiredWeight" : 6,
+    "dobRequiredWeight" : 12,
+    "phoneRequiredWeight" : 4,
+    "countryOfCitizenshipRequiredWeight" : 6,
+    "transactionLimitsExistWeight" : 7,
+    "emailRequiredWeight" : 2
+  },
+  "paymentMethods" : [ {
+    "paymentMethodId" : "6152403a-9709-4b75-b37f-4aa59f28b717",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "LTU",
+    "onrampProvider" : "61913fa7-17ef-4a90-95b0-3c625e12a37b",
+    "account" : [ {
+      "accountId" : "032d13a3-2e2b-4227-a4ed-0a945c5da307",
+      "number" : "CLJU04130729902979",
+      "bic" : "CLJUGB21XXX",
+      "iban" : "GB21CLJU04130729902979",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "GBR"
+    } ]
+  }, {
+    "paymentMethodId" : "92f77137-a4cd-4cfc-b5ed-499edf3338d0",
+    "paymentMethod" : "Revolut Pay",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "089d040e-b144-4f63-b784-30145874ae90",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "2ee1b561-6761-480c-8de2-2772b1dcc533",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "1ff96076-a399-42a7-a50a-0a4abfe5a690",
+    "paymentMethod" : "Wire Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ced7e171-648d-4001-a661-70f8454dbfe6",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "5e2cdbe4-58b8-45a1-9b67-99e4479449cb",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "61913fa7-17ef-4a90-95b0-3c625e12a37b",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "bcff82b2-7fb0-4b11-8aec-551f4528d118",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "e53754a5-21c4-415d-bdaf-904e19e6ca5d",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "a632191d-7093-4ae0-95bd-45fdfa519c4c",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "089d040e-b144-4f63-b784-30145874ae90",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "35480dc7-35f1-4665-bda5-b9297f1fe42e",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "18eebf50-4c00-48e8-b1eb-88f8d8e7b09c",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "6040ea2a-8bc7-4329-a294-31fa44f332bc",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "1adf045b-e095-41ac-baa7-ddbdd3556fb5",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "689d49da-145f-48d9-b045-c417e23921ae",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "6bd89f0b-56cf-44ea-a10c-1bd0cbd176c6",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "7d29f90f-cef2-40f3-b230-2ddb832e8652",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "461162dd-b805-483a-9eb4-0bababe27fd2",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "57d505e9-b7a4-4014-a04d-55b1bc296deb",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "2b5717a7-0f03-4ff1-8b14-c1402080098d",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "940fddb3-b2c5-477b-8f0b-45bf8798a9d7",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "3eb66f59-ccaf-4224-b620-80f6171adeec",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "2306d71a-4c49-4d53-bb37-1cd41551ee17",
+    "paymentMethod" : "Debit / Credit Card",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "488ba36f-3242-49b4-9c48-c2a5d1a55a3f",
+    "paymentMethod" : "Revolut Pay",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "d8809be2-5d68-4c92-91c3-b02cff3b897a",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "e53754a5-21c4-415d-bdaf-904e19e6ca5d",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "94d48c6a-94d4-4ac7-a13e-8183374c4f9f",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "57d505e9-b7a4-4014-a04d-55b1bc296deb",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "452489c0-d8fc-4ff1-b22a-4a28447be3da",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "5ea36245-d383-41fb-9243-f28a8f042a25",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "7d29f90f-cef2-40f3-b230-2ddb832e8652",
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "d40e5dc0-26a8-4290-8f6c-17215d559d7a",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : "0287ee97-477c-4370-b9c2-599f84e565da",
+    "account" : [ ]
+  } ],
+  "billingDescriptor" : [ ],
+  "tradingPairs" : [ ],
+  "regulations" : [ ],
+  "vaspSanction" : [ ]
+}

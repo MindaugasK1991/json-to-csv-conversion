@@ -1,0 +1,149 @@
+{
+   "vaspId": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "commonName": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "url": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "isSanctioned": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "isReported": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "vaspType": [],
+   "names": [],
+   "countryRel": [],
+   "kyc": [
+      {
+         "kycId": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "createdDate": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "customerInfo": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "requires2fa": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "legalNameRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "dobRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "addressRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "ssn_tinRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "countryOfCitizenshipRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "govtIdRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "proofOfResidencyRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "emailRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "phoneRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "selfieRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "videoRequired": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "transactionLimitsExist": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "amountLimit": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "currency": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "limitFrequency": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "notes": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         },
+         "internalNotes": {
+            "screenshots": [],
+            "pdfs": [],
+            "urls": []
+         }
+      }
+   ],
+   "paymentMethods": [],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [],
+   "vaspSanction": [],
+   "onChain": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   }
+}

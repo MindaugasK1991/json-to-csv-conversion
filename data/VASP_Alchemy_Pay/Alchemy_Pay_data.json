@@ -1,0 +1,699 @@
+{
+   "vaspId": "5f9c7631-96c5-4c3d-a6d1-183e7c52c457",
+   "commonName": "Alchemy Pay",
+   "url": "https://alchemypay.org/",
+   "isReported": false,
+   "vaspType": [
+     {
+       "vaspTypeId": "ad3a9627-c98c-4743-9949-de010ff09128",
+       "type": "Payment Provider"
+     },
+     {
+       "vaspTypeId": "4a7f7a7b-fc98-4f92-a965-da5cedc49d72",
+       "type": "Crypto Purchase Enabler"
+     },
+     {
+       "vaspTypeId": "06f685df-6da2-49e6-8bde-04efcbdcc1c7",
+       "type": "Credit Card Provider"
+     }
+   ],
+   "names": [
+     {
+       "nameId": "a5c99f85-982b-416c-bba8-c99fd46636dd",
+       "type": "Legal",
+       "name": "Alchemy GPS Europe UAB",
+       "country": "LTU"
+     },
+     {
+       "nameId": "44f79937-13a6-4f0c-bcb0-d1d47a09e859",
+       "type": "Legal",
+       "name": "Golden Alpha Capital Pty Ltd",
+       "country": "AUS"
+     },
+     {
+       "nameId": "83775413-024e-42ba-8cb8-e2ab3ccb6467",
+       "type": "Legal",
+       "name": "ALCHEMY GPS SINGAPORE PTE. LTD.",
+       "country": "SGP"
+     },
+     {
+       "nameId": "c9a9557f-5a71-4cbf-af71-7fe35cd5d19b",
+       "type": "Formerly",
+       "name": "SINGAPORE SYCAMORE TREE TECHNOLOGY PTE. LTD.",
+       "country": "SGP"
+     },
+     {
+       "nameId": "685de031-9d8b-44d8-9224-237204f099cd",
+       "type": "Legal",
+       "name": "Alchemy Pay AG",
+       "country": "CHE"
+     },
+     {
+       "nameId": "e0ebe6a5-4e9f-4991-acfb-2e6c53c296ef",
+       "type": "Legal",
+       "name": "Alchemy Pay LTD",
+       "country": "CAN"
+     }
+   ],
+   "countryRel": [
+     {
+       "countryRelId": "ed2c01c0-46da-4dfd-a412-c794d0875822",
+       "country": "USA",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "fa80340b-abb5-44ed-bbd3-f483928c67b3",
+       "country": "GBR",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "5f641615-837a-4632-a86b-76fecb51e1b5",
+       "country": "PRK",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Black list"
+     },
+     {
+       "countryRelId": "b6db7b59-c0f9-4a51-89e8-b1c199fda4a0",
+       "country": "RUS",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Comprehensive"
+     },
+     {
+       "countryRelId": "025e1bdf-d2fd-4db3-aee4-cea22b440113",
+       "country": "ERI",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "9f2bf948-14a5-46d7-8a85-3b1a438323cb",
+       "country": "IRN",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Black list"
+     },
+     {
+       "countryRelId": "881d2154-cf9b-4062-9432-e6a19b76f88c",
+       "country": "UKR",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "4eacc069-3fcd-4cda-a7bc-8430455cb42b",
+       "country": "AFG",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "EU High-risk"
+     },
+     {
+       "countryRelId": "01d8045c-ee32-4252-bc8a-ba404118e745",
+       "country": "CUB",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Comprehensive"
+     },
+     {
+       "countryRelId": "f251826b-8969-4dcb-89b1-c1eadeed784a",
+       "country": "BLR",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Selective"
+     },
+     {
+       "countryRelId": "3a62afa5-d445-430e-a9f3-1cb31a733f25",
+       "country": "LBY",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Selective"
+     },
+     {
+       "countryRelId": "e79c4b90-8813-41a0-ab70-16ceb390f479",
+       "country": "SYR",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "6aea09d9-5962-456e-9eb6-04bdd66e2ac7",
+       "country": "BDI",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "e75c1e99-ca01-492f-92d3-ec471d633f75",
+       "country": "CAF",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Selective"
+     },
+     {
+       "countryRelId": "754cd1b3-ae3c-485c-9707-b84ff2824926",
+       "country": "COD",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "6b910d1e-1610-4998-ba6c-6f159e1c0e79",
+       "country": "CIV",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "f21955ac-6209-4841-aacf-1af58d39ccdc",
+       "country": "GIN",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "cef43c57-bc73-4df0-a154-49a1783337a1",
+       "country": "GNB",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "0aa5d514-4a89-48f2-b60c-be9abcc7bc7a",
+       "country": "LBN",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "b6caddf6-a8d8-4364-a179-d55a04c48478",
+       "country": "MLI",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "1c60c7ec-696e-4211-9ee7-f538f4bfc2d2",
+       "country": "MMR",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Black List"
+     },
+     {
+       "countryRelId": "ae4944eb-9d65-44f6-9e87-2376eae2a5f3",
+       "country": "NIC",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Selective"
+     },
+     {
+       "countryRelId": "0ab49c0b-0697-4fdc-834e-4c3d2f6f08c4",
+       "country": "SOM",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "fc4e6fb8-ea40-4837-a5cc-a2330e091336",
+       "country": "SSD",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "1bc1d51f-9e69-4c2e-a720-602fdcfaf491",
+       "country": "SDN",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "6c51afb9-5829-4588-984f-e5576322b0dc",
+       "country": "MDA",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "6472c6b9-eaa2-4cd4-bb55-0dcfb676fff1",
+       "country": "GEO",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "f43e52b4-3547-4988-83a7-2009a846f8cf",
+       "country": "CYP",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "298f1ab4-b485-40b5-b771-223b30d881d8",
+       "country": "CMR",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "02d56c99-9c3a-4024-8777-c8ce4c3054cb",
+       "country": "ESH",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "5b7a4dea-bb41-41cc-aa64-bf92e477309f",
+       "country": "VEN",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "c9e94aed-bed8-44c7-8667-69b0d6f20998",
+       "country": "IRQ",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "OFAC-Selective"
+     },
+     {
+       "countryRelId": "4bfaf972-79ca-4ba4-8a6e-e8b93489bd7c",
+       "country": "YEM",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "1ccce621-9160-44a9-b510-dc5aa3b020e5",
+       "country": "ZWE",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "bfac6126-f0d4-410e-9157-a68875aaeb7f",
+       "country": "SGP",
+       "type": "Headquartered in",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "d50a09da-2f7f-4245-8ee4-c59fad08177c",
+       "country": "BGD",
+       "type": "Restricts some services to citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "921c1b67-6dfd-4b5b-ae26-962893e4b9ce",
+       "country": "MAR",
+       "type": "Restricts some services to citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "254a0850-fa07-42e3-915e-16d44809e978",
+       "country": "AUT",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "d6ef09f6-80ba-47c4-8e22-cc2b2b69641f",
+       "country": "BEL",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "9074c7a6-b070-4226-b44d-3c78197b9141",
+       "country": "BGR",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "baeca11c-235c-4269-abb3-aa460d226828",
+       "country": "HRV",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": "Grey List"
+     },
+     {
+       "countryRelId": "4f3518f7-0fa5-4bef-a6ae-ef1e3b6ee177",
+       "country": "CYP",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "2c1b21f9-c8e6-4f16-b61b-ce45b3f001a1",
+       "country": "CZE",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "fe796b3b-4050-4ecf-9fdd-9e0d90163a51",
+       "country": "DNK",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "c7942851-6b52-4454-909e-e9824af7162a",
+       "country": "EST",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "f408d453-760d-4433-8810-f80e31002353",
+       "country": "FIN",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "20dbfb41-584b-4b51-a21e-6a1faf8d98e4",
+       "country": "FRA",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "99d53458-2a54-408c-b710-7a381fd8db74",
+       "country": "DEU",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "8681b4d2-3c29-4595-8fac-2e175526f75b",
+       "country": "GRC",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "fff23904-8c8c-4198-8905-bc82fded34be",
+       "country": "HUN",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ba5bab1b-dff0-4e70-a38f-5060bab4f01f",
+       "country": "IRL",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "67c42cb8-4e37-4f4a-b5f7-ba1b1082a6f5",
+       "country": "ITA",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "e878f67b-b77f-4822-8ef2-055a6b0b329e",
+       "country": "LVA",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "2f704098-f862-42ee-96ee-ded958f95bd6",
+       "country": "LTU",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "9cc4258b-c986-4c98-9e13-26616beb1608",
+       "country": "LUX",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "d4b2f651-5143-42ef-a626-4a68d17515e9",
+       "country": "MLT",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "0825828d-4e70-4b77-a12b-3defe7a27e56",
+       "country": "NLD",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "8605e1a4-37af-4068-aca6-924e3d4c5f14",
+       "country": "NOR",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "09e92625-bc70-485f-8351-c82c4095cb84",
+       "country": "POL",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "689b437d-51a5-4656-adff-b503f1a63fef",
+       "country": "PRT",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "5c57bab9-b89d-4934-8dff-3fcff99537ab",
+       "country": "ROU",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "65d72386-0625-465d-8d14-7e5b8d59a104",
+       "country": "SVK",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "e382247d-b24e-4f7f-bda8-bbbab95b2574",
+       "country": "SVN",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "71808d3f-ff11-4f9a-a1a3-bc897bc2f3a5",
+       "country": "ESP",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "0fac6f20-f031-4a44-adb4-be49682a8635",
+       "country": "SWE",
+       "type": "Allows Citizens of",
+       "calculateSanctionByCountry": null
+     }
+   ],
+   "kyc": [
+     {
+       "kycId": "b03a800b-3bac-4a63-8599-aaa56c1c237f",
+       "createdDate": "03/26/2025",
+       "customerInfo": "Email Address && Legal Name && DOB && Government ID && Nationality && Phone Number && Face ID || Selfie && SSN/TIN && Address && POA, Questionaire",
+       "requires2fa": false,
+       "legalNameRequired": true,
+       "dobRequired": true,
+       "addressRequired": true,
+       "ssn_tinRequired": true,
+       "countryOfCitizenshipRequired": true,
+       "govtIdRequired": true,
+       "proofOfResidencyRequired": false,
+       "emailRequired": true,
+       "phoneRequired": true,
+       "selfieRequired": true,
+       "videoRequired": false,
+       "transactionLimitsExist": true,
+       "amountLimit": 50000,
+       "currency": "USD",
+       "limitFrequency": "Month",
+       "notes": "If merchants wish to increase the KYC limits, the request must be reviewed by the Alchemy Pay Compliance team. If the risk is determined to be under control, they will consider raising the limits.",
+       "internalNotes": null
+     }
+   ],
+   "paymentMethods": [
+     {
+       "paymentMethodId": "e4d4a351-ec3e-4fab-a9b5-bbfddce50759",
+       "paymentMethod": "Bank Transfer",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": [
+         {
+           "accountId": "34d9b25f-d2d2-4be7-a562-be179f07c72a",
+           "number": "17478000010008282745545",
+           "bic": "HRSAFR22XXX",
+           "iban": "FR7617478000010008282745545",
+           "routingType": "IBAN",
+           "localRouting": null,
+           "bank": "7c053f2a-f6a3-462c-8a08-a689a61e34fb",
+           "bankRole": "Custodian",
+           "country": "FRA"
+         }
+       ]
+     },
+     {
+       "paymentMethodId": "4a8be301-444f-4db1-a3f9-3433b9005104",
+       "paymentMethod": "Apple Pay",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "038b6fbe-e8d4-4518-b769-77d7b0a76614",
+       "paymentMethod": "Google Pay",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "426695a5-3233-40fe-903f-3dd42d2c3e5e",
+       "paymentMethod": "Skrill",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+       "account": null
+     },
+     {
+       "paymentMethodId": "1b74b765-5479-4b97-bf7a-4a562391554e",
+       "paymentMethod": "Neteller",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+       "account": null
+     },
+     {
+       "paymentMethodId": "5fb700fe-278c-4683-b033-80318329a1bc",
+       "paymentMethod": "ThaiQR",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "768b19c5-27d9-4f15-9c01-b326298eca84",
+       "paymentMethod": "Credit Card",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "0c3b472e-2c3e-48c2-abc6-c2daefd6fa38",
+       "paymentMethod": "PSE",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "394f1341-0461-45f7-9eb0-77b93374ba1d",
+       "paymentMethod": "Pay by Bank",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "77901b1f-dc0a-4cc9-b5df-516ed4bc3a7a",
+       "paymentMethod": "PayNow",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "cb76447c-b9f8-40d8-8c15-445cfd0b6244",
+       "paymentMethod": "SPEI",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "9a1dfc17-59f3-4e62-9e7d-f58cedab54ff",
+       "paymentMethod": "Bancontact",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "f9eb2d96-9e8d-41cc-9130-5993fd95036f",
+       "paymentMethod": "Pix",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "f4701106-aaaf-418f-8d40-6b9a98b9b5bb",
+       "paymentMethod": "UPI",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "2c743511-a526-423c-9f12-d8d55de526ff",
+       "paymentMethod": "Blik",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "3579c870-b7a7-489f-aa3e-c2237a462c84",
+       "paymentMethod": "QR Code",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "fbb3aa04-edcb-485c-bca5-e0f5f1049acc",
+       "paymentMethod": "SCB Easy",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "a746c4a8-f6ca-4eb8-ae27-072639eb5c39",
+       "paymentMethod": "SEPA Transfer",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     }
+   ],
+   "billingDescriptor": null,
+   "tradingPairs": null,
+   "regulations": [
+     {
+       "regulationId": "51581c9c-2841-46a5-8501-3b0be53ba929",
+       "regulator": "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+       "number": "305972625",
+       "printscreen": null,
+       "startDate": null,
+       "endDate": null,
+       "validated": true
+     },
+     {
+       "regulationId": "6b0b0f21-9d41-4e63-ab8d-553e6e09e21e",
+       "regulator": "0994bd69-d436-4e30-a756-0e40e545ea1f",
+       "number": "201836682R",
+       "printscreen": null,
+       "startDate": "10/26/2018",
+       "endDate": null,
+       "validated": true
+     },
+     {
+       "regulationId": "b6511290-a0d6-4239-8033-c4b0dfe7fcf5",
+       "regulator": "d958d59f-7fdd-4b1a-a915-dba732532b60",
+       "number": "27623967662",
+       "printscreen": null,
+       "startDate": "01/22/2018",
+       "endDate": null,
+       "validated": true
+     },
+     {
+       "regulationId": "2455d079-b854-4b9c-8692-cee8a9087c14",
+       "regulator": null,
+       "number": "CH-170.3.050.017-0",
+       "printscreen": null,
+       "startDate": "01/01/2024",
+       "endDate": null,
+       "validated": false
+     },
+     {
+       "regulationId": "2bddfbd2-212b-4b84-919e-ed95e430a270",
+       "regulator": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+       "number": "M22633483",
+       "printscreen": null,
+       "startDate": "04/27/2022",
+       "endDate": "03/31/2025",
+       "validated": true
+     }
+   ],
+   "vaspSanction": null,
+   "onChain": null,
+   "domiciledCountry": "SGP",
+   "hqRegion": "Asia",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2017",
+   "closedDate": null,
+   "isCustodial": false,
+   "amlPolicyUrl": "https://alchemypay.org/news-and-press/alchemy-pay-partners-with-basis-id-for-global-kyc-and-aml-services/",
+   "profile": null
+ }

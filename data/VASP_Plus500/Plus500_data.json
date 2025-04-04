@@ -1,0 +1,107 @@
+{
+   "vaspId": "983a19d7-431d-481e-84ed-828b0d430d16",
+   "commonName": "Plus500",
+   "url": "https://www.plus500.com/lt/",
+   "domiciledCountry": "CYP",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2008",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://www.plus500.com/Docs/Plus500/AntiMoneyLaundering.pdf",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "0541c923-3b54-4e73-ae5b-b00c706d7c61",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "f0d78fe3-351e-4ab6-b552-91cd6dedaf76",
+         "type": "Legal",
+         "name": "Plus500CY ltd.",
+         "country": "CYP"
+      }
+   ],
+   "countryRel": [],
+   "kyc": [],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "e6627d2b-aabf-49bd-b70d-8a79ea019814",
+         "paymentMethod": "Google Pay",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": []
+      },
+      {
+         "paymentMethodId": "a4aa6c6c-238c-484d-95b9-1cbf7d2fa7b1",
+         "paymentMethod": "PayPal",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": []
+      },
+      {
+         "paymentMethodId": "5397bc8e-8236-44ef-8b11-a3a95dde5124",
+         "paymentMethod": "Bank Transfer",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": [
+            {
+               "accountId": "25ea1afd-098a-4344-a446-b34691e26095",
+               "number": "500700100095835500",
+               "bic": "DEUTDEFFXXX",
+               "iban": "DE97500700100095835500",
+               "routingType": "IBAN",
+               "bank": "5ae4ece3-a13c-4848-abc3-d676ca3db302",
+               "bankRole": "Custodian",
+               "vasp": "983a19d7-431d-481e-84ed-828b0d430d16",
+               "country": "LTU"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "9257e42c-910f-4979-b46c-40b931d878de",
+         "paymentMethod": "Credit Card",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": []
+      },
+      {
+         "paymentMethodId": "819f546c-4c73-47bb-9968-996aeec7bcea",
+         "paymentMethod": "Debit Card",
+         "isAmountRestricted": true,
+         "jurisdiction": "LTU",
+         "account": []
+      },
+      {
+         "paymentMethodId": "7adb7899-7d82-4820-9b05-5ddd12fd1ab1",
+         "paymentMethod": "Skrill",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "eeed8590-7ccb-45a7-b6a2-d2e7743a36f0",
+         "paymentMethod": "Apple Pay",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "2a96ee09-8055-441f-821c-a52e46e9ba10",
+         "paymentMethod": "Trustly",
+         "isAmountRestricted": true,
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [],
+   "vaspSanction": [],
+   "onChain": ""
+}

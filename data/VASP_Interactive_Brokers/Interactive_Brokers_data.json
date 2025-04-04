@@ -1,0 +1,93 @@
+{
+   "vaspId": "d503453c-dc3b-44f9-b281-3f0f1f79420a",
+   "commonName": "Interactive Brokers",
+   "url": "https://www.interactivebrokers.ie/en/",
+   "domiciledCountry": "USA",
+   "hqRegion": "Americas",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/1977",
+   "isCustodial": true,
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "871e62bd-b455-4c0f-b6b3-c5c2c3769e8d",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "d7e0e428-8dd0-4914-b76e-fa48fa9f524a",
+         "type": "Legal",
+         "name": "Interactive Brokers LLC",
+         "country": "USA"
+      },
+      {
+         "nameId": "5f04a456-8576-4ec8-acdc-483d26a73315",
+         "type": "Formerly",
+         "name": "T.P. & Co.",
+         "country": "USA"
+      }
+   ],
+   "countryRel": [],
+   "kyc": [
+      {
+         "kycId": "a8d83324-892e-44e0-b48a-1b877ec50ac7",
+         "createdDate": "02/12/2025",
+         "customerInfo": "Email address && Country of citizenship && Phone number && Legal name && SSN/TIN && Address && Proof of address && DOB",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": true,
+         "ssn_tinRequired": true,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": true,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": true,
+         "videoRequired": false,
+         "transactionLimitsExist": true,
+         "amountLimit": 500000,
+         "currency": "USD",
+         "limitFrequency": "Transaction"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "45235505-992c-4bcf-bdde-642886143fbe",
+         "paymentMethod": "Wire Transfer",
+         "jurisdiction": "LTU",
+         "account": [
+            {
+               "accountId": "97fd81fe-ba4c-4acb-866a-8c0618a90236",
+               "number": "501108006231412815",
+               "bic": "CHASDEFXXXX",
+               "iban": "DE72501108006231412815",
+               "routingType": "IBAN",
+               "bank": "b4617f8d-d069-4fd4-aa04-2081cc0a1907",
+               "bankRole": "Custodian",
+               "vasp": "d503453c-dc3b-44f9-b281-3f0f1f79420a",
+               "country": "DEU"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "0fe7f1c4-f118-4f6d-9488-fecf97aac9f7",
+         "paymentMethod": "Wise",
+         "onrampProvider": "112f4b6b-e6a8-40c0-bc2f-68170d2d3d12",
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [],
+   "vaspSanction": [],
+   "onChain": ""
+}

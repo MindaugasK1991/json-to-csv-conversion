@@ -1,0 +1,467 @@
+{
+   "vaspId": "430b052e-edf8-405f-87ef-85088201da20",
+   "commonName": "VALR",
+   "url": "https://www.valr.com/",
+   "domiciledCountry": "ZAF",
+   "hqRegion": "Africa",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": false,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2018",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://support.valr.com/hc/en-us/articles/360019021931-Terms-of-Service",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "628aed19-72c4-444b-9e3d-f4e9b13e5166",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "2c0bb2c1-a897-434c-a791-47c67c7f28b9",
+         "type": "Legal",
+         "name": "VALR Proprietary Ltd",
+         "country": "ZAF"
+      },
+      {
+         "nameId": "a273fc48-0c0a-4967-886c-285ea5e37936",
+         "type": "Legal",
+         "name": "VALR EU LIMITED LIABILITY COMPANY",
+         "country": "POL"
+      },
+      {
+         "nameId": "2587562f-d6c5-426e-b3af-d58026043cba",
+         "type": "Legal",
+         "name": "Veeratva Technologies Private Limited",
+         "country": "IND"
+      },
+      {
+         "nameId": "1123cb87-2f20-42d9-a3a7-6f25019229f9",
+         "type": "Legal",
+         "name": "VALR FZE",
+         "country": "ARE"
+      },
+      {
+         "nameId": "b6914937-f4b9-4dac-8eca-a3e06a830cac",
+         "type": "Legal",
+         "name": "VALR DAM Proprietary Limited",
+         "country": "ZAF"
+      },
+      {
+         "nameId": "86698bcd-938b-41c2-958d-e00234c14673",
+         "type": "Legal",
+         "name": "VALR Loans Proprietary Limited",
+         "country": "ZAF"
+      },
+      {
+         "nameId": "6e876471-63ae-4c93-8a90-dde236f231a8",
+         "type": "Legal",
+         "name": "Veeratva Zambia Limited",
+         "country": "ZMB"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "f41ab632-2314-4481-92ed-fcda3d7fd1f4",
+         "country": "ZAF",
+         "type": "Headquartered in",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "416ef9cf-297b-4157-a903-1414f277203d",
+         "country": "CAN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "826f19d5-b02c-4c1f-a917-4a4c10420e2f",
+         "country": "CUB",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "db0349a6-8f01-45d9-ab1c-96719bb15857",
+         "country": "IND",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "cb960b4f-c3a5-4c19-9069-20ed86d8e1f1",
+         "country": "IRN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "eecec204-e0e3-46a9-a6e9-2f21ce0dbd55",
+         "country": "KAZ",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "473ab5a2-bcae-46c4-9b90-7c78147c73b7",
+         "country": "PRK",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "9ed06598-1aa1-4a98-86e6-f5841afa571d",
+         "country": "RUS",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "2beb99a4-4309-44bd-8207-82087d86ac69",
+         "country": "SOM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "2969d25e-530d-4de1-a5fe-025070d277c7",
+         "country": "SSD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "f28b09b2-ca00-4433-9555-9fa6d6ce0cce",
+         "country": "SDN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "7900c389-e517-4e6d-9984-ced1f9c7c129",
+         "country": "SYR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "d719e446-1fd0-440d-8ede-eb979955ff3e",
+         "country": "UKR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "fae03469-1d07-4ba0-a574-1cdc0e3f4d2c",
+         "country": "USA",
+         "type": "Prohibits Citizens of"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "4e8516bd-af0f-4504-9983-d25a0e5e32eb",
+         "createdDate": "02/21/2025",
+         "customerInfo": "Legal name, Email address, Country of Residence && Government ID && Residential Address && Phone number",
+         "requires2fa": true,
+         "legalNameRequired": true,
+         "dobRequired": false,
+         "addressRequired": true,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": false,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": false,
+         "transactionLimitsExist": false,
+         "internalNotes": "https://support.valr.com/hc/en-us/articles/360015777451-What-are-VALR-s-charges"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "8f6dd813-da11-4271-a29d-25ef04f5f691",
+         "paymentMethod": "Bank Transfer",
+         "isAmountRestricted": false,
+         "account": []
+      },
+      {
+         "paymentMethodId": "ca95cb8b-74a2-4f6d-b40a-9f3b78dc1348",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": false,
+         "account": []
+      },
+      {
+         "paymentMethodId": "2e2b375d-a0de-43f6-93fc-7df3d2ce9147",
+         "paymentMethod": "SWIFT Transfer",
+         "isAmountRestricted": false,
+         "account": [
+            {
+               "accountId": "0bde0d7e-ca49-4cea-a49a-44ae38e69b7e",
+               "number": "001624849",
+               "bic": "SBZAZAJJXXX",
+               "routingType": "SWIFT",
+               "localRouting": "051001",
+               "bank": "817eb9c8-53d9-4f33-a9cc-6cd132eabc54",
+               "bankRole": "Custodian",
+               "vasp": "430b052e-edf8-405f-87ef-85088201da20",
+               "country": "ZAF"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "e5a0f643-1fc5-483e-b732-442275551d52",
+         "paymentMethod": "Wire Transfer",
+         "isAmountRestricted": false,
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [
+      {
+         "traidingPairId": "c43b5e27-b436-49e9-a8da-fd445eb8f105",
+         "from": "USDT",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "9df8b9a3-98f3-4fdc-8b73-10770d7f4487",
+         "from": "BTC",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "bcd4e104-3c26-4e93-af3f-9dccc8b9f1bc",
+         "from": "ETH",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "99baca9c-f337-4982-b349-b6799525c083",
+         "from": "USDT",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "df59a015-c004-48b1-8643-984a66d34c0c",
+         "from": "XRP",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "afc02ec6-f5ec-414c-809e-ccdb63ed3d46",
+         "from": "USDC",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "a6ee2510-eeca-4587-a57e-f7651a68bc19",
+         "from": "BTC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5485affb-df2d-483b-8d27-cc683765f406",
+         "from": "SOL",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "1a0a709a-7628-4c14-b479-e800590c3adc",
+         "from": "XRP",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ff1a7b3f-4b23-4247-a79f-a58414756333",
+         "from": "XRP",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "4725539f-f845-4530-9be1-34e02e05db81",
+         "from": "ETH",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "efb9f550-4127-4935-bad8-8d76c5767c70",
+         "from": "ETH",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "3c1021b9-d9ac-46db-be0a-32ee9e375057",
+         "from": "SOL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "73e9d001-4752-4087-b286-c129ed5ad870",
+         "from": "SOL",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "46f4076a-e583-4d8f-89a6-b5eb3a5d4f4d",
+         "from": "AVAX",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "40326b14-7e7d-43d4-af4f-832c65e94ec1",
+         "from": "BNB",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "c336fb0c-fd6b-4156-86e2-2f1d7e144b45",
+         "from": "TRX",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "34d91e1c-a255-4351-81fe-e2d992f2e75b",
+         "from": "DOGE",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "f90c7c78-897d-464b-9e85-6ca2d447ffb7",
+         "from": "SHIB",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "fb972689-a941-46e5-9f6f-951287c4b4be",
+         "from": "AVAX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0f69b08f-e14e-4928-9498-5d4a0bb1fd9c",
+         "from": "AVAX",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "ceb53b6a-74fe-4765-b499-d7ee284efa6a",
+         "from": "BNB",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5acd05d0-028b-4db9-8214-2260b2ca330d",
+         "from": "ZRO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0d995129-ad54-4124-84fe-82a06c8566d3",
+         "from": "SWEAT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "63b15e91-5a45-4091-a5ad-cdc21da99ce0",
+         "from": "PENGU",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "9db99f20-ad1e-4b1c-bfad-17cce967f62c",
+         "from": "PYUSD",
+         "to": "ZAR"
+      },
+      {
+         "traidingPairId": "0385a70c-35b3-4e54-83d8-2881cb43e68f",
+         "from": "PYUSD",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "8e6ee87f-a7b6-4a8a-9f00-d12579e5343e",
+         "from": "TRX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e4b64471-158d-4f8d-9b2b-e79b59c15cc8",
+         "from": "DOGE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e29fd60b-e957-4b40-917a-a936a34535a1",
+         "from": "SHIB",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "19c84fe5-3165-4096-af75-b2b3b77ccdb6",
+         "from": "AGRI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "3e847db8-2fc9-4cfb-9d3f-67ee9507b76e",
+         "from": "BOME",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "87745d54-4640-40b4-9121-ec50975cf8f3",
+         "from": "PYTH",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "c9140109-3e10-4f92-b0e5-47eb290abfc8",
+         "from": "JUP",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "a1b1f522-df6a-4d66-8c34-3d41dfae1213",
+         "from": "WIF",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "16d45ee3-bdf1-4b50-a21a-ab6cca25e18c",
+         "from": "W",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "758bbc93-1dd3-440f-9bf9-927cb6ba5b93",
+         "from": "ORDER",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "884a0e57-e162-4f68-b584-58b18bf7cb23",
+         "from": "BNB",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "b841cc60-8693-4c32-8dd5-89bb86eaf12b",
+         "from": "SHIB",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "93d88675-f1d6-4bc2-a60c-b53b3d6555cb",
+         "from": "BTC",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "05f74573-3c5d-4f92-9d25-f6fa7e359c7b",
+         "from": "ETH",
+         "to": "BTC"
+      }
+   ],
+   "regulations": [
+      {
+         "regulationId": "5e994da0-ef92-4db0-9088-140f9855f9e9",
+         "regulator": "7bb0bb07-1915-4805-9090-bdb78a8f40b5",
+         "number": "0000991468",
+         "printscreen": "Screenshot 2025-03-14 at 12.04.07",
+         "startDate": "09/23/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "066b7d82-b8d1-41fa-b059-f1f36a9368a5",
+         "regulator": "d98d9ae4-188b-47c4-a657-71e12d4a50bd",
+         "number": "U72900DL2021PTC390921",
+         "printscreen": "Screenshot 2025-03-14 at 12.16.06",
+         "startDate": "12/07/2021",
+         "validated": false
+      },
+      {
+         "regulationId": "4dd3bdad-2395-457a-8be5-259cb785ce4d",
+         "regulator": "fafba2ff-14dd-4826-a95e-02198363f3af",
+         "number": "53308",
+         "printscreen": "Screenshot 2025-03-14 at 13.15.09",
+         "validated": true
+      },
+      {
+         "regulationId": "89b992e0-9cb4-4d29-849b-81eaf958ac8c",
+         "regulator": "fafba2ff-14dd-4826-a95e-02198363f3af",
+         "number": "33933",
+         "printscreen": "Screenshot 2025-03-14 at 13.18.54",
+         "validated": true
+      },
+      {
+         "regulationId": "907fb724-ace9-4992-9034-74e585ae5d43",
+         "regulator": "d8eb870a-a5f8-4b4b-846e-45d117a59222",
+         "number": "NCRCP15447",
+         "printscreen": "Screenshot 2025-03-14 at 13.33.33",
+         "startDate": "12/21/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "dfa61a3d-06a9-4e70-97c9-b6a1712b37e1",
+         "regulator": "9f2c586f-c998-4deb-8947-1965d9824757",
+         "number": "120220034561",
+         "printscreen": "Screenshot 2025-03-19 at 09.29.48",
+         "startDate": "06/14/2022",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": ""
+}

@@ -1,0 +1,855 @@
+{
+   "vaspId": "4e3e28bd-bba5-402b-88de-ed5ffe1c02f3",
+   "commonName": "BingX",
+   "url": "https://bingx.com/en/",
+   "domiciledCountry": "SGP",
+   "hqRegion": "Asia",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": false,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2018",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://bingx.com/en/support/articles/360034028153-Disclaimer/",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "03791eaf-7037-497b-8a64-84e540c82616",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "b0d6519e-2183-42ab-841d-3f748a6893d3",
+         "type": "Formerly",
+         "name": "Bingbon",
+         "country": "SGP"
+      },
+      {
+         "nameId": "00519e8d-5546-4e4d-88bc-8f09b9c094b3",
+         "type": "Legal",
+         "name": "BingX",
+         "country": "SGP"
+      },
+      {
+         "nameId": "faa96f90-09c8-41eb-9c21-61eca5b8b744",
+         "type": "Formerly",
+         "name": "BINGX CA LIMITED",
+         "country": "CAN"
+      },
+      {
+         "nameId": "28311345-76a5-4c3c-8906-1ec153401553",
+         "type": "Legal",
+         "name": "BINGX PAY LIMITED",
+         "country": "CAN"
+      },
+      {
+         "nameId": "49425ba0-ed41-4ced-9ea5-dc31b4372a58",
+         "type": "Legal",
+         "name": "UAB \"Bingx EU\"",
+         "country": "LTU"
+      },
+      {
+         "nameId": "8bfc29be-71cd-4aa4-ae8d-af55b07aa083",
+         "type": "Legal",
+         "name": "BINGX GLOBAL PTY LTD",
+         "country": "AUS"
+      },
+      {
+         "nameId": "bb2aa723-6743-4606-bde5-e15e57523a94",
+         "type": "Legal",
+         "name": "BINGX AU PTY LTD",
+         "country": "AUS"
+      },
+      {
+         "nameId": "416140f2-bc1a-4de4-89ab-99d2d21ccc86",
+         "type": "Legal",
+         "name": "BingX Limited",
+         "country": "VGB"
+      },
+      {
+         "nameId": "aeea1bc8-5350-4835-83dd-b47a5d42c284",
+         "type": "Legal",
+         "name": "BINGXCOINS LIMITED",
+         "country": "USA"
+      },
+      {
+         "nameId": "5b2fa786-f852-44b3-8a54-6629d7f9e1ff",
+         "type": "Legal",
+         "name": "BINGX SG PTE. LTD.",
+         "country": "SGP"
+      },
+      {
+         "nameId": "dddd9afa-d23a-444c-a37a-bb94e4f78664",
+         "type": "Legal",
+         "name": "BINGBON PTE. LTD.",
+         "country": "SGP"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "604db42c-61c8-4f37-aa5c-62735157ee1f",
+         "country": "CAN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "9974b798-1868-4e16-bb03-5b6536b7d13d",
+         "country": "CHN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "283bcfe0-8d39-49f0-bc12-9e64c8e95ca6",
+         "country": "HKG",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "21faa288-5bc0-4f07-8028-cfd8cba6dbc9",
+         "country": "MAC",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "27babdb3-ca18-4526-9e77-0ccf6d74ee86",
+         "country": "NLD",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "c256c3e5-a1b5-40cd-af55-ca5b98504dd2",
+         "country": "SGP",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "f1f74355-8bb1-481b-b762-56bc526a9710",
+         "country": "USA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "f8958ba4-4c5a-49e1-85dc-df2ad7d1416a",
+         "country": "GBR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "1394d1f1-0bd8-4e1c-8017-16582c8c53c9",
+         "country": "SGP",
+         "type": "Headquartered in"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "72b4e27f-f012-4ded-9a3b-c2c76a8e18f5",
+         "createdDate": "02/25/2025",
+         "customerInfo": "Legal name && DOB && Government ID && Country of residence && selfie",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": false,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": false,
+         "selfieRequired": true,
+         "videoRequired": false,
+         "transactionLimitsExist": true,
+         "amountLimit": 100000,
+         "currency": "USD",
+         "limitFrequency": "Day"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "b4af8014-f13a-4239-85a6-088e117864ad",
+         "paymentMethod": "Onramp.money",
+         "isAmountRestricted": true,
+         "onrampProvider": "0287ee97-477c-4370-b9c2-599f84e565da",
+         "account": []
+      },
+      {
+         "paymentMethodId": "e99e9f5a-45a1-4680-acb9-fb59de0b8780",
+         "paymentMethod": "MoonPay",
+         "isAmountRestricted": true,
+         "onrampProvider": "61913fa7-17ef-4a90-95b0-3c625e12a37b",
+         "account": []
+      },
+      {
+         "paymentMethodId": "ac845c7f-fc97-4748-9a9c-d9ca0f353f42",
+         "paymentMethod": "Banxa",
+         "isAmountRestricted": true,
+         "onrampProvider": "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+         "account": []
+      },
+      {
+         "paymentMethodId": "f90ed176-e801-4b89-8166-bf969e04e7b3",
+         "paymentMethod": "Advcash",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "0e852e76-9df2-4b3a-9873-84be9d4b839d",
+         "paymentMethod": "Mercuryo",
+         "isAmountRestricted": true,
+         "onrampProvider": "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+         "account": []
+      },
+      {
+         "paymentMethodId": "0d6a081e-c209-437a-83f3-b0238cab4136",
+         "paymentMethod": "Alchemy",
+         "isAmountRestricted": true,
+         "onrampProvider": "5f9c7631-96c5-4c3d-a6d1-183e7c52c457",
+         "account": []
+      },
+      {
+         "paymentMethodId": "1c574fcd-67b7-48f9-b132-64e1c4b84ca2",
+         "paymentMethod": "Apple Pay",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "34556469-2a61-4e9c-8ebf-8d7e892c6e59",
+         "paymentMethod": "Credit Card",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "56af0431-7cfa-4acf-ab92-7aaf7492f4c4",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": true,
+         "account": [
+            {
+               "accountId": "8e0cb5ad-1081-4c50-acdc-6680cf846b1c",
+               "number": "3110087951865402",
+               "bic": "MNNELT21XXX",
+               "iban": "LT973110087951865402",
+               "routingType": "IBAN",
+               "bank": "9c422d04-6321-4ba5-b0f7-41ab836163ec",
+               "bankRole": "Custodian",
+               "vasp": "4e3e28bd-bba5-402b-88de-ed5ffe1c02f3",
+               "country": "LTU"
+            },
+            {
+               "accountId": "74953fb8-b24e-41be-84ef-328ab007ad83",
+               "number": "CLJU00997129900350",
+               "bic": "CLJUGB21XXX",
+               "iban": "GB71CLJU00997129900350",
+               "routingType": "IBAN",
+               "bank": "e380afe1-cf1e-46c3-8fc5-1178d59ff12e",
+               "bankRole": "Custodian",
+               "vasp": "4e3e28bd-bba5-402b-88de-ed5ffe1c02f3",
+               "country": "GBR"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "689a928c-0c05-4d2b-bd3f-1502ba009789",
+         "paymentMethod": "SEPA Instant",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "4f8f11f9-5ce6-4cd8-8dda-efebd43b1f21",
+         "paymentMethod": "Bizum",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "68099644-6b5e-42e2-9da5-ea7aefdb88ca",
+         "paymentMethod": "Revolut Pay",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "f36e209c-1957-4c2f-83fd-c772e42947eb",
+         "paymentMethod": "N26",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "3abf12b1-e7d0-43a0-ae4e-dc5f70737b09",
+         "paymentMethod": "Bank Transfer",
+         "isAmountRestricted": true,
+         "account": [
+            {
+               "accountId": "b9d348ed-7d9a-4981-bbdf-ead8cbca7419",
+               "number": "08843145496821010",
+               "bic": "DUBACHGGXXX",
+               "iban": "CH1908843145496821010",
+               "routingType": "IBAN",
+               "bank": "fc744da5-10f0-4681-9142-7513c1b8db69",
+               "bankRole": "Custodian",
+               "vasp": "4e3e28bd-bba5-402b-88de-ed5ffe1c02f3",
+               "country": "LTU"
+            }
+         ]
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [
+      {
+         "traidingPairId": "fe9c83da-0e1c-426d-98b3-d4ec86e7d6e2",
+         "from": "BTC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "dfbdcf98-a7cc-4175-ad92-6c78c96e630f",
+         "from": "ETH",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "c037d221-f29e-4417-833b-45826a840cc6",
+         "from": "SOL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "402850a1-474f-4716-82f4-bfb660a5a484",
+         "from": "XRP",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "54e3dc2c-6407-4f1a-9658-6fe8ef8e9e4b",
+         "from": "DOGE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "c7804a83-341c-4f70-a9f8-5d8dbefcb3ee",
+         "from": "ETH",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "bfc9ff3a-3624-48ba-b7fb-c73a7ae0c635",
+         "from": "DOGE",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "d70c0396-87cb-495d-ba31-4b083b371418",
+         "from": "FDUSD",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0412a0e2-38d5-42ba-b954-cdb3653d4ab0",
+         "from": "IP",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "c74db0cc-3d10-4b10-833d-fae668d60928",
+         "from": "SUI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "10ea47f8-c73d-4bf9-bc52-da1923a7e924",
+         "from": "LTC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "f7a151ea-bc0b-4580-bcb8-e9113c206245",
+         "from": "KAITO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "f280a0d9-6679-4dd5-a8ae-ceffe7a0374e",
+         "from": "MAX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "cbdf37b7-3144-48d4-ad79-53792ba36ffc",
+         "from": "TEL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e2b2dff9-a918-4ed0-b19c-00f7165abafd",
+         "from": "BERA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "3df778e1-79a4-415d-96fc-f49a33ef2b32",
+         "from": "S",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "a6e524ca-ec0a-4173-95b9-93acded10e74",
+         "from": "OM",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5b9d676c-456f-44c0-91e5-671382dc1324",
+         "from": "DOT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "411c6d0a-9800-41fa-9283-26d9b34b7db2",
+         "from": "SIO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "56dd1026-e81c-4a7c-82a7-f432ef530e09",
+         "from": "MOVE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ccad5783-9f0d-424c-94df-5fb003cd3aaa",
+         "from": "PENGU",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "fe822419-fb43-460e-bbf5-252f9859982f",
+         "from": "TAO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "8a180bb7-00d3-4c9d-9d04-7f1e9ba79707",
+         "from": "VANA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "555f1342-a1c2-42d1-85a0-162b44e6c85c",
+         "from": "SONIC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0b1051ea-25f0-4d1a-905e-00ee6a193818",
+         "from": "ONDO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5dd45ee4-0219-436f-99b1-58fe5dbf8108",
+         "from": "ENA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "7836a6a9-bdb5-4a3f-b1c1-ff3fad988e80",
+         "from": "AIXBT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "2ede0e00-ae07-43f5-9c15-1f032816b6a1",
+         "from": "AIC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5cb05055-7310-4fec-a111-5deb196bebe2",
+         "from": "THE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "882b196d-1b83-4ffb-8a18-3eef528af0ec",
+         "from": "LAYER",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "78739b71-d708-413c-8a91-6bcf65b5fd2d",
+         "from": "HBAR",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "b2611509-9173-44ca-b08d-af45c32009c5",
+         "from": "ESE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "157b5f77-d5fe-4c95-aa66-20eadb4aca8f",
+         "from": "BNX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "91dfba92-a397-47e3-ad7c-9e2dd00eae28",
+         "from": "ARB",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "f073c5ec-dfb4-4018-85d3-302134433a40",
+         "from": "SEI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "01c4c730-d99b-4e67-b59d-13f81cf0f699",
+         "from": "USUAL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e1fe9f8b-d387-4255-8d0c-e00405e59c92",
+         "from": "GOAT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "397f60f0-70c0-4f9c-ada8-3b578d6fbf60",
+         "from": "RUNE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "8b624827-cd1d-44dd-b876-31d5e52b4c8e",
+         "from": "MELANIA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "6adf4928-7e38-4318-839c-a2d3302da79e",
+         "from": "RAY",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0536959d-d4d7-4d38-907c-c29449adb95a",
+         "from": "F",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "40e51809-c3e8-4c5e-8d16-d2b5b7208102",
+         "from": "FTT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "8888c9f4-b0f0-4368-b7b9-19a47b90c4cc",
+         "from": "COW",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "b28a6aa3-2c83-4e94-8283-0f4012fc4b52",
+         "from": "KOMA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "99e91db9-92c0-4577-8cc2-731c02267af0",
+         "from": "HYPE",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "b93e5a4a-a649-4c08-b200-351e0592cbff",
+         "from": "KAS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "bb953876-b0bc-4545-aade-5ebb71739db9",
+         "from": "GEMS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "363ff09d-9905-47cf-95e6-cb0e32716112",
+         "from": "UNI",
+         "to": "USDC"
+      },
+      {
+         "traidingPairId": "5e47d669-4144-4230-9423-8428c828ba1c",
+         "from": "MEW",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "a7f1f536-97b2-41c9-9ba8-1cbece0df3d8",
+         "from": "FOG",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "37f0cfce-0bea-4881-a2b2-88aa39337e6f",
+         "from": "MNT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "3f471479-3b4c-491e-b313-13990b4f5b5c",
+         "from": "METIS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "7a74b481-ca97-4ad5-bec4-a4e6cdbbb3e4",
+         "from": "ANT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "7e1be022-fc8b-4e93-88f2-6f887cb04ef5",
+         "from": "VET",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "f65f6725-7fe5-48d1-9fb8-e1250a95b13d",
+         "from": "BONDX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "1cc7cc73-80c6-4c83-b459-77d356fd18c2",
+         "from": "ACT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "5c2dbbf4-c48b-4ae9-a98f-6ad7420c1727",
+         "from": "PEPU",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "f76befff-441b-45af-815f-63845c1946fc",
+         "from": "PLUME",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "6e261d71-ecf5-4d73-b8de-8bacd093647e",
+         "from": "VVV",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e8c41dc5-61f9-4dbc-9f4c-be55cf0cd862",
+         "from": "TST",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "7033ea16-5c54-4f1e-88d6-fc9bb83841ec",
+         "from": "ZAI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ffedecd0-9523-4a41-b793-5c0f23cdfb4f",
+         "from": "PNUT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "dfd63ce7-58ba-46c7-8584-547ad7a0d668",
+         "from": "SWARMS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "6306d3ac-ea24-4d88-baf8-2e5512bdab50",
+         "from": "SPX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "4dd6b062-f278-4a9f-a0fb-b67f92ae0818",
+         "from": "XAI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ec395abe-7529-47e6-8595-0c3a7d4ac051",
+         "from": "CGPT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ce8db4d7-576f-4fb5-88b4-6d3de004ff2b",
+         "from": "STPT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "2c9d8164-9300-4335-a642-790bbbed1848",
+         "from": "AKT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "2459f564-3ba0-4f71-8110-656f37b56d92",
+         "from": "CREO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "18af07fd-e7c1-4174-a01f-eb4e3fbc03fe",
+         "from": "POPCAT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "26a71212-1394-4015-a249-88de29ab763e",
+         "from": "ELA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e707d1a0-41da-4424-ae34-a43548f895b9",
+         "from": "LISTA",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "0671c278-8a9f-47da-9fa5-3ae86e513eb1",
+         "from": "BUZZ",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "03cebc5e-f75c-4ac0-96a9-12c1f40855cd",
+         "from": "ARKM",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "80d09502-444f-4668-b519-3639654734bc",
+         "from": "VLX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "31abe443-307d-4336-94d5-c790c8161f30",
+         "from": "LIME",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "2d0939b7-31c0-48ea-aec4-4f3da1274d44",
+         "from": "REZ",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "6699fa30-b769-4691-9901-6bb9ca47096a",
+         "from": "SRX",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "b1227498-3273-45bc-833a-cb13d5d8e449",
+         "from": "DOG",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "cf7a1cff-8dc0-44b0-b4fe-b83dde812c38",
+         "from": "PAAL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "cbb0f8aa-5594-448f-8207-fc607e8b2265",
+         "from": "WFI",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "03bcb936-5405-4371-8181-1784dd5817a5",
+         "from": "ZND",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "69282a5a-80a5-47e1-8d3d-d3c70b2ad19b",
+         "from": "GPS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "951a8458-f9f8-4200-a640-823feeb13721",
+         "from": "ZBCN",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "6bab5bef-64f0-44b8-b0a5-04fa45015409",
+         "from": "DRIFT",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "03ebef1b-f946-4aa1-8edf-232793db12b8",
+         "from": "SWCH",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "deaea955-48b6-4a3a-ab55-229efe4c1ce9",
+         "from": "ROG",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "80bba647-ec75-47df-ba9c-10dd2695761a",
+         "from": "MICRO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "296d9be1-9d26-47a0-8238-f8efe49fb280",
+         "from": "TFUEL",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "4ef480cc-07a1-417b-b7f9-cfa7a5c8f34e",
+         "from": "APFC",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "bd0edd3f-e3f4-4715-941e-24c2129025a6",
+         "from": "FLOCK",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "3b30f32a-1c39-43f6-88d9-284182678b52",
+         "from": "TOKEN",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "90e99384-f637-4b64-a33c-016a93c15c69",
+         "from": "SOLV",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "8768c341-d56e-4de6-b1b9-b8ba6ae6cfae",
+         "from": "RSN",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "08f31039-a732-497d-8069-8bc2d81bd473",
+         "from": "SUNDOG",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "c8eb65f6-a940-4c94-b93f-9494341293c2",
+         "from": "OVER",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "ff443507-a058-4829-bb65-ae1790891d28",
+         "from": "POLS",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "d0dbbc89-ff35-4220-963c-7c655468957f",
+         "from": "FOXY",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "b4ecfff0-ee75-4e07-9abf-bd52b65c4fe8",
+         "from": "DEGO",
+         "to": "USDT"
+      },
+      {
+         "traidingPairId": "e5d4f0cb-12e3-4d93-9c0f-fc72968f31c7",
+         "from": "SERAPH",
+         "to": "USDT"
+      }
+   ],
+   "regulations": [
+      {
+         "regulationId": "53e0bc2c-96f3-44cc-939e-b7c711062439",
+         "regulator": "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+         "number": "305995741",
+         "printscreen": "Screenshot 2025-02-25 at 08.54.16",
+         "startDate": "02/02/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "a4d29faf-913b-4c75-9ad9-afd062e9f9b8",
+         "regulator": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+         "number": "M21534025",
+         "printscreen": "Screenshot 2025-02-25 at 09.08.03",
+         "startDate": "12/23/2021",
+         "endDate": "11/30/2024",
+         "validated": true
+      },
+      {
+         "regulationId": "d0dc3f05-b6b7-4144-9ba7-bfa51f7e804b",
+         "regulator": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+         "number": "M20540147",
+         "printscreen": "Screenshot 2025-02-25 at 09.08.03",
+         "startDate": "07/10/2020",
+         "endDate": "06/29/2025",
+         "validated": true
+      },
+      {
+         "regulationId": "4a7b33a1-1571-484e-81dc-5553c0acb1e4",
+         "regulator": "d958d59f-7fdd-4b1a-a915-dba732532b60",
+         "number": "31 646 052 244",
+         "printscreen": "Screenshot 2025-02-25 at 09.29.03",
+         "startDate": "07/19/2023",
+         "validated": true
+      },
+      {
+         "regulationId": "84fd70b7-3822-484c-bfc0-476c6ad429b9",
+         "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+         "number": "31000227954907",
+         "printscreen": "msb_registration-3.pdf",
+         "startDate": "03/13/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "f6b18515-e438-4202-bf2d-f2df7c7a24a7",
+         "regulator": "0994bd69-d436-4e30-a756-0e40e545ea1f",
+         "number": "202139818K",
+         "printscreen": "Screenshot 2025-02-25 at 14.27.02",
+         "endDate": "01/02/2024",
+         "validated": true
+      },
+      {
+         "regulationId": "0309209e-bf49-4576-bd68-d8b0be839d37",
+         "regulator": "0994bd69-d436-4e30-a756-0e40e545ea1f",
+         "number": "202009859N",
+         "printscreen": "Screenshot 2025-02-25 at 14.56.31",
+         "endDate": "03/30/2022",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "bingx"
+}

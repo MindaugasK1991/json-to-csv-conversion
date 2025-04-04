@@ -1,0 +1,487 @@
+{
+  "onChain": null,
+  "vaspId": "a8ced08c-6af3-49b9-bab1-5910d5ecb791",
+  "commonName": "Roboforex",
+  "url": "https://roboforex.com/",
+  "domiciledCountry": "BLZ",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": false,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2009",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://roboforex.com/about/company/regulation/",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "dccdaa1c-7520-4413-af3e-934c7e23a029",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "20c827d3-cf73-4c75-be1b-dca701e02831",
+      "type": "Legal",
+      "name": "RoboForex Ltd",
+      "country": "BLZ"
+    },
+    {
+      "nameId": "2655d5d0-b358-44bb-91cc-5b74e76681d2",
+      "type": "Legal",
+      "name": "RoboGate Ltd",
+      "country": "GIB"
+    },
+    {
+      "nameId": "d765d463-3fde-4afe-8235-64c63ece9ec8",
+      "type": "Legal",
+      "name": "RoboMarkets Ltd",
+      "country": "CYP"
+    },
+    {
+      "nameId": "6f84fcff-7e16-4a95-b032-caf5be63b26e",
+      "type": "Formerly",
+      "name": "RoboForex (CY) Ltd",
+      "country": "CYP"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "4c5d2009-e1de-4812-854c-3dc4f0ae91e1",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "fc749386-8adb-4cd8-97f1-ed50b4eb18af",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "062f1ddd-4b92-4737-a4e0-2b5a1453da18",
+      "country": "JPN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6ea55857-6b92-4260-9fc8-129f37c3309e",
+      "country": "AUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f808622f-3793-42be-a5ee-44358ae0afb9",
+      "country": "RUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "f3fec038-5933-4088-a839-b5803c08b239",
+      "country": "BES",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e51bba07-984c-4dfe-b3b4-77eac51b9753",
+      "country": "BRA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c95b840d-7450-429d-b458-eeb0440d612b",
+      "country": "CUW",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "dfea76af-d571-432f-b1d5-3bfc0e2906b6",
+      "country": "TLS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "40e4c0fa-771d-4b77-9406-29058c14869c",
+      "country": "IDN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e39232c9-0c62-4cd1-aaa6-2e50faab23c7",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "10437146-6bcf-4204-afcb-e6cbdaf3956a",
+      "country": "LBR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ea37d72d-60ac-4a21-a24d-b79830fc4362",
+      "country": "MNP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "57fb81d7-fcf5-45fc-ac53-e4b40531e794",
+      "country": "SSD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "02e4ac01-65ba-4a83-8ff5-972fc01d516c",
+      "country": "BLR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "40e9e583-f4c8-468e-bb25-fa262226346b",
+      "country": "ZAF",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "ecb7abe3-b428-47f4-8661-5e499ae942f7",
+      "country": "NGA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "3d6dda80-700a-4175-b14e-d6fa9cf553aa",
+      "country": "KEN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "bd79e9fb-355f-4b44-8811-eb65c25c9fd3",
+      "country": "GHA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e43064f1-c759-4e25-9715-940875992e46",
+      "country": "DZA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "0c579620-d195-4739-a1ce-f7bc20cf1b9c",
+      "country": "CHN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "9f01474b-f8fa-4315-8ea5-eaae58032f77",
+      "country": "IND",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "48a15594-4691-4ebe-a81d-eca64b5f9cb5",
+      "country": "MYS",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ecd3498b-87e3-4a96-a299-161d4918c92f",
+      "country": "KWT",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "4b034619-b062-430a-91b9-d31a805a3461",
+      "country": "SGP",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6b5a0e94-16b6-4249-adf1-7897b23eb0d0",
+      "country": "HKG",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "83df77c7-1268-4249-a700-311dad356a32",
+      "country": "KOR",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ff1695ce-4043-4eeb-89f6-09184f46c9b1",
+      "country": "SAU",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "71fed6ad-e862-4384-9241-b4666a0d8bb2",
+      "country": "QAT",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d12eefca-6842-4ad8-a2ee-2b7f511e15d4",
+      "country": "DEU",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "b78eee67-46e0-4474-930b-e2dd0d9a7fa7",
+      "country": "ITA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "99a171b2-9a7b-4ee5-8c53-b79c71d1b422",
+      "country": "FRA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d120f9b7-c073-41e3-b66e-5c885394f96b",
+      "country": "NLD",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "cd0abf83-aa8e-4b80-b73c-75cd41e3b1a3",
+      "country": "SWE",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "b45268f3-b3ef-4d8c-823d-ecc61f106c88",
+      "country": "POL",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "91af843f-87cb-4c3c-bdf7-002d88cfd15b",
+      "country": "FIN",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f54b605a-41e9-4809-89f1-12795c9dcec0",
+      "country": "DNK",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6a6f48b5-bc09-4959-9df7-2d9c38ff139b",
+      "country": "GBR",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "07b87c75-87bd-4f58-81cd-fd53dd69c03f",
+      "country": "BRA",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "3a713fdf-0777-4d3e-b426-adcf234e5299",
+      "country": "ARE",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "ae96e443-0bf8-4827-8ddb-3fe58a6ab2c6",
+      "country": "BLZ",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "2479551b-7b89-4486-8eda-121e1cd7e46b",
+      "createdDate": "04/01/2025",
+      "customerInfo": "Email Address && Phone Number && Legal Name && DOB && Government ID && SSN/TIN && Nationality && Proof Of Address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": false,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": 50000,
+      "currency": "USD",
+      "limitFrequency": "Transaction",
+      "notes": null,
+      "internalNotes": "https://roboforex.com/clients/funds/deposit-withdrawal/"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "baf85836-1636-4bfb-bfef-62f1ee8bceb9",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "5c3aec2c-6247-4cc7-be92-6075441e0c54",
+      "paymentMethod": "Astro Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "89545e05-1121-41e6-9662-3e20fc6a3314",
+      "account": null
+    },
+    {
+      "paymentMethodId": "7b80de52-0264-4db3-b78b-abfe7035aff4",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": null
+    },
+    {
+      "paymentMethodId": "331b41ec-3e15-4355-9711-4c0483731049",
+      "paymentMethod": "Neteller",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "6ffeb96b-9984-40d9-a8ce-551c6eaf9192",
+      "paymentMethod": "STICPAY",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "5e524495-045a-4c1b-b25b-7b1a6048792e",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "7dba33c5-89bf-41d6-a4a6-be7f3f20de21",
+      "paymentMethod": "Vouchers",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "a6558afc-eb91-445c-9145-46143c235175",
+      "paymentMethod": "QR",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "c8e93ba9-597d-4ccc-90ea-5311a8aa23e6",
+      "paymentMethod": "Western Union",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "d0e75cb6-1f05-41d1-9fd1-1892f838a7fc",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": null,
+      "printscreen": null,
+      "startDate": "01/01/2025",
+      "endDate": "12/31/2025",
+      "validated": true
+    },
+    {
+      "regulationId": "919943bb-8cd3-4ebf-881a-74d5f4f59164",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": null,
+      "printscreen": null,
+      "startDate": null,
+      "endDate": "12/31/2017",
+      "validated": true
+    },
+    {
+      "regulationId": "13cb8772-31d4-4e3c-944c-e6bacf25a6bd",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "000138/210",
+      "printscreen": null,
+      "startDate": "04/21/2021",
+      "endDate": "12/31/2021",
+      "validated": true
+    },
+    {
+      "regulationId": "5cbd20f6-4a3b-49ec-9cc0-6cb8e1bfc34b",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "000138/107",
+      "printscreen": null,
+      "startDate": "06/24/2020",
+      "endDate": "12/31/2025",
+      "validated": true
+    },
+    {
+      "regulationId": "3bfa96dc-29c3-40f4-974f-53aeaa74ba1f",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "IFSC/60/271/TS/18\t",
+      "printscreen": null,
+      "startDate": null,
+      "endDate": "12/31/2018",
+      "validated": true
+    },
+    {
+      "regulationId": "51125517-11cd-4000-b427-a02d255211c2",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "000138/333",
+      "printscreen": null,
+      "startDate": "05/06/2022",
+      "endDate": "12/31/2022",
+      "validated": true
+    },
+    {
+      "regulationId": "091f45af-d601-4751-bb04-27df75958581",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "000138/437",
+      "printscreen": null,
+      "startDate": "03/21/2023",
+      "endDate": "12/31/2023",
+      "validated": true
+    },
+    {
+      "regulationId": "af3eed1c-e97f-4dc2-9a34-4b82e20f648a",
+      "regulator": "a1eddb08-8350-4b71-be98-b80a5dfae4a0",
+      "number": "IFSC/60/271/TS/19",
+      "printscreen": null,
+      "startDate": null,
+      "endDate": "12/31/2019",
+      "validated": true
+    },
+    {
+      "regulationId": "c5354ce8-656e-4ae9-82e6-bfdcd0da5fd8",
+      "regulator": "487dbe66-2202-4bd8-910f-f485fb9da0b6",
+      "number": "191/13",
+      "printscreen": null,
+      "startDate": "01/30/2013",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

@@ -1,0 +1,235 @@
+{
+  "onChain": null,
+  "vaspId": "1b57d125-6b6c-4770-a331-b389e7f993c0",
+  "commonName": "Latoken",
+  "url": "https://latoken.com/",
+  "domiciledCountry": "MLT",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": false,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": false,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2017",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://cdn-new.latoken.com/common/files/kyc-aml.pdf",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "11813c75-16f3-4b19-9e26-135fbd9f5910",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "d2c5285d-5144-4d5e-9781-f508307b3e54",
+      "type": "Legal",
+      "name": "LAtrade Limited",
+      "country": "VCT"
+    },
+    {
+      "nameId": "2f94dd97-4abe-4d2f-a964-af64d007bb5a",
+      "type": "Legal",
+      "name": "LiquiTrade Limited",
+      "country": "CYM"
+    },
+    {
+      "nameId": "440677ec-0661-45a3-b672-a99309ac6bac",
+      "type": "DBA",
+      "name": "Latoken",
+      "country": "MLT"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "1c8afe4b-864d-43e2-b070-dc2e022bbd21",
+      "country": "MLT",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "1f04d5b8-81a5-4b0e-8f20-72fc79cd3a06",
+      "country": "POL",
+      "type": "Offices In",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "db31eb5b-ca7b-4002-abd8-ee5360d6f887",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "aa6fb1c7-baf9-4372-9f05-45b3c5d1ee6d",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d67c5df4-d44a-4625-991c-276ccbc05c23",
+      "country": "AFG",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "2bf78f8c-f13e-42b8-a55f-0dc3c80a11bf",
+      "country": "BIH",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "158f3346-2e64-4bbf-99cc-63abc2349df7",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "29839fd1-2257-43e8-afdf-830b4ac01888",
+      "country": "DEU",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "9ebcc18f-6fc9-49ad-9daa-5cfdef3bac9c",
+      "createdDate": "03/25/2025",
+      "customerInfo": "Email Address, Legal name && Citizenship && DOB, Residential Address, Selfie && Government ID",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": true,
+      "amountLimit": 1000000,
+      "currency": "USD",
+      "limitFrequency": "Transaction",
+      "notes": "Limits vary depending on user's verification tier. ",
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "2a0ab226-04e7-41e7-bb2b-f3540a8bdae3",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "d1dc88e0-fc85-4381-b941-3df69523eeae",
+      "paymentMethod": "SEPA Instant",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "6511d37e-3626-4af9-ae2a-0d9dac8e3e9d",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "d490d9b4-6f5e-4f4c-900d-39feea08e815",
+      "paymentMethod": "Astro Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "89545e05-1121-41e6-9662-3e20fc6a3314",
+      "account": null
+    },
+    {
+      "paymentMethodId": "456e6206-c26c-422a-b4ed-2a420909071a",
+      "paymentMethod": "Google Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "fcf0868f-5fe6-43fd-9980-3b221b62d66e",
+      "paymentMethod": "Bank transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "d27f553e-b0a7-469d-83b9-b54a5c2c5ba3",
+      "paymentMethod": "Neteller",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "e5a4db80-1ee5-4d3d-b95c-8a01e130b778",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "576e47a6-62c2-4c96-9a58-ff71b4c30642",
+      "paymentMethod": "Revolut Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "089d040e-b144-4f63-b784-30145874ae90",
+      "account": null
+    },
+    {
+      "paymentMethodId": "0c59646d-50f3-4826-8344-4b11f2f5a181",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": null
+    },
+    {
+      "paymentMethodId": "9577112e-ab41-4e1e-abfb-9435101a1d4a",
+      "paymentMethod": "SWIFT Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "6344931d-63a1-4410-ae33-010c980e14d5",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "47dcf6d1-493a-4934-a7b9-a8e9082c4828",
+      "regulator": "7842184b-b67a-4730-84ce-8eecba3a81f3",
+      "number": "26911",
+      "printscreen": "Screenshot 2025-03-29 at 20.23.17",
+      "startDate": "11/29/2022",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

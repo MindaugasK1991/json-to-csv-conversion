@@ -1,0 +1,185 @@
+{
+  "onChain": null,
+  "vaspId": "e7f700f4-f0b8-4e15-800c-679d41b23fd8",
+  "commonName": "Trust Wallet",
+  "url": "https://trustwallet.com/",
+  "domiciledCountry": "ARE",
+  "hqRegion": "Asia",
+  "isSanctioned": false,
+  "directOnramp": false,
+  "indirectOnramp": true,
+  "hasOfframp": false,
+  "tradesFiat": false,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": true,
+  "hasKyc": false,
+  "openedDate": "01/01/2017",
+  "closedDate": null,
+  "isCustodial": false,
+  "amlPolicyUrl": null,
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "64b3dfa6-efea-4b0b-910e-6861ed6469cf",
+      "type": "DeFi"
+    },
+    {
+      "vaspTypeId": "1264fe95-30f1-43ed-be3a-cb68b6d3e2bd",
+      "type": "Wallet"
+    },
+    {
+      "vaspTypeId": "bb80fd21-7271-43d7-baae-76f7f413431f",
+      "type": "Crypto Purchase Enabler"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "a0cd3368-5318-408f-a683-a536530fcf2c",
+      "type": "Legal",
+      "name": "DApps Platform, Inc.",
+      "country": "USA"
+    },
+    {
+      "nameId": "23c3e3ed-2a43-43b9-92c7-f4b510105573",
+      "type": "Legal",
+      "name": "DAPPS PLATFORM SOFTWARE SERVICES LTD",
+      "country": "ARE"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "CUB",
+      "country": "Cuba",
+      "type": "Prohibits Citizens of",
+      "": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "IRN",
+      "country": "Iran",
+      "type": "Prohibits Citizens of",
+      "": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "PRK",
+      "country": "North Korea",
+      "type": "Prohibits Citizens of",
+      "": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "UKR",
+      "country": "Ukraine",
+      "type": "Prohibits Citizens of",
+      "": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "SYR",
+      "country": "Syria",
+      "type": "Prohibits Citizens of",
+      "": null,
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": null,
+  "paymentMethods": [
+    {
+      "paymentMethodId": "d38a71ba-0cbb-46b9-b920-8c122b5a3b74",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "c8432a47-0902-41a6-b732-fb1f6e8133a4",
+      "paymentMethod": "Google Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "4658abbd-0ebb-4824-9098-a4695657968f",
+      "paymentMethod": "MoonPay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": " 61913fa7-17ef-4a90-95b0-3c625e12a37b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "ab5b6daf-efcd-4cf3-ab36-7af8eb85459f",
+      "paymentMethod": "Mercuryo",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+      "account": null
+    },
+    {
+      "paymentMethodId": "13322ff2-c1cf-4a78-8c8f-676d285f54f6",
+      "paymentMethod": "Banxa",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": " ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+      "account": null
+    },
+    {
+      "paymentMethodId": "f2b7cef5-9346-444b-aeaa-5b843f6b8f5d",
+      "paymentMethod": "Transak",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "57d505e9-b7a4-4014-a04d-55b1bc296deb",
+      "account": null
+    },
+    {
+      "paymentMethodId": "838305db-e0e1-420f-988d-cbf53d98aad1",
+      "paymentMethod": "Alchemy Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "5f9c7631-96c5-4c3d-a6d1-183e7c52c457",
+      "account": null
+    },
+    {
+      "paymentMethodId": "d983c255-e6c9-41ba-b58d-0cfb1020c873",
+      "paymentMethod": "Ramp Network",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "7d29f90f-cef2-40f3-b230-2ddb832e8652",
+      "account": null
+    },
+    {
+      "paymentMethodId": "ee151568-94e3-48e0-a454-6a0eeaf341af",
+      "paymentMethod": "Simplex",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "b5dc5fd7-a07b-4964-8262-3f08b450f75932",
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "6ccf65b5-13ed-4b20-8422-1a0dbfacd124",
+      "regulator": "ccff7c64-07b3-4231-8c2e-55b45cb628a6",
+      "number": "6805989",
+      "printscreen": "Screenshot 2025-03-17 at 09.52.42.png",
+      "startDate": "03/19/2018",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "a48e7e87-2d8e-4fcc-8598-67ec2b56943a",
+      "regulator": "bf46cf6f-6db3-44f6-87b8-b0cf8ee7cba8",
+      "number": "254900DS69C9I3L8BZ72",
+      "printscreen": "Screenshot 2025-03-17 at 10.27.28.png",
+      "startDate": "07/28/2023",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

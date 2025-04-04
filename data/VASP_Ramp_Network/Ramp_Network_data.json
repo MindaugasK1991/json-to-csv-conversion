@@ -1,0 +1,773 @@
+{
+   "vaspId": "7d29f90f-cef2-40f3-b230-2ddb832e8652",
+   "commonName": "Ramp Network",
+   "url": "https://ramp.network/",
+   "isReported": false,
+   "vaspType": [
+     {
+       "vaspTypeId": "d9bf95d9-b31d-4cad-b8e1-c0ce81ff08e4",
+       "type": "Payment Provider"
+     },
+     {
+       "vaspTypeId": "9d3b0658-ecdd-42c7-b323-99b43047777a",
+       "type": "Bridge"
+     }
+   ],
+   "names": [
+     {
+       "nameId": "8408ebd3-a7f9-4d92-955b-7349324c4d9a",
+       "type": "Legal",
+       "name": "Ramp Swaps Ltd",
+       "country": "GBR"
+     },
+     {
+       "nameId": "28a6daca-1599-4ce6-b4f8-55a195c7fa28",
+       "type": "Legal",
+       "name": "Ramp Swaps LLC",
+       "country": "USA"
+     },
+     {
+       "nameId": "2b21f4ea-e329-41eb-bc0d-1c0b9febc568",
+       "type": "Legal",
+       "name": "RAMP NETWORK HOLDINGS (UK) LTD",
+       "country": "GBR"
+     },
+     {
+       "nameId": "6bc50248-862b-4c6f-bf29-a309285641ef",
+       "type": "Legal",
+       "name": "Ramp Swaps (Ireland) Ltd",
+       "country": "IRL"
+     }
+   ],
+   "countryRel": [
+     {
+       "countryRelId": "955f5e09-7ad9-49d9-8d07-32db40ccb86f",
+       "country": null,
+       "type": null,
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "DZA",
+       "country": "Algeria",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ASM",
+       "country": "American Samoa",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "AIA",
+       "country": "Anguilla",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ARM",
+       "country": "Armenia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ABW",
+       "country": "Aruba",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "AZE",
+       "country": "Azerbaijan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BHS",
+       "country": "Bahamas",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BHR",
+       "country": "Bahrain",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BGD",
+       "country": "Bangladesh",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BRB",
+       "country": "Barbados",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BLR",
+       "country": "Belarus",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BEN",
+       "country": "Benin",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BOL",
+       "country": "Bolivia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BFA",
+       "country": "Burkina Faso",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "BDI",
+       "country": "Burundi",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "KHM",
+       "country": "Cambodia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CMR",
+       "country": "Cameroon",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CYM",
+       "country": "Cayman Islands",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CAF",
+       "country": "Central African Republic",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CHN",
+       "country": "China",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "COG",
+       "country": "Republic of the Congo",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CIV",
+       "country": "Côte d’Ivoire",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CUB",
+       "country": "Cuba",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "CUW",
+       "country": "Curaçao",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ECU",
+       "country": "Ecuador",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "EGY",
+       "country": "Egypt",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ERI",
+       "country": "Eritrea",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "FJI",
+       "country": "Fiji",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "GAB",
+       "country": "Gabon",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "GNB",
+       "country": "Guinea-Bissau",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "GUY",
+       "country": "Guyana",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "HTI",
+       "country": "Haiti",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "IDN",
+       "country": "Indonesia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "IRN",
+       "country": "Iran",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "IRQ",
+       "country": "Iraq",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "JAM",
+       "country": "Jamaica",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "JPN",
+       "country": "Japan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "JOR",
+       "country": "Jordan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PRK",
+       "country": "North Korea",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "KOR",
+       "country": "South Korea",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "XKX",
+       "country": "Kosovo",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "KGZ",
+       "country": "Kyrgyzstan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "LBN",
+       "country": "Lebanon",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "LSO",
+       "country": "Lesotho",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "LBR",
+       "country": "Liberia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "LBY",
+       "country": "Libya",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MAC",
+       "country": "Macao",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MWI",
+       "country": "Malawi",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MDV",
+       "country": "Maldives",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MLI",
+       "country": "Mali",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MUS",
+       "country": "Mauritius",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MNG",
+       "country": "Mongolia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MSR",
+       "country": "Montserrat",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MAR",
+       "country": "Morocco",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "MMR",
+       "country": "Myanmar",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "NAM",
+       "country": "Namibia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "NPL",
+       "country": "Nepal",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "NIC",
+       "country": "Nicaragua",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "NER",
+       "country": "Niger",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "OMN",
+       "country": "Oman",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PAK",
+       "country": "Pakistan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PLW",
+       "country": "Palau",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PSE",
+       "country": "Palestine",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PAN",
+       "country": "Panama",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PCN",
+       "country": "Pitcairn Islands",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "PRI",
+       "country": "Puerto Rico",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "QAT",
+       "country": "Qatar",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "RUS",
+       "country": "Russia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "KNA",
+       "country": "Saint Kitts and Nevis",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "WSM",
+       "country": "Samoa",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SAU",
+       "country": "Saudi Arabia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SEN",
+       "country": "Senegal",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SYC",
+       "country": "Seychelles",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SOM",
+       "country": "Somalia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SSD",
+       "country": "South Sudan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SDN",
+       "country": "Sudan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "SYR",
+       "country": "Syria",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "TWN",
+       "country": "Taiwan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "TJK",
+       "country": "Tajikistan",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "TZA",
+       "country": "Tanzania",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "TTO",
+       "country": "Trinidad and Tobago",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "TUN",
+       "country": "Tunisia",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "UGA",
+       "country": "Uganda",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "VUT",
+       "country": "Vanuatu",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "VEN",
+       "country": "Venezuela",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "VNM",
+       "country": "Vietnam",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "VGB",
+       "country": "British Virgin Islands",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "VIR",
+       "country": "U.S. Virgin Islands",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "YEM",
+       "country": "Yemen",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "ZWE",
+       "country": "Zimbabwe",
+       "type": "Prohibits Citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "USA",
+       "country": "United States",
+       "type": "Restricts some services to citizens of",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "POL",
+       "country": "Poland",
+       "type": "Offices In",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "GBR",
+       "country": "United Kingdom",
+       "type": "Incorporated in",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "IRL",
+       "country": "Ireland",
+       "type": "Incorporated in",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "USA",
+       "country": "United States",
+       "type": "Offices In",
+       "calculateSanctionByCountry": null
+     },
+     {
+       "countryRelId": "GBR",
+       "country": "United Kingdom",
+       "type": "Headquartered in",
+       "calculateSanctionByCountry": null
+     }
+   ],
+   "kyc": [
+     {
+       "kycId": "8567648a-9c30-4b23-9123-e6dc2249b017",
+       "createdDate": "03/19/2025",
+       "customerInfo": "Email address && Country of Residence && Proof of Address && Government ID && Video",
+       "requires2fa": false,
+       "legalNameRequired": false,
+       "dobRequired": false,
+       "addressRequired": false,
+       "ssn_tinRequired": false,
+       "countryOfCitizenshipRequired": true,
+       "govtIdRequired": true,
+       "proofOfResidencyRequired": true,
+       "emailRequired": true,
+       "phoneRequired": true,
+       "selfieRequired": false,
+       "videoRequired": true,
+       "transactionLimitsExist": true,
+       "amountLimit": 0,
+       "currency": "eur",
+       "limitFrequency": "Transaction",
+       "notes": "https://support.ramp.network/en/articles/441-what-are-the-kyc-limits-and-requirements",
+       "internalNotes": "60000 eur per transaction"
+     }
+   ],
+   "paymentMethods": [
+     {
+       "paymentMethodId": "497b361f-d8cc-47f2-9db4-2066314e0d38",
+       "paymentMethod": "Apple Pay",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "2815510f-0997-4336-8455-22ff61d02b47",
+       "paymentMethod": "Google Pay",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "b1fcedbe-dec9-4fee-9759-8eb69ec7ce1a",
+       "paymentMethod": "Debit / Credit Card",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "85eff388-7d2a-4e5e-b17d-caebe1eb14f4",
+       "paymentMethod": "PIX",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": null
+     },
+     {
+       "paymentMethodId": "b5ed220a-2cde-42ce-b076-84b6e06a0b12",
+       "paymentMethod": "Bank transfer",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": [
+         {
+           "accountId": "39be6fdd-98cf-4e4e-a815-771c76aae409",
+           "number": "BCPY04054100000931",
+           "bic": "BCPYGB22XXX",
+           "iban": "GB92BCPY04054100000931",
+           "routingType": "IBAN",
+           "localRouting": "04-05-41",
+           "bank": "3530d2b3-be7b-4e15-be47-f3a4d04868de",
+           "bankRole": "Custodian",
+           "country": null
+         }
+       ]
+     },
+     {
+       "paymentMethodId": "9a322e7d-1fee-4651-91ee-23679f660afb",
+       "paymentMethod": "SEPA Transfer",
+       "isAmountRestricted": true,
+       "jurisdiction": null,
+       "onrampProvider": null,
+       "account": [
+         {
+           "accountId": "db66bdb6-4931-4de2-8167-64befc2e4719",
+           "number": "CFTE28004000000000003506105",
+           "bic": "CFTEMTM1XXX",
+           "iban": "MT28CFTE28004000000000003506105",
+           "routingType": "IBAN",
+           "localRouting": null,
+           "bank": "d1f0cf7c-e71f-4118-b8e6-9db149eb0194",
+           "bankRole": "Custodian",
+           "country": "MLT"
+         }
+       ]
+     }
+   ],
+   "billingDescriptor": null,
+   "tradingPairs": null,
+   "regulations": [
+     {
+       "regulationId": "29cb6a2f-c0f5-4f92-8937-aa6022a87aa1",
+       "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+       "number": "11850124",
+       "printscreen": "Screenshot 2025-03-19 at 14.22.56.png",
+       "startDate": "07/20/2021",
+       "endDate": null,
+       "validated": true
+     },
+     {
+       "regulationId": "c6cc5c8f-c784-4600-9ec9-b22cd6d07e17",
+       "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+       "number": "31000287566749",
+       "printscreen": "msb_registration-rampnetwork.pdf",
+       "startDate": "12/03/2024",
+       "endDate": null,
+       "validated": true
+     },
+     {
+       "regulationId": "17d398a5-8a1d-4fca-890b-af8c9aae4e1e",
+       "regulator": "012f53d0-1c0d-4b07-89fd-8f18adc346cb",
+       "number": "C515693",
+       "printscreen": "Screenshot 2025-03-19 at 14.22.56.png",
+       "startDate": "05/17/2024",
+       "endDate": null,
+       "validated": true
+     }
+   ],
+   "vaspSanction": null,
+   "onChain": null,
+   "domiciledCountry": "GBR",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": false,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2018",
+   "closedDate": null,
+   "isCustodial": false,
+   "amlPolicyUrl": null,
+   "profile": null
+ }

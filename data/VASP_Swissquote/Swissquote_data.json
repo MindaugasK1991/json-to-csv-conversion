@@ -1,0 +1,874 @@
+{
+   "vaspId": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+   "commonName": "Swissquote",
+   "url": "https://www.swissquote.ch/",
+   "domiciledCountry": "CHE",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": false,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2000",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://links.imagerelay.com/cdn/2958/ql/sqb-aml-and-ctf-policy-en.pdf",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "08916a0e-4f67-429f-9329-603a0ea207b9",
+         "type": "Credit Card Provider"
+      },
+      {
+         "vaspTypeId": "78e5c11e-b98c-41ae-836e-89f3aa3af155",
+         "type": "Exchange"
+      },
+      {
+         "vaspTypeId": "4b15fdf1-e7e5-4798-ba38-bc0ff88501fd",
+         "type": "Wallet"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "58ae048a-1f3a-40cf-ac69-b712d4448feb",
+         "type": "Legal",
+         "name": "Swissquote Bank Ltd",
+         "country": "CHE"
+      },
+      {
+         "nameId": "0bdbcbd8-0a0d-43aa-9bec-cbe42135dc7c",
+         "type": "Legal",
+         "name": "Swissquote Bank Europe SA",
+         "country": "LUX"
+      },
+      {
+         "nameId": "af4b1975-76a6-4cff-8131-8f443dba87f5",
+         "type": "Legal",
+         "name": "Swissquote MEA Ltd",
+         "country": "ARE"
+      },
+      {
+         "nameId": "a4bae8e1-4f07-418c-bcfc-33030f1d392b",
+         "type": "Legal",
+         "name": "Swissquote Capital Markets Limited",
+         "country": "CYP"
+      },
+      {
+         "nameId": "fa1a54b0-a3e2-4877-8180-7230b6db1962",
+         "type": "Legal",
+         "name": "Swissquote Group Holding Ltd",
+         "country": "CHE"
+      },
+      {
+         "nameId": "049b990b-e776-400d-b678-753d9eacccf3",
+         "type": "Legal",
+         "name": "Swissquote South Africa (Pty) Ltd",
+         "country": "ZAF"
+      },
+      {
+         "nameId": "aee8099d-a12f-4b8b-a82a-85c9f91a9834",
+         "type": "Legal",
+         "name": "Swissquote Tech Hub Bucharest S.R.L",
+         "country": "ROU"
+      },
+      {
+         "nameId": "60bd3511-fd05-4f53-b319-98ee41b9aa4c",
+         "type": "Legal",
+         "name": "Swissquote Pte. Ltd",
+         "country": "SGP"
+      },
+      {
+         "nameId": "1be57359-7dcd-45c5-8595-bc761456c7b3",
+         "type": "Legal",
+         "name": "Swissquote Financial Services (Malta) Ltd",
+         "country": "MLT"
+      },
+      {
+         "nameId": "0a5a7331-eaf1-43b0-ab98-c06ccde8b7cc",
+         "type": "Legal",
+         "name": "Swissquote Asia Ltd",
+         "country": "HKG"
+      },
+      {
+         "nameId": "7ad5b1ea-1fa6-4b16-8cd5-051239df2b9e",
+         "type": "Legal",
+         "name": "Swissquote Ltd",
+         "country": "GBR"
+      },
+      {
+         "nameId": "6fc0df2e-04b1-4be3-b931-fb0edf054acb",
+         "type": "DBA",
+         "name": "Swissquote"
+      },
+      {
+         "nameId": "9ed0483e-757a-43ed-87fa-0c91f29fe261",
+         "type": "Formerly",
+         "name": "MIG Capital (Asia) Ltd",
+         "country": "HKG"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "2800e6b8-0a1a-4581-abd4-ec5beb79e3ad",
+         "country": "USA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "f329be49-73d5-431b-8493-1c7c51cb723e",
+         "country": "CAN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "4dd75fa9-ed16-43c8-a307-9ec4f4576215",
+         "country": "GBR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "94440261-6742-4cc0-aad6-12a25eac9084",
+         "country": "DEU",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "5c85f1c3-8c80-4b9f-9420-1a3f4879a57d",
+         "country": "ITA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "87e3fa53-8501-400b-ab6c-49fe80e71706",
+         "country": "FRA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "ff81f07e-9707-4c39-9aba-8ec8a18b2f27",
+         "country": "RUS",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "25e2b843-d9e2-487f-b44a-e89082a4a01b",
+         "country": "JPN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "b0d0abfc-e00a-4c32-b0f4-052a93b4b165",
+         "country": "TUR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "dbf6f6dd-fe65-4a82-ab78-4d89d0182424",
+         "country": "CHE",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "172c5da6-6506-4643-84ed-acedecf366bd",
+         "country": "CHE",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "d5517f0d-ee93-41b8-a98c-c1ae762e8219",
+         "country": "GBR",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "98a07bf0-a05b-4197-bb6b-222a20627e86",
+         "country": "LUX",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "08265261-3e0f-4c0b-929d-465e8e0e7deb",
+         "country": "MLT",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "170a49df-893d-4484-907c-b0a74bab1a8c",
+         "country": "ROU",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "c2ea9367-1887-4d1d-b1ae-791a7f74d699",
+         "country": "CYP",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "9ffd2e14-49bc-4e07-94db-412d4c845312",
+         "country": "ARE",
+         "type": "Offices In",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "66c40366-2ac3-4d52-8518-4eb7a9c07694",
+         "country": "SGP",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "b6ef5377-b084-4841-a73c-724503d819af",
+         "country": "HKG",
+         "type": "Offices In",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "3ca333e7-ca66-427a-8cd0-872e25d82890",
+         "country": "ZAF",
+         "type": "Offices In",
+         "calculateSanctionByCountry": "Grey List"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "bcc6c22e-4d9f-4aae-86de-000f7b52b162",
+         "createdDate": "02/24/2025",
+         "customerInfo": "Email address && ID or Passport && Proof of Residence/Legal Address && Selfie && DOB && TIN && Nationality && Family Status && Professional situation",
+         "requires2fa": true,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": true,
+         "ssn_tinRequired": true,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": true,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": true,
+         "videoRequired": false,
+         "transactionLimitsExist": true,
+         "amountLimit": 500000,
+         "currency": "CHF"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "7fabe7f5-0fb5-43ed-baf3-fe7ab045476e",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": true,
+         "account": [
+            {
+               "accountId": "8d7302f7-75dc-4f24-9a8a-a47d919acce0",
+               "number": "002302300128957SM",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH43002302300128957SM",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "66e6e9f0-d669-4c35-8d3c-877abe033b28",
+               "number": "002302300128957AB",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH52002302300128957AB",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "3c8bed5c-40a0-4440-8c9a-2b579df414e0",
+               "number": "002302300128958KJ",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH44002302300128958KJ",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "2b40896e-f892-4cb7-bc01-68d4007845a7",
+               "number": "0023023001289577E",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH860023023001289577E",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "31fde692-9ee6-4bcd-8ac0-0e7bd9b1a9ad",
+               "number": "002302300128957EL",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH40002302300128957EL",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "7784c569-d3f4-40f3-8099-87598f384887",
+               "number": "0023023001289576B",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH540023023001289576B",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "611b25cc-a0b2-4636-9831-59a1dab08da8",
+               "number": "0023023001289571T",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH700023023001289571T",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "fd35c3b7-beec-474d-a217-fa2ff7ebc89a",
+               "number": "002302300128957BE",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH84002302300128957BE",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "bf01a0a5-24a0-4ca1-88cb-23cfb4d1d02e",
+               "number": "002302300128957LT",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH33002302300128957LT",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "02c7cbde-0581-4223-93cf-c7da173f433e",
+               "number": "002302300128957KF",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH07002302300128957KF",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "909392f5-934d-4331-93d6-efb3f9c14458",
+               "number": "0023023001289572Z",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH210023023001289572Z",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "d62335d3-bf1a-44f5-918d-b98faf66166b",
+               "number": "002302300128958LU",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH54002302300128958LU",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "2a604290-d9a1-47a4-b207-cdca02d2897b",
+               "number": "002302300128957HG",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH29002302300128957HG",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "efa4216e-67d9-430b-a8fa-804be6a56f42",
+               "number": "0023023001289578M",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH800023023001289578M",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "1c31e344-94e3-498e-9e60-ddca2c9dede2",
+               "number": "0023023001289579C",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH750023023001289579C",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "ae6a00ba-dd33-4dc2-ad2c-6577e4c18d1e",
+               "number": "002302300128957ZK",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH15002302300128957ZK",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "7854134d-ef5e-48fd-bdd6-983280dfdfd4",
+               "number": "002302300128957FR",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH88002302300128957FR",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "1b7b8d09-9e7e-4b0b-9fd8-1910d21197be",
+               "number": "002302300128957YP",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH58002302300128957YP",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "f7706897-7111-4f7b-b27b-bb40cc9054f0",
+               "number": "002302300128957TC",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH38002302300128957TC",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "1ac29fa9-0fff-4d8f-b7d6-48456fbc4e86",
+               "number": "0023023001289574Q",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH050023023001289574Q",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "8afeb60f-c925-408e-90ea-e3a5361cd46b",
+               "number": "002302300128957CM",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH78002302300128957CM",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "fac3a074-1a1e-49fa-8c11-6416030f1fc6",
+               "number": "002302300128957DC",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH73002302300128957DC",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "6e179689-d0ec-49b3-a012-9ea5b1c23eeb",
+               "number": "002302300128957GH",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH83002302300128957GH",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            },
+            {
+               "accountId": "5cb9e879-def5-417a-801c-c3fd57a3ca36",
+               "number": "0023023001289575Y",
+               "bic": "UBSWCHZH80A",
+               "iban": "CH960023023001289575Y",
+               "routingType": "IBAN",
+               "bank": "02de82e7-8f9f-4e3c-b1c1-3c0e050e3191",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "CHE"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "e6889405-56c2-468d-82f0-6f4c9df2f419",
+         "paymentMethod": "Debit / Credit Card",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "77225d29-7f03-4ac6-ae63-cd1f2444cf66",
+         "paymentMethod": "Bank Transfer",
+         "isAmountRestricted": true,
+         "account": [
+            {
+               "accountId": "87f02cd7-0dc2-4a12-b430-aaaa71cd2167",
+               "number": "36155944",
+               "bic": "CITIUS33XXX",
+               "routingType": "SWIFT",
+               "localRouting": "021000089",
+               "bank": "7a42c530-09c1-42cd-9458-e4555bf5ef98",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "USA"
+            },
+            {
+               "accountId": "07ac249f-8f68-474f-9ffc-a25ee5edfbec",
+               "number": "36155944",
+               "routingType": "ABA",
+               "localRouting": "021000089",
+               "bank": "7a42c530-09c1-42cd-9458-e4555bf5ef98",
+               "bankRole": "Intermediary",
+               "vasp": "c75dbfc3-230d-41a8-8f7a-2eaebe9b510b",
+               "country": "USA"
+            }
+         ]
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [
+      {
+         "traidingPairId": "a991ae33-dd51-475a-b558-36e7d2d53f9b",
+         "from": "BTC",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "86e4a344-56bb-445c-8aa4-4c6fc418b57f",
+         "from": "ETH",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "aecda402-20ab-4ff0-afc0-46d8b15eb3e0",
+         "from": "USDT",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "d070b769-0969-49c3-ba5d-e434401d81b6",
+         "from": "USDC",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "d33bdf61-d6b0-4132-aee1-5f32be54994c",
+         "from": "XRP",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "25cec6ac-cdd4-4742-b708-56b6ddeb78ca",
+         "from": "SOL",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "ad1c1ffb-63e6-40d9-b62a-54f3b52a7681",
+         "from": "AVAX",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "50687749-91b1-49ca-9efe-bb55e60f326a",
+         "from": "ATOM",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "08e24284-4907-4353-8a94-962c723a79f5",
+         "from": "SHIB",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "6b51a51e-0634-453d-b988-762e02317545",
+         "from": "TRUMP",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "2d887afb-577d-4328-84d6-60317fe8f2ba",
+         "from": "PEPE",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "b0e2ac9b-d72a-4196-9f9f-24777c9b277e",
+         "from": "BONK",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "94d0a92a-5141-426a-9581-d789415b8678",
+         "from": "WIF",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "e03c6600-2b26-4441-90cf-94e72190c3f4",
+         "from": "FLOKI",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "03d0dfb2-215d-499c-83cf-4976f690e9ee",
+         "from": "MELANIA",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "030653e8-8ae8-42e5-af99-7daf2b66f4ec",
+         "from": "ENS",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "d93b3362-cad1-427f-ad0f-18ff73342f87",
+         "from": "ONDO",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "9fcfa9b2-0272-488a-87e7-bc4483a1777f",
+         "from": "ICP",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "6fbea1b0-d6e1-4d42-a47b-1b2934750582",
+         "from": "NEAR",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "b319db20-8b3d-4175-8e83-8fb84a48d440",
+         "from": "IMX",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "4e53f04f-e430-4a39-a621-c0117bb3704f",
+         "from": "RNDR",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "51ee3dc6-3ba0-4412-b05b-0dc62f459eb2",
+         "from": "GRT",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "8bfabe89-7a40-4187-8732-6b0213550938",
+         "from": "LDO",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "cd59e05d-804e-484b-b40c-0707a76a4fc3",
+         "from": "ALGO",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "53463a76-d1c6-4d00-ad36-7195f9bec208",
+         "from": "DOT",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "4e2366a7-2918-45d5-89df-fd8b14f2bf07",
+         "from": "ADA",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "2d9ca873-3e63-4856-92a3-2902286e76ed",
+         "from": "XTZ",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "4185f881-e668-46b9-881c-2bacfcf57238",
+         "from": "APE",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "dcf2ca70-dccd-455f-b0b9-daf17c331cd0",
+         "from": "LINK",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "b5fb9d25-2d64-4056-b003-73e0f13a9a70",
+         "from": "POL",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "37760fb1-a569-4b99-a427-6582ae270b4e",
+         "from": "GALA",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "740df72a-74f5-405d-8273-14d3c1739d43",
+         "from": "SAND",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "831be3ba-44c1-4261-af95-94eb537f1ec4",
+         "from": "AXS",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "56f478e8-7458-4bec-acc9-793f87c849ca",
+         "from": "MANA",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "a58375f3-4a7e-40d6-ace5-43e94b5013bc",
+         "from": "DOGE",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "ec3229ed-93bf-43bd-b2c1-4898b2c5657e",
+         "from": "UNI",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "0b0034bc-cf32-4ec6-a5b7-ff8fa797658e",
+         "from": "FIL",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "2291efd8-d5c1-483b-93bd-c4899d60bfa6",
+         "from": "MKR",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "8198e207-a6c9-416a-87af-50cf9816fc4d",
+         "from": "CHZ",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "f445eb85-651e-44f4-8489-396508385b05",
+         "from": "AAVE",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "b67825d1-efd0-4d6a-9e20-8e1072efa7da",
+         "from": "COMP",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "e2f6dfc4-a009-4f6b-ba33-d5890acc576d",
+         "from": "XLM",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "952d1f24-95a5-4bc6-8ae6-4f61d66663c1",
+         "from": "ENJ",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "37242d76-af0f-40a8-93a3-70a7cc4db769",
+         "from": "BCH",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "65b15aba-0d21-4a5b-8825-7a8b10abe096",
+         "from": "LTC",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "a8bc5b38-ff67-4f8b-8b76-296e649851fa",
+         "from": "ZRX",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "fd22bffd-a8a1-4128-9992-c221fc1d0e98",
+         "from": "BNT",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "7682ab95-0b52-472a-8c08-017d51b218d0",
+         "from": "EOS",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "7fb7e14d-ed7e-4410-8c1e-1e209de87590",
+         "from": "AUDIO",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "4a4c368e-f8a9-4e10-9d85-fb9862625770",
+         "from": "ETC",
+         "to": "USD"
+      },
+      {
+         "traidingPairId": "9de5438d-b472-4047-9f76-6e57ea7e65c1",
+         "from": "HBAR",
+         "to": "USD"
+      }
+   ],
+   "regulations": [
+      {
+         "regulationId": "ce3e376d-beb0-4eea-9f85-774e73501b18",
+         "regulator": "487dbe66-2202-4bd8-910f-f485fb9da0b6",
+         "number": "CIF 422/22",
+         "printscreen": "Screenshot 2025-02-27 at 15.10.09",
+         "startDate": "11/21/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "ecbe675a-ff5f-4439-94f5-efb505077faa",
+         "regulator": "1c516f87-ae1b-479b-99e0-1d234ae29a21",
+         "number": "B00000324",
+         "printscreen": "Screenshot 2025-02-27 at 15.15.19",
+         "startDate": "11/13/2000",
+         "validated": true
+      },
+      {
+         "regulationId": "53c5bd9b-4a9d-4167-a928-0cdcbf879a81",
+         "regulator": "1c516f87-ae1b-479b-99e0-1d234ae29a21",
+         "number": "@00000002",
+         "printscreen": "Screenshot 2025-02-27 at 15.16.24",
+         "startDate": "11/13/2000",
+         "validated": true
+      },
+      {
+         "regulationId": "e78d915b-3452-4f26-bc87-7f13f9d9220c",
+         "regulator": "fafba2ff-14dd-4826-a95e-02198363f3af",
+         "number": "43908",
+         "printscreen": "Screenshot 2025-02-27 at 16.06.02",
+         "validated": true
+      },
+      {
+         "regulationId": "f360fac5-0333-4651-aa08-192e3961acf2",
+         "regulator": "0994bd69-d436-4e30-a756-0e40e545ea1f",
+         "printscreen": "Screenshot 2025-02-27 at 16.10.05",
+         "validated": true
+      },
+      {
+         "regulationId": "21c87a84-59a1-42b0-b97e-e5939f3ae7e4",
+         "regulator": "78ad2d0d-2626-4cff-a292-06e2866282f4",
+         "printscreen": "Screenshot 2025-02-27 at 16.12.00",
+         "validated": true
+      },
+      {
+         "regulationId": "bc4bcb6e-5587-42e0-b9cd-1e8b2bcc2971",
+         "regulator": "4f7b7dca-3695-40b9-b620-c8aa70772ab3",
+         "printscreen": "Screenshot 2025-02-27 at 16.28.58",
+         "validated": true
+      },
+      {
+         "regulationId": "b1b89d30-a717-449c-a56c-c93507fb7282",
+         "regulator": "d634c7a2-79c0-40af-bd27-9c3103ce314d",
+         "number": "AZV127",
+         "printscreen": "Screenshot 2025-03-04 at 08.43.48",
+         "startDate": "02/25/2013",
+         "validated": true
+      },
+      {
+         "regulationId": "e9f1dfd5-0e1d-4825-9075-a1481336d279",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "562170",
+         "printscreen": "Screenshot 2025-03-04 at 08.53.53",
+         "startDate": "02/05/2012",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": ""
+}

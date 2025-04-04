@@ -1,0 +1,562 @@
+{
+  "onChain": null,
+  "vaspId": "197dd7da-8d8b-48c4-9cd2-a252ac047379",
+  "commonName": "Coinmama",
+  "url": "https://www.coinmama.com/",
+  "domiciledCountry": "CAN",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2013",
+  "closedDate": null,
+  "isCustodial": false,
+  "amlPolicyUrl": null,
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "3d1d011e-d76d-40fa-9897-f25eb36f2ac2",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "3d7d8d86-bfc2-4a15-8892-b495c2e9cc59",
+      "type": "Legal",
+      "name": "New Bit Ventures Ltd.",
+      "country": "ISR"
+    },
+    {
+      "nameId": "d90dbe33-cb13-4e58-9961-b2920aa9da02",
+      "type": "Legal",
+      "name": "Cmama CA Inc.",
+      "country": "CAN"
+    },
+    {
+      "nameId": "68237543-137b-4770-a7c1-35f5d6b6ef16",
+      "type": " Legal",
+      "name": "Wellfield Technologies Inc.",
+      "country": "CAN"
+    },
+    {
+      "nameId": "351f0c6c-15b2-427d-bf40-16beeb50a35e",
+      "type": "Legal",
+      "name": "NBV International s.r.o",
+      "country": "SVK"
+    },
+    {
+      "nameId": "efbe7468-7109-4e53-bb40-8dcb010e820d",
+      "type": "Legal",
+      "name": "CMAMA LTD",
+      "country": "IRL"
+    },
+    {
+      "nameId": "d56d4b01-8bb4-4519-9e55-05a4b508a702",
+      "type": "Legal",
+      "name": "COINMAMA ISRAEL LTD",
+      "country": "ISR"
+    },
+    {
+      "nameId": "7dd1edad-2f38-4c39-b03c-0ec0c4d5c62f",
+      "type": "Legal",
+      "name": "COINMAMA LTD",
+      "country": "ISR"
+    },
+    {
+      "nameId": "ac06f418-beaa-4809-a8bc-4b10dbefa08a",
+      "type": "DBA",
+      "name": "Coinmama",
+      "country": "IRL"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "d69b6638-4d0f-492a-8bcf-867072e0812b",
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null,
+      "": null,
+      "_1": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": null,
+      "country": null,
+      "type": null,
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "b74cf1ec-d5cb-44ac-813e-7944dc0bd08f",
+      "createdDate": "03/17/2025",
+      "customerInfo": "Email address && Country of Residence && Address && Government ID && Video",
+      "requires2fa": false,
+      "legalNameRequired": false,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": false,
+      "selfieRequired": false,
+      "videoRequired": true,
+      "transactionLimitsExist": true,
+      "amountLimit": 0,
+      "currency": null,
+      "limitFrequency": "Transaction",
+      "notes": "https://www.coinmama.com/support/account-limits-buy-sell",
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "a49778cd-2ab1-4f46-a710-19af72d3b6c6",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "1fea66ec-a852-4fc3-aa1f-8b4358ad85d2",
+      "account": [
+        {
+          "accountId": "4d00b729-ee4f-4ee0-b5b5-5a7813b61038",
+          "number": "088110105371K002G",
+          "bic": "BFRILI22XXX",
+          "iban": "LI88088110105371K002G",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "78a9b83e-4b46-4846-a02d-01ed2ceaaceb",
+          "bankRole": "Custodian",
+          "country": "LIE"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "f0019517-f525-4b19-8e87-ca697787f4fc",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "cef005a2-c070-4ebd-b715-ba8955be80ab",
+      "paymentMethod": "SWIFT Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "1fea66ec-a852-4fc3-aa1f-8b4358ad85d2",
+      "account": [
+        {
+          "accountId": "0fb8fc37-e8c9-465b-b7f1-eabcd60ba869",
+          "number": "CLJU04130729907163",
+          "bic": "CLJUGB21XXX",
+          "iban": "GB58CLJU04130729907163",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "e380afe1-cf1e-46c3-8fc5-1178d59ff12e",
+          "bankRole": "Custodian",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "9ef28442-39ed-4d79-af0e-44d033dcef5b",
+      "paymentMethod": "Astro Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "89545e05-1121-41e6-9662-3e20fc6a3314",
+      "account": null
+    },
+    {
+      "paymentMethodId": "b074aa5c-8d51-4e05-9168-36eb4ee30590",
+      "paymentMethod": "Revolut Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "089d040e-b144-4f63-b784-30145874ae90",
+      "account": null
+    },
+    {
+      "paymentMethodId": "1d781172-74e6-42ee-a8c4-d1b5578ef66e",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "76462e4a-c6a0-4ae0-872e-04704d18c334",
+      "paymentMethod": "Google Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "b9eccd96-34f4-4641-ac53-4d91947155b0",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": null
+    },
+    {
+      "paymentMethodId": "b406f413-dc18-44f9-84b8-9c883790ad8e",
+      "paymentMethod": "Neteller",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "9bcbdd55-6982-4569-98e9-53e0b311eb01",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "1f7f0f1c-6d4b-4966-8d05-0a50277d911a",
+      "paymentMethod": "ACH",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "9ba1796e-47ad-4cee-85d0-a7016b9d77d8",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000233216980",
+      "printscreen": "msb_registration-2.pdf",
+      "startDate": "12/22/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "c95fb44f-17cf-4f4e-be7d-c087137986c7",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000209136930",
+      "printscreen": "msb_registration-3.pdf",
+      "startDate": "02/16/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "7ffcbe54-e9b1-499f-a10b-9eb2894b25f6",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000234014036",
+      "printscreen": "msb_registration-4.pdf",
+      "startDate": "01/04/2023",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "e2e79449-2ff6-42f5-8d63-6899b633d9c8",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "31000245714135",
+      "printscreen": "cmama-msb_registration.pdf",
+      "startDate": "06/06/2023",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "86e1863e-cd19-4158-a2b0-49e366d0931b",
+      "regulator": "a69b4ed8-1e2c-4787-ac8e-2ad6110f8f2a",
+      "number": "50 677 373",
+      "printscreen": "Screenshot 2025-03-17 at 17.42.32.png",
+      "startDate": "01/27/2017",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "76d304f1-5cc2-40e4-9bc7-9a59f7ed8f1f",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": "Screenshot 2025-03-17 at 17.36.01.png",
+      "startDate": "12/22/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "cb1cd698-748b-45d8-bded-a240d7a6e969",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": "Screenshot 2025-03-17 at 17.36.01.png",
+      "startDate": "12/22/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "cb342219-3a54-452d-8cd6-aed95f6d1690",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": "Screenshot 2025-03-17 at 17.36.01.png",
+      "startDate": "02/16/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "7d8699d8-c53f-4dab-8857-341b0833e2ee",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": "Screenshot 2025-03-17 at 17.36.01.png",
+      "startDate": "01/04/2023",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "cc7b20ae-a96e-4261-90c3-1a18e392c66e",
+      "regulator": "3441d8d1-3473-44c1-8c49-3c675ed74d26",
+      "number": "409",
+      "printscreen": "Screenshot 2025-03-17 at 17.36.01.png",
+      "startDate": "06/06/2023",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "6ad91f0f-eefc-4e69-8e46-aa5252e76887",
+      "regulator": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+      "number": "M21603548",
+      "printscreen": "Screenshot 2025-03-19 at 08.08.09.png",
+      "startDate": "01/14/2021",
+      "endDate": "06/30/2023",
+      "validated": true
+    },
+    {
+      "regulationId": "829e369d-3cd4-4ac8-9ad6-c7bb4c5e8ba8",
+      "regulator": "ea9ac665-3637-4683-956d-5ad5df2762ae",
+      "number": "M22721929",
+      "printscreen": "Screenshot 2025-03-19 at 08.08.09.png",
+      "startDate": "09/13/2022",
+      "endDate": "12/31/2023",
+      "validated": true
+    },
+    {
+      "regulationId": "a60597e4-f139-40c0-a512-942494dc5684",
+      "regulator": "bd746087-1614-405d-86e4-e4dea850753d",
+      "number": "717795",
+      "printscreen": "Screenshot 2025-03-19 at 08.25.26.png",
+      "startDate": "12/22/2022",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "e7bbe139-5e9d-445e-b543-d69f158dcfbe",
+      "regulator": "bd746087-1614-405d-86e4-e4dea850753d",
+      "number": "718077",
+      "printscreen": "Screenshot 2025-03-19 at 08.25.47.png",
+      "startDate": "12/01/2020",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "01bbc46c-9c84-48ea-88f1-68c5d0c66688",
+      "regulator": "bd746087-1614-405d-86e4-e4dea850753d",
+      "number": "672704",
+      "printscreen": "Screenshot 2025-03-19 at 08.26.37.png",
+      "startDate": "06/22/2020",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "9e3ccf57-435a-47a7-bb0a-743a8b154789",
+      "regulator": "a6017546-8d1b-4972-8bc3-744dc95ddcfd",
+      "number": "515833739",
+      "printscreen": "Screenshot 2025-03-19 at 11.41.02.png",
+      "startDate": "04/22/2018",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "bdc8c461-e510-4454-b9c1-5e945464760b",
+      "regulator": "a6017546-8d1b-4972-8bc3-744dc95ddcfd",
+      "number": "516411121",
+      "printscreen": "Screenshot 2025-03-19 at 11.41.09.png",
+      "startDate": "06/08/2021",
+      "endDate": null,
+      "validated": true
+    },
+    {
+      "regulationId": "9191ca79-64ef-41f2-a3e7-ec5a190b9fe1",
+      "regulator": "a6017546-8d1b-4972-8bc3-744dc95ddcfd",
+      "number": "514907880",
+      "printscreen": "Screenshot 2025-03-19 at 11.41.29.png",
+      "startDate": "04/11/2013",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

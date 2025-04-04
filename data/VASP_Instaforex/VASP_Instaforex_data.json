@@ -1,0 +1,263 @@
+{
+  "onChain": null,
+  "vaspId": "89b5a847-ead2-431f-aa71-f4dd25136b66",
+  "commonName": "Instaforex",
+  "url": "https://www.instaforex.eu/",
+  "domiciledCountry": "CYP",
+  "hqRegion": "Europe",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": false,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": false,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2007",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://www.instaforex.eu/downloads/legal_documentation_eu/aml_policy.pdf",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "dc84a1ee-9ccc-4079-9f7c-621b693e1399",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "257b39af-e438-4944-94bc-342add8915b7",
+      "type": "legal",
+      "name": "Instant Trading EU Ltd",
+      "country": "CYP"
+    },
+    {
+      "nameId": "31a4d38b-d469-4f43-85ab-423db30bc68f",
+      "type": "legal",
+      "name": "Tradomart Ltd",
+      "country": "EST"
+    },
+    {
+      "nameId": "ad7f283c-9515-4af6-8026-50ed86833235",
+      "type": "Formerly ",
+      "name": "Fxco Trading Ltd",
+      "country": "CYP"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "31562705-d344-48f3-9ac7-b0e8237ccec0",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d9bfe8c8-0856-4ba6-998d-988ee4f67274",
+      "country": "GBR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5cf51b6f-0eea-4694-bd83-b2b82eac332e",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "f5678778-2aca-4d37-9c16-cc22ed32f5c6",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "b3cedac1-aeb6-4ffe-aa09-48c3b6c97b02",
+      "country": "RUS",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "aa6832d2-495f-4dff-899b-a5b87e1d6470",
+      "country": "BLR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "86e25c84-58ec-467a-883b-8aa6f825e4c2",
+      "country": "TUR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "90fa2455-fa6b-4a70-9aa1-acaa4ba30974",
+      "country": "AFG",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "9cfdb464-a492-4444-b6ed-9c0916d3ae73",
+      "country": "COD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "d0418230-fc99-4277-8f8d-7b1372fd8aa3",
+      "country": "CYP",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "caf2d3d4-59ce-490c-b455-5a6e76443180",
+      "createdDate": "03/28/2025",
+      "customerInfo": "legal name && DOB && address && proof of address && country of citizenship && govt ID && email && phone",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": false,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": null,
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "d7c8d676-2f67-47b8-b986-c3a81c316d22",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": false,
+      "jurisdiction": "LTU",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "090346ef-f28b-4a4a-b4b1-72fcd6f10543",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": false,
+      "jurisdiction": "LTU",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "89054df8-5070-4865-b9f0-c0e9332f16e8",
+      "paymentMethod": "Sofort",
+      "isAmountRestricted": false,
+      "jurisdiction": "DEU",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "9b9dfab5-3aab-428e-80e0-331b8f5b6aa7",
+      "paymentMethod": "PayCo",
+      "isAmountRestricted": false,
+      "jurisdiction": "DEU",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "4fd271d5-2c0f-444a-814f-07a71c5e3ae6",
+      "paymentMethod": "Rapid",
+      "isAmountRestricted": false,
+      "jurisdiction": "DEU",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "7977c607-928e-43da-8a56-f15322763842",
+      "paymentMethod": "Skrill",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+      "account": null
+    },
+    {
+      "paymentMethodId": "dfb06bbc-d2a7-47ba-900b-8620ea896023",
+      "paymentMethod": "Neteller",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "99b0ad9e-5c82-4a1b-bd3c-7aa60a126a21",
+      "paymentMethod": "SEPAGA",
+      "isAmountRestricted": null,
+      "jurisdiction": "CYP",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "f2fe3cf2-c176-4725-accd-e38cdc1c361a",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "6ccd941a-1833-4638-ba56-bea5c445593c",
+      "paymentMethod": "Giropay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "76f5cdfa-0604-4842-86b9-c138615f4191",
+      "paymentMethod": "Payoma",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "00aa5e06-7460-45a2-bd71-90c827930583",
+      "paymentMethod": "Rapid Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "1a5bbffa-171b-4884-96b1-36ade5b78b94",
+      "paymentMethod": "Przelewy24",
+      "isAmountRestricted": null,
+      "jurisdiction": "POL",
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "6b80015b-1c74-40fc-bfd1-05894b8ad023",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": [
+    {
+      "regulationId": "5585015b-5a57-456c-a39c-fc601a9135cd",
+      "regulator": "487dbe66-2202-4bd8-910f-f485fb9da0b6",
+      "number": "266/15",
+      "printscreen": null,
+      "startDate": "01/13/2015",
+      "endDate": null,
+      "validated": true
+    }
+  ],
+  "vaspSanction": null
+}

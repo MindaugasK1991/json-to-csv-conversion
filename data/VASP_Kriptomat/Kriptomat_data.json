@@ -1,0 +1,348 @@
+{
+   "vaspId": "18fe7739-869e-43b4-84c1-7eefe19b8e82",
+   "commonName": "Kriptomat",
+   "url": "https://kriptomat.io/",
+   "domiciledCountry": "EST",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": true,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2018",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://kriptomat.io/aml/",
+   "isReported": false,
+   "vaspType": [
+      {
+         "vaspTypeId": "e4c03f7e-5622-43b6-b4e6-77f19b62ebee",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "ad6d58ec-1b5b-4967-b73f-b2eb037ee1a0",
+         "type": "Legal",
+         "name": "FintechX OÜ",
+         "country": "EST"
+      },
+      {
+         "nameId": "65f4fb49-68b3-4fd1-b105-7cd3ad78b8ad",
+         "type": "Formerly",
+         "name": "Kriptomat OÜ",
+         "country": "EST"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "7a7e4cf3-c433-4f67-8a6f-67d46ec8905c",
+         "country": "EST",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "8c53771e-88d1-4a0c-848d-3cca92ed9524",
+         "country": "AFG",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "a43d3d5d-6250-4d7f-8aab-d11a7b8bcb70",
+         "country": "DZA",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "02e4fac2-4b08-4aa9-9d6a-04f3f22fcca1",
+         "country": "ASM",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "4d4db5d7-4d29-45ee-abe2-b047705a5a46",
+         "country": "BGD",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "cfae6e27-6d5b-4527-8b47-a98a27ae66be",
+         "country": "BLR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "9f9a899d-919f-49b0-88f2-ea48d94bf4dc",
+         "country": "BOL",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "94a203e2-e9bb-4481-b91a-9b8d682fc7b7",
+         "country": "CHN",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "426918b5-14dc-4e89-92c3-597873b4f377",
+         "country": "COD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "ab1415ee-33a5-49af-9fb4-55ae11ebc1ba",
+         "country": "PRK",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "1ab83d2a-4d6f-4916-9a9b-00cda09f4561",
+         "country": "ECU",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "43a34370-c1ea-4e9d-a66b-47b742c59d7b",
+         "country": "EGY",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "209f2e33-29bc-4698-882a-7e74b693dd28",
+         "country": "ETH",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "fca6f88e-8723-489d-a8b3-c7157c3a6e84",
+         "country": "IND",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "7068ab78-8555-4871-9481-6d4cd68374e1",
+         "country": "IRN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "51017ca6-9a76-443f-8c6e-9bced6f8c19d",
+         "country": "IRQ",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "3c9a24a2-5988-44d4-843e-ac4febfed5c9",
+         "country": "KGZ",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "ac3d4fc1-eccd-47cc-bf65-c5c3533022ff",
+         "country": "PAK",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "a48f0286-bbdd-48a7-bb4f-72289b24557b",
+         "country": "PSE",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "e2c364dc-0073-4363-ad97-626a031e73d8",
+         "country": "QAT",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "3c1592a6-f8a9-42bc-9991-d8e8580898bd",
+         "country": "RUS",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "ecf5616f-ef44-42f9-922b-e6742fffe967",
+         "country": "SAU",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "6b26d74e-2e5c-410d-bf02-d8fd2c457758",
+         "country": "SYR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "04e372c5-f868-49f6-97f0-d4793f96200d",
+         "country": "MAR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "2483c765-36f5-438a-8085-6aca173919c1",
+         "country": "NPL",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "a98b4ceb-e831-4925-9530-2a48e00c164a",
+         "country": "UKR",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "4b43f5c5-aa31-4fae-a4ed-6f85b1dfb5fe",
+         "country": "USA",
+         "type": "Prohibits Citizens of"
+      },
+      {
+         "countryRelId": "fb9337e6-0502-4fc8-b3a9-227b17d1ab7c",
+         "country": "VUT",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "568dd059-03cc-4ae7-bfe5-6f7eb0c9d93c",
+         "country": "VNM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "d5382fe6-e4ef-4826-989a-b6f60fbd6b98",
+         "country": "ZMB",
+         "type": "Prohibits Citizens of"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "c224ee95-ea8e-49d4-8bef-86a5b63cf408",
+         "createdDate": "02/13/2025",
+         "customerInfo": "Legal Name && Email Address && Phone Number, Country of Citizenship && Address && Government ID && Video",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": false,
+         "addressRequired": true,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": true,
+         "transactionLimitsExist": true,
+         "amountLimit": 25000,
+         "currency": "EUR",
+         "limitFrequency": "Day",
+         "internalNotes": "https://kriptomat.io/crypto-basics/verify-your-identity/"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "7b82de2f-b0bd-4219-88a7-0af7c6058a7a",
+         "paymentMethod": "SEPA Transfer",
+         "isAmountRestricted": true,
+         "account": [
+            {
+               "accountId": "6d8d7b57-4247-4b3d-bdbf-548a939cce8b",
+               "number": "600000000858521",
+               "bic": "HLONSI22XXX",
+               "iban": "SI56600000000858521",
+               "routingType": "IBAN",
+               "bank": "25ff1500-4092-422a-986d-3011a1b10d2a",
+               "bankRole": "Custodian",
+               "vasp": "18fe7739-869e-43b4-84c1-7eefe19b8e82",
+               "country": "SVN"
+            },
+            {
+               "accountId": "e5165ac2-f6b4-4677-90fb-3b54faff45ee",
+               "number": "08799964700100814",
+               "bic": "INCOCHZZXXX",
+               "iban": "CH3808799964700100814",
+               "routingType": "IBAN",
+               "bank": "f7fc7358-fe74-467e-875c-dc154228ad0c",
+               "bankRole": "Custodian",
+               "vasp": "18fe7739-869e-43b4-84c1-7eefe19b8e82",
+               "country": "CHE"
+            },
+            {
+               "accountId": "b60001d8-ad82-4715-ae52-dbe4763f74c9",
+               "number": "3080020000000310",
+               "bic": "NEUALT21XXX",
+               "iban": "LT603080020000000310",
+               "routingType": "IBAN",
+               "bank": "90f596d6-0bbe-4846-b97b-be3b32a5f135",
+               "bankRole": "Custodian",
+               "vasp": "18fe7739-869e-43b4-84c1-7eefe19b8e82",
+               "country": "LTU"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "e9a8ebb8-f799-423c-9abb-0afcfd635080",
+         "paymentMethod": "Debit / Credit Card",
+         "isAmountRestricted": true,
+         "account": []
+      },
+      {
+         "paymentMethodId": "0c50b0e9-b404-4315-932f-c7cc1ab2e52e",
+         "paymentMethod": "Skrill",
+         "isAmountRestricted": true,
+         "onrampProvider": "1d71cc07-3953-4336-bfda-45ceb7ec0ed9",
+         "account": []
+      },
+      {
+         "paymentMethodId": "d3d6dafd-4d68-4dac-b87c-c38378df2e31",
+         "paymentMethod": "Neteller",
+         "isAmountRestricted": true,
+         "onrampProvider": "86641c75-6d49-406a-8de5-e45376ea604b",
+         "account": []
+      },
+      {
+         "paymentMethodId": "ceab9eef-2cc4-49ae-ac9a-52c67a91fd7f",
+         "paymentMethod": "Astro Pay",
+         "isAmountRestricted": true,
+         "onrampProvider": "89545e05-1121-41e6-9662-3e20fc6a3314",
+         "account": []
+      },
+      {
+         "paymentMethodId": "95f12448-0775-4cb6-a8f1-7f006bb13209",
+         "paymentMethod": "SOFORT Banking",
+         "isAmountRestricted": true,
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [
+      {
+         "regulationId": "e47294a2-bbae-420b-a345-83a40c3d61da",
+         "regulator": "5467d8b1-4ee0-41b8-99f3-08d25afe5206",
+         "number": "FVT000310",
+         "printscreen": "Screenshot 2025-03-07 at 17.13.19.png",
+         "startDate": "11/11/2020",
+         "validated": true
+      },
+      {
+         "regulationId": "af4c0fe3-c507-4645-aac8-340232fd6ffc",
+         "regulator": "f0035b9e-dd6c-42ab-90be-9946ca1a066a",
+         "number": "14424637",
+         "printscreen": "Screenshot 2025-03-07 at 17.18.54.png",
+         "startDate": "05/25/2021",
+         "validated": true
+      },
+      {
+         "regulationId": "5db15d38-0a08-496b-a4af-9d0499069a73",
+         "regulator": "1af27f35-c657-4e77-b52f-88283357c464",
+         "number": "D718",
+         "printscreen": "Screenshot 2025-03-07 at 17.33.19.png",
+         "startDate": "10/20/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "7667a181-b045-4e47-95df-beb4114beec4",
+         "regulator": "7bb0bb07-1915-4805-9090-bdb78a8f40b5",
+         "number": "RDWW-408",
+         "printscreen": "Screenshot 2025-03-07 at 17.35.39.png",
+         "startDate": "08/09/2022",
+         "validated": true
+      },
+      {
+         "regulationId": "68f5e73a-5f9a-4134-b944-a2745e9fae45",
+         "regulator": "9d4895d3-7d75-44b2-8c4f-5b01e99fb413",
+         "number": "E2023-095",
+         "printscreen": "Screenshot 2025-03-07 at 17.44.59.png",
+         "startDate": "09/05/2023",
+         "validated": true
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "kriptomat"
+}

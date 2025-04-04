@@ -1,0 +1,471 @@
+{
+  "onChainId" : "Revolut",
+  "vaspId" : "089d040e-b144-4f63-b784-30145874ae90",
+  "commonName" : "Revolut",
+  "url" : "https://www.revolut.com/",
+  "domiciledCountry" : "GBR",
+  "hqRegion" : "Europe",
+  "isSanctioned" : false,
+  "directOnramp" : true,
+  "indirectOnramp" : false,
+  "hasOffRamp" : null,
+  "tradesFiat" : true,
+  "tradesPrivacyCoins" : true,
+  "isDecentralized" : false,
+  "hasKyc" : true,
+  "kycSubScore" : 10,
+  "openedDate" : "07/01/2015",
+  "closedDate" : null,
+  "isCustodial" : true,
+  "amlPolicyUrl" : "https://help.revolut.com/business/help/more/security-and-personal-data/what-is-money-laundering/",
+  "profile" : null,
+  "isReported" : true,
+  "vaspType" : [ {
+    "vaspTypeId" : "80be44bc-ba3d-4646-b53d-48db8fef1d00",
+    "type" : "Exchange"
+  }, {
+    "vaspTypeId" : "e994582c-0445-433e-ad9a-5132c5826e95",
+    "type" : "Payment Provider"
+  } ],
+  "names" : [ {
+    "nameId" : "a6aa957f-199a-43cb-8afc-d2893a4956db",
+    "type" : "Legal",
+    "name" : "Revolut Bank UAB",
+    "country" : "LTU"
+  }, {
+    "nameId" : "5eb567bd-a60f-44c9-819e-c08be16409f2",
+    "type" : "Legal",
+    "name" : "Revolut Bank UAB Magyarországi Fióktelepe",
+    "country" : "HUN"
+  }, {
+    "nameId" : "ac0560a2-f29b-4eca-81d5-8bbf6eea8563",
+    "type" : "Legal",
+    "name" : "Revolut Bank UAB, Zweigniederlassung Deutschland",
+    "country" : "DEU"
+  }, {
+    "nameId" : "c5716f8d-dd75-4bcb-b6fe-d4358066464b",
+    "type" : "Legal",
+    "name" : "REVOLUT BANK UAB SUCURSAL EN ESPAÑA",
+    "country" : "ESP"
+  }, {
+    "nameId" : "48082e1e-7bd9-457e-a1e8-5407cbbf1cdd",
+    "type" : "Legal",
+    "name" : "REVOLUT BANK UAB VILNIUS SUCURSALA BUCURESTI",
+    "country" : "ROU"
+  }, {
+    "nameId" : "8cbbb0f3-800c-4468-9333-7cee3b17170e",
+    "type" : "Legal",
+    "name" : "Revolut Ltd",
+    "country" : "GBR"
+  }, {
+    "nameId" : "5c2d56c2-9205-44f2-97f2-e39091036a54",
+    "type" : "Legal",
+    "name" : "Revolut Trading Ltd",
+    "country" : "GBR"
+  }, {
+    "nameId" : "c510bc76-2261-44c1-9491-386ae5e9588a",
+    "type" : "Legal",
+    "name" : "Revolut NewCo UK Ltd",
+    "country" : "GBR"
+  }, {
+    "nameId" : "598d6684-b686-44d5-a086-5e03db7e1b82",
+    "type" : "Legal",
+    "name" : "Revolut Travel Ltd",
+    "country" : "GBR"
+  }, {
+    "nameId" : "73852ada-31ac-4ac1-bf6f-6abc28c72c02",
+    "type" : "Legal",
+    "name" : "Revolut Holdings Europe UAB",
+    "country" : "LTU"
+  }, {
+    "nameId" : "204c7afb-1d26-4c16-ace6-03301c43ee7b",
+    "type" : "Legal",
+    "name" : "Revolut Insurance Europe UAB",
+    "country" : "LTU"
+  }, {
+    "nameId" : "a428cd9c-92c9-4120-af4e-e87654ac480c",
+    "type" : "Legal",
+    "name" : "Revolut Ltd filialas",
+    "country" : "LTU"
+  }, {
+    "nameId" : "83a376f1-bcde-4bc3-9459-4124e1f61338",
+    "type" : "Legal",
+    "name" : "Revolut Securities Europe UAB",
+    "country" : "LTU"
+  } ],
+  "countryRel" : [ {
+    "countryRelId" : "5524259b-18b1-4346-940b-bc709a086eae",
+    "country" : "GBR",
+    "type" : "Headquartered in",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "9991e4b3-a9a7-4be1-afaf-9b33d50c8d59",
+    "country" : "AUS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b619474a-ca98-44e4-8e00-94b6b2e4ed98",
+    "country" : "AUT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e6376aaf-2302-4cb1-a2fb-94829b4f5e64",
+    "country" : "BEL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "09d6736b-f864-493d-819a-46c2dee9b343",
+    "country" : "BRA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7f66a6d8-73a5-4ada-abd9-ec2486fb737b",
+    "country" : "BGR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "b4312809-5ec5-4e5b-8384-4a394e31bbe6",
+    "country" : "HRV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "19516941-32b1-49ae-b240-7bc21cdeccd5",
+    "country" : "CYP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b60271fc-968d-49f6-b109-954704b7e99d",
+    "country" : "CZE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "312ce08d-c218-4990-b5ef-1fe92e683551",
+    "country" : "DNK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8630d2c6-6acf-4504-9e5d-6227ea5cc2c9",
+    "country" : "EST",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "731cd909-f6eb-4909-a897-797b7c5d864d",
+    "country" : "FIN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5c13b4ed-2825-4057-abdc-88e2a3d86b23",
+    "country" : "FRA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "cc4d4e09-b966-4fcc-8b8f-473bf68d15c4",
+    "country" : "DEU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d68ca8fd-9680-44a0-8886-3f3d0278b831",
+    "country" : "GRC",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8646ccdb-3407-4e75-b5fb-421a7c5b6009",
+    "country" : "HUN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "88bc9b9a-9b90-4e4a-9f43-710397fd4e9b",
+    "country" : "ISL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "faf7a256-467e-49c6-8cb7-b1ada1935035",
+    "country" : "IND",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6a5c2ccf-2011-4895-ad6e-ed7345c45ccd",
+    "country" : "IRL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "318243ef-9e22-44bc-9e71-8e25692d7831",
+    "country" : "ITA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b5292086-806d-4973-b18e-5a1b5b04656d",
+    "country" : "JPN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "23e5c816-4886-4d68-9cd6-0c034f04774b",
+    "country" : "LVA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "60fb421e-84ee-4641-acf6-704df3e4c5fe",
+    "country" : "LIE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e8649524-36dd-4c2a-a55f-1347c288cf63",
+    "country" : "LTU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "701f3522-2c1c-4b61-a665-7d967ab312e0",
+    "country" : "LUX",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e3dd4089-54c5-4192-943c-e7142d4d1c9b",
+    "country" : "MLT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "af1ec19a-d2e7-4fe0-92c2-c520cf94e500",
+    "country" : "MEX",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8d4f8ab8-2e6e-4971-b213-4b22770728a4",
+    "country" : "NLD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "9d420890-8087-4fb4-b44f-42a81c6d193a",
+    "country" : "NZL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "197dda97-c8ba-4645-a7ca-2eb39d442c9f",
+    "country" : "NOR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "13768c66-29f5-48b7-8abd-29fd3fa2e0ae",
+    "country" : "POL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "70ec49cc-d5bf-4c55-8be3-1ba9bb44fc7f",
+    "country" : "PRT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "719b22ef-e35b-40e3-9680-449abf201905",
+    "country" : "ROU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1ccc7f34-f829-4964-ba20-242f406d746e",
+    "country" : "SGP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "52611b13-f4ba-494c-8400-cb2292214077",
+    "country" : "SVK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "216cf43c-0c0d-4c99-8a07-87ef12297ec1",
+    "country" : "SVN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e22ab5e4-4a29-4c00-9272-4f6691f2b432",
+    "country" : "ESP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "67db06a8-691d-41c5-859e-fdb199d142fe",
+    "country" : "SWE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "01a84af9-11a6-4102-9211-91e67b4c8fcc",
+    "country" : "CHE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "0a25c03c-9625-4444-b1fe-d5e299d7bd67",
+    "country" : "UKR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b55b7f40-4627-4452-b9c5-ee1c5589440a",
+    "country" : "GBR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4280c9ca-c033-44af-88d4-edc3eb004f43",
+    "country" : "USA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  } ],
+  "kyc" : [ {
+    "kycId" : "f94e348c-dfdf-42b4-9711-f6b7289f497d",
+    "createdDate" : "01/10/2025",
+    "customerInfo" : "Phone number && Country of Citizenship && email address && Legal Name && DOB && address && selfie && Government ID && SSN/TIN",
+    "requires2fa" : false,
+    "legalNameRequired" : true,
+    "dobRequired" : true,
+    "addressRequired" : true,
+    "ssn_tinRequired" : true,
+    "countryOfCitizenshipRequired" : true,
+    "govtIdRequired" : true,
+    "proofOfResidencyRequired" : false,
+    "emailRequired" : true,
+    "phoneRequired" : true,
+    "selfieRequired" : true,
+    "videoRequired" : false,
+    "transactionLimitsExist" : true,
+    "amountLimit" : 200000,
+    "currency" : "USD",
+    "limitFrequency" : "Day",
+    "notes" : null,
+    "internalNotes" : "from youtube video https://www.youtube.com/watch?v=0QeoDpS6gq8"
+  } ],
+  "kycWeights" : {
+    "ssnTinRequiredWeight" : 25,
+    "proofOfResidencyRequiredWeight" : 15,
+    "videoRequiredWeight" : 14,
+    "govtIdRequiredWeight" : 12,
+    "selfieRequiredWeight" : 10,
+    "legalNameRequiredWeight" : 5,
+    "addressRequiredWeight" : 6,
+    "dobRequiredWeight" : 12,
+    "phoneRequiredWeight" : 4,
+    "countryOfCitizenshipRequiredWeight" : 6,
+    "transactionLimitsExistWeight" : 7,
+    "emailRequiredWeight" : 2
+  },
+  "paymentMethods" : [ {
+    "paymentMethodId" : "326ed37a-4784-4fc8-aaf2-6740f84a7414",
+    "paymentMethod" : "Bank Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "GBR",
+    "onrampProvider" : null,
+    "account" : [ {
+      "accountId" : "541fd7cb-96ae-4475-a27d-89700108e687",
+      "number" : "57251991",
+      "bic" : null,
+      "iban" : null,
+      "routingType" : "Sort Code",
+      "localRouting" : "04-29-09",
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "GBR"
+    } ]
+  }, {
+    "paymentMethodId" : "5c31f45a-2cc8-4341-831e-63984d719b59",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "GBR",
+    "onrampProvider" : null,
+    "account" : [ {
+      "accountId" : "d9a32249-6de8-451d-a0ef-4ffe39634671",
+      "number" : "REVO00997042471493",
+      "bic" : "REVOGB21XXX",
+      "iban" : "GB18REVO00997042471493",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "GBR"
+    } ]
+  } ],
+  "billingDescriptor" : [ ],
+  "tradingPairs" : [ ],
+  "regulations" : [ {
+    "regulationId" : "e3acfd0b-1a88-4966-a70c-b2d810d62f97",
+    "regulator" : "68f759fc-417e-4a93-a716-4ea86757c06c",
+    "number" : "LT304580906",
+    "printscreen" : "Screenshot 2024-12-11 112203.png",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "413515de-3116-4069-b9e8-c06fb103254d",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "900562",
+    "printscreen" : "Screenshot 2024-12-11 184524.png",
+    "startDate" : "05/11/2018",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "da2288e0-5cd2-4fa2-b56a-dc7deb2600ce",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "933846",
+    "printscreen" : "Firm Details.jpeg",
+    "startDate" : "11/18/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "affd997b-09e9-42cc-81cf-0ec50f374366",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "981170",
+    "printscreen" : "Revolut NewCo UK Ltd.jpeg",
+    "startDate" : "07/25/2024",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "f58468ae-8b06-41f6-9497-b44dbb827f42",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "780586",
+    "printscreen" : "Revolut Travel Ltd.jpeg",
+    "startDate" : "09/21/2017",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "08cfe920-1466-4831-b828-0079bd26b758",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "975775",
+    "printscreen" : "Revolut Ltd.jpeg",
+    "startDate" : "09/09/2019",
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "d5d17083-0de8-4e2f-8d87-f305c137e24b",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "304580906",
+    "printscreen" : "Public Search in the Register of Legal Entities  SE Centre of Registers.jpeg",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "01fe3bdf-afa5-4970-9637-3776ed6e2788",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "305820090",
+    "printscreen" : "Public Search in the Register of Legal Entities  SE Centre of Registers.jpeg",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "a9a12847-cf9f-47da-8021-6c38a1479335",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "305910164",
+    "printscreen" : "Public Search in the Register of Legal Entities  SE Centre of Registers.jpeg",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "3402ccaf-cc5c-4cc0-9e18-76e2c260b294",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "305229066",
+    "printscreen" : "Public Search in the Register of Legal Entities  SE Centre of Registers.jpeg",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  }, {
+    "regulationId" : "a4e5bf01-2f77-44d7-963b-34898857da94",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "305799582",
+    "printscreen" : "Public Search in the Register of Legal Entities  SE Centre of Registers.jpeg",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : null
+  } ],
+  "vaspSanction" : [ ]
+}

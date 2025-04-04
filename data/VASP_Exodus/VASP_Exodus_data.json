@@ -1,0 +1,205 @@
+{
+  "onChain": null,
+  "vaspId": "ba3d6922-7821-4465-a0ad-633d5b1b1b4c",
+  "commonName": "Exodus",
+  "url": "https://www.exodus.com/",
+  "domiciledCountry": "USA",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": false,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": true,
+  "hasKyc": true,
+  "openedDate": "01/01/2015",
+  "closedDate": null,
+  "isCustodial": false,
+  "amlPolicyUrl": null,
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "8cb05d33-42bc-4560-bca0-19023d926eb1",
+      "type": "Wallet"
+    },
+    {
+      "vaspTypeId": "e8f74bf2-dac1-4ac1-a91f-3bf6516779a6",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "f551c3ae-9f3c-434a-9bb7-d836b132d2c8",
+      "type": "Legal",
+      "name": "Exodus Movement, Inc.",
+      "country": "USA"
+    },
+    {
+      "nameId": "ffa1cbaf-a947-4005-8f9f-561dad5cf02f",
+      "type": "Legal",
+      "name": "Proper Trust AG",
+      "country": "CHE"
+    },
+    {
+      "nameId": "fdcbab43-6cd1-49cb-a911-bf2c3a76b977",
+      "type": "Legal",
+      "name": "3ZERO, LLC",
+      "country": "USA"
+    },
+    {
+      "nameId": "8702ffa1-4e26-458f-9f3d-39b0bcb5b6ae",
+      "type": "Legal",
+      "name": "OSMIUM, LLC",
+      "country": "USA"
+    },
+    {
+      "nameId": "950ae312-0584-498e-95b8-06b90cf91b32",
+      "type": "Legal",
+      "name": "Osmium Europe B.V.",
+      "country": "NLD"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "7fc3edbb-721e-4bbc-92a3-01e7b5433b50",
+      "country": "CUB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "6a48f643-4edd-4470-b79f-dc40e1bcffde",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "9c5062b4-ac35-428f-ac8c-1a81b60f9d38",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "71183167-4e39-4da0-96a5-e1aaca9fd5c2",
+      "country": "UKR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2640d2f3-42c4-4f8c-b97f-332233238b61",
+      "country": "USA",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5b6b47b2-185f-4636-ba33-b0aa8ff1f3ef",
+      "country": "GBR",
+      "type": "Restricts some services to citizens of",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "1f076bbf-5a9c-43d5-917e-ca1a61155a77",
+      "createdDate": "03/29/2025",
+      "customerInfo": "Email address && Phone number && SSN/TIN, DOB, Country, Legal Address",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": false,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": false,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": "https://www.exodus.com/support/en/articles/10776618-how-do-i-buy-crypto-with-xo-pay-in-exodus#h_f93fcc9efc",
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "4e41379c-742e-4c61-a463-05871935b08e",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "fc377c96-84f8-40e0-a8ab-b1759928d1c8",
+      "paymentMethod": "Google Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "7ef7d9d0-be69-4e02-aaa8-c427f728dd0c",
+      "paymentMethod": "MoonPay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": " 61913fa7-17ef-4a90-95b0-3c625e12a37b",
+      "account": null
+    },
+    {
+      "paymentMethodId": "5660a4ff-1a4e-448d-a1c3-771dc711b779",
+      "paymentMethod": "PayPal",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "45f55769-e42b-4486-bc4a-30e5f0fb2d5d",
+      "paymentMethod": "Ramp Network",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": " 7d29f90f-cef2-40f3-b230-2ddb832e8652",
+      "account": null
+    },
+    {
+      "paymentMethodId": "d0828d90-f163-45c3-8d21-c9d1eceaf52b",
+      "paymentMethod": "Sardine",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "6040ea2a-8bc7-4329-a294-31fa44f332bc",
+      "account": null
+    },
+    {
+      "paymentMethodId": "25302d90-0175-4750-9163-e8a59d7ce139",
+      "paymentMethod": "Robinhood Connect",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "ea7b525a-641c-4061-ba26-d28166f73952",
+      "paymentMethod": "Banxa",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+      "account": null
+    },
+    {
+      "paymentMethodId": "45f71e9f-c67f-4424-b553-13334b5b3690",
+      "paymentMethod": "Blockchain.com",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": " 689d49da-145f-48d9-b045-c417e23921ae",
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": null,
+  "vaspSanction": null
+}

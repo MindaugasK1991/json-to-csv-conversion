@@ -1,0 +1,22 @@
+KYC_ID,VASP_ID,VASP_Name,Requires_2fa,Legal_Name_Required,DOB_Required,Address_Required,SSN/TIN_Required,Country_of_Citizenship_Required,Govt_ID_Required,Proof_of_Residency_Required,Email_Required,Phone_Required,Selfie_Requirred,Video_Required,Transaction_Limits_Exist,Amount_Limit,Currency,Limit_Frequency,Notes
+16a26e6e-f8f8-4009-b6ca-56fcbacb7c8d,4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,false,false,false,false,false,false,true,false,true,false,true,true,true,8000000,BUSD,Day,
+4b9ddeab-1206-4775-abdb-38f215c336b8,e2140447-6250-46e5-828a-2068bccc374d,Bitget,false,true,true,false,false,true,true,true,true,true,false,true,true,1000000,EUR,Month,Uses Sumsub
+31473d2d-c091-4a74-963c-1b5f514f9df6,fd6f4ad2-11d9-453d-a308-21bf1326e691,Bitstamp,false,true,true,false,false,false,true,true,true,true,false,true,true,25000,USD,Month,
+982a730e-a0b2-4e7f-a6c6-7b9bb39d3a42,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,false,true,true,true,false,true,true,true,true,true,false,true,true,2000000,USD,Day,Uses Sumsub
+cb143c6f-073f-412e-9eae-8cbc44e9d20d,39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,false,true,true,true,true,true,true,false,true,true,false,true,false,,,,
+025f9bdf-1b2d-4fd7-ae11-e1d408df3901,7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,false,false,false,false,true,true,false,false,true,true,false,false,true,25000,USD,Day,
+634db90c-16b6-4cee-ae1b-1232d6a025c4,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,true,true,true,false,false,true,true,false,true,true,true,false,true,500000,USD,Month,Uses Jumio
+3fc98778-f97f-4ee7-a10f-d77b92689885,3de4c409-0fa1-4b43-a0b9-b9930f7ab446,Gate.io,false,true,true,true,false,true,true,true,true,false,true,true,true,8000000,USDT,Day,
+a3a84293-efef-4f99-adad-3b88b4c76dc8,b359a823-691c-47c2-88d4-e071119d30ec,Gemini,false,true,true,true,true,true,true,false,true,true,false,false,false,,,,
+b876c53b-7d2d-40fd-ab6b-4ed589a89954,a2112108-2978-4522-85a6-0a8c50344013,HTX,false,true,true,false,false,true,true,false,true,true,false,true,true,2999,EUR,Day,
+fae53962-0fe9-4e6a-a38e-690e332845a3,d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,false,true,true,true,false,true,true,true,true,true,true,false,true,100000,USD,Day,
+2c6c5f32-a689-4d75-949e-f3e136276a75,95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,false,true,false,false,false,true,true,false,true,true,false,true,true,150000,USD,Day,
+4d4fe254-c2d1-46fc-9fc3-29dbbd3ba86a,58e680e2-88ec-4453-b20b-c166a36e12c5,LibertyX,true,false,false,false,true,false,true,false,true,true,false,false,true,3000,USD,Day,
+b797f338-4100-40cc-9bc0-003dd27539ff,ff47f5f0-49ea-49f7-8bfc-d28d8533bab5,Mercuryo,true,false,false,false,true,false,true,false,true,false,false,true,true,100000,EUR,Month,
+36ed1f07-ec63-4598-82c1-01573d0d55b6,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,true,true,true,true,false,true,true,false,true,true,false,true,true,50000,EUR,Day,Uses sumsub
+f38ef8e3-d314-45c8-929d-c85752011c04,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,false,true,false,true,false,true,true,true,true,true,true,false,true,300000,EUR,Day,
+f94e348c-dfdf-42b4-9711-f6b7289f497d,089d040e-b144-4f63-b784-30145874ae90,Revolut,false,true,true,true,true,true,true,false,true,true,true,false,true,200000,USD,Day,
+5c90d6d1-2a90-4aad-8f99-350dddff2229,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,false,true,true,true,true,true,true,false,true,true,true,false,true,250000,EUR,Day,
+3a1da6a9-e8c4-49e9-8d02-21bddfd18bdd,c257bf8f-6054-49fc-b75e-73299660b2b7,SwissBorg,false,true,true,true,false,true,true,false,true,true,false,true,true,50000,EUR,Account,
+07ff2251-1f61-4764-a26e-7d483d67bbcf,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,false,true,true,true,false,true,true,false,true,true,true,false,true,15000,EUR,Day,
+b117bbce-ccb9-473e-a219-68443a5e9d0a,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,false,true,false,false,false,true,true,false,true,true,false,false,true,,GBP,Day,

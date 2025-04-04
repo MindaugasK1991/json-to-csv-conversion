@@ -1,0 +1,4108 @@
+{
+  "onChainId" : "Bybit",
+  "vaspId" : "1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd",
+  "commonName" : "Bybit",
+  "url" : "https://www.bybit.com/",
+  "domiciledCountry" : "ARE",
+  "hqRegion" : "Asia",
+  "isSanctioned" : false,
+  "directOnramp" : true,
+  "indirectOnramp" : true,
+  "hasOffRamp" : null,
+  "tradesFiat" : true,
+  "tradesPrivacyCoins" : true,
+  "isDecentralized" : false,
+  "hasKyc" : true,
+  "kycSubScore" : 13,
+  "openedDate" : "03/01/2018",
+  "closedDate" : null,
+  "isCustodial" : true,
+  "amlPolicyUrl" : null,
+  "profile" : null,
+  "isReported" : true,
+  "vaspType" : [ {
+    "vaspTypeId" : "479f8983-f33d-40eb-86f4-e7a0a87e349a",
+    "type" : "Exchange"
+  }, {
+    "vaspTypeId" : "8d4004bd-3547-4015-9816-688d3cdb9c3c",
+    "type" : "Credit Card Provider"
+  }, {
+    "vaspTypeId" : "8881c44c-fb08-4575-b93e-962a651353c4",
+    "type" : "NFT Vendor"
+  }, {
+    "vaspTypeId" : "80711211-6ded-4e4a-a189-4c478413714a",
+    "type" : "DeFi Exchange"
+  } ],
+  "names" : [ {
+    "nameId" : "5823bf21-1de4-4038-b94f-50a12e48f3a7",
+    "type" : "Legal",
+    "name" : "Bybit Fintech Limited",
+    "country" : "GBR"
+  }, {
+    "nameId" : "dadc62ec-29fc-4492-b3fe-3a8ff7afaea0",
+    "type" : "Legal",
+    "name" : "OnlyChain Fintech Limited, UAB",
+    "country" : "LTU"
+  }, {
+    "nameId" : "6385d489-bf58-4b54-a26c-e61790f7d5db",
+    "type" : "Legal",
+    "name" : "Bybit Fintech FZE",
+    "country" : "ARE"
+  } ],
+  "countryRel" : [ {
+    "countryRelId" : "84e6551e-af19-453f-9aca-e3544d11ff8d",
+    "country" : "USA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b17ef190-b4c6-4be3-b0ae-0072b4d05444",
+    "country" : "CHN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7a643ea6-c59e-46ff-81a0-ee56df46e74e",
+    "country" : "HKG",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "80f6e5e4-34bc-4fcd-83b1-ea590bb38aa3",
+    "country" : "SGP",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8f03f7dc-774a-44c9-854b-c2e49fb51851",
+    "country" : "CAN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "80d0c31a-6716-4302-8374-a0f947891862",
+    "country" : "FRA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "03019222-abc3-431b-b6d9-31b7aa52c2dd",
+    "country" : "GBR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b8ceb1ec-4e17-4945-9675-9b581899431e",
+    "country" : "PRK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "fdfaa94a-d8c9-45e7-9cde-397fea4a6764",
+    "country" : "CUB",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Comprehensive"
+  }, {
+    "countryRelId" : "6faa9e04-d71d-4f04-9773-3763a6939940",
+    "country" : "IRN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "966a1604-398c-488c-a3eb-6c6f63536a41",
+    "country" : "UZB",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1608c8a6-fd66-4aff-bbf3-92f9a0730bfe",
+    "country" : "SDN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "77a8423b-9c34-43bb-8d78-bb01bd3186ee",
+    "country" : "SYR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "4ce85073-068f-49dd-a2a8-7033b63e83a1",
+    "country" : "ARE",
+    "type" : "Headquartered in",
+    "calculateSanctionByCountry" : "EU High-risk"
+  } ],
+  "kyc" : [ {
+    "kycId" : "982a730e-a0b2-4e7f-a6c6-7b9bb39d3a42",
+    "createdDate" : "01/14/2025",
+    "customerInfo" : "Email address || Phone number, Legal_Name && DOB && Country_of_Citizenship && Address && Government ID && Selfie, Proof of Residency",
+    "requires2fa" : false,
+    "legalNameRequired" : true,
+    "dobRequired" : true,
+    "addressRequired" : true,
+    "ssn_tinRequired" : false,
+    "countryOfCitizenshipRequired" : true,
+    "govtIdRequired" : true,
+    "proofOfResidencyRequired" : true,
+    "emailRequired" : true,
+    "phoneRequired" : true,
+    "selfieRequired" : false,
+    "videoRequired" : true,
+    "transactionLimitsExist" : true,
+    "amountLimit" : 2000000,
+    "currency" : "USD",
+    "limitFrequency" : "Day",
+    "notes" : "Uses Sumsub",
+    "internalNotes" : null
+  } ],
+  "kycWeights" : {
+    "ssnTinRequiredWeight" : 25,
+    "proofOfResidencyRequiredWeight" : 15,
+    "videoRequiredWeight" : 14,
+    "govtIdRequiredWeight" : 12,
+    "selfieRequiredWeight" : 10,
+    "legalNameRequiredWeight" : 5,
+    "addressRequiredWeight" : 6,
+    "dobRequiredWeight" : 12,
+    "phoneRequiredWeight" : 4,
+    "countryOfCitizenshipRequiredWeight" : 6,
+    "transactionLimitsExistWeight" : 7,
+    "emailRequiredWeight" : 2
+  },
+  "paymentMethods" : [ {
+    "paymentMethodId" : "ebb97681-70fe-48e4-89ef-6f98e812457a",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : null,
+    "account" : [ {
+      "accountId" : "1db5cd47-9401-43ab-89ea-0bf21818abb7",
+      "number" : "17478000010008108512011",
+      "bic" : "HRSAFR22XXX",
+      "iban" : "FR7617478000010008108512011",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "FRA"
+    }, {
+      "accountId" : "e2ea5ac3-de3e-48da-b43b-03283b376605",
+      "number" : "202208000024416593",
+      "bic" : "SXPYDEHHXXX",
+      "iban" : "DE07202208000024416593",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "DEU"
+    }, {
+      "accountId" : "dacc6b34-d7c5-4e7d-90dc-52554e218275",
+      "number" : "17478000010008557865481",
+      "bic" : "HRSAFR22XXX",
+      "iban" : "FR7617478000010008557865481",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "FRA"
+    } ]
+  }, {
+    "paymentMethodId" : "dab2138e-4ca7-4968-b988-6491c843dea9",
+    "paymentMethod" : "Easy Bank Payment",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "218e95d8-84c0-402f-a7e9-0ab99953ece0",
+    "paymentMethod" : "iDeal",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "ac4acb1f-6067-4b3c-84a6-521ff63fe3bd",
+    "paymentMethod" : "SEPA Transfer (Netherlands)",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "4cb03851-1317-456d-9260-07b6a31e72c1",
+    "paymentMethod" : "Zen.com",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "DEU",
+    "onrampProvider" : null,
+    "account" : [ ]
+  } ],
+  "billingDescriptor" : [ ],
+  "tradingPairs" : [ {
+    "traidingPairId" : "70eb5937-5f0e-4d1b-b558-f34b40ee314d",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f8e405cb-cd6e-4aef-ac40-82a125a3a581",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "488b706a-7687-4af5-96eb-ff19d0688e8a",
+    "from" : "XRP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5b04ac4d-e2f8-49ec-a339-68b632292b77",
+    "from" : "EOS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0daa54b1-3462-423b-8ffa-89c2724bef57",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cf0beef5-96df-45e9-9f03-0f48d6bc3bcc",
+    "from" : "XRP",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c7038c39-0c19-44c6-bd06-8c6804e9201f",
+    "from" : "DOT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0f836aa1-5a82-4438-947e-2b72f3d98c4b",
+    "from" : "XLM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1077cb85-02e9-4e15-b926-987f99c97f56",
+    "from" : "LTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "98948a53-987a-495a-a5cf-bd3b4ac64cb3",
+    "from" : "DOGE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5a9d7bb1-16bf-4724-8d0a-9354d6c145ef",
+    "from" : "CHZ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e9f93432-c9c4-48a3-998f-12e796ff5eaf",
+    "from" : "AXS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5b15b948-bec4-40fa-9f76-9dd881ae037b",
+    "from" : "MANA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b15adf6d-21ff-4482-8893-64bb36f64de1",
+    "from" : "DYDX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "07c28167-7efc-49ad-abd8-0b4cd7fc06c7",
+    "from" : "MKR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "29273195-3ed5-45f2-8a1a-8fdf696fde30",
+    "from" : "COMP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "58d73bdd-9f25-4660-90ab-68f629380329",
+    "from" : "AAVE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6ae95a9a-4562-4175-8817-95689374db08",
+    "from" : "YFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "34925457-501d-4b82-a86a-d249372cccc7",
+    "from" : "LINK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "86fd822b-2740-42b8-aba9-9af9a089b2b6",
+    "from" : "SUSHI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "769a61d2-3ae8-4e76-b399-3fc5dc0aced7",
+    "from" : "UNI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c05502bb-6aaa-4413-8e47-497eee781304",
+    "from" : "KSM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "42c81472-32a4-4b6d-ae19-b1c2dd1ce79f",
+    "from" : "ICP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "36000e80-4c45-4dcf-907f-c9568132aa0e",
+    "from" : "ADA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fd1ca18e-2834-4f1a-8705-0fbdda4659dd",
+    "from" : "ETC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7093c8ff-c98e-4967-ba83-0843d4108770",
+    "from" : "XTZ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "04678e36-756d-47c4-8c3e-317a78cc571b",
+    "from" : "BCH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "02857410-d87d-48da-9a39-b13e81ef852d",
+    "from" : "QNT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e3d7027d-d9eb-4137-bfc4-0b539a18b722",
+    "from" : "USDC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7a3fb02b-ee4f-454a-86e0-5f7c1e1f8a79",
+    "from" : "GRT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f15a0ea8-d6fc-410a-badf-4ee324dd91c5",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "be25c02f-f309-4263-a15e-4ec5dd10a793",
+    "from" : "FIL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "914465d5-e1d2-4e58-89a0-336d6a465d28",
+    "from" : "OMG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d8b99ab-87c2-48f7-99c6-f69e61bc101c",
+    "from" : "BAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1639fda9-b7d1-426b-bf22-666dd87cbf6b",
+    "from" : "ZRX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7b465dbf-8205-410c-8ee7-a5d55810d34b",
+    "from" : "CRV",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e3875668-6b43-4365-9da6-61d445b21de6",
+    "from" : "AGLD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d7425103-69c8-4b28-9ccd-c9e0064b7fe9",
+    "from" : "ANKR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2874a581-701b-494c-9aba-8c153bf45be1",
+    "from" : "PERP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2b07487c-8ce5-4014-80f1-ede3ca1dfc52",
+    "from" : "WAVES",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7192a269-33f5-4b21-a1b0-3cc8c43cbf8e",
+    "from" : "LUNC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d20fc6de-9a01-4821-8287-c383d1cde92e",
+    "from" : "SPELL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5b1908c8-a681-493f-bada-9c50543671d5",
+    "from" : "SHIB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fea302d6-ca56-4d3c-9312-34cf7b576927",
+    "from" : "FTM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e33ce9e2-d33d-41d2-897c-ab07ee693415",
+    "from" : "ATOM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "37fe9972-c707-4ffa-a352-02f9c1ba5a12",
+    "from" : "ALGO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9d817cb4-2a7d-450b-994e-96237620d534",
+    "from" : "ENJ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f36a49f6-69c6-45d3-a865-b03cd392c28d",
+    "from" : "CBX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "41060ae5-15d0-4e95-b42f-faea12ab02e9",
+    "from" : "SAND",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "87c4f612-5a8d-463c-bf87-bf8c0bc66dd5",
+    "from" : "AVAX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6e34f837-7efd-49b7-b531-e6c68892e344",
+    "from" : "WOO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "507ee699-d324-4f29-8fdb-bd3594d3c0bc",
+    "from" : "FTT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "329bfc25-9c2b-4cf9-8429-f67bd3d39e4c",
+    "from" : "GODS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dbfadfaa-a660-4643-81d8-f8a9594b05f5",
+    "from" : "IMX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9d386050-d095-46e9-bc1a-c9d908c9ec2e",
+    "from" : "ENS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3318721e-d307-4c31-8b73-3fd69eb947bc",
+    "from" : "CAKE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "66fec052-a391-4016-b558-130eb293cc5c",
+    "from" : "STETH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "67a87d86-c292-4bec-a97c-b89c8b162253",
+    "from" : "GALFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6180af12-f8fb-4686-a06a-1c181e6c9931",
+    "from" : "SLP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fe026708-ebca-4089-ab5b-c23d2b9415c5",
+    "from" : "C98",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cdcb3c8b-1cfa-47ae-84fd-0448a736146d",
+    "from" : "GENE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0c71e523-dd5e-4017-a9ca-580f71ef3f76",
+    "from" : "AVA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "56dffecf-68a0-4b8b-9369-357b8060c9d1",
+    "from" : "ONE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fc181a41-b4c3-4019-ad34-63ade23c8ae3",
+    "from" : "PTU",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "184b1548-4750-4e49-9927-67d6172bc8cb",
+    "from" : "XYM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "484c22f7-29e9-415d-8529-71f805a10d81",
+    "from" : "BOBA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f73ccb65-495d-4e8b-b4e9-fba87174f106",
+    "from" : "JASMY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4458d98e-e343-475e-b270-e30f316fbcb0",
+    "from" : "GALA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "76dfd8c4-60e5-4b8c-81b3-19d6e9a3772e",
+    "from" : "TRVL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fc38c4a7-0081-4d6d-9e66-36d3caa57c4e",
+    "from" : "WEMIX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "421cca6a-c104-4d3b-9dc4-154250bf9a37",
+    "from" : "XEM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "de0bd931-8491-4a82-a7a9-b1d70091cb59",
+    "from" : "BICO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dd9f05f3-db0b-4f8d-8fab-7c5b837d79d9",
+    "from" : "CEL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dcd3741c-ca57-403d-8cf0-d979ab850fcc",
+    "from" : "UMA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "15d8dba2-5aab-4eaa-89ab-6a806021b017",
+    "from" : "HOT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dfe0ed91-d20a-4a68-a49f-89693c693cfb",
+    "from" : "NEXO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f122e554-92c0-4812-b798-b00f6e862409",
+    "from" : "BNT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1ddb25fd-fe2b-414c-9da5-2cc70fa52a1e",
+    "from" : "SNX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5cd86719-c889-4b19-8317-333bb6581643",
+    "from" : "REN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c1249aec-8373-4654-bc2f-c73214f6ddbb",
+    "from" : "1INCH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "93d9a095-64ad-40ec-90f8-baa9980a0904",
+    "from" : "TEL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2e6cbfa4-87d4-45bd-8fea-12df2fff3ce5",
+    "from" : "SIS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a4de1942-4b1e-459e-84bf-f7192842445f",
+    "from" : "LRC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7d57349e-1d8a-4e38-91bf-d1dd2188e6e9",
+    "from" : "LDO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bd51d9cd-dd25-41cb-a7b7-d532912a3bea",
+    "from" : "REAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f7784671-c54a-4dbd-b747-6977241d90eb",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2b559b79-55d6-4b1b-8f7e-5b6ed3bf4553",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5c09d116-51d6-4aae-b7e4-bc637345d535",
+    "from" : "1SOL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d129ab7f-bf66-43cf-8461-9ee4aa594aad",
+    "from" : "PLT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "187d9288-2572-4a41-bbc5-72777deb3bf2",
+    "from" : "IZI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5f2284e8-76b8-4ade-96fa-dd55ab68d3a5",
+    "from" : "QTUM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "467abd11-6624-45af-a38b-a91c189c85e5",
+    "from" : "ZEN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "95430172-f97b-4834-ac1e-d22919d35ac7",
+    "from" : "THETA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cb49e9a0-cfc3-4284-8465-5239cf2d0d6a",
+    "from" : "MX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5d685c78-debf-4f51-bae9-8cab7d72b33b",
+    "from" : "DGB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f8ca90ff-d70c-4e1e-95cf-d2c86d7a346b",
+    "from" : "RVN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3b8d1df5-56ad-4f84-81e2-cda67a99eb33",
+    "from" : "EGLD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d6e4a6d-dc84-4c39-bdc6-e5b7fdb9a2ef",
+    "from" : "RUNE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "34da1868-67ef-4d11-b90c-24358333a5e9",
+    "from" : "XLM",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dc24a4f6-c76e-438a-8962-ef7055a7bd93",
+    "from" : "XLM",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e98985d7-6307-4d75-9de7-f32665910e4b",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0e365468-c8e8-4e86-abf1-2255dc6b0d0b",
+    "from" : "XRP",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "23789195-611a-49d1-a5fb-3085e7cae70c",
+    "from" : "ALGO",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d13bb364-2855-4269-aa5d-e714cbe0ab70",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "687c03c2-7325-4498-abf2-fa0db596923b",
+    "from" : "RAIN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "17b8a509-c393-4bbf-94f9-d8cacaabaac4",
+    "from" : "XEC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ba250835-e7a9-45ad-a3df-9301384d101c",
+    "from" : "ICX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "156f3252-db22-4887-af0c-d8ce6b471c6a",
+    "from" : "XDC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d1bc34c3-3f58-4c70-b10b-ffc72337eefd",
+    "from" : "HNT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "29ca4494-53ed-45f6-87a1-da25e4078ec5",
+    "from" : "BTG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "467da389-c7a8-4bfe-b751-992b6eb9d432",
+    "from" : "ZIL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "df8233ca-942d-482a-ad70-dff315fa532c",
+    "from" : "HBAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e04a5212-e575-46b1-ac3e-3bb7b660e359",
+    "from" : "FLOW",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "da00795a-814c-4b84-aa0a-c6cce127f668",
+    "from" : "KASTA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e6da030d-770d-4c08-ab38-a62e1aae3fcb",
+    "from" : "STX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d6896c15-7b56-44d2-afd4-bd9dddb6d59e",
+    "from" : "SIDUS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7db7d87b-3d16-4aa8-ace6-a13326a32871",
+    "from" : "VPAD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ba279ad5-cbf5-4d76-959d-30ca145c0bf8",
+    "from" : "LOOKS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2463b85c-6a4c-4b93-8887-dc9cdd8104f8",
+    "from" : "MBS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "90b7fa5d-ba25-421e-91f9-35683d08edc7",
+    "from" : "DAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a84b8e08-9b7c-43db-ab81-7891c968f741",
+    "from" : "ACA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1f765689-1c76-407c-a6e4-1ca4046c9aa1",
+    "from" : "MV",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "22edf684-c1d8-4529-a158-8cdb77285f57",
+    "from" : "MIX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c616e82c-d08c-4479-bdf2-b11b14ae3607",
+    "from" : "LTC",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5006e19c-650f-4b44-9dfc-a9c005c3e9e4",
+    "from" : "MANA",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fa54098c-7a52-470d-9333-65982bcd2243",
+    "from" : "LTC",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "66a524c1-a884-4569-824d-28851d3fd4a1",
+    "from" : "DOT",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e5a3591a-d431-4172-804a-d691fe6e960e",
+    "from" : "SAND",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e0b4bfb9-f506-4926-8e28-ec9ab30883be",
+    "from" : "MANA",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7700f98a-4886-40e1-a549-9374b9afb24c",
+    "from" : "SAND",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "71d9a1ea-efa5-467b-bd24-61882b252a62",
+    "from" : "DOT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "854c551f-ed93-4ca8-a2aa-42488e075fe3",
+    "from" : "LUNC",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2561c14d-d98c-4eb9-b866-bc7b0a8b756d",
+    "from" : "RSS3",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4027da96-04a5-42c0-ab06-4b93c2993e7b",
+    "from" : "TAP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2973f040-7d67-441a-992c-d9a79a3d6aa6",
+    "from" : "ERTHA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cc634c27-5c0b-49c5-9c05-7741af486c8d",
+    "from" : "GMX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "823e8e0f-d0ac-4f04-b87a-8a55343c6b2b",
+    "from" : "T",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3b767ad5-ca98-42af-81a0-f5afbc0a6ef5",
+    "from" : "ACH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6f940c68-df7c-4121-a84a-65cca011d83a",
+    "from" : "JST",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ec6a6840-e0ae-428f-bb03-83a7d9b0b8a2",
+    "from" : "SUN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e76efa38-934b-4f35-97b4-d4f7f4757f7e",
+    "from" : "BTT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d7bb6e30-d0de-46ce-8810-0e4564e27ae8",
+    "from" : "TRX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5cd0c589-14a0-4b00-8339-a9dcc377c872",
+    "from" : "NFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4bca48aa-9353-4ece-a443-656681b15925",
+    "from" : "POKT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7d9dcf1a-0694-4a1c-9ae4-05882d2cbff6",
+    "from" : "SCRT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d0426c06-25c4-49c4-a600-59f31a5e95c6",
+    "from" : "PSTAKE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2084534b-ad42-480f-aeb5-9d41f635017d",
+    "from" : "SON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0a5be9c3-fbdc-4a8d-9558-63887c726116",
+    "from" : "DOME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "30130687-d710-42c1-a608-d7c116b2c274",
+    "from" : "USTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2563d39c-395d-451f-9f31-9e4911fdd72e",
+    "from" : "BNB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c212462c-9013-4d7d-b4ba-c9dad2baa7be",
+    "from" : "NEAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "95a25e9b-75ba-4931-a780-86e7e7fe21c4",
+    "from" : "PAXG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b03efada-9696-4cd2-b045-e7e198d585a6",
+    "from" : "SD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7a0380ef-6a60-4a6b-876e-25573e13beb3",
+    "from" : "APE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0345f448-04d8-4690-81c6-e9c10bfe78d4",
+    "from" : "BTC3S",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dee0d7c7-4a1a-4185-8ede-312aa2c114ee",
+    "from" : "BTC3L",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fed81d1f-7bbe-4aba-a4d3-f7cda8362b55",
+    "from" : "FIDA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cfede0f1-0eb5-416d-99bd-e6cc3000ddd0",
+    "from" : "MINA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f55c9d1d-101f-490b-9165-e2aca9d9f31e",
+    "from" : "SC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1bf0ab10-aa7c-4586-b40e-0d7155961810",
+    "from" : "RACA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a2a494ed-23b5-4c35-a77e-3bff8d7d121a",
+    "from" : "CAPS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "617c8323-4d8a-4eb1-a6d7-d708f8a773f6",
+    "from" : "STG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0ec6b6cb-b7fc-4159-bb23-3145d3c21145",
+    "from" : "GLMR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6ba2d09d-99be-4169-89fa-9ebdc37a4157",
+    "from" : "MOVR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2734621c-8bc1-4421-a96f-baa2117ee750",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "DAI",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9962884b-0fc4-4a58-b7ac-adcf7130a702",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "DAI",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "00b59ec1-7608-455e-9aa3-78c9a491fd83",
+    "from" : "WBTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7f92c9f3-8736-413c-8703-8aec03fc8ffb",
+    "from" : "XAVA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "000e96b2-7755-46e6-a58d-e7470f0a3d54",
+    "from" : "MELOS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7fdf4518-6384-423f-9e8e-98086496974f",
+    "from" : "GMT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "06cedc2d-2c90-48a8-9b1a-bde01409ecb8",
+    "from" : "GST",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e9efe4dd-6b2f-4f15-8e8f-1bbacaa32a07",
+    "from" : "CELO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4ece4fa7-c6af-4063-8fea-4fa8003d23cd",
+    "from" : "SFUND",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6fb74a25-042a-4a16-aefa-8612baf9cea0",
+    "from" : "LGX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "93ff5a92-3540-4292-b139-0f1d476ce90b",
+    "from" : "APEX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "61767cff-4592-41f7-8dc6-62897a968e4b",
+    "from" : "CTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "26766cb5-c447-4dde-a891-6df9b15149ba",
+    "from" : "COT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3d805552-7d08-4ba1-9bbe-110e7d8d16b5",
+    "from" : "KMON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7acb33ae-a3b3-4bbf-b643-e3379a91f736",
+    "from" : "FITFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d4d09607-1587-45f9-9fc5-6d549ba8dcc0",
+    "from" : "ETH3S",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3a7fa770-094a-4a53-b6d3-d7790edef2aa",
+    "from" : "ETH3L",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f344e48c-13a8-4952-8a1c-09b6345f5610",
+    "from" : "FAME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ce26ded8-95ae-42b8-a643-0d476f73c6cc",
+    "from" : "USDD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7d99b5c7-90b5-4fce-8d2c-7e44d5f03d95",
+    "from" : "OP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "115646e5-a567-4171-b58d-9b55422b8a0b",
+    "from" : "LUNA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2d83cfda-760b-4579-ad95-ca11cb6ec2a1",
+    "from" : "THN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1346a255-e441-448f-8c44-f865de85226d",
+    "from" : "VINU",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6874bb3d-c865-43ba-8648-aee53eed0fb6",
+    "from" : "BEL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8837951a-ae3f-4c42-b2b0-37ef552280cc",
+    "from" : "FORT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9e6da9bb-d6f2-4d6a-936b-d264e45c2dac",
+    "from" : "WLKN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f0441d26-da98-4001-aabd-e8a3dc0c7510",
+    "from" : "KON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "68dd779e-c859-4a9b-9560-234da90f8c9e",
+    "from" : "OBX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2817b1ba-2ec6-4a22-8a23-b083dc29b2af",
+    "from" : "SEOR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "982e70d1-72bb-40e6-b47a-fd8bf8bb2046",
+    "from" : "DOGE",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ed3afe32-4960-4007-a314-99d460fdb613",
+    "from" : "EOS",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "75508144-0fc7-4555-981f-f7fb1c1409d6",
+    "from" : "CUSD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "300ee5ea-a603-44e7-ba10-1a39bbb07104",
+    "from" : "GSTS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ec5d4f83-7f5c-4b8b-9f67-1082ac091dbe",
+    "from" : "XETA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a0096de6-76a4-4155-b244-eade5f70920d",
+    "from" : "FLOKI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9577bd5c-7af4-48e2-bd92-c7d3849f5e56",
+    "from" : "BABYDOGE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9257d654-1b3b-418e-bee7-f5f973192f1a",
+    "from" : "STAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d16d66d0-ecc8-4317-b350-33ee916f0a1d",
+    "from" : "DICE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3e18074c-1cd6-470a-9ac9-44c612ba35ee",
+    "from" : "WAXP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bcb5f61c-246c-4b40-bcaa-d5fcd4bcea72",
+    "from" : "AR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dbeb7937-b7d4-44f1-a972-47dbcb1d106d",
+    "from" : "KDA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bacd9051-05c0-427d-951a-79a4c8ef2a95",
+    "from" : "ROSE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3f4ce8e2-b691-4f5c-964f-7fee9663e529",
+    "from" : "PSG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "538b976a-f399-4f8c-9a7d-4fcf87491d44",
+    "from" : "JUV",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a529538f-8d02-45c7-9014-ce17f38ac9e5",
+    "from" : "INTER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "57ffe665-7ed3-45cb-8f06-ecbe71fa4d58",
+    "from" : "AFC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a3656c89-4044-4d7c-acf8-8c958d1beb31",
+    "from" : "CITY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "45d35a62-6e35-4a48-aafb-8d15827fd2b1",
+    "from" : "SOLO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2464af18-1108-4870-97b9-50ca49f71cd2",
+    "from" : "WBTC",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6ad920ec-9eb9-448f-94c8-a902ac7c2aed",
+    "from" : "AVAX",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "80f52443-cef3-4690-8f49-d4a200186b39",
+    "from" : "ADA",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "baec002f-140c-4d8e-80da-0ee88ee69617",
+    "from" : "OP",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e0c535ec-273a-41c7-a926-86b64c01f400",
+    "from" : "APEX",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "99deea9d-2c00-47be-a8f1-d16504840694",
+    "from" : "TRX",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9594a106-76e9-407d-80dd-4744c65fcca4",
+    "from" : "ICP",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "baa6cdd2-930d-49de-868f-ba05c1a5ff02",
+    "from" : "LINK",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d51f794a-556b-4efe-9d63-05dbe147ff30",
+    "from" : "GMT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8ac3580a-32d9-47ea-a07e-325edec9352a",
+    "from" : "CHZ",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "692f73e2-4525-47ca-96ef-9addd02c99fa",
+    "from" : "SHIB",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8ab6679c-a5f9-4400-97f0-e89f4366b1aa",
+    "from" : "LDO",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f61c8e01-d105-44d4-9c49-89dae30d4c48",
+    "from" : "APE",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "18b60b79-3e86-4f8e-aef0-9e6f6a781e82",
+    "from" : "FIL",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a8dc93d7-4bf9-461a-b55d-8aab6df728b2",
+    "from" : "CHRP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7d490508-2add-4860-ad59-99863f3b3159",
+    "from" : "WWY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "41c0f702-b1bb-4327-88ec-1e9280b79f1d",
+    "from" : "SWEAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "691ec552-da38-4d0a-94a0-decca617dfef",
+    "from" : "DLC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "30b533b9-95e8-4948-9881-0d725e24f00f",
+    "from" : "ETHW",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ebfcf5f4-e345-478b-9b59-8611dfbee2ed",
+    "from" : "INJ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bb137b3f-2cf0-4ebb-a1e4-fd07bccb8865",
+    "from" : "MPLX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dd4594e3-3d03-41b9-84ac-e605558fe362",
+    "from" : "AGLA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ccf33ebf-0d5b-459a-9887-516411a7afa4",
+    "from" : "ROND",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "75bc09e8-00b3-4e87-bb49-87981dcdb74b",
+    "from" : "QMALL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7032dd5b-03d8-4d56-b256-d23d7c7feb66",
+    "from" : "PUMLX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "aad324ac-d281-4985-ac51-424632347044",
+    "from" : "GCAKE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7d7f1a37-60be-42cd-a31f-78be886fef6b",
+    "from" : "APT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "458cb6d8-f279-4676-babf-917791937ad9",
+    "from" : "APT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "67c3609d-fb47-4adf-9db8-42318f00223c",
+    "from" : "USDT",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "07a309c1-b502-4dd4-b54c-22a04addca17",
+    "from" : "MCRT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ee01ebe2-9c11-491c-9d1e-752cc89b5eee",
+    "from" : "MASK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8cf12293-eae6-477f-a409-6f8301565f20",
+    "from" : "ECOX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bc3c45ce-8b9b-4ed6-b480-dfd72670deea",
+    "from" : "HFT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "40921cdf-3f37-4585-8a93-caf76bd4b2c3",
+    "from" : "HFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "545b50f1-8134-4e77-a3e9-5691c71bccd2",
+    "from" : "KCAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8c72b127-daf0-4342-a0b4-6b5ec0b676da",
+    "from" : "PEOPLE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d54274a4-3572-4174-be69-04a484fcd3de",
+    "from" : "TWT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b303b6cf-fcb8-4c98-852c-391429de4a24",
+    "from" : "ORT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3ac10847-49f8-4e5d-b1e1-eeeb9fd7e49d",
+    "from" : "HOOK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e4ac041f-af62-40c8-9ed7-d91aa1646d73",
+    "from" : "OAS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "213e4ad8-aad4-46b0-a373-0d271aebcf2a",
+    "from" : "MAGIC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "260b8a76-b14f-46fb-808a-d94089a011b8",
+    "from" : "MEE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "eb8d97cc-00a7-4fb5-9ba2-34ecb785cc5c",
+    "from" : "TON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6c21cd93-5ae4-43ca-b1df-1f3f3f02c4fd",
+    "from" : "BONK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e5f29ab5-674d-4a8c-be22-1349b55e04ce",
+    "from" : "FLR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "220ebf55-9200-4ca9-bfd3-c215224320c4",
+    "from" : "TIME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9b366785-faf7-4a23-9811-5ce351439569",
+    "from" : "3P",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "80e908ae-2a76-457b-9ba6-6d7b38401a59",
+    "from" : "RPL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a892f5d4-3e9b-4aa7-8f0e-2a4515994627",
+    "from" : "SSV",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "73f80805-552a-4546-9be5-b5b4011bd56b",
+    "from" : "FXS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5420e98f-2a72-4e7e-895a-e1f21504f27f",
+    "from" : "CORE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "37ae8aff-e398-412f-b399-7ee5716c952a",
+    "from" : "RDNT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f6c47911-dc83-48f0-bc0a-1f8aec04f270",
+    "from" : "BLUR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7176660a-8754-4d99-9344-b00c038c0752",
+    "from" : "LIS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e52f7c45-9742-4229-97ce-eab481c074e2",
+    "from" : "MDAO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b694e00a-4aef-40cf-88ba-66ea3be3d9c9",
+    "from" : "ACS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "539f8260-6754-40d9-a7bd-db4e9d0b283a",
+    "from" : "HVH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b1cf6a36-5c03-485d-88ba-4f8a6139ff65",
+    "from" : "DPX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3a823210-7eee-4052-ac06-8bb758f0b210",
+    "from" : "PIP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0a204ff0-9e07-400d-82f5-fbea2dd94a7d",
+    "from" : "PRIME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3da78230-6e62-4649-a13c-464daa391278",
+    "from" : "EVER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7f439cf4-eaf8-403e-b147-810ad1ff5cc1",
+    "from" : "VRA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dccad189-a0db-41df-967d-b1db5a86e2fc",
+    "from" : "FB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "95e71d1b-15cb-4642-afb3-6ff2dc9fb0d7",
+    "from" : "DZOO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f0fc1bb8-b309-4261-aa18-993fc646ab1d",
+    "from" : "ID",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d5134d5f-8c25-4d42-8861-35bfa794df89",
+    "from" : "ARB",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3e9c6db4-e1bd-4c73-8534-3abd1c0d7568",
+    "from" : "ARB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6a22fbc8-084c-4dac-aa4a-ed9e7b79b468",
+    "from" : "XCAD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fba16512-c789-44cd-96f5-5cbe654e57d5",
+    "from" : "MBX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ec9f7335-0368-453e-9359-292b155fb245",
+    "from" : "AXL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6dfe59d6-7f25-4c6d-b901-c5b1b2839c1b",
+    "from" : "CGPT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d4c3c874-bdb9-4519-8a83-d6e94749b914",
+    "from" : "AGI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "aeb80a12-311a-4695-83bf-8d0cbd051ed4",
+    "from" : "SUI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8ff54e0e-de9d-4c98-97a9-9753e9667373",
+    "from" : "SUI",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5abb5882-318b-4292-bb26-480c6063d9a0",
+    "from" : "MVL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fa26c0f0-23a8-46a2-90e0-690b7e709501",
+    "from" : "PEPE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7a145b64-c0d6-4ccc-a4f4-6e514f42603d",
+    "from" : "LADYS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1ce97c73-15ec-4b70-8440-85adc49239c4",
+    "from" : "LMWR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d120af8-e4a1-413f-8f55-686fbc6c6504",
+    "from" : "BOB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "877986f4-172b-4a5d-9862-913e0114fe76",
+    "from" : "TOMI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cd00b439-7af4-4765-942e-a5715f95d471",
+    "from" : "KARATE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e8b5883b-5ca4-47d6-bff1-cc0beeca3721",
+    "from" : "TURBOS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cab8d577-4871-47a4-81f4-ba5fc5702b89",
+    "from" : "FMB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f9dda7ee-69ed-473b-9a34-dc345d93c28a",
+    "from" : "TENET",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4ec33c26-5aa1-4f0b-927b-403347a91330",
+    "from" : "VELO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "463197c9-7fa9-4d0c-8c5e-e2257e891ca5",
+    "from" : "ELDA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2981631c-35bf-4053-bf3c-868707fa4318",
+    "from" : "VELA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6dd22e7e-da94-4e04-8756-c1c7145fc85d",
+    "from" : "USDT",
+    "fromChain" : null,
+    "to" : "BRZ",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a65bb87d-d371-4029-b1bc-7949a3500acc",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "BRZ",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "04251b2a-01c4-4ef2-aba2-5c25bb6e11a4",
+    "from" : "PENDLE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9226b565-a7c2-414c-b1be-fc716b8534e3",
+    "from" : "EGO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b3ca4def-c166-41c6-835a-a9cd90c3f3c7",
+    "from" : "NYM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c783c7cd-dcfa-464d-9ba4-3df4aa15738f",
+    "from" : "MNT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5b03ff1c-eb04-4cc4-a33f-f7fd8611211b",
+    "from" : "MNT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4d05e709-523f-42bd-b60e-763c2b1758b4",
+    "from" : "MNT",
+    "fromChain" : null,
+    "to" : "BTC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "519e5da1-67d3-47b6-8ca1-39973cdfd7a6",
+    "from" : "GSWIFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "72104f86-a065-40fd-9ce4-8a823b786849",
+    "from" : "SALD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d89f947-0720-4a54-bb11-b014eba6af34",
+    "from" : "ARKM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2afbcab9-ff0c-421b-b67a-6be3834aabb4",
+    "from" : "NEON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "30c7d8c3-7a37-4593-a77a-5e966777374b",
+    "from" : "WLD",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c6f09ead-3af6-4371-8acb-fd067c916036",
+    "from" : "WLD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "69cb28ad-e86b-474f-ac90-1a76f3a12412",
+    "from" : "PLANET",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "344a0aa1-73ad-4c2f-9764-3fec6b714d19",
+    "from" : "DSRUN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "63653d60-b946-48c3-96d7-cb115e35eaa2",
+    "from" : "SPARTA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4197dc03-61f6-4314-a9e9-35d24737a522",
+    "from" : "TAVA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "13443f8f-6824-4938-9531-3c5d4bf51a69",
+    "from" : "SEILOR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0677c7a0-0333-40a4-8975-a30a0a45f8b0",
+    "from" : "SEI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e1f05561-b30b-4848-8037-faab0bd6962b",
+    "from" : "CYBER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e94d125e-9291-46be-8702-0b9661740228",
+    "from" : "ORDI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1e8cffe0-f176-4577-bceb-81a1efb766e1",
+    "from" : "KAVA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d004c337-d059-4a0b-b206-6fde154f4976",
+    "from" : "SAIL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "103fdb2a-567e-452d-8c24-2fc5bce387ca",
+    "from" : "PYUSD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "11e25d21-5456-4340-bd38-ba5a615e6ad9",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "59489685-c6d1-4550-b90c-0c95226e203e",
+    "from" : "USDC",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6268ec5d-e42e-4f3e-98ab-12814e272eb9",
+    "from" : "ADA",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ad9e087a-13e9-4993-a647-23f713103cb9",
+    "from" : "DOGE",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "85642588-2f43-415c-b57e-5f196a7b547d",
+    "from" : "LTC",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "248c8dbb-3ea8-4d78-86d8-866e0bb0a536",
+    "from" : "XRP",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e2851df3-d20f-4ab3-9dff-18252595b070",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "36a68fcd-ea1c-4992-baf5-52cfd384a1e8",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "108a3313-e36a-4049-9036-dbae7e61ec56",
+    "from" : "VEXT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "88fba99d-c489-4044-bc45-f969875e2c2d",
+    "from" : "CTT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "397cd8e8-7cf2-46f9-9b2d-7f6916e14dc0",
+    "from" : "NEXT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0729cee3-1914-471a-a529-c5ccb040bb68",
+    "from" : "KAS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f84dbf3e-4420-47c4-8fc9-46e6fcc86a9f",
+    "from" : "NESS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c7a7abd3-e3e4-4811-ae8f-5e1489b89dc5",
+    "from" : "CAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "281b4b84-4455-4342-88d3-729604dfc1cf",
+    "from" : "FET",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4a578fbc-b76d-4adb-bb5d-48184611cd5a",
+    "from" : "LEVER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a0c13928-062b-42f8-8b20-1ed570af578b",
+    "from" : "ZTX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "35f04a9c-bd17-4ad5-bf1e-6ebd3dd2d6ba",
+    "from" : "JEFF",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "90dd09ad-f487-4e51-bf57-9a7fa54d5761",
+    "from" : "PPT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d0e87d2a-bc56-4713-a91d-28c077c463ec",
+    "from" : "TUSD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b2508b40-308f-4364-9abc-78e6b5d03bf2",
+    "from" : "BEAM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c13f8647-c919-4fa8-bc80-56d5c9201d85",
+    "from" : "POL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2cf5956e-aa39-46e9-848b-4b50768860f4",
+    "from" : "TIA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f072913e-6e65-423b-818f-e102dcbda798",
+    "from" : "TOKEN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "07132709-12f3-4ee9-b64b-910921b2a4eb",
+    "from" : "MEME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bc02ae8a-ec12-4c7e-847b-069802ba6ddc",
+    "from" : "SHRAP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5c5de402-e53c-4e02-97f0-098dc3cd4315",
+    "from" : "RPK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7f3e6bf3-d255-4f4b-87c0-f6ca3ac3b6e2",
+    "from" : "FLIP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ebfdf300-e321-420e-8d32-62ffcdee7d2f",
+    "from" : "VRTX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2978e41b-9d61-454b-b17b-5bf3167b7fbb",
+    "from" : "ROOT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bb490f43-3dcd-4abc-be01-48376d8c536c",
+    "from" : "PYTH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "cdb82132-762b-4f35-8867-4096fafb413c",
+    "from" : "MLK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "566957f9-3ad7-4611-a02f-ec093f157825",
+    "from" : "KUB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "80e4b71b-5725-4b7c-89c7-d100ff69ce2e",
+    "from" : "5IRE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "56887e36-1702-4782-bc28-569aaede88d7",
+    "from" : "KCS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "35f48575-5af4-40b0-af2b-6360171b237e",
+    "from" : "VANRY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fb96544f-16a0-4d9f-a1d3-f4bcabeecdb1",
+    "from" : "INSP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5edeb7f1-b736-4f86-a8dc-b8643ccc8c19",
+    "from" : "JTO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d8983024-4e74-4bef-8b9f-de9a61e61b07",
+    "from" : "METH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e8578027-11a8-48cd-bc5d-31d2fe25ca35",
+    "from" : "METH",
+    "fromChain" : null,
+    "to" : "ETH",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f452357c-28c5-4f51-a3aa-187a7bcd7583",
+    "from" : "CBK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "84a8070c-9c5e-4dd1-ae97-70a778a20bb8",
+    "from" : "ZIG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d0d680ff-51fe-4a93-9b81-6fcaf654b67f",
+    "from" : "VPR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c5742310-cc17-4401-bff7-df190418da1a",
+    "from" : "TRC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "473dcf37-7e42-4727-b6ac-8cfce69c075a",
+    "from" : "SEI",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "24033d0d-dbcb-4878-86ca-fde602f8c401",
+    "from" : "FMC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "403b6409-b4aa-4d22-8e0c-56fb4b91e580",
+    "from" : "MYRIA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3605517b-fbe2-4761-bce8-ec0710f06399",
+    "from" : "AKI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6c8a67aa-e1df-4a32-8a61-b5a335e6b02c",
+    "from" : "MBOX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d57122b-4e76-4ca8-ad83-d43343bf7968",
+    "from" : "IRL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bc65c678-091f-4235-a7d2-cc6c552e0a60",
+    "from" : "ARTY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7f75cec7-f7d2-4b9f-a3ea-86ebd0e0622a",
+    "from" : "GRAPE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b99b4123-4aa5-4518-8461-14477097b67e",
+    "from" : "COQ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b308cbc1-4245-413e-a122-7f4c5472628d",
+    "from" : "AIOZ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fd656fa8-589c-4aa8-a522-894e3d8290f2",
+    "from" : "GG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "39f7dfae-ef55-4092-935f-fd6973646fbf",
+    "from" : "VIC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "93f842e3-ad33-4fe0-81f4-58a7329e809c",
+    "from" : "RATS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c7925a32-b3b6-4e29-8843-6dd9b14185e4",
+    "from" : "SATS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6eba91ae-0dc6-4e94-bd12-63bbe95a8006",
+    "from" : "ZKF",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9c14a025-cae7-4310-b745-77893a812836",
+    "from" : "PORT3",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f6e2d3c0-52b4-4ed8-9ba1-8b0ac6125934",
+    "from" : "XAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "739569d2-ed05-4757-a9fb-8d0cf4f5bd0e",
+    "from" : "ONDO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b0ee52d0-96e6-4968-a403-388a38bfe677",
+    "from" : "FAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4b31794b-29e0-4532-b645-faea6c5dbaa0",
+    "from" : "SQR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f8e5c68e-068f-4946-9b7e-7f2e13108cf8",
+    "from" : "DUEL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b00756db-63e1-406f-87d8-d573e9c9be86",
+    "from" : "APP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9cb3a5e4-27cb-44b1-b64e-4afebefa40e2",
+    "from" : "SAROS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "10865d7f-777d-45f3-b3a7-266d38b3c782",
+    "from" : "USDY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0aa9ed4a-90e2-4f59-b694-f39a462c9f85",
+    "from" : "MANTA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "959aad56-767a-47f5-a62f-e807f2dadc1a",
+    "from" : "MYRO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9ff23b4c-1162-4fff-8884-35ced4908054",
+    "from" : "GTAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "644cc3ba-22fe-44ed-befd-c629cd512766",
+    "from" : "DMAIL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "64e7cc6f-1348-45e1-88ed-952af1b82091",
+    "from" : "AFG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0cd192de-daa8-4431-8137-4d9f620a7f16",
+    "from" : "DYM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3dc4ef2d-f34a-47f5-bce8-c1baff4421fd",
+    "from" : "ZETA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0921406e-49a3-423a-b31b-c0959827240e",
+    "from" : "JUP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6d49547e-cb95-4c85-85af-9e633c467eb6",
+    "from" : "MXM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "81d24f76-6720-4443-9354-6eeda83d1442",
+    "from" : "DEFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "afe6827e-1395-4869-ae51-7eb29b54b576",
+    "from" : "FIRE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "613ae251-dd94-4943-acd2-792aa9593702",
+    "from" : "MAVIA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "51da4364-c30d-42b6-9454-280792ee9256",
+    "from" : "PURSE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0c1832fa-d7b6-4e5e-b3eb-6eb687a5191e",
+    "from" : "BCUT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "98af8b1f-3a03-4016-82f9-bc1a4eb577be",
+    "from" : "ALT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "81361858-f974-44b5-b85d-840adb99ea76",
+    "from" : "HTX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f38a4727-2d88-4744-b917-c92f0570a107",
+    "from" : "CSPR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7860a10b-bdcb-46f1-bc9e-8be60d12126e",
+    "from" : "STRK",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "774fdd09-543a-4856-b7d0-e2e6f3ddd82e",
+    "from" : "STRK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8c1d805f-166a-4272-809f-1c9bd5d37cd9",
+    "from" : "CPOOL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ac9d0cdf-e287-4a6c-9e21-89eb9095311d",
+    "from" : "QORPO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "549650a1-e99b-4cee-99b3-32d4ffc53eff",
+    "from" : "BBL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9fd654c4-87ab-4da8-b010-44ade8151a72",
+    "from" : "SQT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "35a2ad65-648c-4fc9-953e-0715a88a67fd",
+    "from" : "PORTAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4ed145ea-1816-4b55-80e4-80c70f7baade",
+    "from" : "AEG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fd1c2a85-9e96-4ef6-9605-1aee72069242",
+    "from" : "SCA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d065693e-7881-4ba0-af06-2e076f9187bd",
+    "from" : "AEVO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f317627c-0ed2-4d64-a8fa-7b4efb5871e0",
+    "from" : "NIBI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "851d0dfd-e0d1-400f-bad7-99e57b9a487d",
+    "from" : "STAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "833dd426-8c67-4b40-870f-355ecb5359ea",
+    "from" : "NGL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d1d53563-46a2-454d-892a-2fe122d90285",
+    "from" : "ZEND",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "953c506a-2e26-48ac-bffa-35714cc14ea9",
+    "from" : "BOME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3a676942-2161-4dc1-986d-9d722b0e53ec",
+    "from" : "VENOM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "edba635b-d1c4-44ef-b01e-f5ccbbdb3f79",
+    "from" : "ZKJ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "68927e32-1adf-4ef4-9e5a-efe4ef5cf3a3",
+    "from" : "ETHFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "91748c6c-e6b7-40a6-a590-e3f6444e877b",
+    "from" : "WEETH",
+    "fromChain" : null,
+    "to" : "ETH",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c8ff7e77-9039-4218-b55a-84f12cc33d25",
+    "from" : "AURY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c5222d2d-3359-4cb1-9468-3d92290efcfa",
+    "from" : "FLT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b99221a9-ee43-4776-bffd-9fd908dd10a4",
+    "from" : "NAKA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c3acc525-a69c-442e-80d1-af8699da8aa4",
+    "from" : "GMRX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0ef0208a-59d4-44fe-a068-702d69ea7169",
+    "from" : "APRS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b1b8588a-b544-4b4b-b6c8-b11813ca5cb7",
+    "from" : "WEN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "55cc14c2-4f54-4c5e-ac78-750e5ce57764",
+    "from" : "BRAWL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "043fe3bc-0367-4ef4-bb40-9aaa8eaa5821",
+    "from" : "DEGEN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9d05f312-6624-4c74-bbae-91c6786e557b",
+    "from" : "MFER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "628347fa-d9fc-47e8-8467-7b04b614bfc1",
+    "from" : "BONUS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "abeeafd0-6f2b-4bd2-940b-e3fd0ba90fee",
+    "from" : "ENA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "28a8be0f-7ba7-4ebf-998f-084e65e68c9b",
+    "from" : "USDE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2521f2a3-53fa-49e1-8718-3b959d2ce4ec",
+    "from" : "VELAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "13b6a7b8-8d73-48dd-8cc0-ed35c5ebb35d",
+    "from" : "XAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f093d714-8854-4828-893c-d6558bf74518",
+    "from" : "W",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0ed4f6f7-f0c3-4a4e-890c-5c844cdb9131",
+    "from" : "EVERY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "181e22af-752b-47ab-bae4-68ad3a01d1e9",
+    "from" : "MOJO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d42c39f3-a118-4039-951c-db6a0efff7b8",
+    "from" : "G3",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6efd9c76-7b3c-4496-86d6-6f0a35ceb6fc",
+    "from" : "ESE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "04490283-22a5-47c6-9eb3-6ae4674458e0",
+    "from" : "TNSR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2f6100ac-68f8-44a7-8d95-eebcf09e70d6",
+    "from" : "BLOCK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fe2dd951-4506-4253-8b4d-285c86eb8e44",
+    "from" : "MASA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "af922ce6-e6e1-47bf-884c-e003f34bf37b",
+    "from" : "FOXY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5452b847-2db8-4891-9a98-9bc03977f730",
+    "from" : "PRCL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "994c5b3b-2fee-4ec7-b0ec-e90daac82bc0",
+    "from" : "MSTAR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0a265d3b-4faf-4daa-a7db-9d009530d8a4",
+    "from" : "OMNI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5e633710-78c4-4ff3-8f2a-2f0f1b19940b",
+    "from" : "BRETT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bc02c885-71ac-4aef-8316-13c530de8f67",
+    "from" : "MEW",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1f94646a-6781-42c8-b278-1e7b0f0052bf",
+    "from" : "MERL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f804fce0-c270-4b5d-ac4c-c1d332941412",
+    "from" : "PBUX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "05de851c-52d7-4ff5-b2f8-5faa004cf981",
+    "from" : "EXVG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f0926ad2-72d0-47ac-b48c-8dd6246d7d6b",
+    "from" : "LL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b73d5e7e-8c98-4937-83e1-810bc29ccc8c",
+    "from" : "SAFE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e7c3148d-47bf-45fb-8662-9b50a8b5f441",
+    "from" : "WIF",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b4fbbc36-0435-47f5-ac35-c7ec414ff675",
+    "from" : "LAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "887aee5a-7b5f-4d28-abd2-2c2bcad66947",
+    "from" : "GUMMY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "424d2da9-fc7c-49d9-be91-9eadd7b30def",
+    "from" : "SVL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e045c90e-2d2d-48e4-8c18-2011db7e9a21",
+    "from" : "KMNO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6feebf89-1316-4b8b-afde-57b1eaddd37e",
+    "from" : "ZENT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1a4339dd-0f4a-4537-863e-d2b1861e2a00",
+    "from" : "TAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "13504a41-e81d-4a6c-aab0-51dab52de085",
+    "from" : "MODE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7eeedb1b-0b59-4531-ae72-c3deb84cf5b3",
+    "from" : "SPEC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9aeaa706-ce04-495c-8ea0-43cb3e5ee72f",
+    "from" : "GALAXIS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9b040c01-4d4a-46aa-8814-179f0aa4392b",
+    "from" : "ZERO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8d6f6719-ec86-4542-9119-629699fabb27",
+    "from" : "LFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "acd37f5b-83db-4911-b452-81c27cce20e3",
+    "from" : "BUBBLE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8cc3685b-5010-4760-ba6d-4927984c6563",
+    "from" : "PONKE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7e6c0d6b-20b2-4d51-a981-6564c68efb42",
+    "from" : "BB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "da1b5942-6f01-4a85-a80d-830fd7bf105a",
+    "from" : "CTA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6602b20a-25ec-4e05-91a8-25d49f54baf0",
+    "from" : "NOT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a8143124-98ff-47e7-842c-2d23d37ee95c",
+    "from" : "NLK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8c6e2641-dec9-413b-92b4-3a6083273b45",
+    "from" : "DRIFT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a721a587-100f-426f-9d26-4f5db095080a",
+    "from" : "SQD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9495c779-c558-44f1-8438-74978df1c667",
+    "from" : "NUTS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "30288e4b-8a46-4d97-9865-dc2bca6758c6",
+    "from" : "NYAN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3b3d308d-e322-49b2-87e9-a28099e9449a",
+    "from" : "HLG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9e60000f-3002-4268-bddc-f0852c5fe88d",
+    "from" : "USDE",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "72681b2b-96d2-4cc1-9ab1-aed9352fbcb6",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "USDE",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bd47e540-8271-4035-9e08-fd3dfcf639ff",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "USDE",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7754b6f5-c234-4a2e-9c39-51d4740a5a4c",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "USDE",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b7aab729-e5ff-4f91-add3-2c9cb5929bd2",
+    "from" : "MON",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "93ea8ac7-8efb-4241-ad4e-0c8bd4327729",
+    "from" : "PARAM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4b9ac3a7-873a-468f-b3fb-94acaac4255c",
+    "from" : "ELIX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3c0d787b-fc55-41d7-b0a0-13571ec7d3d4",
+    "from" : "APTR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3f4f385b-ed5d-4ab8-ad49-2122b38a8b11",
+    "from" : "MOG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ccbdbc56-dcdd-4ea4-80e2-d5abe1b85432",
+    "from" : "TAIKO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6b1bac4b-aa00-4895-9b35-bcabfdc90536",
+    "from" : "ULTI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "67ef7231-fd9b-4aaf-983d-1407bbf6fd5c",
+    "from" : "AURORA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3c96f1b3-b847-405d-bad7-18b8603df042",
+    "from" : "AARK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1ef6504b-7bdd-4e35-9c32-89d923a4e279",
+    "from" : "IO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "257a6a77-6716-4f7a-a2a2-b92b0e5c2675",
+    "from" : "ATH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "67ebe6e0-ebcf-480c-b6fa-5b4eddff52c7",
+    "from" : "COOKIE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "676333b7-dac0-4697-833a-f1f271ac4ef5",
+    "from" : "PIRATE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c8861fdf-9601-48e4-ba65-d4bd60862d87",
+    "from" : "XZK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fed920f3-ae5e-4360-857a-502c5bedfd65",
+    "from" : "ZK",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ea1d7408-f49c-469d-b972-0d6f1f27f179",
+    "from" : "ZK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "668b6557-da66-42e0-8887-ff621d106887",
+    "from" : "POPCAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ee4d69e3-c6b4-4a85-ac1a-7b724e85af7a",
+    "from" : "ZRO",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6a6f03f3-5300-4d66-9c77-25ac8514848c",
+    "from" : "ZRO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1a141a3d-9d86-4868-b012-b46409cb1e1c",
+    "from" : "NRN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "da950936-ad9b-4f0a-a587-b0a239031a6a",
+    "from" : "MCG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5221da4a-9527-4ee7-8be6-500873fbb5ed",
+    "from" : "ZEX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7f0b0952-ac37-44fc-8f1d-3f965d37ab1f",
+    "from" : "BLAST",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "17d2792c-525c-41fb-8838-2a851176776a",
+    "from" : "TST",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b47c41fc-d93c-43bc-9d6f-8d08a17966d2",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "BRL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4d224c11-9f4f-4c6d-8f53-fdbbef7792cb",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "BRL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6f4ea649-4509-4f7c-850a-98ecbbad4083",
+    "from" : "SOL",
+    "fromChain" : null,
+    "to" : "BRL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dd63e405-fb5c-4ada-a4e8-d589300d32fb",
+    "from" : "USDT",
+    "fromChain" : null,
+    "to" : "BRL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6bfe6907-930b-44f5-842e-697ff4ac04a7",
+    "from" : "USDC",
+    "fromChain" : null,
+    "to" : "BRL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "52b41bda-ee53-4eed-b2c6-f63d71370d40",
+    "from" : "WELL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "eb4af22f-7f2a-462a-b619-4036d63b5e0a",
+    "from" : "PTC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "340f2dfd-ee09-4781-86ab-998e029a8956",
+    "from" : "DOP1",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "050c145d-8041-4617-aae9-3ea27db97df2",
+    "from" : "NEAR",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "69d1fdc2-e729-4c6a-ab41-30c6d36f847d",
+    "from" : "SHIB",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4f0599b0-ab19-4e43-b550-92d8b5248337",
+    "from" : "WIF",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "129172cb-6b39-4fe0-a838-dfb973118cbf",
+    "from" : "PEPE",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4466f0ca-4b12-47a2-9d2c-a91dcade3c56",
+    "from" : "AVAX",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1d96baa9-a81a-4441-b80f-5f49cf47b0b0",
+    "from" : "ONDO",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1ed947a9-2290-4c1b-adbd-8eaf07653ce9",
+    "from" : "STETH",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1d77a017-204c-4994-b790-e518f2e25e92",
+    "from" : "WLD",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "99ba0f17-9978-44b6-9a18-fb6fb0c01742",
+    "from" : "ENA",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5a04cd9f-c82d-4233-8df6-bc182aabf326",
+    "from" : "TON",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "23ea6f01-9d19-4f01-950d-02d12250e4a9",
+    "from" : "FTM",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0bee5c8e-f23d-4609-a23a-315c8cdac583",
+    "from" : "LINK",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0b5fdd95-6e72-406b-8b84-d3679f5a718e",
+    "from" : "MOCA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "95488119-e4fa-4b83-b41b-5d231e123a32",
+    "from" : "PIXFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0c3a7172-9d03-46b1-a84c-fb7b54d0eefe",
+    "from" : "UXLINK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ae609c63-4c96-4ca6-bb86-f2f02423dab0",
+    "from" : "A8",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "85f46804-f2c6-40da-97a8-15b5c89cfce8",
+    "from" : "CLOUD",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f936885d-0eae-4211-947f-b48365384006",
+    "from" : "ZKL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5ced3aed-829d-49b4-8bba-ec4b4a814b96",
+    "from" : "AVAIL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6a4fd09b-85a1-433d-b1b1-38a2f04d4b99",
+    "from" : "L3",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0a5f052c-4624-4d2f-8b83-59fdde5f7c8f",
+    "from" : "RENDER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "df191d5d-4797-4057-932b-206bde21c7e0",
+    "from" : "G",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "070ce943-d810-4a33-9a3e-c4f8ba3dd258",
+    "from" : "TON",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7010b71c-0fbb-4527-a586-0d1a8952e22e",
+    "from" : "WIF",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9b18d12b-25b2-4893-90a4-888bd106adef",
+    "from" : "PEPE",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b57aebf8-4c3f-4e58-ab17-f4debba0bd03",
+    "from" : "DOGS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2da95eee-190c-4413-98b6-a962eb74a399",
+    "from" : "NOT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a07f29a2-81b5-4ea3-95e9-4de74f932fdb",
+    "from" : "BNB",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "4ff96b1a-27ac-477a-ad42-e76e56d3a3cd",
+    "from" : "BONK",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ed0cb1fc-6f6c-437b-b1e4-b9dace422291",
+    "from" : "DOGS",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6b69a686-e7c3-4425-ad3c-6279b13c7c28",
+    "from" : "DOGS",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2347d3d9-5db1-4bd7-9240-a39e526e0543",
+    "from" : "NEIRO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "96d135d1-a7e7-4053-bbc2-adfb6d3b0a5c",
+    "from" : "USDT",
+    "fromChain" : null,
+    "to" : "PLN",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "51fd3963-2ff1-475e-bf8b-cc8129729e65",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "PLN",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c19a2921-c1ab-4017-97bb-b9d675afe8e9",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "PLN",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "dec8ac62-d0a8-4c84-a970-9c615478e9ce",
+    "from" : "FLOKI",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8d82c826-3426-487d-91a3-958617d13cb7",
+    "from" : "BCH",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "14d1354b-1423-4474-abf0-651a39034807",
+    "from" : "NEAR",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e4bfeae0-f27b-445f-b125-e06d867fd47f",
+    "from" : "ORDER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bb79e054-37b8-40b5-b71c-c7cdeaa1a609",
+    "from" : "ETH",
+    "fromChain" : null,
+    "to" : "TRY",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "47f27a94-a48d-47ba-a27f-d1a9edf36a15",
+    "from" : "BTC",
+    "fromChain" : null,
+    "to" : "TRY",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1562d85c-059c-42ff-9dfc-b81a537a3463",
+    "from" : "USDT",
+    "fromChain" : null,
+    "to" : "TRY",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c29fb4b5-379d-4917-89be-267b8c47234d",
+    "from" : "MEW",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2c06e745-5975-4ae6-84a8-e6634ab8f4e9",
+    "from" : "KAS",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bbf87d56-2eb4-4558-bf42-2db25f847c14",
+    "from" : "ONDO",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3d90572c-65a4-4e07-b464-bf41d6795ecd",
+    "from" : "JASMY",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3729634f-b81f-4a43-b086-b95880d13f9c",
+    "from" : "ATOM",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "34d1cc0d-9db1-4c18-a59b-4ec3f4f0c865",
+    "from" : "FET",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "454f1e5c-86d9-40b5-a441-96f53640181a",
+    "from" : "UNI",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fb0518d7-fcf4-4a60-9b5e-e6d611d7f50a",
+    "from" : "BRETT",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9d9e2755-abe0-46dd-b8db-0d04510797f1",
+    "from" : "TIA",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d11b9c72-9df5-49d8-8a0d-f50ddcdd3e0d",
+    "from" : "INJ",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0c24e6ab-35c6-45de-b731-1d309c86cf12",
+    "from" : "FTM",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3e73007f-d410-4074-8e4a-a4ef29ff12c5",
+    "from" : "MAK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fef1720d-752d-4aca-8a69-943acf55be7a",
+    "from" : "SUNDOG",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "aed41a54-3fe7-4573-b73f-48806f2cb973",
+    "from" : "CATI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "53c4ca4e-edb1-431e-bda2-79cefe2406ff",
+    "from" : "HMSTR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bd05b13d-55d4-4f43-b0a2-3222b0fc51e2",
+    "from" : "CATI",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "82ad8f44-5aa3-4e89-8084-4a6699c9ada3",
+    "from" : "CATI",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c204c60a-f942-433e-8e08-cec2f401ef09",
+    "from" : "SOCIAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b6a9851e-b4e3-40b0-a4a3-c74a8ee99edf",
+    "from" : "EGP1",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8820cb85-5257-48c3-90d4-947abac9fb90",
+    "from" : "HMSTR",
+    "fromChain" : null,
+    "to" : "EUR",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d493ac7b-7c50-477c-bafe-931bc27cc704",
+    "from" : "HMSTR",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d8472e89-4883-4cde-994b-9a0a53304163",
+    "from" : "DAPP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0c97e74f-6c1a-455e-ba6b-583d40da8393",
+    "from" : "EIGEN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f3da662e-7d1e-4ed0-b67e-78295394c722",
+    "from" : "CATS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "5278bb5f-3f20-4e65-9cdf-919e337d9fd2",
+    "from" : "NAVX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6a58115a-b992-49b7-ab5d-0c8a5ab8ef35",
+    "from" : "BBSOL",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d34cd280-4c97-4f6c-9805-cf492b98deef",
+    "from" : "BBSOL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "83613652-132b-4d26-8f0f-685614385010",
+    "from" : "CARV",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "048e38d8-7e03-48bb-801d-750c4df59f15",
+    "from" : "ZAP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c1f8e894-3e89-4bd2-9b35-c10f1a6dbcf2",
+    "from" : "DEEP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "13c8a03e-767f-4ee0-98ea-11f11aa5ee56",
+    "from" : "PUFFER",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "15e39997-a5e9-49d2-812b-5036cc4683e6",
+    "from" : "DBR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "d5717ac2-fb14-40c1-b7af-a9b5a37ebd2b",
+    "from" : "PUFF",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3dc42671-c0f8-413d-9dbc-82b70459b4ad",
+    "from" : "SCR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "20ede13b-80f3-4b44-93f5-6bbed0a0286f",
+    "from" : "X",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "90daeecf-a484-428a-a3d4-f777d4a32fd5",
+    "from" : "COOK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1a462e8b-11fc-466d-80b6-41595019d6cb",
+    "from" : "GRASS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "706ca314-8fd7-4a0a-b04a-9db45cc71172",
+    "from" : "KRO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "3da28556-bddd-480d-a3c3-e754f7413a99",
+    "from" : "SMILE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "de226933-ab64-426d-a534-f2b4e2affc1c",
+    "from" : "KAIA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "bca8afcc-e1e8-493b-95f0-4c5123278cf2",
+    "from" : "SWELL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "7fcc4f1b-1ee5-4353-87dd-e13bc72907ff",
+    "from" : "BBQ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9d275ca3-71d2-4d41-976a-f6d98437c368",
+    "from" : "SWELL",
+    "fromChain" : null,
+    "to" : "USDC",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "88495b17-6adc-441c-825f-f5f4c132855d",
+    "from" : "NS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "1753ed2a-28b4-4a7c-bcf6-c7cddd2fa432",
+    "from" : "GOAT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "870726f8-73c8-4801-af4c-01e606897837",
+    "from" : "CMETH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f193b7d4-72bf-4c44-b25d-f9fadc003f59",
+    "from" : "MORPHO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "32c558c7-869f-4678-8be2-d599ca8a80dd",
+    "from" : "NEIROCTO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "8eeb9773-6d90-4e74-83e7-6c8b65a27f89",
+    "from" : "STOP",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6a7bd00e-c498-40ad-96ff-97447543927c",
+    "from" : "BAN",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e6927313-1562-4190-afc9-11086a4e94a3",
+    "from" : "OL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "55b2c998-9c5e-4b0b-bbbe-c17757c23ebb",
+    "from" : "VIRTUAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "04827e18-7b02-49bb-8cc0-2a8eec61d282",
+    "from" : "MAJOR",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f4638c61-f215-4b21-8107-fe5e588c576a",
+    "from" : "MEMEFI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0ad0012b-d225-489d-a6a9-c514ba0524ad",
+    "from" : "PNUT",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "e93e6225-76c9-4cfc-88de-817ebcc008e4",
+    "from" : "SPX",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "03bcdd71-bbb4-4b82-be00-baec31ddd17c",
+    "from" : "THRUST",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2d9f6490-5b77-4635-86c2-9f79697c9feb",
+    "from" : "ZRC",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0cb87c3d-7c74-46db-8e68-6174582f36ad",
+    "from" : "LUCE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "6f3ff918-2b89-402f-a258-119ac2b157bb",
+    "from" : "CHILLGUY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9b5e3817-819b-428c-8797-2a9e52430b7c",
+    "from" : "SUPRA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2bb98842-8170-402c-818c-e833a906602d",
+    "from" : "PAAL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "16130336-b187-4a7d-98e7-f3f602f0ebd6",
+    "from" : "F",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2f0347be-be1b-4d8a-a23d-1d4b86f2e0a2",
+    "from" : "HPOS10I",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "26650c4f-d998-468f-87b9-f30b4122b12b",
+    "from" : "BBSOL",
+    "fromChain" : null,
+    "to" : "SOL",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "aeb2aa3f-1d77-4e2f-b6a9-e7614830b1f8",
+    "from" : "XION",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "85cfa8b2-c72f-41f9-a21a-f676bdd8e558",
+    "from" : "MOVE",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "347809d8-d68d-4079-ae0b-dd0f4ab9e515",
+    "from" : "MOZ",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "9b8ef06b-439b-4ee2-9613-6cecd9df1b5b",
+    "from" : "ME",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "37f4e8b9-1206-4b97-ad78-7a78a29a99ae",
+    "from" : "ZEREBRO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "c241f98f-1187-448c-902e-bff922b7f8bf",
+    "from" : "SEND",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "0ea18d64-9c89-46ea-a638-f9e1d83937b8",
+    "from" : "AERO",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ff24bed5-ba20-479e-b019-15753f0e37ea",
+    "from" : "STREAM",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "fe7c9224-9be7-426d-a432-3fecfd176b51",
+    "from" : "VANA",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "f230c447-df4e-4b98-822d-63877d0cd8e5",
+    "from" : "LUNAI",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a0692657-2a2c-4815-9195-58d8b7854ab4",
+    "from" : "PENGU",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "2ac6caec-0000-45af-8241-a61bc4bce6d3",
+    "from" : "MNRY",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a0f0a48a-2685-4f02-9084-98cff439e4f2",
+    "from" : "FLUID",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "a7f6f573-5dc1-4f1a-8425-2515d767d527",
+    "from" : "CATBNB",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "71e3ce4c-f193-4d1e-80ad-ed0a37a29ca5",
+    "from" : "FUEL",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "ef56929c-5704-4acc-a9cc-b67aaf332a2a",
+    "from" : "ODOS",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "19a000a6-965a-461c-af06-1bf8b60b1a55",
+    "from" : "ALCH",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  }, {
+    "traidingPairId" : "b14dd5eb-b06a-47b1-9e0a-bf0ba017c516",
+    "from" : "FLOCK",
+    "fromChain" : null,
+    "to" : "USDT",
+    "toChain" : null
+  } ],
+  "regulations" : [ {
+    "regulationId" : "d652ad6c-3d0c-4bfa-967b-48f119cc129d",
+    "regulator" : "1b677eb7-4093-4117-a12b-734f84984e7e",
+    "number" : "VL/24/08/001",
+    "printscreen" : "Screenshot 2025-01-03 115705.png",
+    "startDate" : "08/21/2024",
+    "endDate" : null,
+    "validated" : "true"
+  } ],
+  "vaspSanction" : [ ]
+}

@@ -1,0 +1,299 @@
+{
+  "onChain": null,
+  "vaspId": "8ca41d10-9a8e-410a-a643-182e324c47ee",
+  "commonName": "Pionex",
+  "url": "https://www.pionex.com/",
+  "domiciledCountry": "SGP",
+  "hqRegion": "Asia",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/19/2018",
+  "closedDate": null,
+  "isCustodial": true,
+  "amlPolicyUrl": "https://www.pionex.com/blog/pionex-terms-of-service/#Anti-Money_Laundering_AML_and_Counter_Terrorism_Financing_CTF_Regulations",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "855f6b3f-3e95-4f9a-986e-cbfd432baa59",
+      "type": "Exchange"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "15b18d30-080b-4f00-ad35-1e9d2d9c69f0",
+      "type": "Legal",
+      "name": "PIONEX PTE. LTD.",
+      "country": "SGP"
+    },
+    {
+      "nameId": "b42138b4-2027-4ff4-825c-bd07e8c30237",
+      "type": "Formerly",
+      "name": "BITUNIVERSE PTE. LIMITED",
+      "country": "SGP"
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "6041bfb6-bbe4-4c96-8d2b-4f7ba72c1851",
+      "country": "AFG",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "EU High-risk"
+    },
+    {
+      "countryRelId": "6ebfde78-9721-40b7-b864-88a8ce5c37ff",
+      "country": "CUB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Comprehensive"
+    },
+    {
+      "countryRelId": "aafedabf-46b6-4135-9f3b-651514575326",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "00232da6-7efe-4fff-a04e-3cfe53cc37b2",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Black List"
+    },
+    {
+      "countryRelId": "d40a639a-0f9f-49fd-bfa4-404a9867bf1d",
+      "country": "SYR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "37a2a57b-f184-4a12-b041-dd0f91954f76",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "48ce0727-d6aa-4044-aeea-a0670980c4aa",
+      "country": "CAF",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "c3836e8e-fe52-4ea4-84b5-e63fb26525d4",
+      "country": "LBN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "71758899-69a1-49c7-8a8a-a04f90f8491c",
+      "country": "IRQ",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "b7693d6b-91ae-42e9-a643-9d75f2a1dc0f",
+      "country": "LBY",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "c7777d91-edff-4cd1-b81f-0afbbdce310e",
+      "country": "SOM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "dbb32dee-8095-4de0-80af-a028924af0d0",
+      "country": "SSD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "ba2fa327-d3eb-4c4f-b83c-26ef2cf2281f",
+      "country": "SDN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "OFAC-Selective"
+    },
+    {
+      "countryRelId": "c7f7d80b-3d8e-432d-b342-00aa736eb875",
+      "country": "VEN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "c9e40768-828b-4e14-9eb1-55149c65d414",
+      "country": "YEM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "94fbd26e-0103-4029-8c4e-82bc80b12ec7",
+      "country": "COD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": "Grey List"
+    },
+    {
+      "countryRelId": "7e830e03-eff5-4ebf-9f63-74e0e23b9a42",
+      "country": "ZWE",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "98c29e4d-f92f-4218-81ac-9bfcd3345d2a",
+      "country": "SGP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "5655a63a-9dc1-4908-b669-49c31f6edf6c",
+      "country": "CHN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "538b4d75-f243-4522-a91a-7c7fc399f59d",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d717420b-244e-47cc-b992-445a0cd0eb47",
+      "country": "GUM",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ed3b879b-c260-4a5d-b5d0-1506ed4582ef",
+      "country": "PRI",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "3a23392e-2151-40fe-a89f-2e340abfa8ba",
+      "country": "NLD",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "fd34b5ca-ac96-46d9-8c8c-28bbbc40e344",
+      "country": "GBR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "aaeb6833-102b-4df5-95bc-39f041703777",
+      "country": "ESP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "2e835d7e-f799-4b63-a7ba-43ee4235fbad",
+      "country": "SGP",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "108e2c33-206d-4129-a958-cc23d685e1aa",
+      "createdDate": "03/21/2025",
+      "customerInfo": "Email Address || Phone Number && Legal Name && Country of Residence && DOB/POB && Address && SSN/TIN && Government ID && Selfie",
+      "requires2fa": false,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": true,
+      "countryOfCitizenshipRequired": false,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": false,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": "No amount limits were mentioned on their page. However, could be some restrictions when using third party payment service providers.",
+      "internalNotes": null
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "6cfa108e-4d32-416a-ac6f-be0f6162e506",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "85260f10-6517-4a89-822a-d8e7435df537",
+      "paymentMethod": "Alchemy Pay",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "5f9c7631-96c5-4c3d-a6d1-183e7c52c457",
+      "account": null
+    },
+    {
+      "paymentMethodId": "95624475-648c-4794-8acd-3aca84ae8a4d",
+      "paymentMethod": "Credit / Debit Card",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "63a2c588-025a-432f-8f4c-f7096ad6c295",
+      "paymentMethod": "Apple Pay",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "07cb59ae-d967-45af-948a-017a9dee6678",
+      "paymentMethod": "Banxa",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "ae0f61a5-7a5e-46d1-a079-be0ccec83c81",
+      "account": null
+    },
+    {
+      "paymentMethodId": "250bc122-6b13-4c61-a776-65cefb636f31",
+      "paymentMethod": "Simplex",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": "b5dc5fd7-a07b-4964-8262-3f08b450f759",
+      "account": null
+    },
+    {
+      "paymentMethodId": "c17b6a0e-e0ad-4bdd-b37b-c1921f66f161",
+      "paymentMethod": "SEPA Transfer",
+      "isAmountRestricted": true,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "2089ee55-cbe9-4252-823b-7464af34a6e9",
+          "number": "FOUN00992200105202",
+          "bic": "FOUNGB21XXX",
+          "iban": "GB45FOUN00992200105202",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "3a463bc0-572a-4669-b6f2-6c5fc6b35825",
+          "bankRole": "custodian",
+          "country": "GBR"
+        }
+      ]
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": null,
+  "regulations": null,
+  "vaspSanction": null
+}

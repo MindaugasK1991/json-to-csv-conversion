@@ -1,0 +1,293 @@
+{
+  "onChain": null,
+  "vaspId": "b3868fb9-b20a-4bbb-9655-318e138e6e34",
+  "commonName": "Bitfinex",
+  "url": "https://www.bitfinex.com/",
+  "domiciledCountry": "VGB",
+  "hqRegion": "Americas",
+  "isSanctioned": false,
+  "directOnramp": true,
+  "indirectOnramp": true,
+  "hasOfframp": true,
+  "tradesFiat": true,
+  "tradesPrivacyCoins": true,
+  "isDecentralized": false,
+  "hasKyc": true,
+  "openedDate": "01/01/2012",
+  "closedDate": null,
+  "isCustodial": false,
+  "amlPolicyUrl": "https://www.bitfinex.com/legal/exchange/terms/",
+  "profile": null,
+  "isReported": false,
+  "vaspType": [
+    {
+      "vaspTypeId": "c28979b8-cc80-46f4-a8ef-2a21323c0631",
+      "type": "Exchange"
+    },
+    {
+      "vaspTypeId": "a8a6bd7a-d69f-4992-b6c8-ce3de00e0e74",
+      "type": "Payment Provider"
+    }
+  ],
+  "names": [
+    {
+      "nameId": "6e229843-e89d-46d5-8b21-c4f040994051",
+      "type": "Legal",
+      "name": "iFinex Inc",
+      "country": "VGB"
+    },
+    {
+      "nameId": "f58617f5-e3bb-4dfc-8c60-a64ed24fb9c7",
+      "type": "Legal",
+      "name": "BFXWW Inc",
+      "country": "VGB"
+    },
+    {
+      "nameId": "5e43006a-55e0-49c6-97b4-10e84ec41c85",
+      "type": "Legal",
+      "name": "BFXNA Inc",
+      "country": "VGB"
+    },
+    {
+      "nameId": "b9a8b59d-761c-433b-baa8-0181700db47d",
+      "type": "Legal",
+      "name": "Unus Sed Leo Limited",
+      "country": "VGB"
+    },
+    {
+      "nameId": "8f59a168-fb41-43f1-8fa4-3fa10be60062",
+      "type": "Legal",
+      "name": "Bitfinex Derivatives El Salvador S.A. de C.V.",
+      "country": "SLV"
+    },
+    {
+      "nameId": "19786b9f-8361-4992-8939-2180c3efe419",
+      "type": "Legal",
+      "name": "Bitfinex Securities Ltd",
+      "country": "KAZ"
+    },
+    {
+      "nameId": "76321112-27c9-4a80-a0e5-1aa974ad149f",
+      "type": "Legal",
+      "name": "BFX Pay Limited",
+      "country": "VGB"
+    },
+    {
+      "nameId": "f54bd23b-6c19-491c-b423-e757a266fea7",
+      "type": "Formerly",
+      "name": "iFinex Financial Technologies Limited",
+      "country": null
+    },
+    {
+      "nameId": "28e96b29-b778-4566-a889-e748569ce6fa",
+      "type": "DBA",
+      "name": "Bitfinex",
+      "country": null
+    },
+    {
+      "nameId": "a1cfb2e9-ea40-43a1-8921-567e1afbcee1",
+      "type": "Formerly",
+      "name": "BFXD Seychelles",
+      "country": null
+    }
+  ],
+  "countryRel": [
+    {
+      "countryRelId": "432e93f4-3a4f-4095-9299-82529fa0fc53",
+      "country": "KAZ",
+      "type": "Allows Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7e25deca-9d4a-4fc1-a6ff-08a9fce3f461",
+      "country": "VGB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "642f434a-d3d2-4680-92d9-da75ecdfa2f7",
+      "country": "USA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "ff099920-2812-41ef-b356-6f885d988716",
+      "country": "CAN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "c496f581-ef3c-4db6-aff9-508fca378916",
+      "country": "ESP",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "60731e7c-9238-46cb-b10a-6f4b85fcb2e1",
+      "country": "ITA",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "7d113de4-9de1-41b8-8e71-c8f093388886",
+      "country": "IRN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "4c72d1bb-3b37-451f-a893-79441d2a3599",
+      "country": "CUB",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "00fe592c-853f-4bed-aadb-36b78340375d",
+      "country": "PRK",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "f876bc8d-41e8-4666-9b21-47950dc8b555",
+      "country": "UKR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "e9a928da-3d80-4810-abbf-d63e3e0c8db9",
+      "country": "AUT",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "d007d345-460c-41c9-8ab7-ffb9eee15a75",
+      "country": "SYR",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "8bdcd3a7-c363-4814-a5d3-0ba167354eeb",
+      "country": "VEN",
+      "type": "Prohibits Citizens of",
+      "calculateSanctionByCountry": null
+    },
+    {
+      "countryRelId": "1a39b8ac-bf1b-4aa7-a8fe-02d879016e1c",
+      "country": "VGB",
+      "type": "Headquartered in",
+      "calculateSanctionByCountry": null
+    }
+  ],
+  "kyc": [
+    {
+      "kycId": "c223504b-82d1-41fd-bfd7-5aac3a88c794",
+      "createdDate": "02/05/2025",
+      "customerInfo": "Email, Country of Residence && Legal name && Government ID, Issuing country && DOB, Nationality, Gender && Legal address && Proof of residency && Employment status, employment information && Source of Funds && Trading questionnaire",
+      "requires2fa": true,
+      "legalNameRequired": true,
+      "dobRequired": true,
+      "addressRequired": true,
+      "ssn_tinRequired": false,
+      "countryOfCitizenshipRequired": true,
+      "govtIdRequired": true,
+      "proofOfResidencyRequired": true,
+      "emailRequired": true,
+      "phoneRequired": true,
+      "selfieRequired": true,
+      "videoRequired": false,
+      "transactionLimitsExist": false,
+      "amountLimit": null,
+      "currency": null,
+      "limitFrequency": null,
+      "notes": null,
+      "internalNotes": "Found info on minimum transaction fees, maximum fees only this \"There is a 10.000 USD balance limit for basic plus users with El Salvador Securities verification.\""
+    }
+  ],
+  "paymentMethods": [
+    {
+      "paymentMethodId": "300d817d-e2fd-4dc9-9da2-ada90df50f80",
+      "paymentMethod": "Simplex",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "b5dc5fd7-a07b-4964-8262-3f08b450f759",
+      "account": null
+    },
+    {
+      "paymentMethodId": "1a5456e2-f8a1-4a45-9c19-c93144f1f3dd",
+      "paymentMethod": "Mercuryo",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": "ff47f5f0-49ea-49f7-8bfc-d28d8533bab5",
+      "account": null
+    },
+    {
+      "paymentMethodId": "401b1e6c-a0f8-4c02-afb4-64428349c1cd",
+      "paymentMethod": "Debit / Credit Card",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    },
+    {
+      "paymentMethodId": "494f377b-a2f5-406b-bbf9-5b44a7b0c300",
+      "paymentMethod": "Bank Transfer",
+      "isAmountRestricted": null,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": [
+        {
+          "accountId": "1a246718-da0a-4718-8658-32c8d2016474",
+          "number": "SEOU00994400179206",
+          "bic": "SEOUGB21XXX",
+          "iban": "GB24SEOU00994400179206",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "cbd49367-90f8-4380-8234-ecf9df48f672",
+          "bankRole": "Custodian",
+          "country": "GBR"
+        },
+        {
+          "accountId": "9dc2aafb-a60d-4ca4-a92f-beae60f07ccd",
+          "number": "CLRB04051100923799",
+          "bic": "CLRBGB22XXX",
+          "iban": "GB07CLRB04051100923799",
+          "routingType": "IBAN",
+          "localRouting": "04-05-11",
+          "bank": "ea6175ac-3089-45b6-979d-e73aed3a182f",
+          "bankRole": "Custodian",
+          "country": "GBR"
+        },
+        {
+          "accountId": "01a0d1b8-212c-49be-ba00-4c75b75b3dfb",
+          "number": "SEOU00994400325689",
+          "bic": "SEOUGB21XXX",
+          "iban": "GB61SEOU00994400325689",
+          "routingType": "IBAN",
+          "localRouting": null,
+          "bank": "cbd49367-90f8-4380-8234-ecf9df48f672",
+          "bankRole": "Custodian",
+          "country": "GBR"
+        }
+      ]
+    },
+    {
+      "paymentMethodId": "54d9173c-d897-4f76-926c-815b33bce8d5",
+      "paymentMethod": "OpenPayd",
+      "isAmountRestricted": false,
+      "jurisdiction": null,
+      "onrampProvider": null,
+      "account": null
+    }
+  ],
+  "billingDescriptor": null,
+  "tradingPairs": [
+    {
+      "traidingPairId": "abd16d76-ecc8-4509-aae5-9ab9584e279a",
+      "from": null,
+      "fromChain": null,
+      "to": null,
+      "toChain": null
+    }
+  ],
+  "regulations": null,
+  "vaspSanction": null
+}

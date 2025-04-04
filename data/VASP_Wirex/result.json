@@ -1,0 +1,1460 @@
+{
+  "onChainId" : "wirex",
+  "vaspId" : "d0a9ee67-8162-44c2-a787-bbee1cea78de",
+  "commonName" : "Wirex",
+  "url" : "https://wirexapp.com/",
+  "domiciledCountry" : "GBR",
+  "hqRegion" : "Europe",
+  "isSanctioned" : false,
+  "directOnramp" : true,
+  "indirectOnramp" : false,
+  "hasOffRamp" : null,
+  "tradesFiat" : true,
+  "tradesPrivacyCoins" : true,
+  "isDecentralized" : false,
+  "hasKyc" : true,
+  "kycSubScore" : 91,
+  "openedDate" : "01/01/2014",
+  "closedDate" : null,
+  "isCustodial" : true,
+  "amlPolicyUrl" : "https://wirexapp.com/legal/row-terms-and-conditions",
+  "profile" : null,
+  "isReported" : true,
+  "vaspType" : [ {
+    "vaspTypeId" : "f67da5f5-2662-418e-9275-7a43e3764ee4",
+    "type" : "Exchange"
+  }, {
+    "vaspTypeId" : "6f37ca25-4d29-4968-b694-6ad5b3d8344f",
+    "type" : "Credit Card Provider"
+  }, {
+    "vaspTypeId" : "1adabbfe-f210-4242-b8f4-981cf7912213",
+    "type" : "Bridge"
+  } ],
+  "names" : [ {
+    "nameId" : "a1c56c15-ae8d-4190-a1dd-20170740792b",
+    "type" : "Formerly",
+    "name" : "E-Coin",
+    "country" : null
+  }, {
+    "nameId" : "1393d684-4371-485b-bea0-f0a862922fed",
+    "type" : "Legal",
+    "name" : "Transact Payments Malta Limited",
+    "country" : "MLT"
+  }, {
+    "nameId" : "20c4b991-1743-4a4e-af46-8afbde70d6ff",
+    "type" : "Legal",
+    "name" : "UAB Wirex",
+    "country" : "LTU"
+  }, {
+    "nameId" : "dc514aef-024a-49ce-8ced-7b8a726dcffb",
+    "type" : "Legal",
+    "name" : "Wirex Digital Services S.r.l.",
+    "country" : "ITA"
+  }, {
+    "nameId" : "769427fb-9b74-41c9-9bdd-6fe5ac60e079",
+    "type" : "Legal",
+    "name" : "Wirex USA, Inc",
+    "country" : "USA"
+  } ],
+  "countryRel" : [ {
+    "countryRelId" : "89c6c3c3-23bc-4cc7-9be4-b7dcedb58fc8",
+    "country" : "AFG",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "49e0c2af-644c-4b24-bf03-371a901318a5",
+    "country" : "ALA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5ea73725-6ad3-494e-9646-53236c57fb34",
+    "country" : "DZA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "c0c86423-04fb-4b66-9aaa-dc78a802cb7b",
+    "country" : "ASM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "0e03a207-a1a3-4a09-bd4e-cde32c87a84b",
+    "country" : "AIA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d854c010-b373-40d7-8088-6162cb096d9b",
+    "country" : "ATA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5e9ee3be-522d-4f81-854e-57e461493996",
+    "country" : "ABW",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "63c59600-59f4-4db9-89f4-0f59b19124a2",
+    "country" : "BGD",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7b0204e7-c690-405e-9649-babc6c8cf7b3",
+    "country" : "BLR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "7080bb47-6b8b-43e4-b2ba-f856e35a465a",
+    "country" : "BMU",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "79535585-b91c-4e0b-8024-fbaf6d1a48cd",
+    "country" : "BOL",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f6dbaf91-218e-401b-91e0-b8a44f58b7f4",
+    "country" : "BES",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f51c4998-e043-4a8f-9ed0-561555774b09",
+    "country" : "BIH",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4f752959-ab17-4fe6-937c-2bc9f94f1ed9",
+    "country" : "BVT",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5b0ae35f-063e-4289-9e04-882dc525b0cc",
+    "country" : "IOT",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "30e65586-b17f-4f5b-adaa-499760df0225",
+    "country" : "CAN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3aa7d26e-9617-4772-a444-4261dd19a52f",
+    "country" : "CYM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "debf4a86-497b-4b66-ac35-7154e474e912",
+    "country" : "CAF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "45f36ea5-744a-4a23-8f05-a2259e54b965",
+    "country" : "CHN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3efe643e-5db9-4211-b429-76a292880aa1",
+    "country" : "CXR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a08a40d7-96fa-4a5d-871b-f12f3e058136",
+    "country" : "CCK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1e1bb831-89ee-4673-8d95-b991aea6a352",
+    "country" : "COD",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "46650479-47d2-4325-9751-a5be536d3e7a",
+    "country" : "COK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "672ed1ce-8848-4c0b-848e-f9104ecb8586",
+    "country" : "CUB",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Comprehensive"
+  }, {
+    "countryRelId" : "69fa5c12-c7fb-4d72-a108-3ecc7cfd1dcc",
+    "country" : "CUW",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e0cf8c20-b4e9-43a8-9740-c478a547abc0",
+    "country" : "EGY",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1d720017-24c0-4a35-92f8-ac0127594e90",
+    "country" : "ETH",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "38a94891-1e7a-49b9-838b-635fa7893cb5",
+    "country" : "FLK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "0062efa8-f349-4db6-8f3d-2b067cdac5b4",
+    "country" : "GUF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "23e68e4b-ca2e-4da6-8112-5a17e8b5e228",
+    "country" : "PYF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "bc0da3b2-e336-4864-a133-145684e39088",
+    "country" : "ATF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "275165c5-30be-4f13-8d0d-09c386908382",
+    "country" : "GRL",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "50e741f3-1d61-463e-852d-7e32f611ee74",
+    "country" : "GLP",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "fceb2171-0414-43c0-9d6b-504ca4daca54",
+    "country" : "GUM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a10460c4-ef51-4daf-a7af-a0342f250298",
+    "country" : "HMD",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ba3126fb-3fc8-45d4-811f-382b8e247554",
+    "country" : "VAT",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "641e5fd1-f4cd-4fe9-ba37-9b56d8b3377d",
+    "country" : "IRN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "c205e2f9-97e2-4ef0-b999-a74d48009aeb",
+    "country" : "IRQ",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "e4b2b7dc-bf28-49e5-8a4a-aa3f52d7d93b",
+    "country" : "JPN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c4354226-5e89-4c5d-bb62-2949c3f79155",
+    "country" : "KOR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "471ebc14-09fa-4e06-8fec-dc1189fb9c25",
+    "country" : "PRK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "63c4a817-de3b-4ad6-bbc2-f287ffd06352",
+    "country" : "XKX",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2a293724-1806-4aca-975b-4adad574c0ac",
+    "country" : "LBN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "e3af4fbd-5bbf-4d73-9886-6be6cce8e55e",
+    "country" : "LBY",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "190023da-36da-4c39-b659-478731b3bfd1",
+    "country" : "MTQ",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3f6c31b9-cbd7-4793-b0b4-b4bd6cf457a2",
+    "country" : "MYT",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ffa8f98f-c36d-4ec8-b6a4-bad98ff9f669",
+    "country" : "MSR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "98527057-0c7d-4081-9a23-f1ac0f1ffe05",
+    "country" : "MAR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "0bd2a0c1-eb96-423f-b360-67d04d675e51",
+    "country" : "MMR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Black List"
+  }, {
+    "countryRelId" : "3b6aa8f3-fd40-465a-bed0-5dcd9633a85e",
+    "country" : "NPL",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1dd213c1-3d92-4a65-82f4-547a15974f34",
+    "country" : "NCL",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3c7d8501-80c9-49a8-a19a-713297d595a9",
+    "country" : "NIU",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2078ee7c-00e6-48dc-b797-90e1e649902a",
+    "country" : "NFK",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "dabcca6d-f31a-42be-9fb5-241ca6cbe848",
+    "country" : "MNP",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "80a84564-62ea-4979-b309-eb6aa88f8336",
+    "country" : "PSE",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "59be67c4-5465-48fa-9ae5-aa2734308789",
+    "country" : "PCN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "00ff07f5-5919-4a59-b25f-c967a4ebbc9e",
+    "country" : "PRI",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5632bab5-bace-40ac-b30e-0f4b279f8852",
+    "country" : "QAT",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "48db2c33-cdd7-417e-9a50-1f6d9ebddce8",
+    "country" : "REU",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ad914219-b3e1-4404-a6d9-d4880ac0dd1f",
+    "country" : "RUS",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Comprehensive"
+  }, {
+    "countryRelId" : "0b65c572-e78f-4809-a906-56654a5464ba",
+    "country" : "BLM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "75785e14-1bf8-4424-ab5f-126555a492b2",
+    "country" : "SHN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8284dcb5-6cb0-4b64-b3d6-487ff330aa8b",
+    "country" : "MAF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e68cc2a6-b8e1-4751-9c89-13811ddbaa0d",
+    "country" : "SPM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f18cb7ac-4f22-4b19-9968-c4f1b740f731",
+    "country" : "SAU",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1869e413-09de-421c-b353-ed611c26f760",
+    "country" : "SXM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "86ba5edb-6b5f-4827-939c-fb98e150670e",
+    "country" : "SGS",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "63951556-4e2d-4f3e-ace1-bace6b81fa24",
+    "country" : "SDN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "162b6585-f97c-4740-9e66-02fb8874f1c1",
+    "country" : "SJM",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d7d7eea7-563b-4cd8-80ed-f7fb32813eaf",
+    "country" : "SWZ",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a28fda21-9346-4568-a891-63510515eb7d",
+    "country" : "SYR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "ea06e1b2-77ed-430c-80a0-55931246b1bb",
+    "country" : "TKL",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5a74cde1-73fc-46af-a3cb-f69320977768",
+    "country" : "TCA",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "77573510-503d-4def-851b-2b2895fa8134",
+    "country" : "UMI",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b1fa414f-48b5-414d-a53e-ab46588d5ffa",
+    "country" : "VEN",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "9674757b-02ec-469e-93e8-a6640b8ddead",
+    "country" : "VGB",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "567fdb64-0c46-4cab-b6ca-1b515eb9493d",
+    "country" : "VIR",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "716d322d-97ce-40ed-bc56-635de684a68b",
+    "country" : "WLF",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "599c8c26-01db-47ff-9fcb-918e53e79b48",
+    "country" : "ESH",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8fe31383-b5fd-4838-97af-502570a49b4a",
+    "country" : "ZWE",
+    "type" : "Prohibits Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c500c8f0-fc02-464d-8760-78d2d65ab2b5",
+    "country" : "ALB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "23d6c878-5f8a-48f1-a641-3e3c089eaf79",
+    "country" : "AND",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2b39ef5c-05ae-42d2-ab2b-e85f414ec896",
+    "country" : "AGO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "491b2b54-2c69-442f-bc89-ab0b4b0ab8fe",
+    "country" : "ATG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "63aa84a6-6de7-466e-a72e-8ba7478d305b",
+    "country" : "ARG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a788fee9-5e16-4580-b925-cefcb14c0ee5",
+    "country" : "ARM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e7daea1a-430e-4cd0-9502-9ebc84e20630",
+    "country" : "AUS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "60952ac6-cc64-489b-8d63-b3f56d920df0",
+    "country" : "AUT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "db4106cc-0fb6-46b1-a147-2fa1cc5cd0a4",
+    "country" : "AZE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "91e4b949-124d-4fe1-8f84-51fdd98b0657",
+    "country" : "BHS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ba9fb20d-f832-4bf1-8246-d1fa1bd6ae80",
+    "country" : "BHR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e9f9b4ac-41fa-4a83-8fe5-abbcdcfebb5b",
+    "country" : "BRB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "be5a7fbd-1be4-44ec-93d3-b999ff65fa2b",
+    "country" : "BEL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4438f967-b9b8-4b92-b0d5-10a43eeef22e",
+    "country" : "BLZ",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "de20ed35-b2b4-40c4-8279-c140cbed3d60",
+    "country" : "BEN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "34886e15-90b8-4053-bd0d-2e8e8aff83c9",
+    "country" : "BTN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "376d392a-49c9-4880-a10f-97d89c4059da",
+    "country" : "BWA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b581b5c6-23a4-4019-9b9e-99fb8c5f7411",
+    "country" : "BRA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "43bd0067-8316-4cfe-8c74-a30f02580dff",
+    "country" : "BRN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e3a9abcb-958a-4190-b937-938fe23ba7aa",
+    "country" : "BGR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "93642b99-c644-46fb-8998-63c9144e8c98",
+    "country" : "BFA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "2b38527c-a454-42ec-b546-4c762e521ab2",
+    "country" : "BDI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4a9e3a55-01f1-4204-92de-f57fbb3f79e3",
+    "country" : "KHM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6976c09e-32cc-45d4-9b37-30a7c3558d25",
+    "country" : "CMR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "730344c1-2503-456c-b9c8-442ac2a94604",
+    "country" : "CPV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "20e1a60e-608f-46db-b79d-5a4f51f1eda3",
+    "country" : "TCD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "64217201-ffdc-409a-a1dc-19f663840dfb",
+    "country" : "CHL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3f3ac200-854a-4ab7-8ed0-693046fbe560",
+    "country" : "COL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "bcbd2bdb-e8f3-4d4a-ba02-07bb74a2dac8",
+    "country" : "COM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "39110cd7-82d1-45c4-8b74-c5b79ce97b8a",
+    "country" : "COG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "53d800f0-ddf4-4ba8-837d-6b5c1c6c3304",
+    "country" : "CRI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "06937384-1368-4dcd-a48e-599b522a7625",
+    "country" : "CIV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "bd3de44f-a331-45bc-afa2-fbd54b3865b4",
+    "country" : "HRV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "7d8a43ac-276e-4af2-97a6-3c0f28d65031",
+    "country" : "CYP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2f2a22b9-e6dd-4f7b-ad0a-20c1b8be1d5d",
+    "country" : "CZE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c7843ef7-d39e-4baf-9a9e-91b008feb000",
+    "country" : "DNK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7b43a700-f871-4928-8a67-38aa2464f465",
+    "country" : "DJI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "13c61107-8aab-427b-b719-d488bafe4ec4",
+    "country" : "DMA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "feff6a05-7b4f-4cbb-a97f-51c5d211aa5e",
+    "country" : "DOM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7dda79a0-acfc-4f99-ba9c-7e276a22019a",
+    "country" : "ECU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7f1295b8-708d-4f27-bef6-0750f70f8632",
+    "country" : "SLV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2f6f083f-262e-4503-8b93-543c2ef20ec4",
+    "country" : "GNQ",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f7c41d68-4f17-4918-8944-5050539909ed",
+    "country" : "ERI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "86baa992-bb82-4b43-85d5-eafca9d69c83",
+    "country" : "EST",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "748fa490-009a-4acf-9bae-19f861bbfb6f",
+    "country" : "FRO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c5ee18b0-5117-4cfb-9ce1-a17601537665",
+    "country" : "FJI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "176838d9-c01d-4fc0-a7a4-eaf1204b801c",
+    "country" : "FIN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f44d7a7e-3103-4abf-82a2-0d7c5c3202cc",
+    "country" : "FRA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "638879be-8759-42e5-9f8c-6e39fcae2413",
+    "country" : "GAB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c7403f1e-889e-471c-b19c-ae9f5015ca79",
+    "country" : "GMB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "68f46421-3ea2-4520-b73a-1a9534071d20",
+    "country" : "GEO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6d0b22c0-5767-4fda-ab34-d7d39b626b27",
+    "country" : "DEU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "12418f99-9717-4829-b2f3-c621507294d3",
+    "country" : "GHA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "53ae0456-6e5d-4c14-93a3-7720c6872e1c",
+    "country" : "GIB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "5b9dace9-a13c-42f0-bed3-945754952297",
+    "country" : "GRC",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b2187f99-08d9-4a48-a18d-34a43a92305a",
+    "country" : "GRD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8ddab1e2-3054-4cfb-8473-a2b0d5f17d4b",
+    "country" : "GTM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "33ec9faa-e0d2-4bf4-8b5c-8f547be94207",
+    "country" : "GGY",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f6a8c918-8e47-46fe-a1b0-da70ec0cec7c",
+    "country" : "GIN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6d6e3023-e341-49df-b813-0a62e7aa5b7d",
+    "country" : "GNB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "cc8b9885-affd-48a8-9cbf-f8e6e03522da",
+    "country" : "GUY",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "437ddf67-1489-40f3-baad-e3b68aaa5ba3",
+    "country" : "HTI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "fcc1e5bb-1e49-4d72-b6f9-66fc2447ab6a",
+    "country" : "HND",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4a9657ff-a472-48dd-a924-2cdd6a35ce50",
+    "country" : "HKG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "2e8cf4eb-3769-4cb7-b732-e8552ef3515e",
+    "country" : "HUN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4dabb040-e9f9-434f-8ec9-f042a4805434",
+    "country" : "ISL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "171d1dff-75b5-4bc9-bddb-32a7a693f9c3",
+    "country" : "IND",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "513496e9-4fea-4380-a602-6a05ed125a89",
+    "country" : "IDN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a42fa419-5041-4d44-93bd-54946a6391ad",
+    "country" : "IRL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2a1b1bbb-887c-4469-b128-b4c1c37ea0dc",
+    "country" : "IMN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3cc8af72-9665-4c49-8f87-05e20aae1a61",
+    "country" : "ISR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "34f5d5f9-bc36-45cf-9a76-847048e4e8f8",
+    "country" : "ITA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "fe00ef45-6cf0-41fe-bc7f-05dcadaadad1",
+    "country" : "JAM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "79874e69-e8b9-4daa-9392-790e95119e40",
+    "country" : "JEY",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "1dcea2d5-f792-40e9-a4ea-cefe89fa3d85",
+    "country" : "JOR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5d790406-8e49-439e-a661-82aad0779304",
+    "country" : "KAZ",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "9abb7bd9-a583-4c7f-9d26-8ef09a2fa9a5",
+    "country" : "KEN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "dba29e22-a043-4fdb-9748-c6d1f7554c55",
+    "country" : "KIR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "06be22f5-abf8-4715-942c-826ca89c7795",
+    "country" : "KWT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ded66b86-51ef-4f80-b92f-f879bb687052",
+    "country" : "KGZ",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "681792c9-ea24-465b-bcb3-c73c62ab103e",
+    "country" : "LAO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "f24bb00a-4ec8-4030-918e-d1ffbece23f8",
+    "country" : "LVA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "411ada2f-a917-4dbb-9a8c-5a130c0a1adf",
+    "country" : "LSO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a02a47ac-694d-4061-aae5-1c2c714ce21b",
+    "country" : "LBR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "cfcf0f9e-1684-4227-881b-071d5a420473",
+    "country" : "LIE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4d746363-d32b-4d02-bf3d-a15df71e1604",
+    "country" : "LTU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c3b3b15b-334d-4139-aff8-118e08386a3f",
+    "country" : "LUX",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "11c65113-616d-4bff-8c59-a0f716cb8b6d",
+    "country" : "MAC",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "9148dcbf-de9f-4c6c-b5b1-3ce1b2b81355",
+    "country" : "MKD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6f939957-ebf5-4d84-b439-19ec608c504f",
+    "country" : "MDG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7db614cc-2be5-46e6-a256-9155aacf9a14",
+    "country" : "MWI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "cba6032b-fb34-4f16-bfee-84f8f0d8cca4",
+    "country" : "MYS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "38a3fe44-08dc-4df4-ab5b-9edda5880e51",
+    "country" : "MDV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d8d8f153-eba2-46f1-ab79-9c91cb0cd122",
+    "country" : "MLI",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "4e033f1e-376d-4a92-82ce-c319033254d4",
+    "country" : "MLT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3f219e85-62fe-4569-a737-6981bc027d49",
+    "country" : "MHL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "19f4a093-ca64-44b9-81dd-10db5f07bfb9",
+    "country" : "MRT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2d3a1aef-7928-4ecd-b079-081770b013f3",
+    "country" : "MUS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3174a77c-aa74-4bd9-93df-1c84321e529e",
+    "country" : "MEX",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "60334b65-99e7-43b7-b441-379c659ed1fb",
+    "country" : "FSM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "dfb348f1-b8b6-425e-b090-b38dc43ed7a9",
+    "country" : "MDA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "98538aab-5f66-43d8-8f1c-ea097179bf8e",
+    "country" : "MCO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "da14f656-5e8b-470e-b5c7-18e2f7be9dcc",
+    "country" : "MNG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b5c9a7ec-a982-4f63-8d01-e6149e42410e",
+    "country" : "MNE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4c35fffa-cff6-4e4f-933d-b179f00a42c9",
+    "country" : "MOZ",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "787b1596-fd46-4d49-9a95-bb34e0650fe7",
+    "country" : "NAM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "a940b192-045e-4a05-9acc-2a3cfd87c4f5",
+    "country" : "NRU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "52e58c86-a948-43db-a70a-a119f592b0c9",
+    "country" : "NLD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "2f1a373a-fb7a-47fb-a0b8-9dbbe76a49c1",
+    "country" : "NZL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "53620b9e-f275-475c-97a5-deced50de97c",
+    "country" : "NIC",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "723c92ee-8f4c-445a-ad69-01e4ae7967a2",
+    "country" : "NER",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5d9e2874-a52f-4848-9301-37bdda59843c",
+    "country" : "NGA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "7c4f719b-80f2-4521-a2a6-98707c62fb80",
+    "country" : "NOR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "99cbca6a-7071-4d32-8c40-447340221caa",
+    "country" : "OMN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "b7d372d2-a31d-473d-a585-ee4198194f33",
+    "country" : "PAK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "c0d170d5-824d-4559-a90c-011b6c2f38de",
+    "country" : "PLW",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "19396171-6bc1-48fc-8cf1-35873ff8bc53",
+    "country" : "PAN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "2aea78bf-c108-4edc-8e03-46fa89dcb0d2",
+    "country" : "PNG",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8f504f5b-9cf3-4deb-988d-e4a8853c9264",
+    "country" : "PRY",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3bf64834-b85e-4e99-a008-d226745219e7",
+    "country" : "PER",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6b4e0531-c8ef-4234-8c63-12d0e648358c",
+    "country" : "PHL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "ab38e492-2283-4e6c-b671-65b1a080b872",
+    "country" : "POL",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "53327cbc-4d04-4fd7-97ad-d97d6ffd62b1",
+    "country" : "PRT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "9f10d33b-c048-4f17-84b9-8820a9100d21",
+    "country" : "ROU",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "365a6cdc-d4b0-4c79-9c1a-5861dfe47661",
+    "country" : "RWA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "34cbcf81-4f53-481d-b986-00440a7b5ee0",
+    "country" : "KNA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3737ecc6-2c88-4e6f-8ac9-9883f913eed6",
+    "country" : "LCA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "876e1998-5f05-4a92-a441-6da98a37ce9a",
+    "country" : "VCT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4b1e853b-25ae-4db2-91ad-7f9d0bf27831",
+    "country" : "WSM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "09f8dada-f026-40db-835e-45b43f5b1519",
+    "country" : "SMR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "77d1e154-74ed-4d40-bf5f-3b36711920f7",
+    "country" : "STP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "01827d5d-9ab2-4bc0-b7f7-fac6e3e23356",
+    "country" : "SEN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "c9277bfb-98b6-490d-8490-283e9e66efd2",
+    "country" : "SRB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "ecb5f8be-5548-40b8-ab6b-143a01bf32fe",
+    "country" : "SYC",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "97f39931-59a4-4a50-9a0a-7b060c60707d",
+    "country" : "SLE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7d4d1d55-3190-46d8-90d9-53d4f1199d47",
+    "country" : "SGP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6b474a24-1bc8-4623-8f67-c043f1be815e",
+    "country" : "SVK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "3a679a09-a1ee-4d21-8c22-8f88ec5385b4",
+    "country" : "SVN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6b9930d6-5840-4d3d-872f-1c8437d5fd34",
+    "country" : "SLB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "05ada507-f64c-45e8-82e2-17a793a9b9cf",
+    "country" : "SOM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "OFAC-Selective"
+  }, {
+    "countryRelId" : "4ab1de20-d440-400d-833b-8abdf3f669ee",
+    "country" : "ZAF",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "6f077917-bc29-47d4-9690-1940e8a2421b",
+    "country" : "SSD",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "e653e6c8-112d-4059-a10b-8337d0cdac1f",
+    "country" : "ESP",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6473e80d-ad47-4a99-9af2-c1fac66d80ba",
+    "country" : "LKA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d328441a-978c-4599-bbd6-aeda6da8667a",
+    "country" : "SUR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "29098589-cbe0-42c3-8cbb-0a423a61d700",
+    "country" : "SWE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "5f95a637-15c0-4f7a-acf7-e375ac8ecf05",
+    "country" : "CHE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d578e6d7-7c94-4bbf-9fe6-c812d44c0b8f",
+    "country" : "TWN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "8ee5977a-cd9d-478c-a84a-8637621b27b0",
+    "country" : "TJK",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e5fc27a6-c2f8-4c5c-bcab-1b7cbcd0bb0a",
+    "country" : "TZA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "bb40c5ba-eacf-43c4-8adc-309a49bc4fde",
+    "country" : "THA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "6795ca1f-c01a-43fd-bb97-c32d36f5f38e",
+    "country" : "TLS",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "d88381f3-4503-436f-8eb7-24cc7cb8d4d4",
+    "country" : "TGO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "e7f19f98-ab6a-4610-bd69-5ba4236e9c8c",
+    "country" : "TON",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "a3fccd3a-1ec8-4662-b158-10f92de8ae1f",
+    "country" : "TTO",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "2139d3c6-edd5-47bc-bb86-9e37ba72cbdf",
+    "country" : "TUN",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "99f0e40a-0abf-4413-81c7-247c87031865",
+    "country" : "TKM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "327ec78c-3ee5-4921-8f3e-7f8a79475372",
+    "country" : "TKM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "11c6a6d2-dd3e-4fe8-877e-7637c3a70cd8",
+    "country" : "TUV",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "89b68cbe-eacc-49be-aa8f-752b457a1c03",
+    "country" : "UGA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "e497819a-ad29-4013-9b03-db55f3343878",
+    "country" : "UKR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7984b066-ba33-461a-abbd-ba785f0ec289",
+    "country" : "ARE",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "fb22783f-b2f1-4f30-be75-8fa188a0f24a",
+    "country" : "GBR",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "167ac3b8-4361-4f20-a5ce-8b22c3543350",
+    "country" : "USA",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "bc4293e9-1c33-46b3-9264-8f88eba992f0",
+    "country" : "URY",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "4ea69ff5-e0a9-40d4-babb-252e2dcf3741",
+    "country" : "UZB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  }, {
+    "countryRelId" : "7ab245b1-d029-43f9-9888-696fa2729749",
+    "country" : "VUT",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "EU High-risk"
+  }, {
+    "countryRelId" : "67b8d190-7fed-470e-9afa-ed57a6b5010c",
+    "country" : "VNM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "0f1fee35-6905-4a81-b5c4-40ec239912a0",
+    "country" : "YEM",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : "Grey List"
+  }, {
+    "countryRelId" : "b249029f-1c67-47da-bc32-a7dcf2b77639",
+    "country" : "ZMB",
+    "type" : "Allows Citizens of",
+    "calculateSanctionByCountry" : null
+  } ],
+  "kyc" : [ {
+    "kycId" : "b117bbce-ccb9-473e-a219-68443a5e9d0a",
+    "createdDate" : "02/04/2025",
+    "customerInfo" : "Email Address && Country of Citizenship && Phone Number && Legal Name, Government ID",
+    "requires2fa" : false,
+    "legalNameRequired" : true,
+    "dobRequired" : false,
+    "addressRequired" : false,
+    "ssn_tinRequired" : false,
+    "countryOfCitizenshipRequired" : true,
+    "govtIdRequired" : true,
+    "proofOfResidencyRequired" : false,
+    "emailRequired" : true,
+    "phoneRequired" : true,
+    "selfieRequired" : false,
+    "videoRequired" : false,
+    "transactionLimitsExist" : true,
+    "amountLimit" : null,
+    "currency" : "GBP",
+    "limitFrequency" : "Day",
+    "notes" : null,
+    "internalNotes" : "https://wirexapp.com/help/article/how-to-verify-your-identity-1190"
+  } ],
+  "kycWeights" : {
+    "ssnTinRequiredWeight" : 25,
+    "proofOfResidencyRequiredWeight" : 15,
+    "videoRequiredWeight" : 14,
+    "govtIdRequiredWeight" : 12,
+    "selfieRequiredWeight" : 10,
+    "legalNameRequiredWeight" : 5,
+    "addressRequiredWeight" : 6,
+    "dobRequiredWeight" : 12,
+    "phoneRequiredWeight" : 4,
+    "countryOfCitizenshipRequiredWeight" : 6,
+    "transactionLimitsExistWeight" : 7,
+    "emailRequiredWeight" : 2
+  },
+  "paymentMethods" : [ {
+    "paymentMethodId" : "897dcec0-28cc-423b-85f8-2df8b5805692",
+    "paymentMethod" : "SEPA Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : "GBR",
+    "onrampProvider" : null,
+    "account" : [ {
+      "accountId" : "0c250362-f88f-41ee-83f9-136e6e144828",
+      "number" : "508900000001757814",
+      "bic" : "GENODEF1VBD",
+      "iban" : "DE07508900000001757814",
+      "routingType" : "IBAN",
+      "localRouting" : null,
+      "bankId" : null,
+      "bankRole" : "Custodian",
+      "country" : "DEU"
+    } ]
+  }, {
+    "paymentMethodId" : "828a6923-eddd-4045-b5f5-c493224f6fac",
+    "paymentMethod" : "Easy Bank Transfer",
+    "isAmountRestricted" : null,
+    "jurisdiction" : null,
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "86452ca1-35a9-4215-a439-4076c09f27e3",
+    "paymentMethod" : "Easy Deposit",
+    "isAmountRestricted" : null,
+    "jurisdiction" : null,
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "3c7782d0-8ff0-48b4-be0b-8094b9c8c903",
+    "paymentMethod" : "Credit Card",
+    "isAmountRestricted" : true,
+    "jurisdiction" : null,
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "7d512903-f2dd-40d7-a646-d812f557916a",
+    "paymentMethod" : "Debit Card",
+    "isAmountRestricted" : true,
+    "jurisdiction" : null,
+    "onrampProvider" : null,
+    "account" : [ ]
+  }, {
+    "paymentMethodId" : "67a5e1b5-b3c8-47b7-a171-f6906dba24d5",
+    "paymentMethod" : "Apple Pay",
+    "isAmountRestricted" : true,
+    "jurisdiction" : null,
+    "onrampProvider" : null,
+    "account" : [ ]
+  } ],
+  "billingDescriptor" : [ ],
+  "tradingPairs" : [ ],
+  "regulations" : [ {
+    "regulationId" : "7ba2a9e2-d94e-471d-bc78-52039d42a499",
+    "regulator" : "5f4b69b8-a760-4d4b-98f9-47f56d868efa",
+    "number" : "1838367",
+    "printscreen" : "Screenshot 2025-02-18 150509.png",
+    "startDate" : null,
+    "endDate" : null,
+    "validated" : "true"
+  }, {
+    "regulationId" : "53db2577-002e-4262-8c89-0b71e66323dd",
+    "regulator" : "818c1d36-414b-4950-b5a8-3217dbe41e91",
+    "number" : "67727",
+    "printscreen" : "Screenshot 2025-02-18 150509.png",
+    "startDate" : "07/30/2020",
+    "endDate" : "11/02/2022",
+    "validated" : "true"
+  }, {
+    "regulationId" : "054c7fb0-711d-4256-9b71-a58af244d3fd",
+    "regulator" : "78ad2d0d-2626-4cff-a292-06e2866282f4",
+    "number" : "C 91879",
+    "printscreen" : "Screenshot 2025-02-18 151607.png, Screenshot 2025-02-18 151643.png",
+    "startDate" : "04/20/2019",
+    "endDate" : null,
+    "validated" : "true"
+  }, {
+    "regulationId" : "7f94a961-95c4-49bc-89e0-60c26f558493",
+    "regulator" : "ffffba06-1420-46f6-9d19-c84fbb977450",
+    "number" : "PSV108",
+    "printscreen" : "Screenshot 2025-02-18 151719.png",
+    "startDate" : "04/18/2023",
+    "endDate" : null,
+    "validated" : "true"
+  }, {
+    "regulationId" : "8cdabd93-6a1c-4ae7-9a28-4cea1992f39e",
+    "regulator" : "9ec251cc-35d7-4198-9e38-5a6d39cb5dc4",
+    "number" : "305118023",
+    "printscreen" : "Screenshot 2025-02-18 151930.png",
+    "startDate" : "04/08/2019",
+    "endDate" : null,
+    "validated" : "true"
+  }, {
+    "regulationId" : "0762fc8e-0d57-421c-b46d-2b631a6c2d71",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "902025",
+    "printscreen" : "Screenshot 2025-02-18 152016.png",
+    "startDate" : "08/17/2018",
+    "endDate" : null,
+    "validated" : "true"
+  }, {
+    "regulationId" : "3e64f571-bc52-487d-aee4-e745a13500b3",
+    "regulator" : "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+    "number" : "902011",
+    "printscreen" : "Screenshot 2025-02-18 152157.png",
+    "startDate" : "04/14/2021",
+    "endDate" : null,
+    "validated" : "true"
+  } ],
+  "vaspSanction" : [ ]
+}

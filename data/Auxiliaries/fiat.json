@@ -1,0 +1,1060 @@
+[
+   {
+      "symbol": "AED",
+      "num": "784",
+      "currency": "United Arab Emirates dirham",
+      "locationsListedForThisCurrency": "United Arab Emirates"
+   },
+   {
+      "symbol": "AFN",
+      "num": "971",
+      "currency": "Afghan afghani",
+      "locationsListedForThisCurrency": "Afghanistan"
+   },
+   {
+      "symbol": "ALL",
+      "num": "8",
+      "currency": "Albanian lek",
+      "locationsListedForThisCurrency": "Albania"
+   },
+   {
+      "symbol": "AMD",
+      "num": "51",
+      "currency": "Armenian dram",
+      "locationsListedForThisCurrency": "Armenia"
+   },
+   {
+      "symbol": "ANG",
+      "num": "532",
+      "currency": "Netherlands Antillean guilder",
+      "locationsListedForThisCurrency": "Curaçao (CW),  Sint Maarten (SX)"
+   },
+   {
+      "symbol": "AOA",
+      "num": "973",
+      "currency": "Angolan kwanza",
+      "locationsListedForThisCurrency": "Angola"
+   },
+   {
+      "symbol": "ARS",
+      "num": "32",
+      "currency": "Argentine peso",
+      "locationsListedForThisCurrency": "Argentina"
+   },
+   {
+      "symbol": "AUD",
+      "num": "36",
+      "currency": "Australian dollar",
+      "locationsListedForThisCurrency": "Australia,  Christmas Island (CX),  Cocos (Keeling) Islands (CC),  Heard Island and McDonald Islands (HM),  Kiribati (KI),  Nauru (NR),  Norfolk Island (NF),  Tuvalu (TV)"
+   },
+   {
+      "symbol": "AWG",
+      "num": "533",
+      "currency": "Aruban florin",
+      "locationsListedForThisCurrency": "Aruba"
+   },
+   {
+      "symbol": "AZN",
+      "num": "944",
+      "currency": "Azerbaijani manat",
+      "locationsListedForThisCurrency": "Azerbaijan"
+   },
+   {
+      "symbol": "BAM",
+      "num": "977",
+      "currency": "Bosnia and Herzegovina convertible mark",
+      "locationsListedForThisCurrency": "Bosnia and Herzegovina"
+   },
+   {
+      "symbol": "BBD",
+      "num": "52",
+      "currency": "Barbados dollar",
+      "locationsListedForThisCurrency": "Barbados"
+   },
+   {
+      "symbol": "BDT",
+      "num": "50",
+      "currency": "Bangladeshi taka",
+      "locationsListedForThisCurrency": "Bangladesh"
+   },
+   {
+      "symbol": "BGN",
+      "num": "975",
+      "currency": "Bulgarian lev",
+      "locationsListedForThisCurrency": "Bulgaria"
+   },
+   {
+      "symbol": "BHD",
+      "num": "48",
+      "currency": "Bahraini dinar",
+      "locationsListedForThisCurrency": "Bahrain"
+   },
+   {
+      "symbol": "BIF",
+      "num": "108",
+      "currency": "Burundian franc",
+      "locationsListedForThisCurrency": "Burundi"
+   },
+   {
+      "symbol": "BMD",
+      "num": "60",
+      "currency": "Bermudian dollar",
+      "locationsListedForThisCurrency": "Bermuda"
+   },
+   {
+      "symbol": "BND",
+      "num": "96",
+      "currency": "Brunei dollar",
+      "locationsListedForThisCurrency": "Brunei Darussalam"
+   },
+   {
+      "symbol": "BOB",
+      "num": "68",
+      "currency": "Boliviano",
+      "locationsListedForThisCurrency": "Bolivia"
+   },
+   {
+      "symbol": "BOV",
+      "num": "984",
+      "currency": "Bolivian Mvdol (funds code)",
+      "locationsListedForThisCurrency": "Bolivia"
+   },
+   {
+      "symbol": "BRL",
+      "num": "986",
+      "currency": "Brazilian real",
+      "locationsListedForThisCurrency": "Brazil"
+   },
+   {
+      "symbol": "BSD",
+      "num": "44",
+      "currency": "Bahamian dollar",
+      "locationsListedForThisCurrency": "Bahamas"
+   },
+   {
+      "symbol": "BTN",
+      "num": "64",
+      "currency": "Bhutanese ngultrum",
+      "locationsListedForThisCurrency": "Bhutan"
+   },
+   {
+      "symbol": "BWP",
+      "num": "72",
+      "currency": "Botswana pula",
+      "locationsListedForThisCurrency": "Botswana"
+   },
+   {
+      "symbol": "BYN",
+      "num": "933",
+      "currency": "Belarusian ruble",
+      "locationsListedForThisCurrency": "Belarus"
+   },
+   {
+      "symbol": "BZD",
+      "num": "84",
+      "currency": "Belize dollar",
+      "locationsListedForThisCurrency": "Belize"
+   },
+   {
+      "symbol": "CAD",
+      "num": "124",
+      "currency": "Canadian dollar",
+      "locationsListedForThisCurrency": "Canada"
+   },
+   {
+      "symbol": "CDF",
+      "num": "976",
+      "currency": "Congolese franc",
+      "locationsListedForThisCurrency": "Democratic Republic of the Congo"
+   },
+   {
+      "symbol": "CHE",
+      "num": "947",
+      "currency": "WIR euro (complementary currency)",
+      "locationsListedForThisCurrency": "Switzerland"
+   },
+   {
+      "symbol": "CHF",
+      "num": "756",
+      "currency": "Swiss franc",
+      "locationsListedForThisCurrency": "Switzerland,  Liechtenstein (LI)"
+   },
+   {
+      "symbol": "CHW",
+      "num": "948",
+      "currency": "WIR franc (complementary currency)",
+      "locationsListedForThisCurrency": "Switzerland"
+   },
+   {
+      "symbol": "CLF",
+      "num": "990",
+      "currency": "Unidad de Fomento (funds code)",
+      "locationsListedForThisCurrency": "Chile"
+   },
+   {
+      "symbol": "CLP",
+      "num": "152",
+      "currency": "Chilean peso",
+      "locationsListedForThisCurrency": "Chile"
+   },
+   {
+      "symbol": "CNY",
+      "num": "156",
+      "currency": "Renminbi[6]",
+      "locationsListedForThisCurrency": "China"
+   },
+   {
+      "symbol": "COP",
+      "num": "170",
+      "currency": "Colombian peso",
+      "locationsListedForThisCurrency": "Colombia"
+   },
+   {
+      "symbol": "COU",
+      "num": "970",
+      "currency": "Unidad de Valor Real (UVR) (funds code)[7]",
+      "locationsListedForThisCurrency": "Colombia"
+   },
+   {
+      "symbol": "CRC",
+      "num": "188",
+      "currency": "Costa Rican colon",
+      "locationsListedForThisCurrency": "Costa Rica"
+   },
+   {
+      "symbol": "CUP",
+      "num": "192",
+      "currency": "Cuban peso",
+      "locationsListedForThisCurrency": "Cuba"
+   },
+   {
+      "symbol": "CVE",
+      "num": "132",
+      "currency": "Cape Verdean escudo",
+      "locationsListedForThisCurrency": "Cabo Verde"
+   },
+   {
+      "symbol": "CZK",
+      "num": "203",
+      "currency": "Czech koruna",
+      "locationsListedForThisCurrency": "Czechia[8]"
+   },
+   {
+      "symbol": "DJF",
+      "num": "262",
+      "currency": "Djiboutian franc",
+      "locationsListedForThisCurrency": "Djibouti"
+   },
+   {
+      "symbol": "DKK",
+      "num": "208",
+      "currency": "Danish krone",
+      "locationsListedForThisCurrency": "Denmark,  Faroe Islands (FO),  Greenland (GL)"
+   },
+   {
+      "symbol": "DOP",
+      "num": "214",
+      "currency": "Dominican peso",
+      "locationsListedForThisCurrency": "Dominican Republic"
+   },
+   {
+      "symbol": "DZD",
+      "num": "12",
+      "currency": "Algerian dinar",
+      "locationsListedForThisCurrency": "Algeria"
+   },
+   {
+      "symbol": "EGP",
+      "num": "818",
+      "currency": "Egyptian pound",
+      "locationsListedForThisCurrency": "Egypt"
+   },
+   {
+      "symbol": "ERN",
+      "num": "232",
+      "currency": "Eritrean nakfa",
+      "locationsListedForThisCurrency": "Eritrea"
+   },
+   {
+      "symbol": "ETB",
+      "num": "230",
+      "currency": "Ethiopian birr",
+      "locationsListedForThisCurrency": "Ethiopia"
+   },
+   {
+      "symbol": "EUR",
+      "num": "978",
+      "currency": "Euro",
+      "locationsListedForThisCurrency": "Åland Islands (AX),  Andorra (AD)[c],  Austria (AT),  Belgium (BE),  Croatia (HR),  Cyprus (CY),  Estonia (EE),  European Union (EU),  Finland (FI),  France (FR),  French Guiana (GF),  French Southern and Antarctic Lands (TF),  Germany (DE),  Greece (GR),  Guadeloupe (GP),  Ireland (IE),  Italy (IT),  Kosovo (XK)[d],  Latvia (LV),  Lithuania (LT),  Luxembourg (LU),  Malta (MT),  Martinique (MQ),  Mayotte (YT),  Monaco (MC)[c],  Montenegro (ME)[d],  Netherlands (NL),  Portugal (PT),  Réunion (RE),  Saint Barthélemy (BL),  Saint Martin (MF),  Saint Pierre and Miquelon (PM),  San Marino (SM)[c],  Slovakia (SK),  Slovenia (SI),  Spain (ES),  Vatican City (VA)[c]"
+   },
+   {
+      "symbol": "FJD",
+      "num": "242",
+      "currency": "Fiji dollar",
+      "locationsListedForThisCurrency": "Fiji"
+   },
+   {
+      "symbol": "FKP",
+      "num": "238",
+      "currency": "Falkland Islands pound",
+      "locationsListedForThisCurrency": "Falkland Islands (pegged to GBP 1:1)"
+   },
+   {
+      "symbol": "GBP",
+      "num": "826",
+      "currency": "Pound sterling",
+      "locationsListedForThisCurrency": "United Kingdom,  Isle of Man (IM, see Manx pound),  Jersey (JE, see Jersey pound),  Guernsey (GG, see Guernsey pound),  Tristan da Cunha (SH-TA)"
+   },
+   {
+      "symbol": "GEL",
+      "num": "981",
+      "currency": "Georgian lari",
+      "locationsListedForThisCurrency": "Georgia"
+   },
+   {
+      "symbol": "GHS",
+      "num": "936",
+      "currency": "Ghanaian cedi",
+      "locationsListedForThisCurrency": "Ghana"
+   },
+   {
+      "symbol": "GIP",
+      "num": "292",
+      "currency": "Gibraltar pound",
+      "locationsListedForThisCurrency": "Gibraltar (pegged to GBP 1:1)"
+   },
+   {
+      "symbol": "GMD",
+      "num": "270",
+      "currency": "Gambian dalasi",
+      "locationsListedForThisCurrency": "Gambia"
+   },
+   {
+      "symbol": "GNF",
+      "num": "324",
+      "currency": "Guinean franc",
+      "locationsListedForThisCurrency": "Guinea"
+   },
+   {
+      "symbol": "GTQ",
+      "num": "320",
+      "currency": "Guatemalan quetzal",
+      "locationsListedForThisCurrency": "Guatemala"
+   },
+   {
+      "symbol": "GYD",
+      "num": "328",
+      "currency": "Guyanese dollar",
+      "locationsListedForThisCurrency": "Guyana"
+   },
+   {
+      "symbol": "HKD",
+      "num": "344",
+      "currency": "Hong Kong dollar",
+      "locationsListedForThisCurrency": "Hong Kong"
+   },
+   {
+      "symbol": "HNL",
+      "num": "340",
+      "currency": "Honduran lempira",
+      "locationsListedForThisCurrency": "Honduras"
+   },
+   {
+      "symbol": "HTG",
+      "num": "332",
+      "currency": "Haitian gourde",
+      "locationsListedForThisCurrency": "Haiti"
+   },
+   {
+      "symbol": "HUF",
+      "num": "348",
+      "currency": "Hungarian forint",
+      "locationsListedForThisCurrency": "Hungary"
+   },
+   {
+      "symbol": "IDR",
+      "num": "360",
+      "currency": "Indonesian rupiah",
+      "locationsListedForThisCurrency": "Indonesia"
+   },
+   {
+      "symbol": "ILS",
+      "num": "376",
+      "currency": "Israeli new shekel",
+      "locationsListedForThisCurrency": "Israel"
+   },
+   {
+      "symbol": "INR",
+      "num": "356",
+      "currency": "Indian rupee",
+      "locationsListedForThisCurrency": "India,  Bhutan"
+   },
+   {
+      "symbol": "IQD",
+      "num": "368",
+      "currency": "Iraqi dinar",
+      "locationsListedForThisCurrency": "Iraq"
+   },
+   {
+      "symbol": "IRR",
+      "num": "364",
+      "currency": "Iranian rial",
+      "locationsListedForThisCurrency": "Iran"
+   },
+   {
+      "symbol": "ISK",
+      "num": "352",
+      "currency": "Icelandic króna (plural: krónur)",
+      "locationsListedForThisCurrency": "Iceland"
+   },
+   {
+      "symbol": "JMD",
+      "num": "388",
+      "currency": "Jamaican dollar",
+      "locationsListedForThisCurrency": "Jamaica"
+   },
+   {
+      "symbol": "JOD",
+      "num": "400",
+      "currency": "Jordanian dinar",
+      "locationsListedForThisCurrency": "Jordan"
+   },
+   {
+      "symbol": "JPY",
+      "num": "392",
+      "currency": "Japanese yen",
+      "locationsListedForThisCurrency": "Japan"
+   },
+   {
+      "symbol": "KES",
+      "num": "404",
+      "currency": "Kenyan shilling",
+      "locationsListedForThisCurrency": "Kenya"
+   },
+   {
+      "symbol": "KGS",
+      "num": "417",
+      "currency": "Kyrgyzstani som",
+      "locationsListedForThisCurrency": "Kyrgyzstan"
+   },
+   {
+      "symbol": "KHR",
+      "num": "116",
+      "currency": "Cambodian riel",
+      "locationsListedForThisCurrency": "Cambodia"
+   },
+   {
+      "symbol": "KMF",
+      "num": "174",
+      "currency": "Comoro franc",
+      "locationsListedForThisCurrency": "Comoros"
+   },
+   {
+      "symbol": "KPW",
+      "num": "408",
+      "currency": "North Korean won",
+      "locationsListedForThisCurrency": "North Korea"
+   },
+   {
+      "symbol": "KRW",
+      "num": "410",
+      "currency": "South Korean won",
+      "locationsListedForThisCurrency": "South Korea"
+   },
+   {
+      "symbol": "KWD",
+      "num": "414",
+      "currency": "Kuwaiti dinar",
+      "locationsListedForThisCurrency": "Kuwait"
+   },
+   {
+      "symbol": "KYD",
+      "num": "136",
+      "currency": "Cayman Islands dollar",
+      "locationsListedForThisCurrency": "Cayman Islands"
+   },
+   {
+      "symbol": "KZT",
+      "num": "398",
+      "currency": "Kazakhstani tenge",
+      "locationsListedForThisCurrency": "Kazakhstan"
+   },
+   {
+      "symbol": "LAK",
+      "num": "418",
+      "currency": "Lao kip",
+      "locationsListedForThisCurrency": "Lao People's Democratic Republic"
+   },
+   {
+      "symbol": "LBP",
+      "num": "422",
+      "currency": "Lebanese pound",
+      "locationsListedForThisCurrency": "Lebanon"
+   },
+   {
+      "symbol": "LKR",
+      "num": "144",
+      "currency": "Sri Lankan rupee",
+      "locationsListedForThisCurrency": "Sri Lanka"
+   },
+   {
+      "symbol": "LRD",
+      "num": "430",
+      "currency": "Liberian dollar",
+      "locationsListedForThisCurrency": "Liberia"
+   },
+   {
+      "symbol": "LSL",
+      "num": "426",
+      "currency": "Lesotho loti",
+      "locationsListedForThisCurrency": "Lesotho"
+   },
+   {
+      "symbol": "LYD",
+      "num": "434",
+      "currency": "Libyan dinar",
+      "locationsListedForThisCurrency": "Libya"
+   },
+   {
+      "symbol": "MAD",
+      "num": "504",
+      "currency": "Moroccan dirham",
+      "locationsListedForThisCurrency": "Morocco,  Western Sahara"
+   },
+   {
+      "symbol": "MDL",
+      "num": "498",
+      "currency": "Moldovan leu",
+      "locationsListedForThisCurrency": "Moldova"
+   },
+   {
+      "symbol": "MGA",
+      "num": "969",
+      "currency": "Malagasy ariary",
+      "locationsListedForThisCurrency": "Madagascar"
+   },
+   {
+      "symbol": "MKD",
+      "num": "807",
+      "currency": "Macedonian denar",
+      "locationsListedForThisCurrency": "North Macedonia"
+   },
+   {
+      "symbol": "MMK",
+      "num": "104",
+      "currency": "Myanmar kyat",
+      "locationsListedForThisCurrency": "Myanmar"
+   },
+   {
+      "symbol": "MNT",
+      "num": "496",
+      "currency": "Mongolian tögrög",
+      "locationsListedForThisCurrency": "Mongolia"
+   },
+   {
+      "symbol": "MOP",
+      "num": "446",
+      "currency": "Macanese pataca",
+      "locationsListedForThisCurrency": "Macau"
+   },
+   {
+      "symbol": "MRU",
+      "num": "929",
+      "currency": "Mauritanian ouguiya",
+      "locationsListedForThisCurrency": "Mauritania"
+   },
+   {
+      "symbol": "MUR",
+      "num": "480",
+      "currency": "Mauritian rupee",
+      "locationsListedForThisCurrency": "Mauritius"
+   },
+   {
+      "symbol": "MVR",
+      "num": "462",
+      "currency": "Maldivian rufiyaa",
+      "locationsListedForThisCurrency": "Maldives"
+   },
+   {
+      "symbol": "MWK",
+      "num": "454",
+      "currency": "Malawian kwacha",
+      "locationsListedForThisCurrency": "Malawi"
+   },
+   {
+      "symbol": "MXN",
+      "num": "484",
+      "currency": "Mexican peso",
+      "locationsListedForThisCurrency": "Mexico"
+   },
+   {
+      "symbol": "MXV",
+      "num": "979",
+      "currency": "Mexican Unidad de Inversion (UDI) (funds code)",
+      "locationsListedForThisCurrency": "Mexico"
+   },
+   {
+      "symbol": "MYR",
+      "num": "458",
+      "currency": "Malaysian ringgit",
+      "locationsListedForThisCurrency": "Malaysia"
+   },
+   {
+      "symbol": "MZN",
+      "num": "943",
+      "currency": "Mozambican metical",
+      "locationsListedForThisCurrency": "Mozambique"
+   },
+   {
+      "symbol": "NAD",
+      "num": "516",
+      "currency": "Namibian dollar",
+      "locationsListedForThisCurrency": "Namibia (pegged to ZAR 1:1)"
+   },
+   {
+      "symbol": "NGN",
+      "num": "566",
+      "currency": "Nigerian naira",
+      "locationsListedForThisCurrency": "Nigeria"
+   },
+   {
+      "symbol": "NIO",
+      "num": "558",
+      "currency": "Nicaraguan córdoba",
+      "locationsListedForThisCurrency": "Nicaragua"
+   },
+   {
+      "symbol": "NOK",
+      "num": "578",
+      "currency": "Norwegian krone",
+      "locationsListedForThisCurrency": "Norway,  Svalbard and  Jan Mayen (SJ),  Bouvet Island (BV)"
+   },
+   {
+      "symbol": "NPR",
+      "num": "524",
+      "currency": "Nepalese rupee",
+      "locationsListedForThisCurrency": "Nepal"
+   },
+   {
+      "symbol": "NZD",
+      "num": "554",
+      "currency": "New Zealand dollar",
+      "locationsListedForThisCurrency": "New Zealand,  Cook Islands (CK),  Niue (NU),  Pitcairn Islands (PN; see also Pitcairn Islands dollar),  Tokelau (TK)"
+   },
+   {
+      "symbol": "OMR",
+      "num": "512",
+      "currency": "Omani rial",
+      "locationsListedForThisCurrency": "Oman"
+   },
+   {
+      "symbol": "PAB",
+      "num": "590",
+      "currency": "Panamanian balboa",
+      "locationsListedForThisCurrency": "Panama"
+   },
+   {
+      "symbol": "PEN",
+      "num": "604",
+      "currency": "Peruvian sol",
+      "locationsListedForThisCurrency": "Peru"
+   },
+   {
+      "symbol": "PGK",
+      "num": "598",
+      "currency": "Papua New Guinean kina",
+      "locationsListedForThisCurrency": "Papua New Guinea"
+   },
+   {
+      "symbol": "PHP",
+      "num": "608",
+      "currency": "Philippine peso[11]",
+      "locationsListedForThisCurrency": "Philippines"
+   },
+   {
+      "symbol": "PKR",
+      "num": "586",
+      "currency": "Pakistani rupee",
+      "locationsListedForThisCurrency": "Pakistan"
+   },
+   {
+      "symbol": "PLN",
+      "num": "985",
+      "currency": "Polish złoty",
+      "locationsListedForThisCurrency": "Poland"
+   },
+   {
+      "symbol": "PYG",
+      "num": "600",
+      "currency": "Paraguayan guaraní",
+      "locationsListedForThisCurrency": "Paraguay"
+   },
+   {
+      "symbol": "QAR",
+      "num": "634",
+      "currency": "Qatari riyal",
+      "locationsListedForThisCurrency": "Qatar"
+   },
+   {
+      "symbol": "RON",
+      "num": "946",
+      "currency": "Romanian leu",
+      "locationsListedForThisCurrency": "Romania"
+   },
+   {
+      "symbol": "RSD",
+      "num": "941",
+      "currency": "Serbian dinar",
+      "locationsListedForThisCurrency": "Serbia"
+   },
+   {
+      "symbol": "RUB",
+      "num": "643",
+      "currency": "Russian ruble",
+      "locationsListedForThisCurrency": "Russia"
+   },
+   {
+      "symbol": "RWF",
+      "num": "646",
+      "currency": "Rwandan franc",
+      "locationsListedForThisCurrency": "Rwanda"
+   },
+   {
+      "symbol": "SAR",
+      "num": "682",
+      "currency": "Saudi riyal",
+      "locationsListedForThisCurrency": "Saudi Arabia"
+   },
+   {
+      "symbol": "SBD",
+      "num": "90",
+      "currency": "Solomon Islands dollar",
+      "locationsListedForThisCurrency": "Solomon Islands"
+   },
+   {
+      "symbol": "SCR",
+      "num": "690",
+      "currency": "Seychelles rupee",
+      "locationsListedForThisCurrency": "Seychelles"
+   },
+   {
+      "symbol": "SDG",
+      "num": "938",
+      "currency": "Sudanese pound",
+      "locationsListedForThisCurrency": "Sudan"
+   },
+   {
+      "symbol": "SEK",
+      "num": "752",
+      "currency": "Swedish krona (plural: kronor)",
+      "locationsListedForThisCurrency": "Sweden"
+   },
+   {
+      "symbol": "SGD",
+      "num": "702",
+      "currency": "Singapore dollar",
+      "locationsListedForThisCurrency": "Singapore"
+   },
+   {
+      "symbol": "SHP",
+      "num": "654",
+      "currency": "Saint Helena pound",
+      "locationsListedForThisCurrency": "Saint Helena (SH-HL),  Ascension Island (SH-AC)"
+   },
+   {
+      "symbol": "SLE",
+      "num": "925",
+      "currency": "Sierra Leonean leone (new leone)[12][13][14]",
+      "locationsListedForThisCurrency": "Sierra Leone"
+   },
+   {
+      "symbol": "SOS",
+      "num": "706",
+      "currency": "Somalian shilling",
+      "locationsListedForThisCurrency": "Somalia"
+   },
+   {
+      "symbol": "SRD",
+      "num": "968",
+      "currency": "Surinamese dollar",
+      "locationsListedForThisCurrency": "Suriname"
+   },
+   {
+      "symbol": "SSP",
+      "num": "728",
+      "currency": "South Sudanese pound",
+      "locationsListedForThisCurrency": "South Sudan"
+   },
+   {
+      "symbol": "STN",
+      "num": "930",
+      "currency": "São Tomé and Príncipe dobra",
+      "locationsListedForThisCurrency": "São Tomé and Príncipe"
+   },
+   {
+      "symbol": "SVC",
+      "num": "222",
+      "currency": "Salvadoran colón",
+      "locationsListedForThisCurrency": "El Salvador"
+   },
+   {
+      "symbol": "SYP",
+      "num": "760",
+      "currency": "Syrian pound",
+      "locationsListedForThisCurrency": "Syria"
+   },
+   {
+      "symbol": "SZL",
+      "num": "748",
+      "currency": "Swazi lilangeni",
+      "locationsListedForThisCurrency": "Eswatini[11]"
+   },
+   {
+      "symbol": "THB",
+      "num": "764",
+      "currency": "Thai baht",
+      "locationsListedForThisCurrency": "Thailand"
+   },
+   {
+      "symbol": "TJS",
+      "num": "972",
+      "currency": "Tajikistani somoni",
+      "locationsListedForThisCurrency": "Tajikistan"
+   },
+   {
+      "symbol": "TMT",
+      "num": "934",
+      "currency": "Turkmenistan manat",
+      "locationsListedForThisCurrency": "Turkmenistan"
+   },
+   {
+      "symbol": "TND",
+      "num": "788",
+      "currency": "Tunisian dinar",
+      "locationsListedForThisCurrency": "Tunisia"
+   },
+   {
+      "symbol": "TOP",
+      "num": "776",
+      "currency": "Tongan paʻanga",
+      "locationsListedForThisCurrency": "Tonga"
+   },
+   {
+      "symbol": "TRY",
+      "num": "949",
+      "currency": "Turkish lira",
+      "locationsListedForThisCurrency": "Turkey Syria"
+   },
+   {
+      "symbol": "TTD",
+      "num": "780",
+      "currency": "Trinidad and Tobago dollar",
+      "locationsListedForThisCurrency": "Trinidad and Tobago"
+   },
+   {
+      "symbol": "TWD",
+      "num": "901",
+      "currency": "New Taiwan dollar",
+      "locationsListedForThisCurrency": "Taiwan"
+   },
+   {
+      "symbol": "TZS",
+      "num": "834",
+      "currency": "Tanzanian shilling",
+      "locationsListedForThisCurrency": "Tanzania"
+   },
+   {
+      "symbol": "UAH",
+      "num": "980",
+      "currency": "Ukrainian hryvnia",
+      "locationsListedForThisCurrency": "Ukraine"
+   },
+   {
+      "symbol": "UGX",
+      "num": "800",
+      "currency": "Ugandan shilling",
+      "locationsListedForThisCurrency": "Uganda"
+   },
+   {
+      "symbol": "USD",
+      "num": "840",
+      "currency": "United States dollar",
+      "locationsListedForThisCurrency": "United States,  American Samoa (AS),  British Indian Ocean Territory (IO) (also uses GBP),  British Virgin Islands (VG),  Bonaire, Sint Eustatius and Saba (BQ - Caribbean Netherlands),  Ecuador (EC),  El Salvador (SV),  Guam (GU),  Marshall Islands (MH),  Federated States of Micronesia (FM),  Northern Mariana Islands (MP),  Palau (PW),  Panama (PA) (as well as Panamanian Balboa),  Puerto Rico (PR),  Timor-Leste (TL),  Turks and Caicos Islands (TC),  U.S. Virgin Islands (VI),  United States Minor Outlying Islands (UM)"
+   },
+   {
+      "symbol": "USN",
+      "num": "997",
+      "currency": "United States dollar (next day) (funds code)",
+      "locationsListedForThisCurrency": "United States"
+   },
+   {
+      "symbol": "UYI",
+      "num": "940",
+      "currency": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
+      "locationsListedForThisCurrency": "Uruguay"
+   },
+   {
+      "symbol": "UYU",
+      "num": "858",
+      "currency": "Uruguayan peso",
+      "locationsListedForThisCurrency": "Uruguay"
+   },
+   {
+      "symbol": "UYW",
+      "num": "927",
+      "currency": "Unidad previsional[16]",
+      "locationsListedForThisCurrency": "Uruguay"
+   },
+   {
+      "symbol": "UZS",
+      "num": "860",
+      "currency": "Uzbekistani sum",
+      "locationsListedForThisCurrency": "Uzbekistan"
+   },
+   {
+      "symbol": "VED",
+      "num": "926",
+      "currency": "Venezuelan digital bolívar[17]",
+      "locationsListedForThisCurrency": "Venezuela"
+   },
+   {
+      "symbol": "VES",
+      "num": "928",
+      "currency": "Venezuelan sovereign bolívar[11]",
+      "locationsListedForThisCurrency": "Venezuela"
+   },
+   {
+      "symbol": "VND",
+      "num": "704",
+      "currency": "Vietnamese đồng",
+      "locationsListedForThisCurrency": "Vietnam"
+   },
+   {
+      "symbol": "VUV",
+      "num": "548",
+      "currency": "Vanuatu vatu",
+      "locationsListedForThisCurrency": "Vanuatu"
+   },
+   {
+      "symbol": "WST",
+      "num": "882",
+      "currency": "Samoan tala",
+      "locationsListedForThisCurrency": "Samoa"
+   },
+   {
+      "symbol": "XAF",
+      "num": "950",
+      "currency": "CFA franc BEAC",
+      "locationsListedForThisCurrency": "Cameroon (CM),  Central African Republic (CF),  Republic of the Congo (CG),  Chad (TD),  Equatorial Guinea (GQ),  Gabon (GA)"
+   },
+   {
+      "symbol": "XAG",
+      "num": "961",
+      "currency": "Silver (one troy ounce)"
+   },
+   {
+      "symbol": "XAU",
+      "num": "959",
+      "currency": "Gold (one troy ounce)"
+   },
+   {
+      "symbol": "XBA",
+      "num": "955",
+      "currency": "European Composite Unit (EURCO) (bond market unit)"
+   },
+   {
+      "symbol": "XBB",
+      "num": "956",
+      "currency": "European Monetary Unit (E.M.U.-6) (bond market unit)"
+   },
+   {
+      "symbol": "XBC",
+      "num": "957",
+      "currency": "European Unit of Account 9 (E.U.A.-9) (bond market unit)"
+   },
+   {
+      "symbol": "XBD",
+      "num": "958",
+      "currency": "European Unit of Account 17 (E.U.A.-17) (bond market unit)"
+   },
+   {
+      "symbol": "XCD",
+      "num": "951",
+      "currency": "East Caribbean dollar",
+      "locationsListedForThisCurrency": "Anguilla (AI),  Antigua and Barbuda (AG),  Dominica (DM),  Grenada (GD),  Montserrat (MS),  Saint Kitts and Nevis (KN),  Saint Lucia (LC),  Saint Vincent and the Grenadines (VC)"
+   },
+   {
+      "symbol": "XDR",
+      "num": "960",
+      "currency": "Special drawing rights",
+      "locationsListedForThisCurrency": "International Monetary Fund"
+   },
+   {
+      "symbol": "XOF",
+      "num": "952",
+      "currency": "CFA franc BCEAO",
+      "locationsListedForThisCurrency": "Benin (BJ),  Burkina Faso (BF),  Côte d'Ivoire (CI),  Guinea-Bissau (GW),  Mali (ML),  Niger (NE),  Senegal (SN),  Togo (TG)"
+   },
+   {
+      "symbol": "XPD",
+      "num": "964",
+      "currency": "Palladium (one troy ounce)"
+   },
+   {
+      "symbol": "XPF",
+      "num": "953",
+      "currency": "CFP franc (franc Pacifique)",
+      "locationsListedForThisCurrency": "French territories of the Pacific Ocean:  French Polynesia (PF),  New Caledonia (NC),  Wallis and Futuna (WF)"
+   },
+   {
+      "symbol": "XPT",
+      "num": "962",
+      "currency": "Platinum (one troy ounce)"
+   },
+   {
+      "symbol": "XSU",
+      "num": "994",
+      "currency": "SUCRE",
+      "locationsListedForThisCurrency": "Unified System for Regional Compensation (SUCRE)[18]"
+   },
+   {
+      "symbol": "XTS",
+      "num": "963",
+      "currency": "Code reserved for testing"
+   },
+   {
+      "symbol": "XUA",
+      "num": "965",
+      "currency": "ADB Unit of Account",
+      "locationsListedForThisCurrency": "African Development Bank[19]"
+   },
+   {
+      "symbol": "XXX",
+      "num": "999",
+      "currency": "No currency"
+   },
+   {
+      "symbol": "YER",
+      "num": "886",
+      "currency": "Yemeni rial",
+      "locationsListedForThisCurrency": "Yemen"
+   },
+   {
+      "symbol": "ZAR",
+      "num": "710",
+      "currency": "South African rand",
+      "locationsListedForThisCurrency": "Eswatini,  Lesotho,  Namibia,  South Africa"
+   },
+   {
+      "symbol": "ZMW",
+      "num": "967",
+      "currency": "Zambian kwacha",
+      "locationsListedForThisCurrency": "Zambia"
+   },
+   {
+      "symbol": "ZWG",
+      "num": "924",
+      "currency": "Zimbabwe Gold",
+      "locationsListedForThisCurrency": "Zimbabwe[20]"
+   }
+]

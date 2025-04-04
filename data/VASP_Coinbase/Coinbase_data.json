@@ -1,0 +1,423 @@
+{
+   "vaspId": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+   "commonName": "Coinbase",
+   "url": "https://www.coinbase.com/",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": false,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "06/01/2012",
+   "isCustodial": true,
+   "profile": "EinarasUS",
+   "isReported": true,
+   "vaspType": [
+      {
+         "vaspTypeId": "efe9310e-f59e-4dd1-9385-b694ead1c363",
+         "type": "Exchange"
+      },
+      {
+         "vaspTypeId": "dcf35e6d-1e38-4cd2-9f07-2b093f69eaac",
+         "type": "Payment Provider"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "d986810c-2044-4b08-b75d-ca4b893e26ba",
+         "type": "Legal",
+         "name": "Coinbase Global, Inc.",
+         "country": "USA"
+      },
+      {
+         "nameId": "c8cffbf9-9246-4cce-8088-1c3cf97d0c05",
+         "type": "Legal",
+         "name": "Coinbase Financial Services Europe Ltd.",
+         "country": "DEU"
+      },
+      {
+         "nameId": "8988d53e-83bb-4122-b72b-8b2796e04782",
+         "type": "Legal",
+         "name": "Coinbase Germany GmbH",
+         "country": "DEU"
+      },
+      {
+         "nameId": "d558d42d-8c3f-4dc2-9a68-0c8bd0a1ae5a",
+         "type": "Legal",
+         "name": "Coinbase Europe Limited",
+         "country": "IRL"
+      },
+      {
+         "nameId": "25e98138-2f13-4cce-9bec-2713459c6cd7",
+         "type": "Legal",
+         "name": "Coinbase Custody International Limited",
+         "country": "IRL"
+      },
+      {
+         "nameId": "9ee610ce-d87e-49c2-844c-b8ca7be8216e",
+         "type": "Legal",
+         "name": "CB Payments Ltd",
+         "country": "GBR"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "eeaf706b-9558-4461-879e-812169171648",
+         "country": "CUB",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "e8acbf47-ff24-4ae7-bd9f-7845a282d253",
+         "country": "PRK",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "ff66585f-a7c7-4210-bc32-07b9ca349358",
+         "country": "SYR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "ac1ce61f-bcd5-4e48-9174-022403d16da1",
+         "country": "IRN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "c239abae-ed41-433f-846d-281f0e64c479",
+         "country": "RUS",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Comprehensive"
+      },
+      {
+         "countryRelId": "371d18b2-19b0-4207-810e-c9e9b0eb7475",
+         "country": "AFG",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "fb09626d-862b-4878-938b-2aa9f99cf6cf",
+         "country": "CAF",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "b9ecef06-de86-4985-ab7a-c688572424fa",
+         "country": "IRQ",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "d0c11066-1136-4a90-bc53-136bdc931bdc",
+         "country": "NIC",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "bc1278d0-67f2-4f44-a715-1a3160db8994",
+         "country": "VEN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "ba15d9c4-8a06-4844-a4f6-b8aa57f86069",
+         "country": "COD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "8ded5bbb-361e-4c7b-a0b2-78aecb997fbd",
+         "country": "LBN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "0369104b-2707-4f06-90e4-f87a8ab3019a",
+         "country": "SOM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "b6b0849b-f2b8-4f5f-900d-23b2b65fc25d",
+         "country": "YEM",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "18a657b2-8bf7-4a55-aee1-f89361193ba1",
+         "country": "BLR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "62f0eeca-863b-46c3-b4f6-5e20969cbd65",
+         "country": "ETH",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "822232ac-18ad-48f3-9643-6387e198342f",
+         "country": "LBY",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "dff0f6ec-06e3-4e3a-a87f-6f4399ce9f6e",
+         "country": "SSD",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "c30ad123-20bb-45ae-8142-d8ecaa7657da",
+         "country": "MMR",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Black List"
+      },
+      {
+         "countryRelId": "a86cdc6b-6923-480b-a160-b34e68250985",
+         "country": "HKG",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      },
+      {
+         "countryRelId": "dd8338ba-7c03-4472-9f9f-610790354f67",
+         "country": "MLI",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "Grey List"
+      },
+      {
+         "countryRelId": "2ac9afa6-106e-4431-94ab-1e9b08dd8ebd",
+         "country": "SDN",
+         "type": "Prohibits Citizens of",
+         "calculateSanctionByCountry": "OFAC-Selective"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "025f9bdf-1b2d-4fd7-ae11-e1d408df3901",
+         "createdDate": "12/16/2024",
+         "customerInfo": "email address && phone number && country && last 4 of ssn",
+         "requires2fa": false,
+         "legalNameRequired": false,
+         "dobRequired": false,
+         "addressRequired": false,
+         "ssn_tinRequired": true,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": false,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": false,
+         "transactionLimitsExist": true,
+         "amountLimit": 25000,
+         "currency": "USD",
+         "limitFrequency": "Day",
+         "internalNotes": "need debit or ABA account"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "bfe4d13b-959d-432e-80f1-d6a0b5b06c8c",
+         "paymentMethod": "Debit Card",
+         "isAmountRestricted": true,
+         "jurisdiction": "USA",
+         "account": []
+      },
+      {
+         "paymentMethodId": "00437283-68b4-4ff1-8370-f8906a580b7b",
+         "paymentMethod": "PayPal",
+         "isAmountRestricted": true,
+         "jurisdiction": "USA",
+         "account": []
+      },
+      {
+         "paymentMethodId": "d583bf47-fa74-4210-b71e-702e16ef4097",
+         "paymentMethod": "Wire Transfer",
+         "isAmountRestricted": false,
+         "jurisdiction": "USA",
+         "account": [
+            {
+               "accountId": "6033362d-16a1-48b9-afa6-572058b248b7",
+               "number": "343706944992",
+               "routingType": "ABA",
+               "localRouting": "021214891",
+               "bank": "b3b9f701-f37a-4390-af3b-8700a3fe6231",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "USA"
+            },
+            {
+               "accountId": "6033362d-16a1-48b9-afa6-572058b248b7",
+               "number": "343706944992",
+               "routingType": "ABA",
+               "localRouting": "021214891",
+               "bank": "b3b9f701-f37a-4390-af3b-8700a3fe6231",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "USA"
+            },
+            {
+               "accountId": "6d7457dc-0329-47bf-9a36-12dd9ebd4250",
+               "number": "300654374697",
+               "routingType": "ABA",
+               "localRouting": "021214891",
+               "bank": "b3b9f701-f37a-4390-af3b-8700a3fe6231",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "USA"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "0ec051ac-526b-4d8c-b2d3-422c065ab867",
+         "paymentMethod": "SEPA Transfer",
+         "jurisdiction": "EST",
+         "account": [
+            {
+               "accountId": "72e5ed23-e2b4-405f-ab25-cfde63dc43a1",
+               "number": "7777000037987378",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE427777000037987378",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "EST"
+            },
+            {
+               "accountId": "a796f97f-0f33-4287-8b6a-1e0f3f7f5bce",
+               "number": "7700771001355096",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE957700771001355096",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "EST"
+            },
+            {
+               "accountId": "8dd0e364-f819-48d5-8a9f-c64616da6c49",
+               "number": "7700771003914626",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE477700771003914626",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "EST"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "c56e61bc-24dc-4988-90ed-c0bcfd8c365f",
+         "paymentMethod": "Giftcard",
+         "isAmountRestricted": true,
+         "jurisdiction": "USA",
+         "account": []
+      },
+      {
+         "paymentMethodId": "aa18309a-9150-4f87-ba51-6a94c33ef393",
+         "paymentMethod": "SEPA Transfer",
+         "jurisdiction": "DEU",
+         "account": [
+            {
+               "accountId": "54270c08-94ae-41ca-b528-ae50724b3e52",
+               "number": "202208000053190733",
+               "bic": "SXPYDEHHXXX",
+               "iban": "DE36202208000053190733",
+               "routingType": "IBAN",
+               "bank": "576b5dcb-b0ba-4085-bf1d-b0adf6bedc79",
+               "bankRole": "Custodian",
+               "vasp": "7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5",
+               "country": "DEU"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "837315d7-468f-4b95-891c-1a6e31186033",
+         "paymentMethod": "Linked Bank Account",
+         "isAmountRestricted": true,
+         "jurisdiction": "USA",
+         "account": []
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [
+      {
+         "regulationId": "fadf2f5d-6b8a-43be-94c2-e7c79b3e5f55",
+         "regulator": "c14d0153-dee9-4190-9b60-a0d513f469a5",
+         "number": "10156856",
+         "printscreen": "Screenshot 2024-12-04 113938.png",
+         "startDate": "10/18/2019"
+      },
+      {
+         "regulationId": "3200df48-fcff-4668-8e2d-2c3e9e66acf6",
+         "regulator": "c14d0153-dee9-4190-9b60-a0d513f469a5",
+         "number": "10158674",
+         "printscreen": "Screenshot 2024-12-04 114335.png",
+         "startDate": "06/28/2021"
+      },
+      {
+         "regulationId": "48dbb4b9-5c0a-4488-a533-993bee7f68f8",
+         "regulator": "06fb7436-a6cf-4aec-a1e5-0db15c2bb4a6",
+         "number": "R190530",
+         "printscreen": "Screenshot 2024-12-18 181849.png"
+      },
+      {
+         "regulationId": "c19fed7e-17ab-4589-ac07-b880f6c24ddc",
+         "regulator": "06fb7436-a6cf-4aec-a1e5-0db15c2bb4a6",
+         "number": "R190529",
+         "printscreen": "Screenshot 2024-12-18 181849.png"
+      },
+      {
+         "regulationId": "9152e368-46c5-4865-9f62-efa73b3a0962",
+         "regulator": "012f53d0-1c0d-4b07-89fd-8f18adc346cb",
+         "number": "C455715",
+         "printscreen": "Screenshot 2024-12-18 182356.png",
+         "startDate": "12/20/2022"
+      },
+      {
+         "regulationId": "b4023801-fc03-453b-b0ea-89e3f8245998",
+         "regulator": "012f53d0-1c0d-4b07-89fd-8f18adc346cb",
+         "number": "C188493",
+         "printscreen": "Screenshot 2024-12-18 182224.png",
+         "startDate": "10/09/2019"
+      },
+      {
+         "regulationId": "c4f7b04c-ac59-42d1-9e83-00d5e5828e6b",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "09708629",
+         "printscreen": "Screenshot 2024-12-18 182607.png",
+         "startDate": "07/12/2018"
+      },
+      {
+         "regulationId": "db784fc4-5131-47cb-b611-c3c11f13b4fe",
+         "regulator": "ffffba06-1420-46f6-9d19-c84fbb977450",
+         "number": "PSV34",
+         "printscreen": "Screenshot 2024-12-18 182952.png",
+         "startDate": "07/05/2022"
+      },
+      {
+         "regulationId": "bc27d461-b12b-4e04-8a0f-37ce5f2e1c2a",
+         "regulator": "ffffba06-1420-46f6-9d19-c84fbb977450",
+         "number": "PSV33",
+         "printscreen": "Screenshot 2024-12-18 183025.png",
+         "startDate": "07/05/2022"
+      },
+      {
+         "regulationId": "9194d053-5331-4916-83e5-25ced4739377",
+         "regulator": "d5f0a01d-8f0d-4db0-8d37-01c86106aca2",
+         "number": "306075639",
+         "printscreen": "Screenshot 2025-01-17 151218.png",
+         "startDate": "07/12/2018"
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "Coinbase"
+}

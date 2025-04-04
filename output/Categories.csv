@@ -1,0 +1,58 @@
+Vasp_Type_ID,VASP_ID,VASP_Name,Category
+a36995f7-01ae-4eb8-bf44-90c76aed5a02,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,DeFi Exchange
+0cba5c20-6deb-4cad-8197-ac7a630ee193,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Bridge
+21d588c5-b231-4231-9ee5-d66ed4b90720,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,NFT Vendor
+a6aca88c-8cb7-404d-841d-9bb79f0d615d,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Credit Card Provider
+bde3e827-dd58-406e-9ca5-00b1c64b54cf,ad9b4a8f-f758-43a9-8513-62f4411c6a3b,Ark Finance,Payment Provider
+b11099fd-4702-48a6-8566-892f208f5333,4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,Exchange
+ed36fd24-7cc6-4a9b-a7c8-57b73b5b3bce,4abb7ef9-49bb-4adf-8c05-7364333e3260,Binance,NFT Vendor
+64b52351-b58c-4d55-ae4e-3ea29ae7fb43,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Exchange
+d3194ede-9023-4fe0-b11e-66b6c52aa9cb,e2140447-6250-46e5-828a-2068bccc374d,Bitget,NFT Vendor
+308b1305-129c-45ae-b30f-df6cc5163050,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Credit Card Provider
+f7c0fb63-5f98-47df-82ec-657e23fee505,e2140447-6250-46e5-828a-2068bccc374d,Bitget,Wallet
+19a8621d-8707-4235-a908-53420821ad46,e2140447-6250-46e5-828a-2068bccc374d,Bitget,DeFi
+dec9177f-67a2-49b6-918c-874343a2d6b1,fd6f4ad2-11d9-453d-a308-21bf1326e691,Bitstamp,Exchange
+479f8983-f33d-40eb-86f4-e7a0a87e349a,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,Exchange
+8d4004bd-3547-4015-9816-688d3cdb9c3c,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,Credit Card Provider
+8881c44c-fb08-4575-b93e-962a651353c4,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,NFT Vendor
+80711211-6ded-4e4a-a189-4c478413714a,1d6e284c-1d54-43b9-b1c9-d52df1cf2bbd,Bybit,DeFi Exchange
+e0f04744-b271-485a-a278-b0a1e2a18ade,39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,Exchange
+3f0e8b08-a3ad-4037-b599-cb20fcee76b5,39cf9de0-6de7-4d58-a85a-7eeccc96f77b,Cex.io,Credit Card Provider
+efe9310e-f59e-4dd1-9385-b694ead1c363,7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,Exchange
+dcf35e6d-1e38-4cd2-9f07-2b093f69eaac,7d4f6e6c-fce8-4e3c-b0dd-9a860a1035b5,Coinbase,Payment Provider
+c94aa2c3-996e-44b2-80ac-f9f89d49db12,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,Exchange
+7ae34bf1-2f34-4ec4-a169-26d7822ca873,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,Credit Card Provider
+e22ef70d-8913-4396-a06b-dbd399acba1c,a002405f-8946-4133-b598-bc543510ad8a,Crypto.com,NFT Vendor
+2d327173-f7dc-4e19-aba8-8ad4f7c9cb72,3de4c409-0fa1-4b43-a0b9-b9930f7ab446,Gate.io,Exchange
+5ce4b716-f366-4879-911c-28b1bcf058c9,b359a823-691c-47c2-88d4-e071119d30ec,Gemini,Exchange
+2f73be4b-c0ff-41d6-8467-7a2f21fd04e2,b359a823-691c-47c2-88d4-e071119d30ec,Gemini,Credit Card Provider
+b86afd04-8340-40c9-8972-65d4b61919e9,a2112108-2978-4522-85a6-0a8c50344013,HTX,Exchange
+f6471e1b-d3d0-45ca-b6c8-7c497848c727,d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,Exchange
+d21da23d-31ab-4ab3-9576-4eb49dc649a2,d57617ed-fd54-461f-8b61-57cbe82fcb9d,Kraken,NFT Vendor
+76622398-0d24-461e-9fe9-46922bbc5236,95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,Exchange
+d27aa727-1e42-4bad-9533-753a9af96bb1,95814c16-b395-4610-b494-7dabb16f88f7,Kucoin,Credit Card Provider
+3165525c-38e0-4898-8f0a-3966975a272d,58e680e2-88ec-4453-b20b-c166a36e12c5,LibertyX,ATM
+6edb8bb7-0e3d-4d2d-854a-e8fdd0d7f121,ff47f5f0-49ea-49f7-8bfc-d28d8533bab5,Mercuryo,Payment Provider
+513ba783-53f2-431d-b76a-3451003622a3,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,DeFi
+f626fb8b-b214-4fed-b27d-575f58e01561,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,Wallet
+fee47d27-6153-4f7b-a594-ceb073425f52,bb1d8e77-e654-4a66-9d0e-33e4811da598,MetaMask,Credit Card Provider
+b2f14941-aa97-43bb-9a5a-3eee9c4a9562,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Exchange
+82c1dd60-6f79-497e-9fe8-c9c644ba9bfe,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Payment Provider
+ed4c0c3f-6e41-48fc-90bd-af14e1cf1ef6,61913fa7-17ef-4a90-95b0-3c625e12a37b,MoonPay,Bridge
+a28498e9-8f92-4e2b-bc63-b0cea95ba02c,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Bridge
+198a49d4-8ec5-4565-9768-9a390b5e7673,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,DeFi Exchange
+2b637321-952d-49d0-af13-85db3e2801f4,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Exchange
+1c8ac6e1-a0ad-4519-ae96-935b508c5a7a,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,NFT Vendor
+d46b8327-ca1b-44be-8186-1b4806567299,0b71a7ac-f0cc-470e-8c9f-abda86de25d7,OKX,Wallet
+80be44bc-ba3d-4646-b53d-48db8fef1d00,089d040e-b144-4f63-b784-30145874ae90,Revolut,Exchange
+e994582c-0445-433e-ad9a-5132c5826e95,089d040e-b144-4f63-b784-30145874ae90,Revolut,Payment Provider
+50a058aa-4113-4c5f-86f5-dc26faddfaac,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Exchange
+daf4e5f0-fdfc-4d3f-adb8-5588ad3bd366,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Credit Card Provider
+80e2b23c-efb1-4af3-abea-4756588ddddc,b68a8121-ef61-4ded-b035-699a263e2964,Robinhood,Wallet
+aaa0f63b-d33c-4812-98c1-fd6bdea64b30,c257bf8f-6054-49fc-b75e-73299660b2b7,SwissBorg,Exchange
+21cb6ac5-f133-4e48-a10e-3f1b32cd1c72,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Payment Provider
+4bb83b94-3a58-42b1-9d09-37c8be02a248,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Exchange
+fc953c8d-b531-4410-9785-bca00ded950c,f0c651b9-1d2b-493a-8424-305c19b297bd,Uphold,Credit Card Provider
+f67da5f5-2662-418e-9275-7a43e3764ee4,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Exchange
+6f37ca25-4d29-4968-b694-6ad5b3d8344f,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Credit Card Provider
+1adabbfe-f210-4242-b8f4-981cf7912213,d0a9ee67-8162-44c2-a787-bbee1cea78de,Wirex,Bridge

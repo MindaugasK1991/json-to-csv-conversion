@@ -1,0 +1,476 @@
+{
+   "vaspId": "c257bf8f-6054-49fc-b75e-73299660b2b7",
+   "commonName": "SwissBorg",
+   "url": "https://swissborg.com/",
+   "domiciledCountry": "CHE",
+   "hqRegion": "Europe",
+   "isSanctioned": false,
+   "directOnramp": true,
+   "indirectOnramp": false,
+   "hasOfframp": true,
+   "tradesFiat": true,
+   "tradesPrivacyCoins": true,
+   "isDecentralized": false,
+   "hasKyc": true,
+   "openedDate": "01/01/2017",
+   "isCustodial": true,
+   "amlPolicyUrl": "https://help.swissborg.com/hc/en-gb/articles/360016368433-SwissBorg-Financial-Crimes-Policies-and-procedures",
+   "isReported": true,
+   "vaspType": [
+      {
+         "vaspTypeId": "aaa0f63b-d33c-4812-98c1-fd6bdea64b30",
+         "type": "Exchange"
+      }
+   ],
+   "names": [
+      {
+         "nameId": "86f79b67-209a-45bf-9a4a-515f3a24d587",
+         "type": "Legal",
+         "name": "SwissBorg Solutions OÜ",
+         "country": "EST"
+      },
+      {
+         "nameId": "f35d0cfa-5eab-4293-97ed-409d45636e1a",
+         "type": "Legal",
+         "name": "SBorg SA",
+         "country": "SWE"
+      },
+      {
+         "nameId": "1f8caa78-21f6-41d1-814b-a91af156a6d4",
+         "type": "Legal",
+         "name": "Modulr Finance B.V.",
+         "country": "NLD"
+      }
+   ],
+   "countryRel": [
+      {
+         "countryRelId": "58ec8215-873e-41da-8324-abba8c87a2c1",
+         "country": "CHE",
+         "type": "Headquartered in"
+      },
+      {
+         "countryRelId": "de0e29af-2c83-416d-b4a2-8e86aa8f0d0f",
+         "country": "EST",
+         "type": "Offices In"
+      },
+      {
+         "countryRelId": "67341d5c-c2d4-40d0-a337-556a6c832c5f",
+         "country": "AND",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "41c00434-a56f-4bbf-a414-a7ed1fae20b1",
+         "country": "ARG",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "619a8816-9225-4d56-8af0-a671666fa09f",
+         "country": "AUT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "7790c891-3a80-4b6f-bbe7-bb2205c6e957",
+         "country": "BHS",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "c18b2c6d-cc30-4ccb-bf62-dfe1200464c0",
+         "country": "BEL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "c821606d-9324-4670-8179-2f4a0ded3d67",
+         "country": "BRA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "bc6b21de-dc08-42f8-aac2-2159ed35d95b",
+         "country": "IOT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "69c5b187-a604-432a-87ad-c8df6f3e1c40",
+         "country": "CAN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "b7315e02-78b3-45c7-a509-d4fc9d56de3e",
+         "country": "CHL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "5573cb99-5339-4a57-a5ac-4420be08ed5c",
+         "country": "COL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "480571d9-ff8c-40b3-93b0-0dcb6af16255",
+         "country": "CYP",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "269445ca-a194-4c66-9220-f6b262301546",
+         "country": "CZE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "23307fab-d345-4f96-8b8a-f3909c7279d7",
+         "country": "DNK",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "801de4d2-7374-404b-9eb1-61b4e0f759a0",
+         "country": "EST",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d1b1ca27-b3a5-45b0-afa2-f8b2e3540c70",
+         "country": "FLK",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "6672390a-456e-44d2-ba85-1673e6b36f17",
+         "country": "FIN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "f2b8e7cf-1d2e-45a5-8fd3-4de36c172d51",
+         "country": "FRA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d55d3946-7007-430c-a34f-481a6cf6bb42",
+         "country": "GUF",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "7b48f754-0770-4f99-ac43-d1b74a3c9912",
+         "country": "PYF",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "793ef5b2-a9a9-47ec-986c-1089437da7d2",
+         "country": "DEU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "44591840-eead-45e6-966e-440e2eff3143",
+         "country": "GIB",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "741bc912-b691-48a1-a3c0-04981ef14f5c",
+         "country": "GRC",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "be554fab-704f-4fd6-8bbc-3f584346e02e",
+         "country": "HUN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "e9882af2-9aa9-482f-ac26-5f2f23c6b659",
+         "country": "ISL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cca6580b-f156-4489-9169-8c0af7de94cf",
+         "country": "IND",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "4276e363-d452-4254-a930-cf50c88b639e",
+         "country": "IRL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cefdc815-ab6e-447e-8b26-b6cc1950cf27",
+         "country": "ISR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ab22930f-4516-4af1-ae6a-f48bc4891d57",
+         "country": "ITA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "13870740-e5bb-4f2d-91e9-7942f4b47e7a",
+         "country": "JPN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "481f3b6f-a104-479c-9945-8bfc8cb26700",
+         "country": "JEY",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "8887e856-39ae-4ceb-9b3d-ae043fbf05e5",
+         "country": "KAZ",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "5ffd4e5e-ea90-49ae-a631-f633f58a7ea6",
+         "country": "LVA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "a570aa36-4ff1-4723-8801-869c0d445313",
+         "country": "LIE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "76a587d8-8542-4776-93a6-81d49a15bb26",
+         "country": "LTU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "b29d4af9-dd21-43b7-a395-a75a38fcdc54",
+         "country": "LUX",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "b75beab1-2f88-4167-aaf1-f8e9fb323eae",
+         "country": "MLT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "64352f1c-dc48-49f7-9d4b-a29f110422d5",
+         "country": "MTQ",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ef25b3d6-74be-44c6-9dce-369885423135",
+         "country": "MUS",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "0e7c73a2-2e73-4ae4-873b-386562ff4c55",
+         "country": "MYT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "224aa7df-09ac-486c-a3de-cd0ff60ce4fb",
+         "country": "MEX",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cfd7b9f1-89a0-42e0-8570-84caa8981d2a",
+         "country": "MSR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d97faa28-3470-44f6-986d-21b61dd8efca",
+         "country": "NLD",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "4dee032a-66b9-4423-9fb8-155a4a0ee7d5",
+         "country": "NCL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "040aedd6-d524-4ced-92c5-f088103a91a8",
+         "country": "NOR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "e833d9d7-9c6b-4b33-9c39-936899c57182",
+         "country": "POL",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "3384c713-579a-4759-a1ec-7a8f5aefd55b",
+         "country": "PRT",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "0082ef32-9abe-4052-8ae2-a2b81520ec26",
+         "country": "ROU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "6b4ff4a5-a294-45c2-a38f-44d076b76337",
+         "country": "REU",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "65781952-f817-42cf-ab9d-e64aa87ace93",
+         "country": "BLM",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "5beea2a8-5a42-4ce9-957c-8da76167726e",
+         "country": "SHN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "759daebe-0c7c-4224-948c-90e392071fc1",
+         "country": "MAF",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "3f73cb09-fcdc-4793-aa4c-58753ead1241",
+         "country": "SPM",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "48641f25-2de3-4190-ab5f-10a496cfc849",
+         "country": "SYC",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "34e3b614-e69e-46ae-a7f2-930803eb50df",
+         "country": "SGP",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "cb136ea2-027d-4c50-aabc-f4518a1f1e2c",
+         "country": "SVK",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "3ed8fc21-e00e-4dd3-a4e7-cf4d15b75cff",
+         "country": "SVN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "c1c33148-61bd-4bcd-b710-a0feef55b60f",
+         "country": "KOR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "c2ad3f6d-b3f9-4ec5-a69d-25b791676034",
+         "country": "ESP",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ae261f85-1fa7-4a2e-988b-441c1fbcb471",
+         "country": "SWE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "4f437583-99c6-4fe7-b7de-cedf51756a16",
+         "country": "CHE",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "abdae284-8db4-4365-a8d9-9c184897f07d",
+         "country": "TWN",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d71df2ca-6ef9-4126-9c95-d7570b8bc29f",
+         "country": "THA",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "d55f7597-7888-412b-994f-849a7b47d4e7",
+         "country": "ARE",
+         "type": "Allows Citizens of",
+         "calculateSanctionByCountry": "EU High-risk"
+      },
+      {
+         "countryRelId": "ed0ecc9f-81a4-4382-ba2b-2d5c4b1c50a6",
+         "country": "GBR",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "69eb2cbc-1a88-4351-ab69-ec9b8dc36579",
+         "country": "WLF",
+         "type": "Allows Citizens of"
+      },
+      {
+         "countryRelId": "ec9e1b3d-808f-4f2e-be50-1e72fa9ef2b6",
+         "country": "ALA",
+         "type": "Allows Citizens of"
+      }
+   ],
+   "kyc": [
+      {
+         "kycId": "3a1da6a9-e8c4-49e9-8d02-21bddfd18bdd",
+         "createdDate": "01/20/2025",
+         "customerInfo": "country && phone number && legal name && DOB && Country of Citizenship && email address && address && Government ID && video",
+         "requires2fa": false,
+         "legalNameRequired": true,
+         "dobRequired": true,
+         "addressRequired": true,
+         "ssn_tinRequired": false,
+         "countryOfCitizenshipRequired": true,
+         "govtIdRequired": true,
+         "proofOfResidencyRequired": false,
+         "emailRequired": true,
+         "phoneRequired": true,
+         "selfieRequired": false,
+         "videoRequired": true,
+         "transactionLimitsExist": true,
+         "amountLimit": 50000,
+         "currency": "EUR",
+         "limitFrequency": "Account",
+         "internalNotes": "Source: terms of service https://help.swissborg.com/hc/en-gb/articles/360005856097-Account-Level-1 https://help.swissborg.com/hc/en-gb/articles/360006067858-Getting-Started"
+      }
+   ],
+   "paymentMethods": [
+      {
+         "paymentMethodId": "25fa58a9-9453-4652-93d1-a905fd768757",
+         "paymentMethod": "Bank Transfer",
+         "jurisdiction": "GBR",
+         "account": [
+            {
+               "accountId": "8046f0e1-72df-4882-94d7-f98940c53953",
+               "number": "00206091",
+               "routingType": "Sort Code",
+               "localRouting": "04-06-79",
+               "bank": "cbd49367-90f8-4380-8234-ecf9df48f672",
+               "bankRole": "Custodian",
+               "vasp": "c257bf8f-6054-49fc-b75e-73299660b2b7",
+               "country": "GBR"
+            }
+         ]
+      },
+      {
+         "paymentMethodId": "1190ce34-80f1-47e5-abdd-9c1b9b85a7fd",
+         "paymentMethod": "SEPA Transfer",
+         "jurisdiction": "EST",
+         "account": [
+            {
+               "accountId": "c0aceefc-e32f-49fb-acd0-1737d4b695a2",
+               "number": "7777000017092092",
+               "bic": "LHVBEE22XXX",
+               "iban": "EE067777000017092092",
+               "routingType": "IBAN",
+               "bank": "e70c8cfd-d51b-4117-a3f2-2fe3d16f3b0c",
+               "bankRole": "Custodian",
+               "vasp": "c257bf8f-6054-49fc-b75e-73299660b2b7",
+               "country": "EST"
+            }
+         ]
+      }
+   ],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [
+      {
+         "regulationId": "01002e5a-f330-408d-95ee-8dfe995b70d9",
+         "regulator": "5467d8b1-4ee0-41b8-99f3-08d25afe5206",
+         "number": "FVT000326",
+         "printscreen": "Screenshot 2024-12-11 193245.png",
+         "startDate": "09/05/2023"
+      },
+      {
+         "regulationId": "95383947-74b6-44a1-a3f5-45e577db3ce5",
+         "regulator": "9d4895d3-7d75-44b2-8c4f-5b01e99fb413",
+         "number": "E2022-034",
+         "printscreen": "Screenshot 2024-12-11 194552.png",
+         "startDate": "04/12/2022"
+      },
+      {
+         "regulationId": "74f375de-871e-4d0d-af99-bfa403610c69",
+         "regulator": "06fb7436-a6cf-4aec-a1e5-0db15c2bb4a6",
+         "number": "R182870",
+         "printscreen": "Screenshot 2024-12-11 195057.png"
+      }
+   ],
+   "vaspSanction": [],
+   "onChain": "SwissBorg"
+}

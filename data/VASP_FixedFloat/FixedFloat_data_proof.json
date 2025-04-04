@@ -1,0 +1,41 @@
+{
+   "vaspId": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "commonName": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "url": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "isSanctioned": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "isReported": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   },
+   "vaspType": [],
+   "names": [],
+   "countryRel": [],
+   "kyc": [],
+   "paymentMethods": [],
+   "billingDescriptor": [],
+   "tradingPairs": [],
+   "regulations": [],
+   "vaspSanction": [],
+   "onChain": {
+      "screenshots": [],
+      "pdfs": [],
+      "urls": []
+   }
+}
